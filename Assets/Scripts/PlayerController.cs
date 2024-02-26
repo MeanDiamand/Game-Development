@@ -52,7 +52,7 @@ public class PlayerController : MonoBehaviour
     {
         isMoving = true;
         while((targetPosition - transform.position).sqrMagnitude > Mathf.Epsilon)
-        {                                            //current position   destination           movement      
+        {                                           //current position     destination           movement      
             transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
             yield return null;
         }
