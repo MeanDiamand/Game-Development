@@ -18,7 +18,14 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        if(!isMoving)
+        MouseLook();
+
+        if(Input.GetMouseButtonDown(0))
+        {
+            SwordAttack();
+        }
+
+        if (!isMoving)
         {
             //GetAxisRaw() is function of UnityEngine library for getting the raw input from the user.
             input.x = Input.GetAxisRaw("Horizontal"); 
@@ -46,6 +53,18 @@ public class PlayerController : MonoBehaviour
             }
         }
         animator.SetBool("isMoving", isMoving);
+    }
+
+    private void MouseLook()
+    {
+        Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        animator.SetFloat("moveX", direction.x);
+        animator.SetFloat("moveY", direction.y);
+    }
+
+    private void SwordAttack()
+    {
+        animator.SetTrigger("SwordAttack");
     }
 
     IEnumerator Move(Vector3 targetPosition)
