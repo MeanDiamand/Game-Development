@@ -21,6 +21,15 @@ public class UIInventory : MonoBehaviour
         }
     }
 
+    public void UpdateData(int itemIndex,
+            Sprite itemImage, int itemQuantity)
+    {
+        if (inventorySlots.Count > itemIndex)
+        {
+            inventorySlots[itemIndex].SetData(itemImage, itemQuantity);
+        }
+    }
+
     public void Show()
     {
         gameObject.SetActive(true);

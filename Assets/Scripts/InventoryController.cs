@@ -6,18 +6,28 @@ public class InventoryController : MonoBehaviour
 {
     [SerializeField]
     private UIInventory inventoryUI;
-    int inventorySize = 10;
+    [SerializeField]
+    private Inventory inventoryModel;
     private void Start()
     {
-        inventoryUI.Initialize(inventorySize);
+        inventoryUI.Initialize(inventoryModel.Size);
+        inventoryModel.Initialize();
     }
 
     public void Update()
     {
         if (Input.GetKeyDown(KeyCode.I))
         {
-            if (!inventoryUI.isActiveAndEnabled) 
+            if (!inventoryUI.isActiveAndEnabled)
+            {
                 inventoryUI.Show();
+                foreach (var item in inventoryModel.GetCurrentInventoryState())
+                {
+                    inventoryUI.UpdateData(item.index,
+                            item.item.ItemIcon,
+                            item.quantity);
+                }
+            }
             else
                 inventoryUI.Hide();
         }
