@@ -6,8 +6,12 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
     private bool isMoving;
+
     private Vector2 input;
     private Animator animator;
+
+    public Transform attackPoint;
+    public float attackRange = 0.5f;
 
     //specify the layer use with physic
     public LayerMask solidObjectsLayer;
@@ -21,14 +25,19 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        if(!isMoving)
+        MouseLook();
+
+        if(Input.GetMouseButtonDown(0))
+        {
+            SwordAttack();
+        }
+
+        if (!isMoving)
         {
             //GetAxisRaw() is function of UnityEngine library for getting the raw input from the user.
             input.x = Input.GetAxisRaw("Horizontal"); 
             input.y = Input.GetAxisRaw("Vertical");
 
-            Debug.Log("This is input.x" + input.x);
-            Debug.Log("This is input.y" + input.y);
 
             if(input.x != 0) //if moving to left/right, then the character will not move up/down
             {
@@ -52,6 +61,41 @@ public class PlayerController : MonoBehaviour
             }
         }
         animator.SetBool("isMoving", isMoving);
+    }
+
+    private void MouseLook()
+    {
+        Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector2 direction = mousePosition - (Vector2)transform.position;
+        animator.SetFloat("moveX", direction.x);
+        animator.SetFloat("moveY", direction.y);
+
+        // Calculate a position offset from the character's position in the direction of the mouse
+        Vector2 attackPointOffset = direction.normalized * 2f; // Adjust the multiplier to set the distance from the character
+        attackPoint.position = (Vector2)transform.position + attackPointOffset;
+    }
+
+
+    private void SwordAttack()
+    {
+        animator.SetTrigger("SwordAttack");
+        
+        
+
+        foreach (Collider2D enemy in Physics2D.OverlapCircleAll(attackPoint.position, attackRange))
+        {
+            Debug.Log("We hit " + enemy.name);
+        }
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        if(attackPoint == null)
+        {
+            return;
+        }
+
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 
     IEnumerator Move(Vector3 targetPosition)
