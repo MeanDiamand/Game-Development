@@ -13,6 +13,9 @@ public class PlayerController : MonoBehaviour
     public Transform attackPoint;
     public float attackRange = 0.5f;
 
+    //specify the layer use with physic
+    public LayerMask solidObjectsLayer;
+
     //called with the script is being loaded
     private void Awake()
     {
@@ -51,7 +54,10 @@ public class PlayerController : MonoBehaviour
                 targetPosition.x += input.x;
                 targetPosition.y += input.y;
 
-                StartCoroutine(Move(targetPosition)); //running constantly in the game
+                if (IsWalkable(targetPosition))
+                {
+                    StartCoroutine(Move(targetPosition)); //running constantly in the game
+                }
             }
         }
         animator.SetBool("isMoving", isMoving);
@@ -103,5 +109,14 @@ public class PlayerController : MonoBehaviour
         transform.position = targetPosition;
 
         isMoving = false;
+    }
+
+    private bool IsWalkable(Vector3 targetPosition) 
+    {
+        if(Physics2D.OverlapCircle(targetPosition, 0.6f, solidObjectsLayer) != null)
+        {
+            return false;
+        }
+        return true;
     }
 }
