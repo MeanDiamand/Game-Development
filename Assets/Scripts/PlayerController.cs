@@ -43,10 +43,6 @@ public class PlayerController : MonoBehaviour
 
             if(input!=Vector2.zero)
             {
-                //make the moveX/moveY input equal to that input for X/Y
-                animator.SetFloat("moveX", input.x);
-                animator.SetFloat("moveY", input.y);
-
                 var targetPosition = transform.position;
                 targetPosition.x += input.x;
                 targetPosition.y += input.y;
