@@ -35,24 +35,27 @@ public class PlayerController : MonoBehaviour
 
     public void FixedUpdate()
     {
-
         MouseLook();
-
-        // Try to move player in input direction, followed by left right and up down input if failed
-        bool hasMoved = Move(input);
-        
-        if (!hasMoved)
+        if (input  != Vector2.zero)
         {
-            // Try Left / Right
-            hasMoved = Move(new Vector2(input.x, 0));
+            // Try to move player in input direction, followed by left right and up down input if failed
+            bool hasMoved = Move(input);
 
             if (!hasMoved)
             {
-                hasMoved = Move(new Vector2(0, input.y));
-            }
-        }
-        
+                // Try Left / Right
+                hasMoved = Move(new Vector2(input.x, 0));
 
+                if (!hasMoved)
+                {
+                    hasMoved = Move(new Vector2(0, input.y));
+                }
+            }
+            animator.SetBool("isMoving", hasMoved);
+        } else
+        {
+            animator.SetBool("isMoving", false);
+        }
     }
 
     // Tries to move the player in a direction by casting in that direction by the amount
