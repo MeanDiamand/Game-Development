@@ -10,14 +10,15 @@ public class InventoryController : MonoBehaviour
     private Inventory inventoryModel;
     private void Start()
     {
-        //inventoryUI.Initialize(inventoryModel.Size);
-        //inventoryModel.Initialize();
+        inventoryUI.Initialize(inventoryModel.Size);
+        inventoryModel.Initialize();
     }
 
     public void Update()
     {
         if (Input.GetKeyDown(KeyCode.I))
         {
+            Debug.Log("I pressed");
             if (!inventoryUI.isActiveAndEnabled)
             {
                 inventoryUI.Show(); 

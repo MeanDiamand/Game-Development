@@ -28,15 +28,16 @@ public class UIInventory : MonoBehaviour
     {
         for (int i = 0; i < inventorySize; i++) 
         {
-            UIInventorySlot slot = UIInventorySlot.InstantiateEmpty(contentPanel, itemPrefab);
+            UIInventorySlot slot = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
+            slot.transform.SetParent(contentPanel);
             mainInventorySlots.Add(slot);
         }
         
-        for (int i = 0; i < 4; i++)
-        {
-            UIInventorySlot slot = UIInventorySlot.InstantiateEmpty(contentPanel, itemPrefab);
-            quickAccessSlots.Add(slot);
-        }
+        //for (int i = 0; i < 4; i++)
+        //{
+            //UIInventorySlot slot = UIInventorySlot.InstantiateEmpty(contentPanel, itemPrefab);
+            //quickAccessSlots.Add(slot);
+        //}
 
         helmetSlot.SetData(def, 1);
     }
