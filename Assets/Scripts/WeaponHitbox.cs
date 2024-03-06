@@ -14,7 +14,7 @@ public class WeaponHitbox : MonoBehaviour
     public Vector3 faceLeft = new Vector3(-1.34f, 0.14f, 0);
     public Vector3 faceRight = new Vector3(0.96f, 0.16f, 0);
 
-    public float knockForce = 5000f;
+    public float knockForce = 500f;
 
     private void Start()
     {
