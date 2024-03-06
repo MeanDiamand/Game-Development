@@ -14,7 +14,7 @@ public class UIInventory : MonoBehaviour
     [SerializeField]
     private MouseFollower mouseFollower;
 
-    List<UIInventorySlot> mainInventorySlots = new List<UIInventorySlot>();
+    List<UIInventorySlot> slots = new List<UIInventorySlot>();
 
     [SerializeField]
     UIInventorySlot helmetSlot;
@@ -34,19 +34,34 @@ public class UIInventory : MonoBehaviour
 
     public void Initialize(int inventorySize)
     {
+        slots.Add(helmetSlot);
+        SlotAddListeners(helmetSlot);
+        slots.Add(chestplateSlot);
+        SlotAddListeners(chestplateSlot);
+        slots.Add(legginsSlot);
+        SlotAddListeners(legginsSlot);
+        slots.Add(bootsSlot);
+        SlotAddListeners(bootsSlot);
+        slots.Add(weaponSlot);
+        SlotAddListeners(weaponSlot);
+
         for (int i = 0; i < inventorySize; i++) 
         {
             UIInventorySlot slot = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
             slot.transform.SetParent(contentPanel);
-            mainInventorySlots.Add(slot);
-
-            slot.OnItemClicked += HandleItemSelection;
-            slot.OnItemBeginDrag += HandleBeginDrag;
-            slot.OnItemDroppedOn += HadleDropOn;
-            slot.OnItemEndDrag += HandleEndDrag;
+            slots.Add(slot);
+            SlotAddListeners(slot);
         }
 
         helmetSlot.SetData(def, 1);
+        Hide();
+    }
+    private void SlotAddListeners(UIInventorySlot slot)
+    {
+        slot.OnItemClicked += HandleItemSelection;
+        slot.OnItemBeginDrag += HandleBeginDrag;
+        slot.OnItemDroppedOn += HadleDropOn;
+        slot.OnItemEndDrag += HandleEndDrag;
     }
 
     private void Awake()
@@ -58,9 +73,9 @@ public class UIInventory : MonoBehaviour
     public void UpdateData(int itemIndex,
             Sprite itemImage, int itemQuantity)
     {
-        if (mainInventorySlots.Count > itemIndex)
+        if (slots.Count > itemIndex)
         {
-            mainInventorySlots[itemIndex].SetData(itemImage, itemQuantity);
+            slots[itemIndex].SetData(itemImage, itemQuantity);
         }
     }
 
@@ -76,7 +91,7 @@ public class UIInventory : MonoBehaviour
 
     private void HandleItemSelection(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log(inventoryItemUI.name);
+        Debug.Log("HandleItemSelection");
     }
     private void HandleBeginDrag(UIInventorySlot inventoryItemUI)
     {

@@ -15,7 +15,7 @@ public class Inventory : ScriptableObject
     public void Initialize()
     {
         slots = new List<InventorySlot>();
-        for (int i = 0; i < Size; i++)
+        for (int i = 0; i < Size + 5; i++)
         {
             slots.Add(InventorySlot.GetEmpty(i));
         }
