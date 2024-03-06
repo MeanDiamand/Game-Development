@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -31,6 +32,14 @@ public class UIInventory : MonoBehaviour
 
     [SerializeField]
     private Sprite def;
+
+    public event Action<int> OnDescriptionRequested,
+                OnItemActionRequested,
+                OnStartDragging;
+
+    public event Action<int, int> OnSwapItems;
+
+    private int currentlyDraggedItemIndex = -1;
 
     public void Initialize(int inventorySize)
     {
@@ -95,13 +104,26 @@ public class UIInventory : MonoBehaviour
     }
     private void HandleBeginDrag(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log("HandleBeginDrag");
         mouseFollower.Toggle(true);
         mouseFollower.SetData(def, 2);
+
+        int index = slots.IndexOf(inventoryItemUI);
+        if (index == -1)
+            return;
+        currentlyDraggedItemIndex = index;
+        HandleItemSelection(inventoryItemUI);
+        OnStartDragging?.Invoke(index);
     }
     private void HadleDropOn(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log(inventoryItemUI.name);
+        Debug.Log("Drop On");
+        int index = slots.IndexOf(inventoryItemUI);
+        if (index == -1)
+        {
+            return;
+        }
+        OnSwapItems?.Invoke(currentlyDraggedItemIndex, index);
+        HandleItemSelection(inventoryItemUI);
     }
     private void HandleEndDrag(UIInventorySlot inventoryItemUI)
     {

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45bbc6dc01d9e7d4ca341a2870d78e86, type: 3}
   m_Name: Chest
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: 
-  <Weight>k__BackingField: 0
+  <Name>k__BackingField: Chest
+  <Weight>k__BackingField: 1
   <MaxStackSize>k__BackingField: 1
-  <Description>k__BackingField: 
+  <Description>k__BackingField: This is CHEST
   <ItemIcon>k__BackingField: {fileID: -1267255538682989212, guid: 00bb7b61674c3c448a40b37403579acf, type: 3}
