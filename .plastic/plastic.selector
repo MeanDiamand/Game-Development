@@ -1,0 +1,4 @@
+repository "GameDevelopment@Diamand_FULLCLIP@cloud"
+  path "/"
+    br "/main"
+    co "/main"
