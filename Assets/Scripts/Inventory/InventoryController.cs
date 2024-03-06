@@ -10,8 +10,8 @@ public class InventoryController : MonoBehaviour
     private Inventory inventoryModel;
     private void Start()
     {
-        inventoryUI.Initialize(inventoryModel.Size);
-        inventoryModel.Initialize();
+        //inventoryUI.Initialize(inventoryModel.Size);
+        //inventoryModel.Initialize();
     }
 
     public void Update()
@@ -20,7 +20,7 @@ public class InventoryController : MonoBehaviour
         {
             if (!inventoryUI.isActiveAndEnabled)
             {
-                inventoryUI.Show();
+                inventoryUI.Show(); 
                 foreach (var item in inventoryModel.GetCurrentInventoryState())
                 {
                     inventoryUI.UpdateData(item.index,

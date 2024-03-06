@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Windows;
 
 [CreateAssetMenu]
 public class Inventory : ScriptableObject
@@ -16,7 +17,7 @@ public class Inventory : ScriptableObject
         slots = new List<InventorySlot>();
         for (int i = 0; i < Size; i++)
         {
-            slots.Add(InventorySlot.GetEmpty());
+            slots.Add(InventorySlot.GetEmpty(i));
         }
     }
 
@@ -69,11 +70,19 @@ public class Inventory : ScriptableObject
         /// <summary>
         /// Shorthand for writing InventorySlot(null, 0)
         /// </summary>
-        public static InventorySlot GetEmpty()
+        public static InventorySlot GetEmpty(int i)
             => new InventorySlot
             {
                 item = null,
                 quantity = 0,
+                index = i
             };
+
+        public override string ToString()
+        {
+            if (item == null)
+                return "none";
+            return item.ToString() + " " + index;
+        }
     }
 }

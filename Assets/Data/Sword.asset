@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Sword
   <Weight>k__BackingField: 1
-  <MaxStackSize>k__BackingField: 64
+  <MaxStackSize>k__BackingField: 1
   <Description>k__BackingField: 
   <ItemIcon>k__BackingField: {fileID: 7041117386030650663, guid: 50a7ac816b0407a46b0a2a924d149aea, type: 3}

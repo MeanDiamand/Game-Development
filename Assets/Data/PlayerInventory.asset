@@ -16,31 +16,31 @@ MonoBehaviour:
   - index: 0
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 1
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 2
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 3
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 4
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 5
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 6
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 7
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 8
     quantity: 0
     item: {fileID: 0}
-  - index: 0
+  - index: 9
     quantity: 0
     item: {fileID: 0}
   <Size>k__BackingField: 10
