@@ -1,14 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using System;
 using UnityEngine.EventSystems;
-using Unity.VisualScripting;
-using UnityEngine.Windows;
 
-public class UIInventorySlot : MonoBehaviour
+public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
+        IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler
 {
     [SerializeField]
     private Image itemImage;
@@ -17,7 +14,7 @@ public class UIInventorySlot : MonoBehaviour
 
     public event Action<UIInventorySlot> OnItemClicked,
             OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag,
-            OnRightMouseBtnClick;
+            OnItemAlternativeClicked;
 
     private bool empty = true;
 
@@ -48,10 +45,11 @@ public class UIInventorySlot : MonoBehaviour
 
     public void OnPointerClick(PointerEventData pointerData)
     {
-        Debug.Log("Clicked");
+        if (empty)
+            return;
         if (pointerData.button == PointerEventData.InputButton.Right)
         {
-            OnRightMouseBtnClick?.Invoke(this);
+            OnItemAlternativeClicked?.Invoke(this);
         }
         else
         {

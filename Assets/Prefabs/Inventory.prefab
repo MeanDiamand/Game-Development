@@ -519,8 +519,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8176877380664821575}
   m_HandleRect: {fileID: 5733690006861777581}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 1
+  m_Value: 1
+  m_Size: 0
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1975,6 +1975,14 @@ PrefabInstance:
     - target: {fileID: 365727589272444146, guid: bc1fc6a2a4a2625489e4dbb57e0a5c27, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2604690581468312921, guid: bc1fc6a2a4a2625489e4dbb57e0a5c27, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7041117386030650663, guid: 50a7ac816b0407a46b0a2a924d149aea, type: 3}
+    - target: {fileID: 2898391486859687178, guid: bc1fc6a2a4a2625489e4dbb57e0a5c27, type: 3}
+      propertyPath: m_text
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9215490730143817027, guid: bc1fc6a2a4a2625489e4dbb57e0a5c27, type: 3}
       propertyPath: m_Name
