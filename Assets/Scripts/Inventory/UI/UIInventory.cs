@@ -10,7 +10,10 @@ public class UIInventory : MonoBehaviour
 
     [SerializeField]
     private RectTransform contentPanel;
-    
+
+    [SerializeField]
+    private MouseFollower mouseFollower;
+
     List<UIInventorySlot> mainInventorySlots = new List<UIInventorySlot>();
 
     [SerializeField]
@@ -42,14 +45,14 @@ public class UIInventory : MonoBehaviour
             slot.OnItemDroppedOn += HadleDropOn;
             slot.OnItemEndDrag += HandleEndDrag;
         }
-        
-        //for (int i = 0; i < 4; i++)
-        //{
-            //UIInventorySlot slot = UIInventorySlot.InstantiateEmpty(contentPanel, itemPrefab);
-            //quickAccessSlots.Add(slot);
-        //}
 
         helmetSlot.SetData(def, 1);
+    }
+
+    private void Awake()
+    {
+        Hide();
+        mouseFollower.Toggle(false);
     }
 
     public void UpdateData(int itemIndex,
@@ -77,7 +80,9 @@ public class UIInventory : MonoBehaviour
     }
     private void HandleBeginDrag(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log(inventoryItemUI.name);
+        Debug.Log("HandleBeginDrag");
+        mouseFollower.Toggle(true);
+        mouseFollower.SetData(def, 2);
     }
     private void HadleDropOn(UIInventorySlot inventoryItemUI)
     {
@@ -85,6 +90,7 @@ public class UIInventory : MonoBehaviour
     }
     private void HandleEndDrag(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log(inventoryItemUI.name);
+        Debug.Log("HandleEndDrag");
+        mouseFollower.Toggle(false);
     }
 }
