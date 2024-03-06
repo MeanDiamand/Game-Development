@@ -1,3 +1,4 @@
+using Assets.Interfaces;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,6 +13,8 @@ public class WeaponHitbox : MonoBehaviour
     public Vector3 faceDown = new Vector3(-0.67f, -1.53f, 0);
     public Vector3 faceLeft = new Vector3(-1.34f, 0.14f, 0);
     public Vector3 faceRight = new Vector3(0.96f, 0.16f, 0);
+
+    public float knockForce = 5000f;
 
     private void Start()
     {
@@ -29,8 +32,20 @@ public class WeaponHitbox : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("HIT");
-       collision.SendMessage("OnHit", weaponDamage);
+        IDamagable damagable =  collision.GetComponent<IDamagable>();
+
+        if(damagable != null)
+        {
+            Vector3 parentPos = gameObject.GetComponentInParent<Transform>().position;
+            Vector2 direction = (Vector2) (collision.gameObject.transform.position - parentPos).normalized;
+            Vector2 knockback = direction * knockForce;
+
+            Debug.Log("HIT");
+            damagable.OnHit(weaponDamage, knockback);
+        } else
+        {
+            Debug.LogWarning("Collider does not implement IDamagable");
+        }
     }
 
     public void TurnLeft(bool left)

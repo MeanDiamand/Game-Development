@@ -53,24 +53,6 @@ public class PlayerController : MonoBehaviour
         if (input != Vector2.zero)
         {
             Move(input);
-
-            // Try to move player in input direction, followed by left right and up down input if failed
-            //    bool hasMoved = Move(input);
-
-            //    if (!hasMoved)
-            //    {
-            //        // Try Left / Right
-            //        hasMoved = Move(new Vector2(input.x, 0));
-
-            //        if (!hasMoved)
-            //        {
-            //            hasMoved = Move(new Vector2(0, input.y));
-            //        }
-            //    }
-            //    animator.SetBool("isMoving", hasMoved);
-            //} else
-            //{
-            //    animator.SetBool("isMoving", false);
         } else
         {
             Stop();
@@ -84,32 +66,6 @@ public class PlayerController : MonoBehaviour
     {
         rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
         IsMoving = true;
-        // Check for potential collisions
-        //int count = rb.Cast(
-        //    direction, // X and Y values between -1 and 1 that represent the direction from the body to look for collisions
-        //    contactFilter, // The settings that determine where a collision can occur on such as layers to collide with
-        //    collisions, // List of collisions to store the found collisions into after the Cast is finished
-        //    moveSpeed * Time.fixedDeltaTime + collisionOffset); // The amount to cast equal to the movement plus an offset
-
-        //if (count == 0)
-        //{
-        //    Vector2 moveVector = direction * moveSpeed * Time.fixedDeltaTime;
-
-        //    // No collisions
-        //    rb.MovePosition(rb.position + moveVector);
-            
-        //    return true;
-        //}
-        //else
-        //{
-        //    // Print collisions
-        //    foreach (RaycastHit2D item in collisions)
-        //    {
-        //        print(item.ToString());
-        //    }
-
-        //    return false;
-        //}
     }
 
     public void Stop()
