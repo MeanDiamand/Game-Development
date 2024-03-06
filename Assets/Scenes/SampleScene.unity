@@ -19236,7 +19236,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5989897540835811139, guid: 66f39043dc65f474c8c2448e5642309f, type: 3}
       propertyPath: m_LinearDrag
-      value: 50
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19264,6 +19264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _health: 3
+  _isHitable: 1
 --- !u!1 &1574358569
 GameObject:
   m_ObjectHideFlags: 0
