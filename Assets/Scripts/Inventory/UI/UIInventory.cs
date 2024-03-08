@@ -57,12 +57,13 @@ public class UIInventory : MonoBehaviour
         for (int i = 0; i < inventorySize; i++) 
         {
             UIInventorySlot slot = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
-            slot.transform.SetParent(contentPanel);
+            //slot.SetData(def, 1);
+            slot.transform.SetParent(contentPanel, false);
             slots.Add(slot);
             SlotAddListeners(slot);
         }
+        chestplateSlot.SetData(def, 1);
 
-        helmetSlot.SetData(def, 1);
         Hide();
     }
     private void SlotAddListeners(UIInventorySlot slot)
