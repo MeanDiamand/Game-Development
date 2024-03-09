@@ -130,8 +130,9 @@ public class InventoryController : MonoBehaviour
     }
     private void HandleDescriptionRequest(int itemIndex)
     {
+        Debug.Log("HandleDescriptionRequest");
         InventorySlot slot = inventoryModel.GetItemAt(itemIndex);
         Item item = slot.item;
-        Debug.Log("HandleDescriptionRequest(int itemIndex)");
+        inventoryUI.UpdateDescription(item.Description);
     }
 }

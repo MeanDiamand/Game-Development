@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using System.Reflection;
+using TMPro;
 using UnityEngine;
 using UnityEngine.U2D;
 using UnityEngine.UIElements;
@@ -29,10 +31,11 @@ public class UIInventory : MonoBehaviour
 
     [SerializeField] 
     UIInventorySlot weaponSlot;
+    [SerializeField]
     List<UIInventorySlot> quickAccessSlots = new List<UIInventorySlot>();
 
     [SerializeField]
-    private Sprite def;
+    private TMP_Text descriptionText;
 
     public event Action<int> OnDescriptionRequested,
                 OnItemActionRequested,
@@ -55,6 +58,12 @@ public class UIInventory : MonoBehaviour
         slots.Add(weaponSlot);
         SlotAddListeners(weaponSlot);
 
+        foreach (UIInventorySlot slot in quickAccessSlots)
+        {
+            slots.Add(slot);
+            SlotAddListeners(slot);
+        }
+
         for (int i = 0; i < inventorySize; i++) 
         {
             UIInventorySlot slot = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
@@ -62,7 +71,6 @@ public class UIInventory : MonoBehaviour
             slots.Add(slot);
             SlotAddListeners(slot);
         }
-        chestplateSlot.SetData(def, 1);
 
         Hide();
     }
@@ -87,6 +95,11 @@ public class UIInventory : MonoBehaviour
         {
             slots[itemIndex].SetData(itemImage, itemQuantity);
         }
+    }
+
+    public void UpdateDescription(string desc)
+    {
+        descriptionText.text = desc;
     }
 
     public void Show()
@@ -124,6 +137,11 @@ public class UIInventory : MonoBehaviour
         Debug.Log("HandleItemSelection");
         DeselectAllItems();
         inventoryItemUI.Select();
+
+        int index = slots.IndexOf(inventoryItemUI);
+        if (index == -1)
+           return;
+        OnDescriptionRequested?.Invoke(index);
     }
     private void HandleBeginDrag(UIInventorySlot inventoryItemUI)
     {
