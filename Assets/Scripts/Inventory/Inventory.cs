@@ -56,6 +56,7 @@ public class Inventory : ScriptableObject
     }
     public void SwapItems(int itemIndex_1, int itemIndex_2)
     {
+        if ((itemIndex_1 >= Size + 7) || (itemIndex_2>= Size + 7)) return;
         InventorySlot slot_1 = slots[itemIndex_1];
         //slots[itemIndex_1] = slots[itemIndex_2];
         PutSlotInSlot(slots[itemIndex_2], itemIndex_1);
