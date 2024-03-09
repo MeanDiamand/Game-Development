@@ -45,12 +45,18 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
     {
         borderImage.enabled = false;
     }
-    public void SetData(Sprite sprite, int quantity)
+    public void SetData(Sprite sprite, int quantity, bool stackable = false)
     {
         itemImage.gameObject.SetActive(true);
         itemImage.sprite = sprite;
         quantityTxt.text = quantity.ToString();
         empty = false;
+
+        Debug.Log("SetData() " + stackable);
+        if (stackable)
+            quantityTxt.enabled = true;
+        else
+            quantityTxt.enabled = false;
     }
 
     public void OnPointerClick(PointerEventData pointerData)

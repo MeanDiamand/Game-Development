@@ -24,12 +24,10 @@ public class InventoryController : MonoBehaviour
         {
             if (!inventoryUI.isActiveAndEnabled)
             {
-                inventoryUI.Show(); 
-                foreach (var item in inventoryModel.GetCurrentInventoryState())
+                inventoryUI.Show();
+                foreach (var slot in inventoryModel.GetCurrentInventoryState())
                 {
-                    inventoryUI.UpdateData(item.index,
-                            item.item.ItemIcon,
-                            item.quantity);
+                    inventoryUI.UpdateData(slot);
                 }
             }
             else
@@ -60,10 +58,7 @@ public class InventoryController : MonoBehaviour
         Debug.Log("UpdateInventoryUI");
         inventoryUI.ResetAllItems();
         foreach (var slot in inventoryState)
-        {
-            inventoryUI.UpdateData(slot.index, slot.item.ItemIcon,
-                slot.quantity);
-        }
+            inventoryUI.UpdateData(slot);
     }
     /*
     private void HandleItemActionRequest(int itemIndex)

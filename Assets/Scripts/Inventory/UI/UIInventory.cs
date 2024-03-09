@@ -5,6 +5,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.U2D;
 using UnityEngine.UIElements;
+using static Inventory;
 using static UnityEditor.Progress;
 
 public class UIInventory : MonoBehaviour
@@ -88,12 +89,11 @@ public class UIInventory : MonoBehaviour
         mouseFollower.Toggle(false);
     }
 
-    public void UpdateData(int itemIndex,
-            Sprite itemImage, int itemQuantity)
+    public void UpdateData(InventorySlot slot)
     {
-        if (slots.Count > itemIndex)
+        if (slots.Count > slot.index)
         {
-            slots[itemIndex].SetData(itemImage, itemQuantity);
+            slots[slot.index].SetData(slot.item.ItemIcon, slot.quantity, slot.item.IsStackable);
         }
     }
 
