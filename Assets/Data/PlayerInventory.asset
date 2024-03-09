@@ -36,7 +36,7 @@ MonoBehaviour:
     item: {fileID: 0}
   - index: 7
     quantity: 0
-    item: {fileID: 11400000, guid: ae717d14d344a894691b9e4eee162947, type: 2}
+    item: {fileID: 0}
   - index: 8
     quantity: 0
     item: {fileID: 0}
@@ -56,6 +56,12 @@ MonoBehaviour:
     quantity: 0
     item: {fileID: 0}
   - index: 14
+    quantity: 0
+    item: {fileID: 0}
+  - index: 15
+    quantity: 0
+    item: {fileID: 0}
+  - index: 16
     quantity: 0
     item: {fileID: 0}
   <Size>k__BackingField: 10
