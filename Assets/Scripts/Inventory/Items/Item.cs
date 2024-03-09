@@ -14,6 +14,8 @@ public class Item : ScriptableObject
     [field: SerializeField]
     public float Weight { get; set; }
     [field: SerializeField]
+    public bool IsStackable { get; set; }
+    [field: SerializeField]
     public int MaxStackSize { get; set; } = 1;
 
     [field: SerializeField]

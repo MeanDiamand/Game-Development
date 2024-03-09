@@ -11,6 +11,8 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
     private Image itemImage;
     [SerializeField]
     private TMP_Text quantityTxt;
+    [SerializeField]
+    private Image borderImage;
 
     public event Action<UIInventorySlot> OnItemClicked,
             OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag,
@@ -28,13 +30,21 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
     public void Awake()
     {
         ResetData();
+        Deselect();
     }
     public void ResetData()
     {
         itemImage.gameObject.SetActive(false);
         empty = true;
     }
-
+    public void Select()
+    {
+        borderImage.enabled = true;
+    }
+    public void Deselect()
+    {
+        borderImage.enabled = false;
+    }
     public void SetData(Sprite sprite, int quantity)
     {
         itemImage.gameObject.SetActive(true);
@@ -45,6 +55,7 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
 
     public void OnPointerClick(PointerEventData pointerData)
     {
+        Debug.Log("OnPointerClick");
         if (empty)
             return;
         if (pointerData.button == PointerEventData.InputButton.Right)

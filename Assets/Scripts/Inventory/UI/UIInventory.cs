@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.U2D;
 using UnityEngine.UIElements;
 using static UnityEditor.Progress;
 
@@ -57,7 +58,6 @@ public class UIInventory : MonoBehaviour
         for (int i = 0; i < inventorySize; i++) 
         {
             UIInventorySlot slot = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
-            //slot.SetData(def, 1);
             slot.transform.SetParent(contentPanel, false);
             slots.Add(slot);
             SlotAddListeners(slot);
@@ -98,26 +98,45 @@ public class UIInventory : MonoBehaviour
     {
         gameObject.SetActive(false);
     }
+    internal void ResetAllItems()
+    {
+        foreach (var item in slots)
+        {
+            item.ResetData();
+            item.Deselect();
+        }
+    }
+    private void DeselectAllItems()
+    {
+        foreach (var item in slots)
+        {
+            item.Deselect();
+        }
+    }
+    public void CreateDraggedItem(Sprite sprite, int quantity)
+    {
+        mouseFollower.Toggle(true);
+        mouseFollower.SetData(sprite, quantity);
+    }
 
     private void HandleItemSelection(UIInventorySlot inventoryItemUI)
     {
         Debug.Log("HandleItemSelection");
+        DeselectAllItems();
+        inventoryItemUI.Select();
     }
     private void HandleBeginDrag(UIInventorySlot inventoryItemUI)
     {
-        mouseFollower.Toggle(true);
-        mouseFollower.SetData(def, 2);
-
         int index = slots.IndexOf(inventoryItemUI);
         if (index == -1)
             return;
+
         currentlyDraggedItemIndex = index;
         HandleItemSelection(inventoryItemUI);
         OnStartDragging?.Invoke(index);
     }
     private void HadleDropOn(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log("Drop On");
         int index = slots.IndexOf(inventoryItemUI);
         if (index == -1)
         {
@@ -130,5 +149,11 @@ public class UIInventory : MonoBehaviour
     {
         Debug.Log("HandleEndDrag");
         mouseFollower.Toggle(false);
+        ResetDraggedItem();
+    }
+    private void ResetDraggedItem()
+    {
+        mouseFollower.Toggle(false);
+        currentlyDraggedItemIndex = -1;
     }
 }

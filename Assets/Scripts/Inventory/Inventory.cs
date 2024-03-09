@@ -1,8 +1,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Reflection;
 using UnityEngine;
 using UnityEngine.Windows;
+using static UnityEditor.Progress;
 
 [CreateAssetMenu]
 public class Inventory : ScriptableObject
@@ -11,6 +13,7 @@ public class Inventory : ScriptableObject
     private List<InventorySlot> slots;
     [field: SerializeField]
     public int Size { get; private set; } = 10;
+    public event Action<List<InventorySlot>> OnInventoryUpdated;
 
     public void Initialize()
     {
@@ -33,8 +36,36 @@ public class Inventory : ScriptableObject
                     item = item,
                     quantity = quantity
                 };
+                return;
             }
         }
+    }
+    public void AddItem(InventorySlot slot)
+    {
+        AddItem(slot.item, slot.quantity);
+    }
+
+    private void PutSlotInSlot(InventorySlot slot, int index)
+    {
+        slot.index = index;
+        slots[index] = slot;
+    }
+    public InventorySlot GetItemAt(int itemIndex)
+    {
+        return slots[itemIndex];
+    }
+    public void SwapItems(int itemIndex_1, int itemIndex_2)
+    {
+        InventorySlot slot_1 = slots[itemIndex_1];
+        //slots[itemIndex_1] = slots[itemIndex_2];
+        PutSlotInSlot(slots[itemIndex_2], itemIndex_1);
+        //slots[itemIndex_2] = slot_1;
+        PutSlotInSlot(slot_1, itemIndex_2);
+        NotifyInventoryUpdated();
+    }
+    private void NotifyInventoryUpdated()
+    {
+        OnInventoryUpdated?.Invoke(GetCurrentInventoryState());
     }
 
     public List<InventorySlot> GetCurrentInventoryState()
