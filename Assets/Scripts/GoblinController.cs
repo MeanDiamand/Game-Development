@@ -2,69 +2,59 @@ using Assets.Interfaces;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Windows;
 
-public class GoblinController : MonoBehaviour, IDamagable
+public class GoblinController : MonoBehaviour
 {
-    private Animator animator;
+    public float damage = 1;
+    public float knockForce = 15f;
+    public DetectionRange range;
+    public float moveSpeed = 500f;
     private Rigidbody2D rb;
-    private Collider2D physicsCollider;
-    private bool isAlive = true;
-    public float Health
+    private Animator animator;
+
+    private void Start()
     {
-        get { return _health; }
-        set
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+    }
+
+    private void FixedUpdate()
+    {
+        if (range.detectedObjects.Count > 0)
         {
-            if (value < _health)
-            {
-                animator.SetTrigger("Hit");
-            }
+            //Calculate direction to the target
+            Vector2 direction = (range.detectedObjects[0].transform.position - transform.position).normalized;
 
-            _health = value;
-
-            if (_health <= 0)
-            {
-                animator.SetBool("isAlive", false);
-                IsHitable = false;
-            }
+            //Move towards player
+            rb.AddForce(direction * moveSpeed * Time.deltaTime);
+            animator.SetBool("isMoving", true);
+            animator.SetFloat("moveX", direction.x);
+            animator.SetFloat("moveY", direction.y);
+        } else
+        {
+            animator.SetBool("isMoving", false);
         }
     }
-    public bool IsHitable { 
-        get { return _isHitable; }
-        set 
-        { 
-            _isHitable = value;
-            rb.simulated = value;
-            physicsCollider.enabled = value;
-        } 
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        IDamagable damagable = collision.collider.GetComponent<IDamagable>();
+
+        if(damagable != null )
+        {
+            Vector2 direction = (Vector2)(collision.gameObject.transform.position - transform.position).normalized;
+            Vector2 knockback = direction * knockForce;
+            animator.SetFloat("moveX", direction.x);
+            animator.SetFloat("moveY", direction.y);
+            Attack();
+            damagable.OnHit(damage, knockback);
+        }
     }
 
-
-    public float _health = 3;
-
-    public bool _isHitable = true;
-
-    public void Start()
+    private void Attack()
     {
-        animator = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
-        physicsCollider = GetComponent<Collider2D>();
-        animator.SetBool("isAlive", true);
-    }
 
-    public void OnHit(float damage, Vector2 knockDirection)
-    {
-        Health -= damage;
-        rb.AddForce(knockDirection);
-    }
-
-    public void OnHit(float damage)
-    {
-        Debug.Log("Goblin hit for " + damage);
-        Health -= damage;
-    }
-
-    public void KillObject()
-    {
-        Destroy(gameObject);
+        animator.SetTrigger("GoblinAttack");
     }
 }
