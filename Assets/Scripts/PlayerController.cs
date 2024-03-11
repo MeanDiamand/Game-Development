@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
+using UnityEditor.Experimental;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -10,8 +11,8 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 150f;
-    public float maxSpeed = 8f;
+    public float moveSpeed = 600f;
+    public float maxSpeed = 10f;
     public float collisionOffset = 0.05f;
     public ContactFilter2D contactFilter;
     public float attackRange = 0.5f;
@@ -64,7 +65,13 @@ public class PlayerController : MonoBehaviour
     // Returns true or false depending on if a move was executed
     public void Move(Vector2 direction)
     {
-        rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
+        //rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
+        rb.AddForce(input * moveSpeed * Time.deltaTime);
+        if(rb.velocity.magnitude > maxSpeed)
+        {
+            float limitedSpeed = Mathf.Lerp(rb.velocity.magnitude, maxSpeed, idleFriction);
+            rb.velocity = rb.velocity.normalized * limitedSpeed;
+        }
         IsMoving = true;
     }
 

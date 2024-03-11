@@ -14,7 +14,9 @@ public class WeaponHitbox : MonoBehaviour
     public Vector3 faceLeft = new Vector3(-1.34f, 0.14f, 0);
     public Vector3 faceRight = new Vector3(0.96f, 0.16f, 0);
 
-    public float knockForce = 500f;
+    public float knockForce = 15f;
+
+    private int directionHit = 0;
 
     private void Start()
     {
@@ -24,11 +26,6 @@ public class WeaponHitbox : MonoBehaviour
         }
     }
 
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    Debug.Log("HIT");
-    //    collision.collider.SendMessage("OnHit", weaponDamage);
-    //}
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -40,8 +37,7 @@ public class WeaponHitbox : MonoBehaviour
             Vector2 direction = (Vector2) (collision.gameObject.transform.position - parentPos).normalized;
             Vector2 knockback = direction * knockForce;
 
-            Debug.Log("HIT");
-            damagable.OnHit(weaponDamage, knockback);
+            damagable.OnHit(weaponDamage, knockback, directionHit);
         } else
         {
             Debug.LogWarning("Collider does not implement IDamagable");
@@ -53,6 +49,7 @@ public class WeaponHitbox : MonoBehaviour
         if (left)
         {
             gameObject.transform.localPosition = faceLeft;
+            directionHit = 1;
         } 
     }
     public void TurnRight(bool right)
@@ -60,6 +57,7 @@ public class WeaponHitbox : MonoBehaviour
         if (right)
         {
             gameObject.transform.localPosition = faceRight;
+            directionHit = 0;
         }
     }
     public void TurnUp(bool up)
@@ -67,6 +65,7 @@ public class WeaponHitbox : MonoBehaviour
         if (up)
         {
             gameObject.transform.localPosition = faceUp;
+            directionHit = 2;
         }
     }
     public void TurnDown(bool down)
@@ -74,6 +73,7 @@ public class WeaponHitbox : MonoBehaviour
         if (down)
         {
             gameObject.transform.localPosition = faceDown;
+            directionHit = 3;
         }
     }
 }

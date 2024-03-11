@@ -13,6 +13,8 @@ namespace Assets.Interfaces
 
         public bool IsHitable { get; set; }
 
+        public void OnHit(float damage, Vector2 knockDirection, int direction);
+
         public void OnHit(float damage, Vector2 knockDirection);
 
         public void OnHit(float damage);
