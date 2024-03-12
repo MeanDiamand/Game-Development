@@ -28,4 +28,8 @@ public class Item : ScriptableObject
     {
         return Name;
     }
+    public virtual Weapon.Damage dealDamage()
+    {
+        return null;
+    }
 }

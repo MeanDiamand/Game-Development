@@ -11,6 +11,7 @@ public class Inventory : ScriptableObject
 {
     [SerializeField]
     private List<InventorySlot> slots;
+    private Weapon weapon;
     [field: SerializeField]
     public int Size { get; private set; } = 10;
     public event Action<List<InventorySlot>> OnInventoryUpdated;
@@ -24,9 +25,33 @@ public class Inventory : ScriptableObject
         }
     }
 
+    public Weapon.Damage GetDamage()
+    {
+        if (slots[4].IsEmpty)
+            return Weapon.Damage.HandDamage();
+        Debug.Log(slots[4].item.Name);
+        return slots[4].item.dealDamage();
+    }
+
     public void AddItem(Item item, int quantity)
     {
         for (int i = 0; i < slots.Count; i++)
+        {
+            if (slots[i].IsEmpty)
+            {
+                slots[i] = new InventorySlot
+                {
+                    index = i,
+                    item = item,
+                    quantity = quantity
+                };
+                return;
+            }
+        }
+    }
+    public void AddItemToMain(Item item, int quantity)
+    {
+        for (int i = 7; i < slots.Count; i++)
         {
             if (slots[i].IsEmpty)
             {
@@ -66,6 +91,7 @@ public class Inventory : ScriptableObject
     }
     private void NotifyInventoryUpdated()
     {
+        weapon = (Weapon)slots[4].item;
         OnInventoryUpdated?.Invoke(GetCurrentInventoryState());
     }
 

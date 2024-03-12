@@ -17591,6 +17591,10 @@ PrefabInstance:
       propertyPath: inventoryUI
       value: 
       objectReference: {fileID: 1332379642}
+    - target: {fileID: 7371417011471357065, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+      propertyPath: inventory
+      value: 
+      objectReference: {fileID: 11400000, guid: bb4b01774d0f5bd458c21146d6fe1e19, type: 2}
     - target: {fileID: 9010943800716392361, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.36
