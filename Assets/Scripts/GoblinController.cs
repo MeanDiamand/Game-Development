@@ -54,7 +54,6 @@ public class GoblinController : MonoBehaviour
 
     private void Attack()
     {
-
         animator.SetTrigger("GoblinAttack");
     }
 }

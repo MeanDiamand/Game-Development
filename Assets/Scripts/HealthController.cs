@@ -6,8 +6,7 @@ using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
-    public int health = 5;
-    public bool isHitable = true;
+    public static float health = 5;
     public Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart;
