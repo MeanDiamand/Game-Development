@@ -14,7 +14,7 @@ public class PickUpSystem : MonoBehaviour
         if (item != null)
         {
             //int reminder = inventoryData.AddItem(item.InventoryItem, item.Quantity);
-            inventoryData.AddItem(item.InventoryItem, item.Quantity);
+            inventoryData.AddItemToMain(item.InventoryItem, item.Quantity);
             //if (reminder == 0)
             //item.DestroyItem();
             //else
