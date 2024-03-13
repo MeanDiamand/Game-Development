@@ -18625,6 +18625,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
+      propertyPath: itemToCopy
+      value: 
+      objectReference: {fileID: 11400000, guid: d6e99d013ca651642b88ce164f5f3bd8, type: 2}
+    - target: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
       propertyPath: <Quantity>k__BackingField
       value: 1
       objectReference: {fileID: 0}
@@ -19489,6 +19493,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
+      propertyPath: itemToCopy
+      value: 
+      objectReference: {fileID: 11400000, guid: ae717d14d344a894691b9e4eee162947, type: 2}
     - target: {fileID: 4577143613110666320, guid: 114b20432312d2c40a816e924d135682, type: 3}
       propertyPath: m_Name
       value: ItemPickable
