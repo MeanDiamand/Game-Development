@@ -17571,6 +17571,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+      propertyPath: 'hearts.Array.data[0]'
+      value: 
+      objectReference: {fileID: 145068418}
+    - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+      propertyPath: 'hearts.Array.data[1]'
+      value: 
+      objectReference: {fileID: 497601170}
+    - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+      propertyPath: 'hearts.Array.data[2]'
+      value: 
+      objectReference: {fileID: 619959757}
+    - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+      propertyPath: 'hearts.Array.data[3]'
+      value: 
+      objectReference: {fileID: 1604794344}
+    - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+      propertyPath: 'hearts.Array.data[4]'
+      value: 
+      objectReference: {fileID: 1048336559}
     - target: {fileID: 2926412571741634034, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: m_Radius
       value: 1.0242271
@@ -17667,9 +17687,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1382890471579353318, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       insertIndex: 6
       addedObject: {fileID: 1057759188}
-    - targetCorrespondingSourceObject: {fileID: 1382890471579353318, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
-      insertIndex: 7
-      addedObject: {fileID: 1057759193}
   m_SourcePrefab: {fileID: 100100000, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
 --- !u!1 &1057759181 stripped
 GameObject:
@@ -17703,26 +17720,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &1057759193
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1057759181}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2bed42085a5add449a79a0fee3123266, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hearts:
-  - {fileID: 145068418}
-  - {fileID: 497601170}
-  - {fileID: 619959757}
-  - {fileID: 1604794344}
-  - {fileID: 1048336559}
-  fullHeart: {fileID: -7056574788307857597, guid: 1cfd293cc22dbff459c52cc9db3d12d5, type: 3}
-  emptyHeart: {fileID: -6987356917511363596, guid: 9fad5c5e7f8c19c4baaf0319e10a1fad, type: 3}
 --- !u!1 &1104447178
 GameObject:
   m_ObjectHideFlags: 0

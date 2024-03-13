@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4005172724323065246}
   - component: {fileID: 350287364875257098}
   - component: {fileID: 1007802238217858497}
+  - component: {fileID: 1535035437901162612}
   - component: {fileID: 753471251995099291}
   - component: {fileID: 4460770645159878285}
   - component: {fileID: 4732670009934186645}
@@ -221,6 +222,26 @@ MonoBehaviour:
   attackRange: 0.5
   idleFriction: 0.9
   attackPoint: {fileID: 9049807826575470842}
+--- !u!114 &1535035437901162612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1382890471579353318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bed42085a5add449a79a0fee3123266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hearts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  fullHeart: {fileID: -7056574788307857597, guid: 1cfd293cc22dbff459c52cc9db3d12d5, type: 3}
+  emptyHeart: {fileID: -6987356917511363596, guid: 9fad5c5e7f8c19c4baaf0319e10a1fad, type: 3}
 --- !u!95 &753471251995099291
 Animator:
   serializedVersion: 7
@@ -384,3 +405,4 @@ MonoBehaviour:
   faceLeft: {x: -1.34, y: 0.14, z: 0}
   faceRight: {x: 0.96, y: 0.16, z: 0}
   knockForce: 15
+  inventory: {fileID: 0}
