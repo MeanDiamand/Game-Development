@@ -168,10 +168,10 @@ TextureImporter:
       name: HomeButton_0
       rect:
         serializedVersion: 2
-        x: 29
+        x: 12
         y: 24
-        width: 323
-        height: 99
+        width: 412
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
