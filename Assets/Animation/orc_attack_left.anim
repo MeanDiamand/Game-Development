@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: goblin_attack_right
+  m_Name: orc_attack_left
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -31,7 +31,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.4
+        time: 0.375
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -40,7 +40,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.6
+        time: 0.625
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -60,23 +60,21 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 1002380079435492124, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - time: 0.1
-      value: {fileID: -8077674162177349179, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - time: 0.2
-      value: {fileID: 301492120367347109, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - time: 0.3
-      value: {fileID: -2710834119979249512, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - time: 0.4
-      value: {fileID: -7691798417915599656, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
+      value: {fileID: -8308424635698029562, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - time: 0.125
+      value: {fileID: -4649545325578111808, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - time: 0.25
+      value: {fileID: 306863241800404702, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - time: 0.375
+      value: {fileID: 1880577561189335412, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
     - time: 0.5
-      value: {fileID: -1682759545469612162, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
+      value: {fileID: 5768615120278065984, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 10
+  m_SampleRate: 8
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -102,18 +100,17 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 1002380079435492124, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - {fileID: -8077674162177349179, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - {fileID: 301492120367347109, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - {fileID: -2710834119979249512, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - {fileID: -7691798417915599656, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
-    - {fileID: -1682759545469612162, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
+    - {fileID: -8308424635698029562, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - {fileID: -4649545325578111808, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - {fileID: 306863241800404702, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - {fileID: 1880577561189335412, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
+    - {fileID: 5768615120278065984, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.6
+    m_StopTime: 0.625
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -143,7 +140,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.4
+        time: 0.375
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -152,7 +149,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.6
+        time: 0.625
         value: 0
         inSlope: Infinity
         outSlope: Infinity

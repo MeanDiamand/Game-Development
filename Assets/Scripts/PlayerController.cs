@@ -103,26 +103,32 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("moveX", direction.x);
         animator.SetFloat("moveY", direction.y);
 
-        bool right = direction.x > 0 && (direction.y < 1.5 && direction.y > -1.5);
-        bool left = direction.x < 0 && (direction.y < 1.5 && direction.y > -1.5);
-        bool up = direction.y > 0.5;
-        bool down = direction.y < -0.5;
-        
-        
+        checkHitboxDirection(direction.x, direction.y);
 
-        if(right)
+    }
+
+    private void checkHitboxDirection(float x, float y)
+    {
+        bool right = x > 0 && (y < 1.5 && y > -1.5);
+        bool left = x < 0 && (y < 1.5 && y > -1.5);
+        bool up = y > 0.5;
+        bool down = y < -0.5;
+
+        if (right)
         {
             gameObject.BroadcastMessage("TurnRight", right);
-        } else if(left)
+        }
+        else if (left)
         {
             gameObject.BroadcastMessage("TurnLeft", left);
-        } else if(up) 
+        }
+        if (up)
         {
             gameObject.BroadcastMessage("TurnUp", up);
-        } else
+        }
+        else if (down)
         {
             gameObject.BroadcastMessage("TurnDown", down);
         }
-
     }
 }
