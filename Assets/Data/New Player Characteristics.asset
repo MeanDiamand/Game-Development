@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: New Player Characteristics
   m_EditorClassIdentifier: 
   _level: 2
-  _experience: 0
-  _availablePoints: 10
-  _strength: 2
-  _endurance: 2
-  _intelligence: 2
-  _agility: 2
-  _luck: 2
+  _experience: 2
+  _availablePoints: 0
+  _strength: 6
+  _endurance: 5
+  _intelligence: 5
+  _agility: 5
+  _luck: 5
