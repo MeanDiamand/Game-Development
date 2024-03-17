@@ -7,7 +7,7 @@ using static Inventory;
 public class Weapon : Item
 {
     [field: SerializeField]
-    public Damage damage { get; set; } = Damage.HandDamage();
+    public Damage damage { get; set; }
     public Weapon() 
     {}
     public Weapon(Damage damage) 
