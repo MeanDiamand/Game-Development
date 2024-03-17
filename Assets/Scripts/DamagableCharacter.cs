@@ -13,6 +13,7 @@ namespace Assets.Scripts
         private Animator animator;
         private Rigidbody2D rb;
         private Collider2D physicsCollider;
+        private FloatingStatusBar statusBar;
         private bool isAlive = true;
         private int counter = 0;
         public float Health
@@ -58,6 +59,7 @@ namespace Assets.Scripts
 
         public void Start()
         {
+            statusBar = GetComponentInChildren<FloatingStatusBar>();
             animator = GetComponent<Animator>();
             rb = GetComponent<Rigidbody2D>();
             physicsCollider = GetComponent<Collider2D>();
@@ -67,6 +69,7 @@ namespace Assets.Scripts
         public void OnHit(float damage, Vector2 knockDirection, int direction)
         {
             Health -= damage;
+            statusBar.UpdateStatusBar(Health, 3f);
             switch (direction)
             {
                 //Hit from right
