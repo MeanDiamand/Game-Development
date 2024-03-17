@@ -91,8 +91,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73b4dac8065804c4f967f8c963c458e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponDamage: 1
-  knockForce: 600
+  weaponDamage: 2
+  knockForce: 1000
   saberCollider: {fileID: 172697479298327958}
 --- !u!1 &439121864002494889
 GameObject:
@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 5458907493885848442}
   - component: {fileID: 1124187622996254850}
   m_Layer: 0
-  m_Name: Goblin
+  m_Name: Orc
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -383,7 +383,7 @@ SpriteRenderer:
   m_SortingLayerID: -964514291
   m_SortingLayer: 2
   m_SortingOrder: -3
-  m_Sprite: {fileID: -5891393524012554955, guid: d7a2dc5b849690d4ba627872a12395fa, type: 3}
+  m_Sprite: {fileID: -35695584128558838, guid: 23157150bb557e44eac9c8e619f76e70, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -468,7 +468,7 @@ Animator:
   m_GameObject: {fileID: 1306571874391526211}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 780073a382725a344aba3fc66c45238c, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1402d015232dd5d408e0402a136ccfcd, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -494,7 +494,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   detectionRrange: {fileID: 591847127275313442}
   attackRrange: {fileID: 894225281231688168}
-  moveSpeed: 800
+  moveSpeed: 500
 --- !u!114 &1124187622996254850
 MonoBehaviour:
   m_ObjectHideFlags: 0

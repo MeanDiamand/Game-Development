@@ -3,11 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WeaponHitbox : MonoBehaviour
+public class EnemyWeaponHitbox : MonoBehaviour
 {
     public float weaponDamage = 1f;
-
-    public Collider2D swordCollider;
+    public float knockForce = 600f;
+    public Collider2D saberCollider;
 
     private Vector3 faceUp = new Vector3(-0.59f, 0.99f, 0);
     private Vector3 faceUpSize = new Vector3(2.5f, 0.5f, 0);
@@ -21,55 +21,50 @@ public class WeaponHitbox : MonoBehaviour
     private Vector3 faceRight = new Vector3(0.96f, 0.16f, 0);
     private Vector3 faceRightSize = new Vector3(1f, 1f, 0);
 
-    private int directionHit = 0;
+    private Animator animator;
 
-    [field: SerializeField]
-    private Inventory inventory;
-
-    private void Start()
+    // Start is called before the first frame update
+    void Start()
     {
-        if(swordCollider == null)
+        if (saberCollider == null)
         {
-            Debug.LogWarning("Sword collider is not set");
+            Debug.LogWarning("Saber collider is not set");
         }
+        animator = GetComponentInParent<Animator>();
     }
-
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        IDamagable damagable =  collision.GetComponent<IDamagable>();
+        IDamagable damagable = collision.GetComponent<Collider2D>().GetComponent<IDamagable>();
 
-        if(damagable != null)
+
+        if (damagable != null)
         {
-            Weapon.Damage damage = inventory.GetDamage();
+            Vector2 direction = (Vector2)(collision.gameObject.transform.position - transform.position).normalized;
+            Vector2 knockback = direction * knockForce;
+            animator.SetFloat("moveX", direction.x);
+            animator.SetFloat("moveY", direction.y);
 
-            Debug.Log("Damage: " + damage.Amount);
-
-            Vector3 parentPos = gameObject.GetComponentInParent<Transform>().position;
-            Vector2 direction = (Vector2) (collision.gameObject.transform.position - parentPos).normalized;
-            Vector2 knockback = direction * damage.Knock;
-
-            damagable.OnHit(damage.Amount, knockback, directionHit);
-        } 
+            damagable.OnHit(weaponDamage, knockback);
+        }
     }
 
     public void TurnLeft(bool left)
     {
-        
+
         if (left)
         {
             gameObject.transform.localPosition = faceLeft;
             gameObject.transform.localScale = faceLeftSize;
-            directionHit = 1;
-        } 
+        }
     }
     public void TurnRight(bool right)
     {
+
         if (right)
         {
             gameObject.transform.localPosition = faceRight;
             gameObject.transform.localScale = faceRightSize;
-            directionHit = 0;
         }
     }
     public void TurnUp(bool up)
@@ -78,7 +73,6 @@ public class WeaponHitbox : MonoBehaviour
         {
             gameObject.transform.localPosition = faceUp;
             gameObject.transform.localScale = faceUpSize;
-            directionHit = 2;
         }
     }
     public void TurnDown(bool down)
@@ -87,7 +81,12 @@ public class WeaponHitbox : MonoBehaviour
         {
             gameObject.transform.localPosition = faceDown;
             gameObject.transform.localScale = faceDownSize;
-            directionHit = 3;
         }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
     }
 }
