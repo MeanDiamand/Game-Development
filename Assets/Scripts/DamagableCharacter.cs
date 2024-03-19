@@ -15,7 +15,7 @@ namespace Assets.Scripts
         private Collider2D physicsCollider;
         private FloatingStatusBar statusBar;
         private bool isAlive = true;
-        private int counter = 0;
+        private float counter = 0;
         public float Health
         {
             get { return _health; }
@@ -32,7 +32,7 @@ namespace Assets.Scripts
                 {
                     animator.SetBool("isAlive", false);
                     IsHitable = false;
-                    if (counter == 4)
+                    if (counter >= 4.0)
                     {
                         GameOverEvents.isGameOver = true;
                     }
@@ -99,16 +99,16 @@ namespace Assets.Scripts
         public void OnHit(float damage, Vector2 knockDirection)
         {
             Health -= damage;
-            HealthController.health -= 1;
-            counter += 1;
+            HealthController.health -= damage;
+            counter += damage;
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
         public void OnHit(float damage)
         {
             Health -= damage;
-            HealthController.health -= 1;
-            counter += 1;
+            HealthController.health -= damage;
+            counter += damage;
         }
 
         public void KillObject()
