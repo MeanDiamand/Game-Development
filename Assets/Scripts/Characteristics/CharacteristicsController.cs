@@ -11,6 +11,8 @@ public class CharacteristicsController : MonoBehaviour
     private CharacteristicsUI characteristicsUI;
     [SerializeField]
     private PlayerCharacteristics characteristicsModel;
+    [SerializeField]
+    private PlayerCharacteristics currentCharacteristics;
     public void Update()
     {
         if (Input.GetKeyDown(KeyCode.B))
@@ -19,7 +21,9 @@ public class CharacteristicsController : MonoBehaviour
             {
                 Time.timeScale = 0;
                 characteristicsUI.Show();
-                characteristicsUI.UpdateData(characteristicsModel);
+
+                characteristicsModel.SetData(currentCharacteristics);
+                characteristicsUI.UpdateData(currentCharacteristics, characteristicsModel);
             }
             else
             {
@@ -32,7 +36,27 @@ public class CharacteristicsController : MonoBehaviour
     private void Start()
     {
         characteristicsUI.Initialize(5);
-        characteristicsUI.OnCharacteristicChanged += characteristicsModel.ChangeCharacteristicBy;
-        characteristicsModel.OnUpdated += characteristicsUI.UpdateData;
+
+        characteristicsModel = PlayerCharacteristics.CreateFrom(currentCharacteristics);
+
+        characteristicsUI.OnCharacteristicChanged += ChangeValue;
+        characteristicsUI.OnChangesApplied += ChagesApplied;
+        characteristicsModel.OnUpdated += UpdateUI;
+    }
+
+    private void UpdateUI(PlayerCharacteristics characteristics)
+    {
+        characteristicsUI.UpdateData(currentCharacteristics, characteristics);
+    }
+
+    private void ChangeValue(ValueAndID vaid)
+    {
+        characteristicsModel.ChangeCharacteristicBy(vaid, currentCharacteristics.GetCharacteristic(vaid.ID));
+    }
+
+    private void ChagesApplied()
+    {
+        currentCharacteristics.SetData(characteristicsModel);
+        characteristicsUI.UpdateData(currentCharacteristics,characteristicsModel);
     }
 }

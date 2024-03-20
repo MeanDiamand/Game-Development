@@ -11,16 +11,13 @@ public class CharacteristicsBar : MonoBehaviour
     [SerializeField]
     private Image ProgressImage;
     [SerializeField]
+    private Image FixedProgressImage;
+    [SerializeField]
     private TMP_Text valueTxt;
     public int ID { get; set; }
 
     public event Action<CharacteristicsBar> ValueIncreased, ValueDecreased;
 
-
-    public void Start()
-    {
-        
-    }
     public void Decrease()
     {
         ValueDecreased?.Invoke(this);
@@ -29,16 +26,17 @@ public class CharacteristicsBar : MonoBehaviour
     {
         ValueIncreased?.Invoke(this);
     }
-    public void UpdateData(int value, int maximum = 10, int minimum = 0)
+    public void UpdateData(int fixedProgress, int progress, int maximum = 10, int minimum = 0)
     {
-        if (value < minimum || value > maximum)
+        if (progress < minimum || progress > maximum)
         {
-            Debug.LogWarning($"Invalid progress value, expected between {minimum} and {maximum}. Got {value}. Clamping.");
-            value = Mathf.Clamp(value, minimum, maximum);
+            Debug.LogWarning($"Invalid progress value, expected between {minimum} and {maximum}. Got {progress}. Clamping.");
+            progress = Mathf.Clamp(progress, minimum, maximum);
         }
 
-        ProgressImage.fillAmount = (float)(value - minimum) / (maximum - minimum);
-        valueTxt.text = value.ToString();
+        ProgressImage.fillAmount = (float)(progress - minimum) / (maximum - minimum);
+        FixedProgressImage.fillAmount = (float)(fixedProgress - minimum) / (maximum - minimum);
+        valueTxt.text = progress.ToString();
     }
 
 }

@@ -1,8 +1,7 @@
-using System.Collections.Generic;
 using System;
 using UnityEngine;
-using static Inventory;
 using static CharacteristicsUI;
+using static UnityEngine.UI.Image;
 
 [CreateAssetMenu]
 public class PlayerCharacteristics : ScriptableObject
@@ -82,12 +81,62 @@ public class PlayerCharacteristics : ScriptableObject
 
     public event Action<PlayerCharacteristics> OnUpdated;
 
-    public void ChangeCharacteristicBy(ValueAndID vaID)
+    public static PlayerCharacteristics CreateFrom(PlayerCharacteristics original)
     {
-        ChangeCharacteristicBy(vaID.ID, vaID.Value);
+        PlayerCharacteristics copy = ScriptableObject.CreateInstance<PlayerCharacteristics>();
+
+        copy._level = original.Level;
+        copy._experience = original.Experience;
+        copy._availablePoints = original.AvailablePoints;
+
+        copy._strength = original.Strength;
+        copy._endurance = original.Endurance;
+        copy._intelligence = original.Intelligence;
+        copy._agility = original.Agility;
+        copy._luck = original.Luck;
+
+        return copy;
     }
 
-    public void ChangeCharacteristicBy(int id, int amount = 1)
+    public void SetData(PlayerCharacteristics source)
+    {
+        this._level = source.Level;
+        this._experience = source.Experience;
+        this._availablePoints = source.AvailablePoints;
+
+        this._strength = source.Strength;
+        this._endurance = source.Endurance;
+        this._intelligence = source.Intelligence;
+        this._agility = source.Agility;
+        this._luck = source.Luck;
+    }
+
+    public void ChangeCharacteristicBy(ValueAndID vaID, int minimum)
+    {
+        ChangeCharacteristicBy(vaID.ID, vaID.Value, minimum);
+    }
+
+    public int GetCharacteristic(int id)
+    {
+        switch (id)
+        {
+            case 0:
+                return _strength;
+            case 1:
+                return _endurance;
+            case 2:
+                return _intelligence;
+            case 3:
+                return _agility;
+            case 4:
+                return _luck;
+            default:
+                Debug.LogWarning("Id of characteristic not found: " + id);
+                return -1;
+        }
+    }
+
+    public void ChangeCharacteristicBy(int id, int amount, int minimum)
     {
         if (amount > _availablePoints)
         {
@@ -102,19 +151,19 @@ public class PlayerCharacteristics : ScriptableObject
         switch (id)
         {
             case 0:
-                _strength = changeCharacteristic(amount, _strength);
+                _strength = changeCharacteristic(amount, _strength, minimum);
                 break;
             case 1:
-                _endurance = changeCharacteristic(amount, _endurance);
+                _endurance = changeCharacteristic(amount, _endurance, minimum);
                 break;
             case 2:
-                _intelligence = changeCharacteristic(amount, _intelligence); ;
+                _intelligence = changeCharacteristic(amount, _intelligence, minimum); 
                 break;
             case 3:
-                _agility = changeCharacteristic(amount, _agility);
+                _agility = changeCharacteristic(amount, _agility, minimum);
                 break;
             case 4:
-                _luck = changeCharacteristic(amount, _luck);
+                _luck = changeCharacteristic(amount, _luck, minimum);
                 break;
             default:
                 Debug.LogWarning("Id of characteristic not found: " + id);
@@ -124,10 +173,15 @@ public class PlayerCharacteristics : ScriptableObject
         OnUpdated?.Invoke(this);
     }
 
-    private int changeCharacteristic(int amount, int charactericticValue)
+    private int changeCharacteristic(int amount, int charactericticValue, int minimum)
     {
         if (charactericticValue == 0 && amount == -1)
             return 0;
+        if (amount == -1 && charactericticValue <= minimum)
+        {
+            Debug.Log("You can not decrease your characteristic more!");
+            return charactericticValue;
+        }
         if (charactericticValue == MAX_CHARACTERISTIC_VALUE && amount == 1)
             return MAX_CHARACTERISTIC_VALUE;
 

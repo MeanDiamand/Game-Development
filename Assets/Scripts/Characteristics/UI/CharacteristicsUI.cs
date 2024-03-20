@@ -18,6 +18,7 @@ public class CharacteristicsUI : MonoBehaviour
 
 
     public event Action<ValueAndID> OnCharacteristicChanged;
+    public event Action OnChangesApplied;
 
     public void Initialize(int numberOfBars)
     {
@@ -29,13 +30,13 @@ public class CharacteristicsUI : MonoBehaviour
         }
     }
 
-    public void UpdateData(PlayerCharacteristics characteristics)
+    public void UpdateData(PlayerCharacteristics fixedCharacteristics, PlayerCharacteristics characteristics)
     {
-        characteristicsBarList[0].UpdateData(characteristics.Strength);
-        characteristicsBarList[1].UpdateData(characteristics.Endurance);
-        characteristicsBarList[2].UpdateData(characteristics.Intelligence);
-        characteristicsBarList[3].UpdateData(characteristics.Agility);
-        characteristicsBarList[4].UpdateData(characteristics.Luck);
+        characteristicsBarList[0].UpdateData(fixedCharacteristics.Strength, characteristics.Strength);
+        characteristicsBarList[1].UpdateData(fixedCharacteristics.Endurance, characteristics.Endurance);
+        characteristicsBarList[2].UpdateData(fixedCharacteristics.Intelligence, characteristics.Intelligence);
+        characteristicsBarList[3].UpdateData(fixedCharacteristics.Agility, characteristics.Agility);
+        characteristicsBarList[4].UpdateData(fixedCharacteristics.Luck, characteristics.Luck);
 
         valueAvailablePoints.text = characteristics.AvailablePoints.ToString();
 
@@ -67,5 +68,10 @@ public class CharacteristicsUI : MonoBehaviour
     {
         public int ID;
         public int Value;
+    }
+
+    public void Apply()
+    {
+        OnChangesApplied?.Invoke();
     }
 }
