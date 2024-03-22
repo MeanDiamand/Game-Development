@@ -75,7 +75,7 @@ public class Inventory : ScriptableObject
         slot.index = index;
         slots[index] = slot;
     }
-    public InventorySlot GetItemAt(int itemIndex)
+    public InventorySlot GetSlotAt(int itemIndex)
     {
         return slots[itemIndex];
     }
@@ -106,6 +106,14 @@ public class Inventory : ScriptableObject
             activeSlots.Add(slots[i]);
         }
         return activeSlots;
+    }
+
+    public void UsePotion(int id)
+    {
+        if (id > 1 || id < 0) return;
+        Item item = slots[5 + id].item;
+        if (item == null) return;   
+        item.Use();
     }
 
 

@@ -135,6 +135,8 @@ public class UIInventory : MonoBehaviour
     private void HandleItemSelection(UIInventorySlot inventoryItemUI)
     {
         Debug.Log("HandleItemSelection");
+        if (inventoryItemUI.IsEmpty)
+            return;
         DeselectAllItems();
         inventoryItemUI.Select();
 
@@ -156,6 +158,7 @@ public class UIInventory : MonoBehaviour
     private void HadleDropOn(UIInventorySlot inventoryItemUI)
     {
         int index = slots.IndexOf(inventoryItemUI);
+
         if (index == -1)
         {
             return;

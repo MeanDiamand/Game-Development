@@ -27,13 +27,13 @@ MonoBehaviour:
     item: {fileID: 0}
   - index: 4
     quantity: 0
-    item: {fileID: 11400000, guid: d6e99d013ca651642b88ce164f5f3bd8, type: 2}
+    item: {fileID: 0}
   - index: 5
     quantity: 0
-    item: {fileID: 0}
+    item: {fileID: 11400000, guid: 599b5656936c7734db60c908fa63f4b8, type: 2}
   - index: 6
     quantity: 0
-    item: {fileID: 0}
+    item: {fileID: 11400000, guid: 599b5656936c7734db60c908fa63f4b8, type: 2}
   - index: 7
     quantity: 0
     item: {fileID: 0}

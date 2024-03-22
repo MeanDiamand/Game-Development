@@ -1,11 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting.Antlr3.Runtime.Misc;
 using UnityEngine;
 using static CharacteristicsUI;
 using static Inventory;
 
-public class CharacteristicsController : MonoBehaviour
+public class CharacteristicsController : MonoBehaviour, IUIController
 {
     [SerializeField]
     private CharacteristicsUI characteristicsUI;
@@ -13,24 +10,21 @@ public class CharacteristicsController : MonoBehaviour
     private PlayerCharacteristics characteristicsModel;
     [SerializeField]
     private PlayerCharacteristics currentCharacteristics;
-    public void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.B))
-        {
-            if (!characteristicsUI.isActiveAndEnabled)
-            {
-                Time.timeScale = 0;
-                characteristicsUI.Show();
 
-                characteristicsModel.SetData(currentCharacteristics);
-                characteristicsUI.UpdateData(currentCharacteristics, characteristicsModel);
-            }
-            else
-            {
-                Time.timeScale = 1;
-                characteristicsUI.Hide();
-            }
+    public bool Trigger()
+    {
+        if (!characteristicsUI.isActiveAndEnabled)
+        {
+            Time.timeScale = 0;
+            characteristicsUI.Show();
+
+            characteristicsModel.SetData(currentCharacteristics);
+            characteristicsUI.UpdateData(currentCharacteristics, characteristicsModel);
+            return true;
         }
+        Time.timeScale = 1;
+        characteristicsUI.Hide();
+        return false;
     }
 
     private void Start()

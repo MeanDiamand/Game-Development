@@ -32,4 +32,13 @@ public class Item : ScriptableObject
     {
         return null;
     }
+    public virtual void Use()
+    {
+        Debug.LogError("Use() not implemented in item");
+        throw new Exception("Use() not implemented in item");
+    }
+    public virtual string Type()
+    {
+        return "Item";
+    }
 }

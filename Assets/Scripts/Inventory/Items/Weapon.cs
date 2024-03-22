@@ -21,6 +21,11 @@ public class Weapon : Item
         return damage;
     }
 
+    public override string Type()
+    {
+        return "Weapon";
+    }
+
     [System.Serializable]
     public class Damage
     {
@@ -35,4 +40,5 @@ public class Weapon : Item
                 DamageType = DamageTypes.Physical
             };
     }
+ 
 }
