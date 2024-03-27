@@ -17995,7 +17995,7 @@ MonoBehaviour:
       - m_Target: {fileID: 2105702616}
         m_TargetAssemblyTypeName: GameOverEvents, Assembly-CSharp
         m_MethodName: RestartGame
-        m_Mode: 3
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -19954,6 +19954,7 @@ MonoBehaviour:
   - 'Lisa: Be careful!!!'
   - 'Black Knight: Yes, I will.'
   writingSpeed: 0.03
+  started: 0
 --- !u!114 &1857444381 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2834205030805045653, guid: 5bbcaafce08be3e4da4c3a0569530f13, type: 3}
@@ -20564,6 +20565,10 @@ PrefabInstance:
     - target: {fileID: 7989474328979070435, guid: 4e7b5550248cf694e84a16806df00725, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 4.999756
+      objectReference: {fileID: 0}
+    - target: {fileID: 7989474328979070435, guid: 4e7b5550248cf694e84a16806df00725, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -148.00002
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

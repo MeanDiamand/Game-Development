@@ -21,11 +21,11 @@ public class GameOverEvents : MonoBehaviour
     }
 
     // Method for restarting the game
-    public void RestartGame(int index)
+    public void RestartGame()
     {
         Time.timeScale = 1;
         HealthController.health = 5;
-        SceneManager.LoadScene(index);
+        SceneManager.LoadScene("SampleScene");
     }
 
     // Method for going back to Menu

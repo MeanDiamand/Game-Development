@@ -27,7 +27,7 @@ public class Dialog : MonoBehaviour
     private int charIndex;
 
     //started boolean
-    private Boolean started;
+    public Boolean started;
 
     //wait for next boolean
     private bool waitForNext;
@@ -48,7 +48,6 @@ public class Dialog : MonoBehaviour
         ToggleWindow(true);
         //start with first dialogue
         GetDialog(0);
-        
     }
 
     private void GetDialog(int i)
