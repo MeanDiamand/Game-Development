@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEditor.Progress;
 using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class ItemPUS : MonoBehaviour
@@ -18,6 +19,10 @@ public class ItemPUS : MonoBehaviour
     private void Start()
     {
         GetComponent<SpriteRenderer>().sprite = InventoryItem.ItemIcon;
+
+        // Set the sorting layer name
+        Renderer renderer = GetComponent<Renderer>();
+        renderer.sortingLayerName = "Player";
     }
 
     public void DestroyItem()

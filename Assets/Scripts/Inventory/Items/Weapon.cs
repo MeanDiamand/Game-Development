@@ -35,7 +35,7 @@ public class Weapon : Item
         public static Damage HandDamage()
             => new Damage
             {
-                Amount = 0.5f,
+                Amount = 1f,
                 Knock = 15,
                 DamageType = DamageTypes.Physical
             };

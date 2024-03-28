@@ -18,3 +18,4 @@ MonoBehaviour:
   <MaxStackSize>k__BackingField: 8
   <Description>k__BackingField: 
   <ItemIcon>k__BackingField: {fileID: -5188887995151912435, guid: dea598ed7be47f949a490bf09a56b4fe, type: 3}
+  healing: 2

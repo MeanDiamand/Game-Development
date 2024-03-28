@@ -1,7 +1,6 @@
 using System;
 using UnityEngine;
 using static CharacteristicsUI;
-using static UnityEngine.UI.Image;
 
 [CreateAssetMenu]
 public class PlayerCharacteristics : ScriptableObject
@@ -80,6 +79,11 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     public event Action<PlayerCharacteristics> OnUpdated;
+
+    public PlayerCharacteristics()
+    {
+        PlayerEvents.GetInstance().OnExperienceGained += GainExperience;
+    }
 
     public static PlayerCharacteristics CreateFrom(PlayerCharacteristics original)
     {
@@ -191,6 +195,7 @@ public class PlayerCharacteristics : ScriptableObject
 
     public void GainExperience(int amount)
     {
+        Debug.Log("Experience Gained: " + amount);
         _experience += amount;
         while (_experience >= EXPERIENCE_FOR_LVL[_level])
         {

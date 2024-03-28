@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
@@ -11,11 +12,12 @@ public class InventoryController : MonoBehaviour, IUIController
     private UIInventory inventoryUI;
     [SerializeField]
     private Inventory inventoryModel;
-    public List<InventorySlot> initialItems = new List<InventorySlot>();
+    public event Action OnInventoryUpdated;
     private void Start()
     {
         InitializeUI();
         InitializeInventoryModel();
+        Debug.Log("InventoryController Start()");
     }
     public bool Trigger()
     {
@@ -43,12 +45,14 @@ public class InventoryController : MonoBehaviour, IUIController
     {
         inventoryModel.Initialize();
         inventoryModel.OnInventoryUpdated += UpdateInventoryUI;
+        /*
         foreach (InventorySlot slot in initialItems)
         {
             if (slot.IsEmpty)
                 continue;
             inventoryModel.AddItem(slot);
         }
+        */
     }
     private void UpdateInventoryUI(List<InventorySlot> inventoryState)
     {
@@ -56,6 +60,7 @@ public class InventoryController : MonoBehaviour, IUIController
         inventoryUI.ResetAllItems();
         foreach (var slot in inventoryState)
             inventoryUI.UpdateData(slot);
+        OnInventoryUpdated?.Invoke();
     }
     /*
     private void HandleItemActionRequest(int itemIndex)

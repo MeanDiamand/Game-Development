@@ -24,7 +24,8 @@ public class GameOverEvents : MonoBehaviour
     public void RestartGame()
     {
         Time.timeScale = 1;
-        HealthController.health = 5;
+        //HealthController.health = 5;
+        PlayerEvents.GetInstance().GameStarted();
         SceneManager.LoadScene("SampleScene");
     }
 

@@ -17,8 +17,11 @@ public class UIController : MonoBehaviour
     private bool inventoryOpened;
     private bool characteristicsOpened;
 
+    private bool isActive = true;
+
     public void Update()
     {
+        if (!isActive) return;
         if (Input.GetKeyDown(KeyCode.I) && !characteristicsOpened)
         {
             inventoryOpened = inventoryController.Trigger();
@@ -54,5 +57,16 @@ public class UIController : MonoBehaviour
             Debug.LogError("characteristicsController is null in Controller");
         if (quickAccessBar == null)
             Debug.LogError("quickAccessBar is null in Controller");
+        inventoryController.OnInventoryUpdated += quickAccessBar.Upd;
+    }
+    public void Hide()
+    {
+        isActive = false;
+        quickAccessBar.Hide();
+    }
+    public void Show()
+    {
+        isActive = true;
+        quickAccessBar.Show();
     }
 }

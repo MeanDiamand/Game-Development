@@ -7,7 +7,8 @@ public class MenuEvents : MonoBehaviour
     public void StartGame()
     {
         Time.timeScale = 1;
-        HealthController.health = 5;
+        //HealthController.health = 5;
+        PlayerEvents.GetInstance().GameStarted();
         SceneManager.LoadScene("SampleScene");
     }
 }

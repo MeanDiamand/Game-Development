@@ -1,4 +1,5 @@
 using Assets.Interfaces;
+using Assets.Scripts;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,11 +7,12 @@ using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
-    public static float health = 5;
     public Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart;
 
+    [SerializeField]
+    private DamagableCharacter character;
 
     // Update is called once per frame
     void Update()
@@ -22,7 +24,7 @@ public class HealthController : MonoBehaviour
         }
 
         // Adding the fullHeart into the array
-        for(int i = 0; i < health; i++) 
+        for(int i = 0; i < character.Health; i++) 
         {
             hearts[i].sprite = fullHeart;
         }

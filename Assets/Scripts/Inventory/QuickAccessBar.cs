@@ -16,11 +16,18 @@ public class QuickAccessBar : MonoBehaviour
     {
         gameObject.SetActive(true);
 
-        for (int i = 0; i < 2; i++) {
+        Upd();
+    }
+
+    public void Upd()
+    {
+        for (int i = 0; i < 2; i++)
+        {
             Inventory.InventorySlot slot = inventory.GetSlotAt(5 + i);
             if (slot.IsEmpty)
-                continue;
-            slots[i].SetData(slot.item.ItemIcon, slot.quantity);
+                slots[i].ResetData();
+            else
+                slots[i].SetData(slot.item.ItemIcon, slot.quantity);
         }
     }
 

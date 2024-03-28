@@ -7,6 +7,9 @@ public class DialogueTrigger : MonoBehaviour
     public Dialog dialogScript;
     private bool playerDetected;
 
+    [SerializeField]
+    private UIController uiController;
+
     //detect trigger with player
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -22,6 +25,7 @@ public class DialogueTrigger : MonoBehaviour
         {
             playerDetected = false;
             dialogScript.EndDialog();
+            uiController.Show();
         }
     }
     //While detected if we interact start the dialogue
@@ -30,6 +34,7 @@ public class DialogueTrigger : MonoBehaviour
         if(playerDetected && Input.GetKeyDown(KeyCode.E)) 
         {
             dialogScript.StartDialog();
+            uiController.Hide();
         }
     }
 }
