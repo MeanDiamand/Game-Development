@@ -7,7 +7,7 @@ using static Inventory;
 public class Weapon : Item
 {
     [field: SerializeField]
-    public Damage damage { get; set; } = Damage.HandDamage();
+    public Damage damage { get; set; }
     public Weapon() 
     {}
     public Weapon(Damage damage) 
@@ -21,6 +21,11 @@ public class Weapon : Item
         return damage;
     }
 
+    public override string Type()
+    {
+        return "Weapon";
+    }
+
     [System.Serializable]
     public class Damage
     {
@@ -30,9 +35,10 @@ public class Weapon : Item
         public static Damage HandDamage()
             => new Damage
             {
-                Amount = 0.5f,
+                Amount = 1f,
                 Knock = 15,
                 DamageType = DamageTypes.Physical
             };
     }
+ 
 }

@@ -1,10 +1,17 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
 public class Potion : Item
 {
-    public int Healing { get; set; }
-    public Potion() { }
+    [SerializeField]
+    private int healing;
+    public override string Type()
+    {
+        return "Potion";
+    }
+    public override void Use()
+    {
+        Debug.Log("Healing");
+        PlayerEvents.GetInstance().Heal(healing);
+    }
 }

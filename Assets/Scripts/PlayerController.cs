@@ -34,6 +34,8 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("isMoving", value);
         }
     }
+    [SerializeField]
+    private PlayerCharacteristics characteristics;
 
     public void Start()
     {
@@ -66,7 +68,7 @@ public class PlayerController : MonoBehaviour
     public void Move(Vector2 direction)
     {
         //rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
-        rb.AddForce(input * moveSpeed * Time.deltaTime);
+        rb.AddForce(input * moveSpeed * (1 + 0.1f * characteristics.Agility) * Time.deltaTime);
         if(rb.velocity.magnitude > maxSpeed)
         {
             float limitedSpeed = Mathf.Lerp(rb.velocity.magnitude, maxSpeed, idleFriction);

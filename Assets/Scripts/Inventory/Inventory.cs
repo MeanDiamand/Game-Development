@@ -75,8 +75,13 @@ public class Inventory : ScriptableObject
         slot.index = index;
         slots[index] = slot;
     }
-    public InventorySlot GetItemAt(int itemIndex)
+    public InventorySlot GetSlotAt(int itemIndex)
     {
+        if (itemIndex >= slots.Count || itemIndex < 0)
+        {
+            Debug.LogWarning("Index out of range: " + itemIndex + " | " + slots.Count);
+            return new InventorySlot();
+        }
         return slots[itemIndex];
     }
     public void SwapItems(int itemIndex_1, int itemIndex_2)
@@ -108,6 +113,23 @@ public class Inventory : ScriptableObject
         return activeSlots;
     }
 
+    public void UsePotion(int id)
+    {
+        if (id > 1 || id < 0) return;
+
+        InventorySlot slot = slots[5 + id];
+
+        Item item = slot.item;
+        if (slot.IsEmpty) return;
+        if (slot.quantity <= 0) return;
+
+        slots[5 + id] = slots[5 + id].ChangeQuantity(slot.quantity - 1);
+        item.Use();
+        if (slots[5 + id].quantity <= 0)
+            slots[5 + id] = InventorySlot.GetEmpty(slots[5 + id].index);
+        OnInventoryUpdated?.Invoke(GetCurrentInventoryState());
+    }
+
 
     [Serializable]
     public struct InventorySlot
@@ -121,8 +143,9 @@ public class Inventory : ScriptableObject
         {
             return new InventorySlot
             {
-                item = this.item,
-                quantity = newQuantity
+                index = this.index,
+                quantity = newQuantity,
+                item = this.item
             };
         }
         /// <summary>

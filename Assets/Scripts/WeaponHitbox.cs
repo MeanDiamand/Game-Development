@@ -23,9 +23,10 @@ public class WeaponHitbox : MonoBehaviour
 
     private int directionHit = 0;
 
-    [field: SerializeField]
+    [SerializeField]
     private Inventory inventory;
-
+    [SerializeField]
+    private PlayerCharacteristics characteristics;
     private void Start()
     {
         if(swordCollider == null)
@@ -49,7 +50,7 @@ public class WeaponHitbox : MonoBehaviour
             Vector2 direction = (Vector2) (collision.gameObject.transform.position - parentPos).normalized;
             Vector2 knockback = direction * damage.Knock;
 
-            damagable.OnHit(damage.Amount, knockback, directionHit);
+            damagable.OnHit(damage.Amount * (1 + 0.1f * characteristics.Strength), knockback * (1 + 0.05f * characteristics.Strength), directionHit);
         } 
     }
 

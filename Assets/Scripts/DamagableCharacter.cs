@@ -10,12 +10,20 @@ namespace Assets.Scripts
 {
     public class DamagableCharacter: MonoBehaviour, IDamagable
     {
+        [SerializeField]
+        public List<ItemPUS> deathItemPrefabs;
+
         private Animator animator;
         private Rigidbody2D rb;
         private Collider2D physicsCollider;
         private FloatingStatusBar statusBar;
         private bool isAlive = true;
-        private int counter = 0;
+        private float counter = 0;
+        private int EXP_FOR_KILL = 10;
+
+        private float maxHealth = 5;
+
+        private float _health = 5;
         public float Health
         {
             get { return _health; }
@@ -28,17 +36,22 @@ namespace Assets.Scripts
 
                 _health = value;
 
+                if (_health > maxHealth)
+                    _health = maxHealth;
+
                 if (_health <= 0)
                 {
                     animator.SetBool("isAlive", false);
                     IsHitable = false;
-                    if (counter == 4)
+                    if (counter >= 4.0)
                     {
                         GameOverEvents.isGameOver = true;
                     }
                 }
             }
         }
+
+        private bool _isHitable = true;
         public bool IsHitable
         {
             get { return _isHitable; }
@@ -54,8 +67,6 @@ namespace Assets.Scripts
         }
 
         public bool isSimulated = true;
-        public float _health = 5;
-        public bool _isHitable = true;
 
         public void Start()
         {
@@ -64,6 +75,16 @@ namespace Assets.Scripts
             rb = GetComponent<Rigidbody2D>();
             physicsCollider = GetComponent<Collider2D>();
             animator.SetBool("isAlive", true);
+
+            if (!isSimulated)
+                PlayerEvents.GetInstance().OnHealed += Heal;
+
+            PlayerEvents.GetInstance().OnGameStart += GameStarted;
+        }
+
+        public void Heal(int amount)
+        {
+            Health += amount;
         }
 
         public void OnHit(float damage, Vector2 knockDirection, int direction)
@@ -99,21 +120,36 @@ namespace Assets.Scripts
         public void OnHit(float damage, Vector2 knockDirection)
         {
             Health -= damage;
-            HealthController.health -= 1;
-            counter += 1;
+            counter += damage;
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
         public void OnHit(float damage)
         {
             Health -= damage;
-            HealthController.health -= 1;
-            counter += 1;
+            counter += damage;
+        }
+
+        private void GameStarted()
+        {
+            Health = maxHealth;
         }
 
         public void KillObject()
         {
+            //System.Random random = new System.Random();
+            //if (random.Next(11) == 0)
+            Instantiate(PickDeathPrefab(), transform.position, Quaternion.identity);
+            PlayerEvents.GetInstance().ExperienceGained(EXP_FOR_KILL);
             Destroy(gameObject);
+        }
+
+        private ItemPUS PickDeathPrefab()
+        {
+            if (deathItemPrefabs.Count == 0)
+                return null;
+            System.Random random = new System.Random();
+            return deathItemPrefabs[random.Next(deathItemPrefabs.Count)];
         }
 
     }

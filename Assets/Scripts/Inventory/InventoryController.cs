@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
@@ -5,34 +6,32 @@ using UnityEngine;
 using UnityEngine.Audio;
 using static Inventory;
 
-public class InventoryController : MonoBehaviour
+public class InventoryController : MonoBehaviour, IUIController
 {
     [SerializeField]
     private UIInventory inventoryUI;
     [SerializeField]
     private Inventory inventoryModel;
-    public List<InventorySlot> initialItems = new List<InventorySlot>();
+    public event Action OnInventoryUpdated;
     private void Start()
     {
         InitializeUI();
         InitializeInventoryModel();
+        Debug.Log("InventoryController Start()");
     }
-
-    public void Update()
+    public bool Trigger()
     {
-        if (Input.GetKeyDown(KeyCode.I))
+        if (!inventoryUI.isActiveAndEnabled)
         {
-            if (!inventoryUI.isActiveAndEnabled)
+            inventoryUI.Show();
+            foreach (var slot in inventoryModel.GetCurrentInventoryState())
             {
-                inventoryUI.Show();
-                foreach (var slot in inventoryModel.GetCurrentInventoryState())
-                {
-                    inventoryUI.UpdateData(slot);
-                }
+                inventoryUI.UpdateData(slot);
             }
-            else
-                inventoryUI.Hide();
+            return true;
         }
+        inventoryUI.Hide();
+        return false;
     }
     private void InitializeUI()
     {
@@ -46,12 +45,14 @@ public class InventoryController : MonoBehaviour
     {
         inventoryModel.Initialize();
         inventoryModel.OnInventoryUpdated += UpdateInventoryUI;
+        /*
         foreach (InventorySlot slot in initialItems)
         {
             if (slot.IsEmpty)
                 continue;
             inventoryModel.AddItem(slot);
         }
+        */
     }
     private void UpdateInventoryUI(List<InventorySlot> inventoryState)
     {
@@ -59,6 +60,7 @@ public class InventoryController : MonoBehaviour
         inventoryUI.ResetAllItems();
         foreach (var slot in inventoryState)
             inventoryUI.UpdateData(slot);
+        OnInventoryUpdated?.Invoke();
     }
     /*
     private void HandleItemActionRequest(int itemIndex)
@@ -114,20 +116,58 @@ public class InventoryController : MonoBehaviour
     */
     private void HandleDragging(int itemIndex)
     {
-        InventorySlot slot = inventoryModel.GetItemAt(itemIndex);
+        InventorySlot slot = inventoryModel.GetSlotAt(itemIndex);
         if (slot.IsEmpty)
             return;
         inventoryUI.CreateDraggedItem(slot.item.ItemIcon, slot.quantity);
     }
     private void HandleSwapItems(int itemIndex_1, int itemIndex_2)
     {
+        Item item = inventoryModel.GetSlotAt(itemIndex_1).item;
+        if (item == null)
+            return;
+        switch (itemIndex_2)
+        {
+            case 0:
+                if (!item.Type().Equals("Helmet"))
+                    return;
+                break;
+            case 1:
+                if (!item.Type().Equals("Chestplate"))
+                    return;
+                break;
+            case 2:
+                if (!item.Type().Equals("Leggins"))
+                    return;
+                break;
+            case 3:
+                if (!item.Type().Equals("Boots"))
+                    return;
+                break;
+            case 4:
+                if (!item.Type().Equals("Weapon"))
+                    return;
+                break;
+            case 5:
+                if (!item.Type().Equals("Potion"))
+                    return;
+                break;
+            case 6:
+                if (!item.Type().Equals("Potion"))
+                    return;
+                break;
+            default:
+                break;
+        }
         inventoryModel.SwapItems(itemIndex_1, itemIndex_2);
     }
     private void HandleDescriptionRequest(int itemIndex)
     {
         Debug.Log("HandleDescriptionRequest");
-        InventorySlot slot = inventoryModel.GetItemAt(itemIndex);
+        InventorySlot slot = inventoryModel.GetSlotAt(itemIndex);
         Item item = slot.item;
+        if (item == null)
+            return;
         inventoryUI.UpdateDescription(item.Description);
     }
 }

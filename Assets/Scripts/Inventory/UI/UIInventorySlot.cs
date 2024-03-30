@@ -19,6 +19,7 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
             OnItemAlternativeClicked;
 
     private bool empty = true;
+    public bool IsEmpty { get { return empty; } }
 
     public static UIInventorySlot InstantiateEmpty(RectTransform contentPanel, UIInventorySlot itemPrefab)
     {
