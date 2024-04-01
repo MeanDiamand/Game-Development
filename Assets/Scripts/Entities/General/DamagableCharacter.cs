@@ -77,7 +77,9 @@ namespace Assets.Scripts
             animator.SetBool("isAlive", true);
 
             if (!isSimulated)
+            {
                 PlayerEvents.GetInstance().OnHealed += Heal;
+            }
 
             PlayerEvents.GetInstance().OnGameStart += GameStarted;
         }
@@ -90,7 +92,7 @@ namespace Assets.Scripts
         public void OnHit(float damage, Vector2 knockDirection, int direction)
         {
             Health -= damage;
-            statusBar.UpdateStatusBar(Health, 3f);
+            statusBar.UpdateStatusBar(Health, maxHealth);
             switch (direction)
             {
                 //Hit from right
@@ -137,8 +139,6 @@ namespace Assets.Scripts
 
         public void KillObject()
         {
-            //System.Random random = new System.Random();
-            //if (random.Next(11) == 0)
             Instantiate(PickDeathPrefab(), transform.position, Quaternion.identity);
             PlayerEvents.GetInstance().ExperienceGained(EXP_FOR_KILL);
             Destroy(gameObject);

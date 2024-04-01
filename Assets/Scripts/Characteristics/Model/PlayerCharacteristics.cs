@@ -199,7 +199,7 @@ public class PlayerCharacteristics : ScriptableObject
         _experience += amount;
         while (_experience >= EXPERIENCE_FOR_LVL[_level])
         {
-            if (_level == EXPERIENCE_FOR_LVL.Length)
+            if (_level == EXPERIENCE_FOR_LVL.Length - 1)
                 return;
             _experience -= EXPERIENCE_FOR_LVL[_level];
             _level++;

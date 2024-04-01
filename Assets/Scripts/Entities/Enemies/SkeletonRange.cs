@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DetectionRange : MonoBehaviour
+public class SkeletonRange : MonoBehaviour
 {
     public string tagTarget = "Player";
     public List<Collider2D> detectedObjects = new List<Collider2D>();
@@ -16,7 +16,7 @@ public class DetectionRange : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == tagTarget)
+        if (collision.gameObject.tag == tagTarget)
         {
             detectedObjects.Add(collision);
         }
@@ -28,11 +28,5 @@ public class DetectionRange : MonoBehaviour
         {
             detectedObjects.Remove(collision);
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
