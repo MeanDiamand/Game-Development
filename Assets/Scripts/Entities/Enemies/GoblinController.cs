@@ -1,16 +1,20 @@
 using Assets.Interfaces;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Windows;
 
 public class GoblinController : MonoBehaviour
 {
     public DetectionRange detectionRrange;
-    public AttackRange attackRrange;
+    public DetectionRange attackRrange;
     public float moveSpeed = 500f;
+    public float cooldown = 1;
+
     private Rigidbody2D rb;
     private Animator animator;
+    private float lastHit;
 
     private void Start()
     {
@@ -42,23 +46,13 @@ public class GoblinController : MonoBehaviour
         
     }
 
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    IDamagable damagable = collision.collider.GetComponent<IDamagable>();
-
-    //    if(damagable != null )
-    //    {
-    //        Vector2 direction = (Vector2)(collision.gameObject.transform.position - transform.position).normalized;
-    //        Vector2 knockback = direction * knockForce;
-    //        animator.SetFloat("moveX", direction.x);
-    //        animator.SetFloat("moveY", direction.y);
-
-    //        damagable.OnHit(damage, knockback);
-    //    }
-    //}
-
     private void Attack()
     {
+        if (Time.time - lastHit < cooldown)
+        {
+            return;
+        }
+        lastHit = Time.time;
         animator.SetTrigger("GoblinAttack");
     }
 

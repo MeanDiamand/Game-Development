@@ -19,6 +19,8 @@ GameObject:
   - component: {fileID: 4460770645159878285}
   - component: {fileID: 4732670009934186645}
   - component: {fileID: 4590283162424171358}
+  - component: {fileID: 6810071562921996167}
+  - component: {fileID: 6319399922469642418}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -205,6 +207,7 @@ MonoBehaviour:
   moveSpeed: 600
   maxSpeed: 8
   collisionOffset: 0.05
+  cooldown: 1
   contactFilter:
     useTriggers: 0
     useLayerMask: 0
@@ -222,6 +225,7 @@ MonoBehaviour:
   attackRange: 0.5
   idleFriction: 0.9
   attackPoint: {fileID: 9049807826575470842}
+  characteristics: {fileID: 0}
 --- !u!114 &1535035437901162612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -242,6 +246,7 @@ MonoBehaviour:
   - {fileID: 0}
   fullHeart: {fileID: -7056574788307857597, guid: 1cfd293cc22dbff459c52cc9db3d12d5, type: 3}
   emptyHeart: {fileID: -6987356917511363596, guid: 9fad5c5e7f8c19c4baaf0319e10a1fad, type: 3}
+  character: {fileID: 4590283162424171358}
 --- !u!95 &753471251995099291
 Animator:
   serializedVersion: 7
@@ -278,7 +283,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventoryUI: {fileID: 0}
   inventoryModel: {fileID: 11400000, guid: bb4b01774d0f5bd458c21146d6fe1e19, type: 2}
-  initialItems: []
 --- !u!114 &4732670009934186645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -304,9 +308,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6be41f839e5e2f140bb3b36ad0df3b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathItemPrefabs: []
   isSimulated: 0
-  _health: 5
-  _isHitable: 1
+--- !u!114 &6810071562921996167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1382890471579353318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18bd021688771494e931b1f8f8644f05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characteristicsUI: {fileID: 0}
+  characteristicsModel: {fileID: 0}
+  currentCharacteristics: {fileID: 11400000, guid: fe8e350fa3cf3ab47840b1f845af63ec, type: 2}
+--- !u!114 &6319399922469642418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1382890471579353318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2af172a80c1bfa4392352c903fb7408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryController: {fileID: 4460770645159878285}
+  characteristicsController: {fileID: 6810071562921996167}
+  quickAccessBar: {fileID: 0}
 --- !u!1 &9049807826575470842
 GameObject:
   m_ObjectHideFlags: 0
@@ -401,3 +434,4 @@ MonoBehaviour:
   weaponDamage: 1
   swordCollider: {fileID: 6557869855264477232}
   inventory: {fileID: 11400000, guid: bb4b01774d0f5bd458c21146d6fe1e19, type: 2}
+  characteristics: {fileID: 0}

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
+using Unity.VisualScripting;
 using UnityEditor.Experimental;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -14,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed = 600f;
     public float maxSpeed = 10f;
     public float collisionOffset = 0.05f;
+    public float cooldown = 1;
     public ContactFilter2D contactFilter;
     public float attackRange = 0.5f;
     public float idleFriction = 0.9f;
@@ -24,6 +26,7 @@ public class PlayerController : MonoBehaviour
     private List<RaycastHit2D> collisions = new List<RaycastHit2D>();
     private Rigidbody2D rb;
     private Collider2D swordCollider;
+    private float lastHit;
 
     private bool isMoving = false;
     private bool IsMoving
@@ -95,6 +98,11 @@ public class PlayerController : MonoBehaviour
 
     private void SwordAttack()
     {
+        if(Time.time - lastHit < cooldown)
+        {
+            return;
+        }
+        lastHit = Time.time;
         animator.SetTrigger("SwordAttack");
     }
 

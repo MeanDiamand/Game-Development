@@ -493,8 +493,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   detectionRrange: {fileID: 591847127275313442}
-  attackRrange: {fileID: 894225281231688168}
+  attackRrange: {fileID: 3673986820162191334}
   moveSpeed: 800
+  cooldown: 1
 --- !u!114 &1124187622996254850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -507,9 +508,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6be41f839e5e2f140bb3b36ad0df3b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathItemPrefabs:
+  - {fileID: 0}
+  - {fileID: 0}
   isSimulated: 1
-  _health: 3
-  _isHitable: 1
 --- !u!1 &2739011353568830256
 GameObject:
   m_ObjectHideFlags: 0
@@ -604,7 +606,7 @@ GameObject:
   m_Component:
   - component: {fileID: 160883508912440430}
   - component: {fileID: 1322659428675340985}
-  - component: {fileID: 894225281231688168}
+  - component: {fileID: 3673986820162191334}
   m_Layer: 0
   m_Name: AttackRange
   m_TagString: Untagged
@@ -663,7 +665,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.015258789}
   m_Radius: 2.1373243
---- !u!114 &894225281231688168
+--- !u!114 &3673986820162191334
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -672,7 +674,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4553363971623442798}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8270513f01edd046a8a23f6bba2240b, type: 3}
+  m_Script: {fileID: 11500000, guid: 89cd6920244e8ed4b9efabd4f044b622, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tagTarget: Player
