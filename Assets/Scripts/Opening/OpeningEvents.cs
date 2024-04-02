@@ -7,15 +7,21 @@ using UnityEngine.SceneManagement;
 
 public class OpeningEvents : MonoBehaviour
 {
-    public Dialog dialogScript;
+    public OpDialogue opDialogueScript;
+    public static Boolean next = false;
 
     private void Awake()
     {
-        dialogScript.StartDialog();
+        opDialogueScript.StartDialogue();
     }
 
     public void startgame()
     {
         SceneManager.LoadScene("Menu");
+    }
+
+    public void nextDialogue()
+    {
+        next = true;
     }
 }
