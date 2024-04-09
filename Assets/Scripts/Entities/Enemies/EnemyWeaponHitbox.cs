@@ -22,6 +22,7 @@ public class EnemyWeaponHitbox : MonoBehaviour
     private Vector3 faceRightSize = new Vector3(1f, 1f, 0);
 
     private Animator animator;
+    private int directionHit = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -82,11 +83,5 @@ public class EnemyWeaponHitbox : MonoBehaviour
             gameObject.transform.localPosition = faceDown;
             gameObject.transform.localScale = faceDownSize;
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

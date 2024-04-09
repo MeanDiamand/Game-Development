@@ -1,3 +1,4 @@
+using Assets.Interfaces;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,21 +6,36 @@ using UnityEngine;
 public class ArrowController : MonoBehaviour
 {
     public float speed;
+    public float arrowDamage = 1f;
+    public float knockForce = 200f;
+
     GameObject target;
     Rigidbody2D rb;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         target = GameObject.FindGameObjectWithTag("Player");
+
         Vector2 direction = (target.transform.position - transform.position).normalized * speed;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        rb.MoveRotation(angle);
         rb.velocity = new Vector2 (direction.x, direction.y);
-        Destroy(this.gameObject, 2);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        IDamagable damagable = collision.GetComponent<Collider2D>().GetComponent<IDamagable>();
+        if (damagable != null)
+        {
+            Vector2 direction = (Vector2)(collision.gameObject.transform.position - transform.position).normalized;
+            Vector2 knockback = direction * knockForce;
+
+            damagable.OnHit(arrowDamage, knockback);
+            Destroy(this.gameObject);
+        }
     }
 }

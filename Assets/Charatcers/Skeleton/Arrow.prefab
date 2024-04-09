@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 808493272679394977}
   - component: {fileID: 6539377037836253516}
   - component: {fileID: 3486756932307928809}
-  - component: {fileID: 331968746615686876}
+  - component: {fileID: -5469391157440281191}
   m_Layer: 0
   m_Name: Arrow
   m_TagString: Untagged
@@ -102,6 +102,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  arrowDamage: 1
+  knockForce: 200
 --- !u!61 &3486756932307928809
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -132,11 +134,11 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.7821989, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -146,9 +148,9 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.0625, y: 0.4375}
+  m_Size: {x: 0.4981022, y: 0.4375}
   m_EdgeRadius: 0
---- !u!50 &331968746615686876
+--- !u!50 &-5469391157440281191
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0

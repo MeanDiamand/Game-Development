@@ -42,6 +42,8 @@ namespace Assets.Scripts
                 if (_health <= 0)
                 {
                     animator.SetBool("isAlive", false);
+                    rb.velocity = Vector2.zero;
+                    rb.isKinematic = true;
                     IsHitable = false;
                     if (counter >= 4.0)
                     {
