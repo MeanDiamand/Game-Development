@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class SkeletonController : MonoBehaviour
@@ -12,7 +13,7 @@ public class SkeletonController : MonoBehaviour
     public float moveSpeed = 500f;
     public float startShootCooldown;
 
-    private float shootCooldown = 0.2f;
+    private float shootCooldown;
     private Rigidbody2D rb;
     private Animator animator;
     private GameObject arrowPosition;
@@ -54,8 +55,8 @@ public class SkeletonController : MonoBehaviour
                 rb.velocity = Vector2.zero;
                 rb.isKinematic = true;
                 animator.SetBool("isMoving", false);
-                animator.SetFloat("moveX", direction.x);
-                animator.SetFloat("moveY", direction.y);
+                animator.SetFloat("moveX", (float)System.Math.Round(direction.x));
+                animator.SetFloat("moveY", (float)System.Math.Round(direction.y));
                 StartShootAnimation();
 
 
@@ -92,6 +93,7 @@ public class SkeletonController : MonoBehaviour
 
     public void ShootArrow()
     {
+        Debug.Log("ShootArrow method called.");
         Instantiate(arrow, arrowParent.transform.position, Quaternion.identity);
     }
 
