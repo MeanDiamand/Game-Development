@@ -421,7 +421,7 @@ MonoBehaviour:
   arrow: {fileID: 7421285317564441544, guid: 73bd8a2418fd1df48b112af327a75b97, type: 3}
   arrowParent: {fileID: 4314374148214315243}
   moveSpeed: 2000
-  startShootCooldown: 3
+  startShootCooldown: 2
 --- !u!1 &2377036640309877527
 GameObject:
   m_ObjectHideFlags: 0
