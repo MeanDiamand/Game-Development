@@ -1096,7 +1096,7 @@ MonoBehaviour:
   - It was then, at that moment when he expected the beginning of his usual routine,
     that something strange and inexplicable occurred, turning the whole world upside
     down..."
-  writingSpeed: 0.03
+  writingSpeed: 0.01
   started: 0
 --- !u!1 &1370333851
 GameObject:
