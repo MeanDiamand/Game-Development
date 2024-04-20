@@ -17053,6 +17053,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1124187622996254850, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
+      propertyPath: 'deathItemPrefabs.Array.data[0]'
+      value: 
+      objectReference: {fileID: 345683506}
+    - target: {fileID: 1124187622996254850, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
+      propertyPath: 'deathItemPrefabs.Array.data[1]'
+      value: 
+      objectReference: {fileID: 197202453}
     - target: {fileID: 1306571874391526211, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
       propertyPath: m_Name
       value: Skeleton
@@ -20162,7 +20170,7 @@ MonoBehaviour:
   - 'Black Knight: Don''t worry! I will give everything I got.'
   - 'Lisa: Be careful!!!'
   - 'Black Knight: Yes, I will.'
-  writingSpeed: 0.03
+  writingSpeed: 0.01
   started: 0
 --- !u!114 &1857444381 stripped
 MonoBehaviour:

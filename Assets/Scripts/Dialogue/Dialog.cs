@@ -104,7 +104,7 @@ public class Dialog : MonoBehaviour
     {
         if (!started) return;
 
-        if(waitForNext && Input.GetKeyDown(KeyCode.E)) 
+        if(waitForNext && Input.GetKeyDown(KeyCode.F)) 
         {
             waitForNext = false;
             index++;
