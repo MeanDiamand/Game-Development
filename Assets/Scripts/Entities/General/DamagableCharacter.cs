@@ -116,7 +116,7 @@ namespace Assets.Scripts
                 case 3:
                     animator.SetFloat("moveX", 0);
                     animator.SetFloat("moveY", 1);
-                    break;
+                    break; 
             }
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
