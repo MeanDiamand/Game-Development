@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: 40278199a882b5b41b87821ac41b3fe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2616941710987155756
+    second: WeaponlessKnight_0
+  - first:
+      213: -7633220057840602238
+    second: WeaponlessKnight_1
+  - first:
+      213: 4326483467858227771
+    second: WeaponlessKnight_2
+  - first:
+      213: 1990406705199532099
+    second: WeaponlessKnight_3
+  - first:
+      213: 4319749811271659711
+    second: WeaponlessKnight_4
+  - first:
+      213: -658819542468865150
+    second: WeaponlessKnight_5
+  - first:
+      213: 5048355483146027471
+    second: WeaponlessKnight_6
+  - first:
+      213: 8271465033038345830
+    second: WeaponlessKnight_7
+  - first:
+      213: -4620845026934634790
+    second: WeaponlessKnight_8
+  - first:
+      213: 4064322415475978806
+    second: WeaponlessKnight_9
+  - first:
+      213: -3611818630062602022
+    second: WeaponlessKnight_10
+  - first:
+      213: 2926736227350743244
+    second: WeaponlessKnight_11
+  - first:
+      213: 2358824431604729144
+    second: WeaponlessKnight_12
+  - first:
+      213: 1490810651284289591
+    second: WeaponlessKnight_13
+  - first:
+      213: -4779635125065007704
+    second: WeaponlessKnight_14
+  - first:
+      213: -58383966529217225
+    second: WeaponlessKnight_15
+  - first:
+      213: -4204108791331601859
+    second: WeaponlessKnight_16
+  - first:
+      213: -2956875845129643927
+    second: WeaponlessKnight_17
+  - first:
+      213: 7539455460846216767
+    second: WeaponlessKnight_18
+  - first:
+      213: -5612466760331211452
+    second: WeaponlessKnight_19
+  - first:
+      213: 1499391507224378108
+    second: WeaponlessKnight_20
+  - first:
+      213: 2372402631179547012
+    second: WeaponlessKnight_21
+  - first:
+      213: 8732577249470840684
+    second: WeaponlessKnight_22
+  - first:
+      213: -3626540966687961008
+    second: WeaponlessKnight_23
+  - first:
+      213: -1728224801583635128
+    second: WeaponlessKnight_24
+  - first:
+      213: 4652761187166820293
+    second: WeaponlessKnight_25
+  - first:
+      213: -3065106499274957109
+    second: WeaponlessKnight_26
+  - first:
+      213: -8751426341798018275
+    second: WeaponlessKnight_27
+  - first:
+      213: -6704116433011065093
+    second: WeaponlessKnight_28
+  - first:
+      213: -7785948350949256740
+    second: WeaponlessKnight_29
+  - first:
+      213: -4710537503280996873
+    second: WeaponlessKnight_30
+  - first:
+      213: 5800336241550491548
+    second: WeaponlessKnight_31
+  - first:
+      213: -273149860408332234
+    second: WeaponlessKnight_32
+  - first:
+      213: -7191251259391168943
+    second: WeaponlessKnight_33
+  - first:
+      213: -4392068346862076343
+    second: WeaponlessKnight_34
+  - first:
+      213: 56225839058992666
+    second: WeaponlessKnight_35
+  - first:
+      213: 7673847012694480386
+    second: WeaponlessKnight_36
+  - first:
+      213: 3805961314387164140
+    second: WeaponlessKnight_37
+  - first:
+      213: -9067782972839236351
+    second: WeaponlessKnight_38
+  - first:
+      213: -989489124923874492
+    second: WeaponlessKnight_39
+  - first:
+      213: 2047724581017377711
+    second: WeaponlessKnight_40
+  - first:
+      213: -1516633644416682161
+    second: WeaponlessKnight_41
+  - first:
+      213: 5586072809621300117
+    second: WeaponlessKnight_42
+  - first:
+      213: -7826404559463905322
+    second: WeaponlessKnight_43
+  - first:
+      213: -3814928427899789586
+    second: WeaponlessKnight_44
+  - first:
+      213: 5910105974274398980
+    second: WeaponlessKnight_45
+  - first:
+      213: 4517658397886452069
+    second: WeaponlessKnight_46
+  - first:
+      213: 5267262196657950627
+    second: WeaponlessKnight_47
+  - first:
+      213: 8897362841841599783
+    second: WeaponlessKnight_48
+  - first:
+      213: -1448459953411299215
+    second: WeaponlessKnight_49
+  - first:
+      213: 641654189059693128
+    second: WeaponlessKnight_50
+  - first:
+      213: -5627827859701746943
+    second: WeaponlessKnight_51
+  - first:
+      213: 380443592676924823
+    second: WeaponlessKnight_52
+  - first:
+      213: -2113435480312989531
+    second: WeaponlessKnight_53
+  - first:
+      213: -6720199041893955715
+    second: WeaponlessKnight_54
+  - first:
+      213: -3158344889534439412
+    second: WeaponlessKnight_55
+  - first:
+      213: 7272801230800714808
+    second: WeaponlessKnight_56
+  - first:
+      213: 1922683619189018783
+    second: WeaponlessKnight_57
+  - first:
+      213: 5190450103614675656
+    second: WeaponlessKnight_58
+  - first:
+      213: -2162280771100767363
+    second: WeaponlessKnight_59
+  - first:
+      213: 6990444665160269204
+    second: WeaponlessKnight_60
+  - first:
+      213: 6608514518436553934
+    second: WeaponlessKnight_61
+  - first:
+      213: -9098871830496524320
+    second: WeaponlessKnight_62
+  - first:
+      213: 7492241022173764037
+    second: WeaponlessKnight_63
+  - first:
+      213: 1050445676840635163
+    second: WeaponlessKnight_64
+  - first:
+      213: -5934774358531233730
+    second: WeaponlessKnight_65
+  - first:
+      213: 4704398875874539311
+    second: WeaponlessKnight_66
+  - first:
+      213: -6950047319803148646
+    second: WeaponlessKnight_67
+  - first:
+      213: -744100190580505095
+    second: WeaponlessKnight_68
+  - first:
+      213: 3731674019190311068
+    second: WeaponlessKnight_69
+  - first:
+      213: -3698146067576743401
+    second: WeaponlessKnight_70
+  - first:
+      213: 2720574736371236714
+    second: WeaponlessKnight_71
+  - first:
+      213: -5409314919962206638
+    second: WeaponlessKnight_72
+  - first:
+      213: 8458997139866798366
+    second: WeaponlessKnight_73
+  - first:
+      213: 5162032080846105482
+    second: WeaponlessKnight_74
+  - first:
+      213: -8633580048282768094
+    second: WeaponlessKnight_75
+  - first:
+      213: 6723788330393717048
+    second: WeaponlessKnight_76
+  - first:
+      213: 5521392288759028002
+    second: WeaponlessKnight_77
+  - first:
+      213: 2353223869796419473
+    second: WeaponlessKnight_78
+  - first:
+      213: -3391675072101045438
+    second: WeaponlessKnight_79
+  - first:
+      213: -7406638596943187316
+    second: WeaponlessKnight_80
+  - first:
+      213: -3639132634455472500
+    second: WeaponlessKnight_81
+  - first:
+      213: -6528097144429614905
+    second: WeaponlessKnight_82
+  - first:
+      213: -2505065947592728595
+    second: WeaponlessKnight_83
+  - first:
+      213: 984232005934549533
+    second: WeaponlessKnight_84
+  - first:
+      213: -4601791797877754495
+    second: WeaponlessKnight_85
+  - first:
+      213: 9145073698400988792
+    second: WeaponlessKnight_86
+  - first:
+      213: -4341575071845564241
+    second: WeaponlessKnight_87
+  - first:
+      213: -6395411550769147679
+    second: WeaponlessKnight_88
+  - first:
+      213: 4862853022391593387
+    second: WeaponlessKnight_89
+  - first:
+      213: 6259610545223741954
+    second: WeaponlessKnight_90
+  - first:
+      213: -4512265885057942671
+    second: WeaponlessKnight_91
+  - first:
+      213: 296287755433502342
+    second: WeaponlessKnight_92
+  - first:
+      213: 8608326437055171233
+    second: WeaponlessKnight_93
+  - first:
+      213: 753309933257720444
+    second: WeaponlessKnight_94
+  - first:
+      213: 9138897007985598621
+    second: WeaponlessKnight_95
+  - first:
+      213: 4373632141001704732
+    second: WeaponlessKnight_96
+  - first:
+      213: -7128456944263569277
+    second: WeaponlessKnight_97
+  - first:
+      213: -6935134784135961610
+    second: WeaponlessKnight_98
+  - first:
+      213: 6402917244679499810
+    second: WeaponlessKnight_99
+  - first:
+      213: -4746847798314381748
+    second: WeaponlessKnight_100
+  - first:
+      213: 8087055381010595783
+    second: WeaponlessKnight_101
+  - first:
+      213: 6259335829902416873
+    second: WeaponlessKnight_102
+  - first:
+      213: 439246458447546072
+    second: WeaponlessKnight_103
+  - first:
+      213: 4054355668768351818
+    second: WeaponlessKnight_104
+  - first:
+      213: 4911821568740633466
+    second: WeaponlessKnight_105
+  - first:
+      213: 2532145006296720574
+    second: WeaponlessKnight_106
+  - first:
+      213: 1954535394393443943
+    second: WeaponlessKnight_107
+  - first:
+      213: -1100715599311144451
+    second: WeaponlessKnight_108
+  - first:
+      213: -5616279926873669469
+    second: WeaponlessKnight_109
+  - first:
+      213: -6363659809223244281
+    second: WeaponlessKnight_110
+  - first:
+      213: 9217167120223178900
+    second: WeaponlessKnight_111
+  - first:
+      213: 7202537549525879015
+    second: WeaponlessKnight_112
+  - first:
+      213: -8723631071299574088
+    second: WeaponlessKnight_113
+  - first:
+      213: -2528968442061394925
+    second: WeaponlessKnight_114
+  - first:
+      213: 8861898024802831862
+    second: WeaponlessKnight_115
+  - first:
+      213: -933269445591318456
+    second: WeaponlessKnight_116
+  - first:
+      213: -3365038604154379135
+    second: WeaponlessKnight_117
+  - first:
+      213: 7804057918478105339
+    second: WeaponlessKnight_118
+  - first:
+      213: 3110814396953905610
+    second: WeaponlessKnight_119
+  - first:
+      213: -8750979779860287780
+    second: WeaponlessKnight_120
+  - first:
+      213: 605713944647547200
+    second: WeaponlessKnight_121
+  - first:
+      213: 7821573829545602250
+    second: WeaponlessKnight_122
+  - first:
+      213: -7971882176794342363
+    second: WeaponlessKnight_123
+  - first:
+      213: 7432870170044626417
+    second: WeaponlessKnight_124
+  - first:
+      213: 7291784644164105180
+    second: WeaponlessKnight_125
+  - first:
+      213: 8127093198249646854
+    second: WeaponlessKnight_126
+  - first:
+      213: 5687044277176799919
+    second: WeaponlessKnight_127
+  - first:
+      213: 6703721547920872316
+    second: WeaponlessKnight_128
+  - first:
+      213: 6199196179459574760
+    second: WeaponlessKnight_129
+  - first:
+      213: 5795131448916548855
+    second: WeaponlessKnight_130
+  - first:
+      213: 7162763563938336608
+    second: WeaponlessKnight_131
+  - first:
+      213: -9205449426089334474
+    second: WeaponlessKnight_132
+  - first:
+      213: -4927412710337932047
+    second: WeaponlessKnight_133
+  - first:
+      213: -180228041996138674
+    second: WeaponlessKnight_134
+  - first:
+      213: 2399799613096268750
+    second: WeaponlessKnight_135
+  - first:
+      213: -4833498178714930568
+    second: WeaponlessKnight_136
+  - first:
+      213: -3618634844796120537
+    second: WeaponlessKnight_137
+  - first:
+      213: 1021621787496389035
+    second: WeaponlessKnight_138
+  - first:
+      213: -8490644296938009645
+    second: WeaponlessKnight_139
+  - first:
+      213: -6475375542193136491
+    second: WeaponlessKnight_140
+  - first:
+      213: -2653910679111178744
+    second: WeaponlessKnight_141
+  - first:
+      213: -2034515251247014616
+    second: WeaponlessKnight_142
+  - first:
+      213: -517539918539724747
+    second: WeaponlessKnight_143
+  - first:
+      213: 8451313424885314116
+    second: WeaponlessKnight_144
+  - first:
+      213: -8985486379161112284
+    second: WeaponlessKnight_145
+  - first:
+      213: 3738108650698878443
+    second: WeaponlessKnight_146
+  - first:
+      213: -4656820791291900590
+    second: WeaponlessKnight_147
+  - first:
+      213: 4575769345876546127
+    second: WeaponlessKnight_148
+  - first:
+      213: 4351596459143545157
+    second: WeaponlessKnight_149
+  - first:
+      213: -5771206042324123281
+    second: WeaponlessKnight_150
+  - first:
+      213: -5418314866443065173
+    second: WeaponlessKnight_151
+  - first:
+      213: -5304853856629100946
+    second: WeaponlessKnight_152
+  - first:
+      213: -4341125476764264218
+    second: WeaponlessKnight_153
+  - first:
+      213: 3431067275970088398
+    second: WeaponlessKnight_154
+  - first:
+      213: 1505568474689352552
+    second: WeaponlessKnight_155
+  - first:
+      213: -1885514504466798839
+    second: WeaponlessKnight_156
+  - first:
+      213: -4804431084358107718
+    second: WeaponlessKnight_157
+  - first:
+      213: -2964688954920754746
+    second: WeaponlessKnight_158
+  - first:
+      213: 1661084577038092550
+    second: WeaponlessKnight_159
+  - first:
+      213: -3480405530775984162
+    second: WeaponlessKnight_160
+  - first:
+      213: 246537511708252675
+    second: WeaponlessKnight_161
+  - first:
+      213: 8194470147900106230
+    second: WeaponlessKnight_162
+  - first:
+      213: 1614953482702659213
+    second: WeaponlessKnight_163
+  - first:
+      213: 809084645629860827
+    second: WeaponlessKnight_164
+  - first:
+      213: 6568288489614373319
+    second: WeaponlessKnight_165
+  - first:
+      213: 4890640677072847642
+    second: WeaponlessKnight_166
+  - first:
+      213: -8217949282393795419
+    second: WeaponlessKnight_167
+  - first:
+      213: -8409380970089351949
+    second: WeaponlessKnight_168
+  - first:
+      213: 6400651908985943443
+    second: WeaponlessKnight_169
+  - first:
+      213: -3940930571609925006
+    second: WeaponlessKnight_170
+  - first:
+      213: -2211391346628046924
+    second: WeaponlessKnight_171
+  - first:
+      213: 1311096629727725493
+    second: WeaponlessKnight_172
+  - first:
+      213: -2405860967401017139
+    second: WeaponlessKnight_173
+  - first:
+      213: 8314553117509947882
+    second: WeaponlessKnight_174
+  - first:
+      213: 1067861374717360947
+    second: WeaponlessKnight_175
+  - first:
+      213: -4698669305271642026
+    second: WeaponlessKnight_176
+  - first:
+      213: -5515108394878524214
+    second: WeaponlessKnight_177
+  - first:
+      213: -7261088151632580727
+    second: WeaponlessKnight_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeaponlessKnight_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1279
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d625b60161ceabd0800000000000000
+      internalID: -2616941710987155756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1279
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2833608ccca511690800000000000000
+      internalID: -7633220057840602238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1279
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b323a449ac1ca0c30800000000000000
+      internalID: 4326483467858227771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1279
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34849fd4a585f9b10800000000000000
+      internalID: 1990406705199532099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1279
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0786bf095d2fb30800000000000000
+      internalID: 4319749811271659711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1279
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283de00ed176bd6f0800000000000000
+      internalID: -658819542468865150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1279
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc180d8809c5f0640800000000000000
+      internalID: 5048355483146027471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1299
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666b05a9f952ac270800000000000000
+      internalID: 8271465033038345830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1215
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad64e672ee57fdfb0800000000000000
+      internalID: -4620845026934634790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1215
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6327a1304bf576830800000000000000
+      internalID: 4064322415475978806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1215
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80bf9971e30edc0800000000000000
+      internalID: -3611818630062602022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1215
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8028e971bdd9820800000000000000
+      internalID: 2926736227350743244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1215
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835005da25a3cb020800000000000000
+      internalID: 2358824431604729144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1215
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7383b21836c60b410800000000000000
+      internalID: 1490810651284289591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1215
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad35866d235badb0800000000000000
+      internalID: -4779635125065007704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d927e7714903ff0800000000000000
+      internalID: -58383966529217225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32459f145108a5c0800000000000000
+      internalID: -4204108791331601859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1151
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9685d16c51117f6d0800000000000000
+      internalID: -2956875845129643927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1151
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362e9fbbc681a860800000000000000
+      internalID: 7539455460846216767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1151
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d45c4b7338c12b0800000000000000
+      internalID: -5612466760331211452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1151
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfab857b1a8eec410800000000000000
+      internalID: 1499391507224378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1151
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b8af9f977ce020800000000000000
+      internalID: 2372402631179547012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1087
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ffd50cdb8503970800000000000000
+      internalID: 8732577249470840684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1087
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050992d7430fbadc0800000000000000
+      internalID: -3626540966687961008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1087
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845669113bc1408e0800000000000000
+      internalID: -1728224801583635128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1087
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79dc9f5ade19040800000000000000
+      internalID: 4652761187166820293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1087
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce99f7e0ed8675d0800000000000000
+      internalID: -3065106499274957109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1087
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130223fb10bc8680800000000000000
+      internalID: -8751426341798018275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1087
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe3485cf9136f2a0800000000000000
+      internalID: -6704116433011065093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1023
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1912ef931c2f390800000000000000
+      internalID: -7785948350949256740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdd7c7291fc0aeb0800000000000000
+      internalID: -4710537503280996873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1023
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ff077841fee7050800000000000000
+      internalID: 5800336241550491548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1023
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f9ef26a3953cf0800000000000000
+      internalID: -273149860408332234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_33
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea869941b833c90800000000000000
+      internalID: -7191251259391168943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e7c04db1d3c03c0800000000000000
+      internalID: -4392068346862076343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e3f4c4a11c7c000800000000000000
+      internalID: 56225839058992666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_36
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206d854433bfe7a60800000000000000
+      internalID: 7673847012694480386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 959
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebfcec86ad71d430800000000000000
+      internalID: 3805961314387164140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 959
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de49bed63c82280800000000000000
+      internalID: -9067782972839236351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 959
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443ecc722e0a442f0800000000000000
+      internalID: -989489124923874492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 959
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab506938aafa6c10800000000000000
+      internalID: 2047724581017377711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 959
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4733226cb5d3fae0800000000000000
+      internalID: -1516633644416682161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59322f2cf97b58d40800000000000000
+      internalID: 5586072809621300117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 959
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d708ace486036390800000000000000
+      internalID: -7826404559463905322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 959
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5e73aec6ae0bc0800000000000000
+      internalID: -3814928427899789586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1a8d021ae40250800000000000000
+      internalID: 5910105974274398980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 895
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56115969062f1be30800000000000000
+      internalID: 4517658397886452069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af04aa8f03191940800000000000000
+      internalID: 5267262196657950627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7258ab94d58c97b70800000000000000
+      internalID: 8897362841841599783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786a8db85906ebe0800000000000000
+      internalID: -1448459953411299215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 895
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a5b87d51d97e800800000000000000
+      internalID: 641654189059693128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1033e6d0160f5e1b0800000000000000
+      internalID: -5627827859701746943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd49e8e6b974500800000000000000
+      internalID: 380443592676924823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 831
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8bc3cc0a19ba2e0800000000000000
+      internalID: -2113435480312989531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 831
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778df7939e0db2a0800000000000000
+      internalID: -6720199041893955715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 831
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00212d7e0e4b24d0800000000000000
+      internalID: -3158344889534439412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 831
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c76ebbf2e2ee460800000000000000
+      internalID: 7272801230800714808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 831
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f905939909ebeaa10800000000000000
+      internalID: 1922683619189018783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 831
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca975a7ede280840800000000000000
+      internalID: 5190450103614675656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 831
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b81ed48190ef1e0800000000000000
+      internalID: -2162280771100767363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 831
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df6e0d26c030160800000000000000
+      internalID: 6990444665160269204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42c6ce0f826bb50800000000000000
+      internalID: 6608514518436553934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7427e27405ab180800000000000000
+      internalID: -9098871830496524320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9d64a9389c9f760800000000000000
+      internalID: 7492241022173764037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 767
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b4eef07cee39e00800000000000000
+      internalID: 1050445676840635163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3826a92a2273ada0800000000000000
+      internalID: -5934774358531233730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27bf364ad1694140800000000000000
+      internalID: 4704398875874539311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964afa19c87c8f90800000000000000
+      internalID: -6950047319803148646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 767
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5062fa1dc6ca5f0800000000000000
+      internalID: -744100190580505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 767
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98846bcfb199c330800000000000000
+      internalID: 3731674019190311068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9492cebb8dacc0800000000000000
+      internalID: -3698146067576743401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 703
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3f4afe4c61c520800000000000000
+      internalID: 2720574736371236714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 703
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e9e657db04ee4b0800000000000000
+      internalID: -5409314919962206638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194ecdb415646570800000000000000
+      internalID: 8458997139866798366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba002f3d833a740800000000000000
+      internalID: 5162032080846105482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 703
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da43250bc5f2880800000000000000
+      internalID: -8633580048282768094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_76
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c802ccd1bf4d50800000000000000
+      internalID: 6723788330393717048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_77
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2291015780def9c40800000000000000
+      internalID: 5521392288759028002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_78
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978f2444a458a020800000000000000
+      internalID: 2353223869796419473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24baed5ed795ee0d0800000000000000
+      internalID: -3391675072101045438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82f0892075563990800000000000000
+      internalID: -7406638596943187316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 639
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8600c066243f7dc0800000000000000
+      internalID: -3639132634455472500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 639
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e7070c3a8765a0800000000000000
+      internalID: -6528097144429614905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_83
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defdec60bc73c3dd0800000000000000
+      internalID: -2505065947592728595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 639
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8c427bc1b8ad00800000000000000
+      internalID: 984232005934549533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 639
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185b03dbdb62320c0800000000000000
+      internalID: -4601791797877754495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 639
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e65f57314d9ee70800000000000000
+      internalID: 9145073698400988792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 639
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa044fc8970afb3c0800000000000000
+      internalID: -4341575071845564241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e099f3341fee37a0800000000000000
+      internalID: -6395411550769147679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 575
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e5923f035c7340800000000000000
+      internalID: 4862853022391593387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202b95440aa9ed650800000000000000
+      internalID: 6259610545223741954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 575
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf105a5163161c0800000000000000
+      internalID: -4512265885057942671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 575
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68669edc420ac1400800000000000000
+      internalID: 296287755433502342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 575
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa074f194be67770800000000000000
+      internalID: 8608326437055171233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 575
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c728991a46b447a00800000000000000
+      internalID: 753309933257720444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_95
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 575
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90acd7a862e3de70800000000000000
+      internalID: 9138897007985598621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_96
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 575
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1543ae724342bc30800000000000000
+      internalID: 4373632141001704732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 511
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e0886d22a21d90800000000000000
+      internalID: -7128456944263569277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ee1268a371cf90800000000000000
+      internalID: -6935134784135961610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 511
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22038575f4bbbd850800000000000000
+      internalID: 6402917244679499810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 511
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e40aac31fcf1eb0800000000000000
+      internalID: -4746847798314381748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 511
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf3c00a50efa3070800000000000000
+      internalID: 8087055381010595783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 511
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb553f16c0add650800000000000000
+      internalID: 6259335829902416873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_103
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d64d94a354881600800000000000000
+      internalID: 439246458447546072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 447
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a466706fff6f34830800000000000000
+      internalID: 4054355668768351818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_105
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 447
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b23ec51bb4a2440800000000000000
+      internalID: 4911821568740633466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 447
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb46814a77cf32320800000000000000
+      internalID: 2532145006296720574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 447
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ecfbbe597ef1b10800000000000000
+      internalID: 1954535394393443943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 447
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9f3588ef879b0f0800000000000000
+      internalID: -1100715599311144451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0c98fa927fe02b0800000000000000
+      internalID: -5616279926873669469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 383
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70681df9e1dbfa7a0800000000000000
+      internalID: -6363659809223244281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 383
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490105449a4f9ef70800000000000000
+      internalID: 9217167120223178900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_112
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 383
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e807e89dbd84f360800000000000000
+      internalID: 7202537549525879015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e0aba2cf6fe680800000000000000
+      internalID: -8723631071299574088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_114
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 383
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce1cad99c47ecd0800000000000000
+      internalID: -2528968442061394925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdcb1c1d49cbfa70800000000000000
+      internalID: 8861898024802831862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 319
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840cdc7426c5c03f0800000000000000
+      internalID: -933269445591318456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 319
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184e6efd73bfc41d0800000000000000
+      internalID: -3365038604154379135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 319
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa367544559d4c60800000000000000
+      internalID: 7804057918478105339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_119
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9cb945635db2b20800000000000000
+      internalID: 3110814396953905610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 319
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2dc041464e8680800000000000000
+      internalID: -8750979779860287780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b73a9f9de76800800000000000000
+      internalID: 605713944647547200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accae8e15ffcb8c60800000000000000
+      internalID: 7821573829545602250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc7e4a56f2e5190800000000000000
+      internalID: -7971882176794342363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f57b13e90cd62760800000000000000
+      internalID: 7432870170044626417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_125
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3bc06108f913560800000000000000
+      internalID: 7291784644164105180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_126
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd922643c39c070800000000000000
+      internalID: 8127093198249646854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_127
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29a0b83a07cee40800000000000000
+      internalID: 5687044277176799919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_128
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7394f0ea37680d50800000000000000
+      internalID: 6703721547920872316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_129
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb85a99418f70650800000000000000
+      internalID: 6199196179459574760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_130
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9d5f49517c6050800000000000000
+      internalID: 5795131448916548855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_131
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc7aee28f376360800000000000000
+      internalID: 7162763563938336608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_132
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392f10058caf3080800000000000000
+      internalID: -9205449426089334474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_133
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4109a1f305e9bb0800000000000000
+      internalID: -4927412710337932047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_134
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47814afc83bf7df0800000000000000
+      internalID: -180228041996138674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_135
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec319be880dcd4120800000000000000
+      internalID: 2399799613096268750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 191
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872f233f307fbecb0800000000000000
+      internalID: -4833498178714930568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7229310f7c608cdc0800000000000000
+      internalID: -3618634844796120537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9958a5a978d2e00800000000000000
+      internalID: 1021621787496389035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db40de4ffb2b2a80800000000000000
+      internalID: -8490644296938009645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c535c9048d226a0800000000000000
+      internalID: -6475375542193136491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80666f16c4a6b2bd0800000000000000
+      internalID: -2653910679111178744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 191
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d9e478823f3c3e0800000000000000
+      internalID: -2034515251247014616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ea56af2451d8f0800000000000000
+      internalID: -517539918539724747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44277cf68c8194570800000000000000
+      internalID: 8451313424885314116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421bdfbceb32d4380800000000000000
+      internalID: -8985486379161112284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda8b0330e60e330800000000000000
+      internalID: 3738108650698878443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_147
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d8468c926af5fb0800000000000000
+      internalID: -4656820791291900590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d7130af5608f30800000000000000
+      internalID: 4575769345876546127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54149118ce9f36c30800000000000000
+      internalID: 4351596459143545157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61cea18eae88efa0800000000000000
+      internalID: -5771206042324123281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8617026574ec4b0800000000000000
+      internalID: -5418314866443065173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ee242168f5166b0800000000000000
+      internalID: -5304853856629100946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85110116931c3c0800000000000000
+      internalID: -4341125476764264218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd0aa842899d9f20800000000000000
+      internalID: 3431067275970088398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863b2e60d8ad4e410800000000000000
+      internalID: 1505568474689352552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e86e4c8e45d5e0800000000000000
+      internalID: -1885514504466798839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7dfc326b335db0800000000000000
+      internalID: -4804431084358107718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 127
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1ac646a1f4bd6d0800000000000000
+      internalID: -2964688954920754746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 127
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6094c3c3f9b5d0710800000000000000
+      internalID: 1661084577038092550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7eac71c9d13bfc0800000000000000
+      internalID: -3480405530775984162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30add298f80eb6300800000000000000
+      internalID: 246537511708252675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5e020fe2b98b170800000000000000
+      internalID: 8194470147900106230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9549d2a7796610800000000000000
+      internalID: 1614953482702659213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9dffc2327a3b00800000000000000
+      internalID: 809084645629860827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c170cdb49f372b50800000000000000
+      internalID: 6568288489614373319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_166
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c009b8cb0fd340800000000000000
+      internalID: 4890640677072847642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 63
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ddb01baaf3fd80800000000000000
+      internalID: -8217949282393795419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 63
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f4e00090eb4b80800000000000000
+      internalID: -8409380970089351949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957806cffea3d850800000000000000
+      internalID: 6400651908985943443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_170
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a96ba66800f49c0800000000000000
+      internalID: -3940930571609925006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_171
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfccd4694f8f41e0800000000000000
+      internalID: -2211391346628046924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_172
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b702213073f13210800000000000000
+      internalID: 1311096629727725493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0b51b623aac9ed0800000000000000
+      internalID: -2405860967401017139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11c4b020a336370800000000000000
+      internalID: 8314553117509947882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_175
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b7365334ec1de00800000000000000
+      internalID: 1067861374717360947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_176
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65890465929faceb0800000000000000
+      internalID: -4698669305271642026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_177
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ad7992266673b0800000000000000
+      internalID: -5515108394878524214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponlessKnight_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f64270cce6b3b90800000000000000
+      internalID: -7261088151632580727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WeaponlessKnight_0: -2616941710987155756
+      WeaponlessKnight_1: -7633220057840602238
+      WeaponlessKnight_10: -3611818630062602022
+      WeaponlessKnight_100: -4746847798314381748
+      WeaponlessKnight_101: 8087055381010595783
+      WeaponlessKnight_102: 6259335829902416873
+      WeaponlessKnight_103: 439246458447546072
+      WeaponlessKnight_104: 4054355668768351818
+      WeaponlessKnight_105: 4911821568740633466
+      WeaponlessKnight_106: 2532145006296720574
+      WeaponlessKnight_107: 1954535394393443943
+      WeaponlessKnight_108: -1100715599311144451
+      WeaponlessKnight_109: -5616279926873669469
+      WeaponlessKnight_11: 2926736227350743244
+      WeaponlessKnight_110: -6363659809223244281
+      WeaponlessKnight_111: 9217167120223178900
+      WeaponlessKnight_112: 7202537549525879015
+      WeaponlessKnight_113: -8723631071299574088
+      WeaponlessKnight_114: -2528968442061394925
+      WeaponlessKnight_115: 8861898024802831862
+      WeaponlessKnight_116: -933269445591318456
+      WeaponlessKnight_117: -3365038604154379135
+      WeaponlessKnight_118: 7804057918478105339
+      WeaponlessKnight_119: 3110814396953905610
+      WeaponlessKnight_12: 2358824431604729144
+      WeaponlessKnight_120: -8750979779860287780
+      WeaponlessKnight_121: 605713944647547200
+      WeaponlessKnight_122: 7821573829545602250
+      WeaponlessKnight_123: -7971882176794342363
+      WeaponlessKnight_124: 7432870170044626417
+      WeaponlessKnight_125: 7291784644164105180
+      WeaponlessKnight_126: 8127093198249646854
+      WeaponlessKnight_127: 5687044277176799919
+      WeaponlessKnight_128: 6703721547920872316
+      WeaponlessKnight_129: 6199196179459574760
+      WeaponlessKnight_13: 1490810651284289591
+      WeaponlessKnight_130: 5795131448916548855
+      WeaponlessKnight_131: 7162763563938336608
+      WeaponlessKnight_132: -9205449426089334474
+      WeaponlessKnight_133: -4927412710337932047
+      WeaponlessKnight_134: -180228041996138674
+      WeaponlessKnight_135: 2399799613096268750
+      WeaponlessKnight_136: -4833498178714930568
+      WeaponlessKnight_137: -3618634844796120537
+      WeaponlessKnight_138: 1021621787496389035
+      WeaponlessKnight_139: -8490644296938009645
+      WeaponlessKnight_14: -4779635125065007704
+      WeaponlessKnight_140: -6475375542193136491
+      WeaponlessKnight_141: -2653910679111178744
+      WeaponlessKnight_142: -2034515251247014616
+      WeaponlessKnight_143: -517539918539724747
+      WeaponlessKnight_144: 8451313424885314116
+      WeaponlessKnight_145: -8985486379161112284
+      WeaponlessKnight_146: 3738108650698878443
+      WeaponlessKnight_147: -4656820791291900590
+      WeaponlessKnight_148: 4575769345876546127
+      WeaponlessKnight_149: 4351596459143545157
+      WeaponlessKnight_15: -58383966529217225
+      WeaponlessKnight_150: -5771206042324123281
+      WeaponlessKnight_151: -5418314866443065173
+      WeaponlessKnight_152: -5304853856629100946
+      WeaponlessKnight_153: -4341125476764264218
+      WeaponlessKnight_154: 3431067275970088398
+      WeaponlessKnight_155: 1505568474689352552
+      WeaponlessKnight_156: -1885514504466798839
+      WeaponlessKnight_157: -4804431084358107718
+      WeaponlessKnight_158: -2964688954920754746
+      WeaponlessKnight_159: 1661084577038092550
+      WeaponlessKnight_16: -4204108791331601859
+      WeaponlessKnight_160: -3480405530775984162
+      WeaponlessKnight_161: 246537511708252675
+      WeaponlessKnight_162: 8194470147900106230
+      WeaponlessKnight_163: 1614953482702659213
+      WeaponlessKnight_164: 809084645629860827
+      WeaponlessKnight_165: 6568288489614373319
+      WeaponlessKnight_166: 4890640677072847642
+      WeaponlessKnight_167: -8217949282393795419
+      WeaponlessKnight_168: -8409380970089351949
+      WeaponlessKnight_169: 6400651908985943443
+      WeaponlessKnight_17: -2956875845129643927
+      WeaponlessKnight_170: -3940930571609925006
+      WeaponlessKnight_171: -2211391346628046924
+      WeaponlessKnight_172: 1311096629727725493
+      WeaponlessKnight_173: -2405860967401017139
+      WeaponlessKnight_174: 8314553117509947882
+      WeaponlessKnight_175: 1067861374717360947
+      WeaponlessKnight_176: -4698669305271642026
+      WeaponlessKnight_177: -5515108394878524214
+      WeaponlessKnight_178: -7261088151632580727
+      WeaponlessKnight_18: 7539455460846216767
+      WeaponlessKnight_19: -5612466760331211452
+      WeaponlessKnight_2: 4326483467858227771
+      WeaponlessKnight_20: 1499391507224378108
+      WeaponlessKnight_21: 2372402631179547012
+      WeaponlessKnight_22: 8732577249470840684
+      WeaponlessKnight_23: -3626540966687961008
+      WeaponlessKnight_24: -1728224801583635128
+      WeaponlessKnight_25: 4652761187166820293
+      WeaponlessKnight_26: -3065106499274957109
+      WeaponlessKnight_27: -8751426341798018275
+      WeaponlessKnight_28: -6704116433011065093
+      WeaponlessKnight_29: -7785948350949256740
+      WeaponlessKnight_3: 1990406705199532099
+      WeaponlessKnight_30: -4710537503280996873
+      WeaponlessKnight_31: 5800336241550491548
+      WeaponlessKnight_32: -273149860408332234
+      WeaponlessKnight_33: -7191251259391168943
+      WeaponlessKnight_34: -4392068346862076343
+      WeaponlessKnight_35: 56225839058992666
+      WeaponlessKnight_36: 7673847012694480386
+      WeaponlessKnight_37: 3805961314387164140
+      WeaponlessKnight_38: -9067782972839236351
+      WeaponlessKnight_39: -989489124923874492
+      WeaponlessKnight_4: 4319749811271659711
+      WeaponlessKnight_40: 2047724581017377711
+      WeaponlessKnight_41: -1516633644416682161
+      WeaponlessKnight_42: 5586072809621300117
+      WeaponlessKnight_43: -7826404559463905322
+      WeaponlessKnight_44: -3814928427899789586
+      WeaponlessKnight_45: 5910105974274398980
+      WeaponlessKnight_46: 4517658397886452069
+      WeaponlessKnight_47: 5267262196657950627
+      WeaponlessKnight_48: 8897362841841599783
+      WeaponlessKnight_49: -1448459953411299215
+      WeaponlessKnight_5: -658819542468865150
+      WeaponlessKnight_50: 641654189059693128
+      WeaponlessKnight_51: -5627827859701746943
+      WeaponlessKnight_52: 380443592676924823
+      WeaponlessKnight_53: -2113435480312989531
+      WeaponlessKnight_54: -6720199041893955715
+      WeaponlessKnight_55: -3158344889534439412
+      WeaponlessKnight_56: 7272801230800714808
+      WeaponlessKnight_57: 1922683619189018783
+      WeaponlessKnight_58: 5190450103614675656
+      WeaponlessKnight_59: -2162280771100767363
+      WeaponlessKnight_6: 5048355483146027471
+      WeaponlessKnight_60: 6990444665160269204
+      WeaponlessKnight_61: 6608514518436553934
+      WeaponlessKnight_62: -9098871830496524320
+      WeaponlessKnight_63: 7492241022173764037
+      WeaponlessKnight_64: 1050445676840635163
+      WeaponlessKnight_65: -5934774358531233730
+      WeaponlessKnight_66: 4704398875874539311
+      WeaponlessKnight_67: -6950047319803148646
+      WeaponlessKnight_68: -744100190580505095
+      WeaponlessKnight_69: 3731674019190311068
+      WeaponlessKnight_7: 8271465033038345830
+      WeaponlessKnight_70: -3698146067576743401
+      WeaponlessKnight_71: 2720574736371236714
+      WeaponlessKnight_72: -5409314919962206638
+      WeaponlessKnight_73: 8458997139866798366
+      WeaponlessKnight_74: 5162032080846105482
+      WeaponlessKnight_75: -8633580048282768094
+      WeaponlessKnight_76: 6723788330393717048
+      WeaponlessKnight_77: 5521392288759028002
+      WeaponlessKnight_78: 2353223869796419473
+      WeaponlessKnight_79: -3391675072101045438
+      WeaponlessKnight_8: -4620845026934634790
+      WeaponlessKnight_80: -7406638596943187316
+      WeaponlessKnight_81: -3639132634455472500
+      WeaponlessKnight_82: -6528097144429614905
+      WeaponlessKnight_83: -2505065947592728595
+      WeaponlessKnight_84: 984232005934549533
+      WeaponlessKnight_85: -4601791797877754495
+      WeaponlessKnight_86: 9145073698400988792
+      WeaponlessKnight_87: -4341575071845564241
+      WeaponlessKnight_88: -6395411550769147679
+      WeaponlessKnight_89: 4862853022391593387
+      WeaponlessKnight_9: 4064322415475978806
+      WeaponlessKnight_90: 6259610545223741954
+      WeaponlessKnight_91: -4512265885057942671
+      WeaponlessKnight_92: 296287755433502342
+      WeaponlessKnight_93: 8608326437055171233
+      WeaponlessKnight_94: 753309933257720444
+      WeaponlessKnight_95: 9138897007985598621
+      WeaponlessKnight_96: 4373632141001704732
+      WeaponlessKnight_97: -7128456944263569277
+      WeaponlessKnight_98: -6935134784135961610
+      WeaponlessKnight_99: 6402917244679499810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
