@@ -468,6 +468,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3106,7 +3171,132 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Longsword_0: -1828729706113128013
+      Longsword_1: -5789625666025140305
+      Longsword_10: -6281947724024077100
+      Longsword_100: 7923929621338653067
+      Longsword_101: -7165081157014959963
+      Longsword_102: -735132225200757201
+      Longsword_103: -7909533767887382217
+      Longsword_104: 6488034154223716087
+      Longsword_105: 7089344123278049720
+      Longsword_106: 3646451098541310937
+      Longsword_107: 4897560400209425234
+      Longsword_108: 751807045295496080
+      Longsword_109: -8025532886858266102
+      Longsword_11: -4595179419834491194
+      Longsword_110: -117441632138597886
+      Longsword_111: -3773010177952659889
+      Longsword_112: 1192769168121335159
+      Longsword_113: -4773034952039370223
+      Longsword_114: -3988189154800543456
+      Longsword_115: -2442198039002216892
+      Longsword_116: -3448908258163132121
+      Longsword_117: 2715524935065477001
+      Longsword_118: -4365444959858096862
+      Longsword_119: 3255023324250204644
+      Longsword_12: -4213974756970205074
+      Longsword_120: -4606366896158072165
+      Longsword_121: -2956223042682870358
+      Longsword_122: -2722624862536981085
+      Longsword_123: -1457035694102414548
+      Longsword_124: 7780540527255428136
+      Longsword_13: -2207505441002493662
+      Longsword_14: 6196887538956398321
+      Longsword_15: -222569959037001606
+      Longsword_16: -3786390386182134488
+      Longsword_17: -8900665440650463753
+      Longsword_18: -2069460215037101383
+      Longsword_19: -7386293087271867231
+      Longsword_2: 6734670959208130949
+      Longsword_20: -166744763078062918
+      Longsword_21: 7562644383713459893
+      Longsword_22: 1524060417330839275
+      Longsword_23: -2112636476696334668
+      Longsword_24: -4767651057966237008
+      Longsword_25: 978813388796949573
+      Longsword_26: -7543726721020783362
+      Longsword_27: 2969161094456390994
+      Longsword_28: -4585845267293734058
+      Longsword_29: 535316018251956006
+      Longsword_3: 8843353345910653181
+      Longsword_30: -8460342377938100193
+      Longsword_31: -4121787526606581849
+      Longsword_32: 5731741944050141515
+      Longsword_33: 7169195789083804816
+      Longsword_34: -4005185567955610494
+      Longsword_35: 7552828292955352943
+      Longsword_36: 5790049390977948720
+      Longsword_37: 3534446894964116410
+      Longsword_38: 3535628003531404316
+      Longsword_39: -7774913562543569683
+      Longsword_4: -7504135338448588919
+      Longsword_40: -5608911969551078734
+      Longsword_41: 4452486749768272080
+      Longsword_42: -6835760201586064124
+      Longsword_43: -4868020730104259238
+      Longsword_44: -9115229013271008478
+      Longsword_45: -1748245300639695585
+      Longsword_46: 8661976374568999168
+      Longsword_47: -3398588078095399778
+      Longsword_48: -7925596985292145039
+      Longsword_49: -3406016065133883936
+      Longsword_5: -24811203532044527
+      Longsword_50: 6046243188370073629
+      Longsword_51: -7789409271480240138
+      Longsword_52: 8920464625060689497
+      Longsword_53: -5548845117099339391
+      Longsword_54: 2267681695965041220
+      Longsword_55: -4410812249009125028
+      Longsword_56: -2071937927595642965
+      Longsword_57: 8868960209419318794
+      Longsword_58: 1970211305445882856
+      Longsword_59: -1644859999521563560
+      Longsword_6: -1344868648702524184
+      Longsword_60: -4019504526906940864
+      Longsword_61: 8797219826450122391
+      Longsword_62: 6113230326959245519
+      Longsword_63: 5286713269116143532
+      Longsword_64: -7358302443306837225
+      Longsword_65: 5385398190082674013
+      Longsword_66: 2896001339005256921
+      Longsword_67: 2285432291660116855
+      Longsword_68: 1847321635428632619
+      Longsword_69: 8073770738670684731
+      Longsword_7: -414148492037104489
+      Longsword_70: 4848677890758618293
+      Longsword_71: 8320268381509627001
+      Longsword_72: 7609000161372117656
+      Longsword_73: 3315756273230160029
+      Longsword_74: 2599024482986033275
+      Longsword_75: 4075818520912768687
+      Longsword_76: 6589286085363038649
+      Longsword_77: -5128344713094535218
+      Longsword_78: -1717630025768182978
+      Longsword_79: -5651342855480688836
+      Longsword_8: -2915349990661123454
+      Longsword_80: 6073592202783081686
+      Longsword_81: -3776760796549696709
+      Longsword_82: -7957953883101531148
+      Longsword_83: -697153018105662375
+      Longsword_84: 4313164296121267156
+      Longsword_85: -8212769742598055478
+      Longsword_86: 3298460225059112123
+      Longsword_87: 4277162182958791470
+      Longsword_88: -3400680754551524425
+      Longsword_89: 6907635643540092237
+      Longsword_9: 8886475903114839113
+      Longsword_90: -3725506545059507275
+      Longsword_91: -7154926447350957625
+      Longsword_92: -2773690230231635387
+      Longsword_93: 2952457555407570987
+      Longsword_94: 7960478920464507850
+      Longsword_95: 3179543875465123618
+      Longsword_96: 7140177217597476822
+      Longsword_97: 978098027716091841
+      Longsword_98: 3532988697541072389
+      Longsword_99: -7380008647079716966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
