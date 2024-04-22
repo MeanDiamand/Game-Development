@@ -29,6 +29,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Collider2D swordCollider;
     private float lastHit;
+    AudioManager audioManager;
 
     private bool isMoving = false;
     private bool IsMoving
@@ -60,7 +61,7 @@ public class PlayerController : MonoBehaviour
     {
         //start the animation by get the component animator from the player
         animator = GetComponent<Animator>();
-
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     public void FixedUpdate()
@@ -114,6 +115,7 @@ public class PlayerController : MonoBehaviour
         }
         lastHit = Time.time;
         animator.SetTrigger("SwordAttack");
+        audioManager.PlayEffect(audioManager.hitting);
     }
 
     private void MouseLook()

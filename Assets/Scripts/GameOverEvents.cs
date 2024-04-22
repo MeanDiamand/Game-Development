@@ -8,7 +8,7 @@ public class GameOverEvents : MonoBehaviour
 
     private void Awake()
     {
-        isGameOver = false;  
+        isGameOver = false;
     }
 
     // Update is called once per frame

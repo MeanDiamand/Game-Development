@@ -23,6 +23,12 @@ public class SkeletonController : MonoBehaviour
     private Vector3 faceLeft = new Vector3(-3.15f, 0.24f, 0);
     private Vector3 faceRight = new Vector3(1.96f, 0.24f, 0);
 
+    AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -83,6 +89,7 @@ public class SkeletonController : MonoBehaviour
     {
         if (shootCooldown <= 0)
         {
+            audioManager.PlayEffect(audioManager.BowShot);
             animator.SetTrigger("Shoot");
             shootCooldown = startShootCooldown;
         } else

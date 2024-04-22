@@ -20,6 +20,7 @@ namespace Assets.Scripts
         private bool isAlive = true;
         private float counter = 0;
         private int EXP_FOR_KILL = 10;
+        AudioManager audioManager;
 
         private float maxHealth = 5;
 
@@ -48,6 +49,8 @@ namespace Assets.Scripts
                     if (counter >= 4.0)
                     {
                         GameOverEvents.isGameOver = true;
+                        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+                        audioManager.PlayEffect(audioManager.GameOver);
                     }
                 }
             }

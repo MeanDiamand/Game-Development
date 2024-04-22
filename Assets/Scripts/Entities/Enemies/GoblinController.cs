@@ -15,6 +15,12 @@ public class GoblinController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private float lastHit;
+    AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
     private void Start()
     {
@@ -53,6 +59,7 @@ public class GoblinController : MonoBehaviour
             return;
         }
         lastHit = Time.time;
+        audioManager.PlayEffect(audioManager.hitting);
         animator.SetTrigger("GoblinAttack");
     }
 
