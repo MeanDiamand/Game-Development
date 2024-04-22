@@ -134,7 +134,7 @@ public class UIInventory : MonoBehaviour
 
     private void HandleItemSelection(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log("HandleItemSelection");
+        //Debug.Log("HandleItemSelection");
         if (inventoryItemUI.IsEmpty)
             return;
         DeselectAllItems();
@@ -168,7 +168,7 @@ public class UIInventory : MonoBehaviour
     }
     private void HandleEndDrag(UIInventorySlot inventoryItemUI)
     {
-        Debug.Log("HandleEndDrag");
+        //Debug.Log("HandleEndDrag");
         mouseFollower.Toggle(false);
         ResetDraggedItem();
     }

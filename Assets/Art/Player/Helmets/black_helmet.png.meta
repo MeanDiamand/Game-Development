@@ -1,559 +1,541 @@
 fileFormatVersion: 2
-guid: f12de0c915b78804a8234191159dd7b0
+guid: c9d5c27650f4dea40bd5bcba7edaea62
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7974565057862860138
-    second: black_chestplate_0
+      213: -4317014771957297974
+    second: black_helmet_0
   - first:
-      213: -8536856644876053688
-    second: black_chestplate_1
+      213: 7003315732983702003
+    second: black_helmet_1
   - first:
-      213: 7856239135447835465
-    second: black_chestplate_2
+      213: -1083380210702138741
+    second: black_helmet_2
   - first:
-      213: -2834372164361087056
-    second: black_chestplate_3
+      213: 7276392338103256746
+    second: black_helmet_3
   - first:
-      213: 109132449985202477
-    second: black_chestplate_4
+      213: -2921724573648899642
+    second: black_helmet_4
   - first:
-      213: -4532203417751928494
-    second: black_chestplate_5
+      213: -6023301192783505421
+    second: black_helmet_5
   - first:
-      213: -6281232777116360738
-    second: black_chestplate_6
+      213: -1459368641371647252
+    second: black_helmet_6
   - first:
-      213: 3160917375900001891
-    second: black_chestplate_7
+      213: 3733725496384738342
+    second: black_helmet_7
   - first:
-      213: 5307425993500492753
-    second: black_chestplate_8
+      213: 2040695094448711575
+    second: black_helmet_8
   - first:
-      213: -8608803835587035829
-    second: black_chestplate_9
+      213: -1456385041152808924
+    second: black_helmet_9
   - first:
-      213: -8224188837904996560
-    second: black_chestplate_10
+      213: 3648041375728269735
+    second: black_helmet_10
   - first:
-      213: -3752111827129363306
-    second: black_chestplate_11
+      213: 5957660434342277022
+    second: black_helmet_11
   - first:
-      213: 9097317798002118284
-    second: black_chestplate_12
+      213: -8104452540573964599
+    second: black_helmet_12
   - first:
-      213: 8180073377268929073
-    second: black_chestplate_13
+      213: 5487223601904490071
+    second: black_helmet_13
   - first:
-      213: 9199902818598942221
-    second: black_chestplate_14
+      213: 7884931245582494046
+    second: black_helmet_14
   - first:
-      213: -6663848807595309147
-    second: black_chestplate_15
+      213: 1179157989554510120
+    second: black_helmet_15
   - first:
-      213: -7947439241296394953
-    second: black_chestplate_16
+      213: -3696426757973500255
+    second: black_helmet_16
   - first:
-      213: 8993451446564598939
-    second: black_chestplate_17
+      213: -2801721754155734641
+    second: black_helmet_17
   - first:
-      213: 2289480010290719328
-    second: black_chestplate_18
+      213: -2335581502583119964
+    second: black_helmet_18
   - first:
-      213: 5049911336271770938
-    second: black_chestplate_19
+      213: 1262011559241101148
+    second: black_helmet_19
   - first:
-      213: 2812534613223917810
-    second: black_chestplate_20
+      213: -7889677490131977557
+    second: black_helmet_20
   - first:
-      213: -7585496268078350071
-    second: black_chestplate_21
+      213: -1917230904539944097
+    second: black_helmet_21
   - first:
-      213: 5009249114638029676
-    second: black_chestplate_22
+      213: -8764923603254401770
+    second: black_helmet_22
   - first:
-      213: 5343298054891032697
-    second: black_chestplate_23
+      213: -4813640535905054922
+    second: black_helmet_23
   - first:
-      213: 7889408089393497493
-    second: black_chestplate_24
+      213: -8983820187649772498
+    second: black_helmet_24
   - first:
-      213: -5241556288604814669
-    second: black_chestplate_25
+      213: 4253317156691183769
+    second: black_helmet_25
   - first:
-      213: -6200788871739462519
-    second: black_chestplate_26
+      213: 6092141995738405564
+    second: black_helmet_26
   - first:
-      213: -6945040588250018093
-    second: black_chestplate_27
+      213: 8641749040359747428
+    second: black_helmet_27
   - first:
-      213: 4668072070906292407
-    second: black_chestplate_28
+      213: -1545304276432267167
+    second: black_helmet_28
   - first:
-      213: 8382287319297027126
-    second: black_chestplate_29
+      213: 2333437823004423795
+    second: black_helmet_29
   - first:
-      213: 5935375109675595966
-    second: black_chestplate_30
+      213: 7818898912064500012
+    second: black_helmet_30
   - first:
-      213: 1956661534560269253
-    second: black_chestplate_31
+      213: 2348346392174805941
+    second: black_helmet_31
   - first:
-      213: 2689169838531167004
-    second: black_chestplate_32
+      213: -8594971687137970951
+    second: black_helmet_32
   - first:
-      213: -6764489548209197966
-    second: black_chestplate_33
+      213: 2420675727721319430
+    second: black_helmet_33
   - first:
-      213: -3054924190523486834
-    second: black_chestplate_34
+      213: 6567836189259889187
+    second: black_helmet_34
   - first:
-      213: 3173850395805905297
-    second: black_chestplate_35
+      213: -4338443491807829376
+    second: black_helmet_35
   - first:
-      213: 717601499170581654
-    second: black_chestplate_36
+      213: -7936212022190293541
+    second: black_helmet_36
   - first:
-      213: -7557249223561622052
-    second: black_chestplate_37
+      213: 8460285691393825593
+    second: black_helmet_37
   - first:
-      213: 1374057093808124444
-    second: black_chestplate_38
+      213: -5952542142048596620
+    second: black_helmet_38
   - first:
-      213: -8541899400129846822
-    second: black_chestplate_39
+      213: -2982061958854109639
+    second: black_helmet_39
   - first:
-      213: -7387993957016544298
-    second: black_chestplate_40
+      213: -1132879914445565332
+    second: black_helmet_40
   - first:
-      213: 631297186927812150
-    second: black_chestplate_41
+      213: -5624129506800326585
+    second: black_helmet_41
   - first:
-      213: 6158286330693363816
-    second: black_chestplate_42
+      213: -8857307759360906399
+    second: black_helmet_42
   - first:
-      213: 8787528369799903035
-    second: black_chestplate_43
+      213: -764657286353202477
+    second: black_helmet_43
   - first:
-      213: -8364902815584616310
-    second: black_chestplate_44
+      213: 2605851812422989173
+    second: black_helmet_44
   - first:
-      213: -6571625037029657061
-    second: black_chestplate_45
+      213: -1748614772983615702
+    second: black_helmet_45
   - first:
-      213: 7969766275333348925
-    second: black_chestplate_46
+      213: -2931271867885022123
+    second: black_helmet_46
   - first:
-      213: -4142765475904525469
-    second: black_chestplate_47
+      213: 1151229404743007834
+    second: black_helmet_47
   - first:
-      213: 340349974678722164
-    second: black_chestplate_48
+      213: 517684233825690000
+    second: black_helmet_48
   - first:
-      213: 8935136659255122069
-    second: black_chestplate_49
+      213: -6860853374199871755
+    second: black_helmet_49
   - first:
-      213: -2295336042383205997
-    second: black_chestplate_50
+      213: 6906841882147877692
+    second: black_helmet_50
   - first:
-      213: 7153509398791517311
-    second: black_chestplate_51
+      213: 3307159369830984444
+    second: black_helmet_51
   - first:
-      213: 3857480965727812674
-    second: black_chestplate_52
+      213: -3510223655256002140
+    second: black_helmet_52
   - first:
-      213: 3790305440763934276
-    second: black_chestplate_53
+      213: -7373347277643941273
+    second: black_helmet_53
   - first:
-      213: -3041200495871892101
-    second: black_chestplate_54
+      213: 2103030163614243191
+    second: black_helmet_54
   - first:
-      213: 1735799089569321637
-    second: black_chestplate_55
+      213: -6647622678599962010
+    second: black_helmet_55
   - first:
-      213: 903941595314946384
-    second: black_chestplate_56
+      213: 4432701777683148677
+    second: black_helmet_56
   - first:
-      213: 8306608967105153300
-    second: black_chestplate_57
+      213: -8637931781497971106
+    second: black_helmet_57
   - first:
-      213: 8711690299012790084
-    second: black_chestplate_58
+      213: 3135110199898573164
+    second: black_helmet_58
   - first:
-      213: -5095452043702358807
-    second: black_chestplate_59
+      213: 8138944281769740500
+    second: black_helmet_59
   - first:
-      213: 4463617499687258637
-    second: black_chestplate_60
+      213: -5339553746806773955
+    second: black_helmet_60
   - first:
-      213: -703902816472530980
-    second: black_chestplate_61
+      213: -5121537693465137007
+    second: black_helmet_61
   - first:
-      213: -1765635837523540988
-    second: black_chestplate_62
+      213: 8626962476345464986
+    second: black_helmet_62
   - first:
-      213: 1226726265101992929
-    second: black_chestplate_63
+      213: -1766300930653791536
+    second: black_helmet_63
   - first:
-      213: -8033731454999605588
-    second: black_chestplate_64
+      213: 3356908518697849266
+    second: black_helmet_64
   - first:
-      213: 2908210646114872144
-    second: black_chestplate_65
+      213: -2375656041832544106
+    second: black_helmet_65
   - first:
-      213: -325584240713374223
-    second: black_chestplate_66
+      213: -5803556784291547
+    second: black_helmet_66
   - first:
-      213: -6009093748946489148
-    second: black_chestplate_67
+      213: 6444755929733224888
+    second: black_helmet_67
   - first:
-      213: 5890602962716304633
-    second: black_chestplate_68
+      213: -5853201705915285952
+    second: black_helmet_68
   - first:
-      213: -3725163962010005607
-    second: black_chestplate_69
+      213: -1727146432010134872
+    second: black_helmet_69
   - first:
-      213: -8080042263726690425
-    second: black_chestplate_70
+      213: -7547031007473552352
+    second: black_helmet_70
   - first:
-      213: 5741886820416935436
-    second: black_chestplate_71
+      213: -8869331731134397622
+    second: black_helmet_71
   - first:
-      213: 4773704759401660463
-    second: black_chestplate_72
+      213: -7340550522005048156
+    second: black_helmet_72
   - first:
-      213: -6534098855009740930
-    second: black_chestplate_73
+      213: -492991831780079809
+    second: black_helmet_73
   - first:
-      213: -6879152578897015264
-    second: black_chestplate_74
+      213: 4990882313109927456
+    second: black_helmet_74
   - first:
-      213: -4114277208723728473
-    second: black_chestplate_75
+      213: 2391224902815027160
+    second: black_helmet_75
   - first:
-      213: 4939470072283000056
-    second: black_chestplate_76
+      213: 8957012804054418006
+    second: black_helmet_76
   - first:
-      213: -2665213912382770452
-    second: black_chestplate_77
+      213: 3369420362738790160
+    second: black_helmet_77
   - first:
-      213: 3371354342390790226
-    second: black_chestplate_78
+      213: -755056741443516193
+    second: black_helmet_78
   - first:
-      213: -681064050363503080
-    second: black_chestplate_79
+      213: 7900084070930522485
+    second: black_helmet_79
   - first:
-      213: 7718637404541609950
-    second: black_chestplate_80
+      213: 1743759822036111432
+    second: black_helmet_80
   - first:
-      213: 8316856296100828405
-    second: black_chestplate_81
+      213: -7145368882061780488
+    second: black_helmet_81
   - first:
-      213: -1451221146424353237
-    second: black_chestplate_82
+      213: -5948608222618671003
+    second: black_helmet_82
   - first:
-      213: -4364462613504062540
-    second: black_chestplate_83
+      213: 8126189801311021004
+    second: black_helmet_83
   - first:
-      213: -5552583569834966959
-    second: black_chestplate_84
+      213: -1991699735509291414
+    second: black_helmet_84
   - first:
-      213: -426224425602702325
-    second: black_chestplate_85
+      213: 1778723676872353842
+    second: black_helmet_85
   - first:
-      213: 2984030411906224254
-    second: black_chestplate_86
+      213: 5517547321807221709
+    second: black_helmet_86
   - first:
-      213: -6704418902223979132
-    second: black_chestplate_87
+      213: -3798237819321028042
+    second: black_helmet_87
   - first:
-      213: -7252844149639628820
-    second: black_chestplate_88
+      213: -2730591203524267041
+    second: black_helmet_88
   - first:
-      213: -4888456876416665237
-    second: black_chestplate_89
+      213: 379491366114061801
+    second: black_helmet_89
   - first:
-      213: 2956457564026642176
-    second: black_chestplate_90
+      213: 6880692663085076299
+    second: black_helmet_90
   - first:
-      213: 1171332647848270033
-    second: black_chestplate_91
+      213: -9044020403849858085
+    second: black_helmet_91
   - first:
-      213: -3209448512367150513
-    second: black_chestplate_92
+      213: 2389446522386896275
+    second: black_helmet_92
   - first:
-      213: -5770745472770365767
-    second: black_chestplate_93
+      213: -1241118825848279005
+    second: black_helmet_93
   - first:
-      213: 6719964405317746589
-    second: black_chestplate_94
+      213: -1118148001985054548
+    second: black_helmet_94
   - first:
-      213: 6017148809736331747
-    second: black_chestplate_95
+      213: -6117512560672430103
+    second: black_helmet_95
   - first:
-      213: 3053466483348348829
-    second: black_chestplate_96
+      213: 7914392901552057597
+    second: black_helmet_96
   - first:
-      213: -5795197558538324200
-    second: black_chestplate_97
+      213: -2084398504545111037
+    second: black_helmet_97
   - first:
-      213: 546084771085343963
-    second: black_chestplate_98
+      213: 3886893500722422216
+    second: black_helmet_98
   - first:
-      213: -7017943876506702699
-    second: black_chestplate_99
+      213: -2918189682380415787
+    second: black_helmet_99
   - first:
-      213: -8352306320986658718
-    second: black_chestplate_100
+      213: 5416741546824616346
+    second: black_helmet_100
   - first:
-      213: -2994467241546799131
-    second: black_chestplate_101
+      213: 8632992348371285580
+    second: black_helmet_101
   - first:
-      213: -4918457041675780861
-    second: black_chestplate_102
+      213: -1943461413276072147
+    second: black_helmet_102
   - first:
-      213: 4631589261352757821
-    second: black_chestplate_103
+      213: 7376349097016600997
+    second: black_helmet_103
   - first:
-      213: -4859426032350001134
-    second: black_chestplate_104
+      213: -1722603351482696493
+    second: black_helmet_104
   - first:
-      213: 18006532788535508
-    second: black_chestplate_105
+      213: 8721970832228155635
+    second: black_helmet_105
   - first:
-      213: -4750403549631700706
-    second: black_chestplate_106
+      213: -4080954976042162118
+    second: black_helmet_106
   - first:
-      213: -6917457884720617338
-    second: black_chestplate_107
+      213: 7401177926871451341
+    second: black_helmet_107
   - first:
-      213: 8642760810091766570
-    second: black_chestplate_108
+      213: 5222360426756918975
+    second: black_helmet_108
   - first:
-      213: -2250012268442899001
-    second: black_chestplate_109
+      213: -6911372635280442530
+    second: black_helmet_109
   - first:
-      213: 1430486612150525608
-    second: black_chestplate_110
+      213: 2396105489831971405
+    second: black_helmet_110
   - first:
-      213: -395753432596290914
-    second: black_chestplate_111
+      213: -4169980621372669939
+    second: black_helmet_111
   - first:
-      213: -3504038088054802630
-    second: black_chestplate_112
+      213: 7547846573470232934
+    second: black_helmet_112
   - first:
-      213: -6491598310012252343
-    second: black_chestplate_113
+      213: 826130345124410660
+    second: black_helmet_113
   - first:
-      213: 7293271888212269515
-    second: black_chestplate_114
+      213: -1427326952788493360
+    second: black_helmet_114
   - first:
-      213: -4349238129006824488
-    second: black_chestplate_115
+      213: 2511518469343142583
+    second: black_helmet_115
   - first:
-      213: 4043415070193860854
-    second: black_chestplate_116
+      213: -8480357428647289413
+    second: black_helmet_116
   - first:
-      213: -8818492327773840052
-    second: black_chestplate_117
+      213: -9213761567462935025
+    second: black_helmet_117
   - first:
-      213: 6330900028907296896
-    second: black_chestplate_118
+      213: 7504300021709955947
+    second: black_helmet_118
   - first:
-      213: 6361691101970946878
-    second: black_chestplate_119
+      213: -2161382338302911358
+    second: black_helmet_119
   - first:
-      213: -7086843516635257712
-    second: black_chestplate_120
+      213: -7607070182336472581
+    second: black_helmet_120
   - first:
-      213: -7802111758465781152
-    second: black_chestplate_121
+      213: 2341170999129786025
+    second: black_helmet_121
   - first:
-      213: 7536543626368454778
-    second: black_chestplate_122
+      213: -9097610435036756605
+    second: black_helmet_122
   - first:
-      213: -9183049804327290457
-    second: black_chestplate_123
+      213: -1049862726139432712
+    second: black_helmet_123
   - first:
-      213: 7720030130456169302
-    second: black_chestplate_124
+      213: -5465528769237778143
+    second: black_helmet_124
   - first:
-      213: -3592024936591403159
-    second: black_chestplate_125
+      213: -2088834382913571102
+    second: black_helmet_125
   - first:
-      213: -8272198861884935714
-    second: black_chestplate_126
+      213: 323582275953229294
+    second: black_helmet_126
   - first:
-      213: 1858495074598526703
-    second: black_chestplate_127
+      213: -26010425869708258
+    second: black_helmet_127
   - first:
-      213: 3029115019897516435
-    second: black_chestplate_128
+      213: 6379496268910564629
+    second: black_helmet_128
   - first:
-      213: -7135307251497014652
-    second: black_chestplate_129
+      213: 9153994866894362411
+    second: black_helmet_129
   - first:
-      213: 4395465251057125482
-    second: black_chestplate_130
+      213: -6689436513232055033
+    second: black_helmet_130
   - first:
-      213: 4963126928634053048
-    second: black_chestplate_131
+      213: 2127239285554910124
+    second: black_helmet_131
   - first:
-      213: -6149892785175170047
-    second: black_chestplate_132
+      213: 1487305157384331820
+    second: black_helmet_132
   - first:
-      213: -8217701418303801278
-    second: black_chestplate_133
+      213: -8313428078596598747
+    second: black_helmet_133
   - first:
-      213: 8502914089023853290
-    second: black_chestplate_134
+      213: -6728244145225509121
+    second: black_helmet_134
   - first:
-      213: -4395840879474857007
-    second: black_chestplate_135
+      213: -4961133783270204459
+    second: black_helmet_135
   - first:
-      213: 3666626933480645671
-    second: black_chestplate_136
+      213: 5320362841438237300
+    second: black_helmet_136
   - first:
-      213: -1373278865655701228
-    second: black_chestplate_137
+      213: -2657296317522311609
+    second: black_helmet_137
   - first:
-      213: 8726848284874220819
-    second: black_chestplate_138
+      213: -5558758544190010475
+    second: black_helmet_138
   - first:
-      213: 5974320410393021524
-    second: black_chestplate_139
+      213: 1503457641035844894
+    second: black_helmet_139
   - first:
-      213: 8783223471975707945
-    second: black_chestplate_140
+      213: 674146860080177075
+    second: black_helmet_140
   - first:
-      213: 6281631254090746693
-    second: black_chestplate_141
+      213: -6196427479008396414
+    second: black_helmet_141
   - first:
-      213: -372145548225590453
-    second: black_chestplate_142
+      213: 2965984341821867133
+    second: black_helmet_142
   - first:
-      213: 6329382236755307502
-    second: black_chestplate_143
+      213: 2690303216738976235
+    second: black_helmet_143
   - first:
-      213: 1221918512936479885
-    second: black_chestplate_144
+      213: 4596338004808743541
+    second: black_helmet_144
   - first:
-      213: 2793196949173900171
-    second: black_chestplate_145
+      213: -3401581090039320766
+    second: black_helmet_145
   - first:
-      213: 173547812373018686
-    second: black_chestplate_146
+      213: 3806369400776807582
+    second: black_helmet_146
   - first:
-      213: -7352034301471497870
-    second: black_chestplate_147
+      213: 2690423074914474686
+    second: black_helmet_147
   - first:
-      213: 5092248322200892479
-    second: black_chestplate_148
+      213: -8120818399256209776
+    second: black_helmet_148
   - first:
-      213: 925886214885358681
-    second: black_chestplate_149
+      213: -7196783389461319704
+    second: black_helmet_149
   - first:
-      213: 8081982806712377900
-    second: black_chestplate_150
+      213: 8733351438778948247
+    second: black_helmet_150
   - first:
-      213: -4033539027949804302
-    second: black_chestplate_151
+      213: 7449171682765845922
+    second: black_helmet_151
   - first:
-      213: 5630200314845487939
-    second: black_chestplate_152
+      213: 4960267508224229864
+    second: black_helmet_152
   - first:
-      213: 3622483861392852996
-    second: black_chestplate_153
+      213: 7089366373428181901
+    second: black_helmet_153
   - first:
-      213: -2481334519763556058
-    second: black_chestplate_154
+      213: 8951502368007447050
+    second: black_helmet_154
   - first:
-      213: 2143010792013175579
-    second: black_chestplate_155
+      213: -1595555363390587090
+    second: black_helmet_155
   - first:
-      213: -2716172447653045080
-    second: black_chestplate_156
+      213: -4288964825344832213
+    second: black_helmet_156
   - first:
-      213: 9191523174256274949
-    second: black_chestplate_157
+      213: -4196117382610348189
+    second: black_helmet_157
   - first:
-      213: -5566612217679621327
-    second: black_chestplate_158
+      213: -803216703765103045
+    second: black_helmet_158
   - first:
-      213: -31632330256436160
-    second: black_chestplate_159
+      213: 1274162358566915267
+    second: black_helmet_159
   - first:
-      213: -1870377028403469902
-    second: black_chestplate_160
+      213: 9125264311250233783
+    second: black_helmet_160
   - first:
-      213: 1225179960080463470
-    second: black_chestplate_161
+      213: 4016162029279704122
+    second: black_helmet_161
   - first:
-      213: 7985727372631020420
-    second: black_chestplate_162
+      213: 5023644841012254632
+    second: black_helmet_162
   - first:
-      213: 7529105283912921550
-    second: black_chestplate_163
+      213: 5123019452759706735
+    second: black_helmet_163
   - first:
-      213: 5519594219596366493
-    second: black_chestplate_164
+      213: -6909749286134709837
+    second: black_helmet_164
   - first:
-      213: -7821722493280147924
-    second: black_chestplate_165
+      213: 239705234711792431
+    second: black_helmet_165
   - first:
-      213: -7187439373750839593
-    second: black_chestplate_166
+      213: -2952508845639634814
+    second: black_helmet_166
   - first:
-      213: -4046201617782489706
-    second: black_chestplate_167
+      213: -7499583678677850651
+    second: black_helmet_167
   - first:
-      213: 7666011288155717568
-    second: black_chestplate_168
+      213: -8137948292653505328
+    second: black_helmet_168
   - first:
-      213: -9185333027111974198
-    second: black_chestplate_169
+      213: -4451337905517903537
+    second: black_helmet_169
   - first:
-      213: 4377636520836679945
-    second: black_chestplate_170
+      213: -4338402223337585287
+    second: black_helmet_170
   - first:
-      213: 4062409716215007030
-    second: black_chestplate_171
+      213: 7926789144972453716
+    second: black_helmet_171
   - first:
-      213: -6906697177711380459
-    second: black_chestplate_172
+      213: -2735533274983051966
+    second: black_helmet_172
   - first:
-      213: -157017011137620700
-    second: black_chestplate_173
+      213: 7556813758354553308
+    second: black_helmet_173
   - first:
-      213: -2969272340887131816
-    second: black_chestplate_174
+      213: 653985795124763464
+    second: black_helmet_174
   - first:
-      213: 2524006637572207850
-    second: black_chestplate_175
+      213: -568767296507919074
+    second: black_helmet_175
   - first:
-      213: -2398012535481452227
-    second: black_chestplate_176
+      213: -4126088236926761434
+    second: black_helmet_176
   - first:
-      213: 8208845096569625130
-    second: black_chestplate_177
-  - first:
-      213: -4117407784693729926
-    second: black_chestplate_178
-  - first:
-      213: 9189525545205050172
-    second: black_chestplate_179
-  - first:
-      213: -5217593491279510871
-    second: black_chestplate_180
-  - first:
-      213: -5156747539635501309
-    second: black_chestplate_181
-  - first:
-      213: 401781465927674141
-    second: black_chestplate_182
-  - first:
-      213: 7157020574376410623
-    second: black_chestplate_183
+      213: 7412453150856151832
+    second: black_helmet_177
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -573,7 +555,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -586,7 +568,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -600,7 +582,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -621,7 +603,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -714,13 +696,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: black_chestplate_0
+      name: black_helmet_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1293
-        width: 32
-        height: 19
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,20 +710,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69287d7b457a45190800000000000000
-      internalID: -7974565057862860138
+      spriteID: acc0f5bffe1e614c0800000000000000
+      internalID: -4317014771957297974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_1
+      name: black_helmet_1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 1293
-        width: 32
-        height: 19
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +731,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 843dab79c1ef68980800000000000000
-      internalID: -8536856644876053688
+      spriteID: 3f1e562dd86c03160800000000000000
+      internalID: 7003315732983702003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_2
+      name: black_helmet_2
       rect:
         serializedVersion: 2
-        x: 145
-        y: 1293
-        width: 30
-        height: 19
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,20 +752,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 943e3ea9ed7f60d60800000000000000
-      internalID: 7856239135447835465
+      spriteID: b824968307f07f0f0800000000000000
+      internalID: -1083380210702138741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_3
+      name: black_helmet_3
       rect:
         serializedVersion: 2
-        x: 207
-        y: 1293
-        width: 34
-        height: 19
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,20 +773,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b7900e98894aa8d0800000000000000
-      internalID: -2834372164361087056
+      spriteID: aa6c40f8740faf460800000000000000
+      internalID: 7276392338103256746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_4
+      name: black_helmet_4
       rect:
         serializedVersion: 2
-        x: 268
-        y: 1293
-        width: 40
-        height: 19
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,20 +794,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2906d29267b38100800000000000000
-      internalID: 109132449985202477
+      spriteID: 6c1b020faf2f377d0800000000000000
+      internalID: -2921724573648899642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_5
+      name: black_helmet_5
       rect:
         serializedVersion: 2
-        x: 331
-        y: 1293
-        width: 42
-        height: 21
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,20 +815,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 251c51311016a11c0800000000000000
-      internalID: -4532203417751928494
+      spriteID: 3f7d3fc5a7fe86ca0800000000000000
+      internalID: -6023301192783505421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_6
+      name: black_helmet_6
       rect:
         serializedVersion: 2
-        x: 399
-        y: 1293
-        width: 34
-        height: 19
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,20 +836,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: edf5070911494d8a0800000000000000
-      internalID: -6281232777116360738
+      spriteID: ce2d2b6e3f74fbbe0800000000000000
+      internalID: -1459368641371647252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_7
+      name: black_helmet_7
       rect:
         serializedVersion: 2
-        x: 23
-        y: 1230
-        width: 21
-        height: 19
+        x: 448
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,20 +857,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36621ea2b95dddb20800000000000000
-      internalID: 3160917375900001891
+      spriteID: 624d4dc8e8bd0d330800000000000000
+      internalID: 3733725496384738342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_8
+      name: black_helmet_8
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1230
-        width: 22
-        height: 19
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,20 +878,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d3854632d3c7a940800000000000000
-      internalID: 5307425993500492753
+      spriteID: 7976f775061025c10800000000000000
+      internalID: 2040695094448711575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_9
+      name: black_helmet_9
       rect:
         serializedVersion: 2
-        x: 149
-        y: 1230
-        width: 23
-        height: 19
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -917,20 +899,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4d70ded582678880800000000000000
-      internalID: -8608803835587035829
+      spriteID: 428e4e57581e9cbe0800000000000000
+      internalID: -1456385041152808924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_10
+      name: black_helmet_10
       rect:
         serializedVersion: 2
-        x: 215
-        y: 1230
-        width: 22
-        height: 19
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -938,20 +920,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 037a0f653dfcddd80800000000000000
-      internalID: -8224188837904996560
+      spriteID: 7a9f5369d4270a230800000000000000
+      internalID: 3648041375728269735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_11
+      name: black_helmet_11
       rect:
         serializedVersion: 2
-        x: 276
-        y: 1230
-        width: 27
-        height: 19
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,20 +941,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 694996a3c22ddebc0800000000000000
-      internalID: -3752111827129363306
+      spriteID: e9fee59999cdda250800000000000000
+      internalID: 5957660434342277022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_12
+      name: black_helmet_12
       rect:
         serializedVersion: 2
-        x: 340
-        y: 1230
-        width: 26
-        height: 20
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -980,20 +962,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8e41ce665a204e70800000000000000
-      internalID: 9097317798002118284
+      spriteID: 9c6a3148a53378f80800000000000000
+      internalID: -8104452540573964599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_13
+      name: black_helmet_13
       rect:
         serializedVersion: 2
-        x: 407
-        y: 1230
-        width: 22
-        height: 19
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,20 +983,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1329eb09565758170800000000000000
-      internalID: 8180073377268929073
+      spriteID: 75618aa1bc8862c40800000000000000
+      internalID: 5487223601904490071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_14
+      name: black_helmet_14
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1166
-        width: 32
-        height: 19
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1022,20 +1004,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0674becede9caf70800000000000000
-      internalID: 9199902818598942221
+      spriteID: e59a2531137ec6d60800000000000000
+      internalID: 7884931245582494046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_15
+      name: black_helmet_15
       rect:
         serializedVersion: 2
-        x: 80
-        y: 1166
-        width: 32
-        height: 19
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1043,20 +1025,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a70f5ae0d04583a0800000000000000
-      internalID: -6663848807595309147
+      spriteID: 829d57da1f53d5010800000000000000
+      internalID: 1179157989554510120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_16
+      name: black_helmet_16
       rect:
         serializedVersion: 2
-        x: 145
-        y: 1166
-        width: 30
-        height: 19
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,20 +1046,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 735478c0e1605b190800000000000000
-      internalID: -7947439241296394953
+      spriteID: 1ae9db8b277a3bcc0800000000000000
+      internalID: -3696426757973500255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_17
+      name: black_helmet_17
       rect:
         serializedVersion: 2
-        x: 208
-        y: 1166
-        width: 32
-        height: 19
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1085,20 +1067,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b94b439f0782fcc70800000000000000
-      internalID: 8993451446564598939
+      spriteID: f892014a8e84e19d0800000000000000
+      internalID: -2801721754155734641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_18
+      name: black_helmet_18
       rect:
         serializedVersion: 2
-        x: 268
-        y: 1166
-        width: 40
-        height: 19
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1106,20 +1088,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06a6cbd60fdd5cf10800000000000000
-      internalID: 2289480010290719328
+      spriteID: 4af5f827ff8569fd0800000000000000
+      internalID: -2335581502583119964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_19
+      name: black_helmet_19
       rect:
         serializedVersion: 2
-        x: 331
-        y: 1166
-        width: 42
-        height: 21
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1127,20 +1109,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a3572b1da93e41640800000000000000
-      internalID: 5049911336271770938
+      spriteID: c5fa003a3d0938110800000000000000
+      internalID: 1262011559241101148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_20
+      name: black_helmet_20
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1166
-        width: 32
-        height: 19
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1148,20 +1130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f8c3bb4451280720800000000000000
-      internalID: 2812534613223917810
+      spriteID: baab940cf1c328290800000000000000
+      internalID: -7889677490131977557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_21
+      name: black_helmet_21
       rect:
         serializedVersion: 2
-        x: 20
-        y: 1102
-        width: 21
-        height: 19
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1169,20 +1151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90183287557eab690800000000000000
-      internalID: -7585496268078350071
+      spriteID: f5bee7676a0a465e0800000000000000
+      internalID: -1917230904539944097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_22
+      name: black_helmet_22
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1102
-        width: 22
-        height: 19
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1190,20 +1172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c639075978d648540800000000000000
-      internalID: 5009249114638029676
+      spriteID: 615a590eb6cbc5680800000000000000
+      internalID: -8764923603254401770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_23
+      name: black_helmet_23
       rect:
         serializedVersion: 2
-        x: 148
-        y: 1102
-        width: 23
-        height: 19
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1211,20 +1193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 970d0da5545372a40800000000000000
-      internalID: 5343298054891032697
+      spriteID: 63f45f4bf63823db0800000000000000
+      internalID: -4813640535905054922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_24
+      name: black_helmet_24
       rect:
         serializedVersion: 2
-        x: 211
-        y: 1102
-        width: 22
-        height: 19
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1232,20 +1214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59584608bdecc7d60800000000000000
-      internalID: 7889408089393497493
+      spriteID: e24f62d332f035380800000000000000
+      internalID: -8983820187649772498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_25
+      name: black_helmet_25
       rect:
         serializedVersion: 2
-        x: 273
-        y: 1102
-        width: 27
-        height: 19
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1253,20 +1235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b2ce7393504247b0800000000000000
-      internalID: -5241556288604814669
+      spriteID: 99807a14b61d60b30800000000000000
+      internalID: 4253317156691183769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_26
+      name: black_helmet_26
       rect:
         serializedVersion: 2
-        x: 338
-        y: 1102
-        width: 26
-        height: 20
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1274,20 +1256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98c26c4df5f52f9a0800000000000000
-      internalID: -6200788871739462519
+      spriteID: cba1a391ed2ab8450800000000000000
+      internalID: 6092141995738405564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_27
+      name: black_helmet_27
       rect:
         serializedVersion: 2
-        x: 403
-        y: 1102
-        width: 22
-        height: 19
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,20 +1277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3de00b2a1624e9f90800000000000000
-      internalID: -6945040588250018093
+      spriteID: 46f27bc57f8ade770800000000000000
+      internalID: 8641749040359747428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_28
+      name: black_helmet_28
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1037
-        width: 32
-        height: 19
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1316,20 +1298,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b8aa44e0d258c040800000000000000
-      internalID: 4668072070906292407
+      spriteID: 168dc5da2f9fd8ae0800000000000000
+      internalID: -1545304276432267167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_29
+      name: black_helmet_29
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1036
-        width: 27
-        height: 19
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,20 +1319,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63ce5f7d7edd35470800000000000000
-      internalID: 8382287319297027126
+      spriteID: 376b3a14659026020800000000000000
+      internalID: 2333437823004423795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_30
+      name: black_helmet_30
       rect:
         serializedVersion: 2
-        x: 149
-        y: 1036
-        width: 23
-        height: 19
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1358,20 +1340,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb8b8ec1730be5250800000000000000
-      internalID: 5935375109675595966
+      spriteID: c21fa4c522f428c60800000000000000
+      internalID: 7818898912064500012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_31
+      name: black_helmet_31
       rect:
         serializedVersion: 2
-        x: 213
-        y: 1036
-        width: 23
-        height: 19
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1379,20 +1361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c3b2218c45772b10800000000000000
-      internalID: 1956661534560269253
+      spriteID: 5b346230a90079020800000000000000
+      internalID: 2348346392174805941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_32
+      name: black_helmet_32
       rect:
         serializedVersion: 2
-        x: 277
-        y: 1036
-        width: 25
-        height: 18
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,20 +1382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c13485668b9d15520800000000000000
-      internalID: 2689169838531167004
+      spriteID: 9f4f995e9c688b880800000000000000
+      internalID: -8594971687137970951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_33
+      name: black_helmet_33
       rect:
         serializedVersion: 2
-        x: 341
-        y: 1036
-        width: 24
-        height: 18
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1421,20 +1403,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27ce5208894bf12a0800000000000000
-      internalID: -6764489548209197966
+      spriteID: 60c4d33cfb7f79120800000000000000
+      internalID: 2420675727721319430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_34
+      name: black_helmet_34
       rect:
         serializedVersion: 2
-        x: 405
-        y: 1036
-        width: 25
-        height: 18
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1442,20 +1424,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8d891862aaba95d0800000000000000
-      internalID: -3054924190523486834
+      spriteID: 32a7acb5734a52b50800000000000000
+      internalID: 6567836189259889187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_35
+      name: black_helmet_35
       rect:
         serializedVersion: 2
-        x: 469
-        y: 1036
-        width: 23
-        height: 19
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1463,20 +1445,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1917e348e18cb0c20800000000000000
-      internalID: 3173850395805905297
+      spriteID: 08260b851a0cac3c0800000000000000
+      internalID: -4338443491807829376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_36
+      name: black_helmet_36
       rect:
         serializedVersion: 2
-        x: 23
-        y: 974
-        width: 21
-        height: 19
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1484,20 +1466,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69ca950f2ce65f900800000000000000
-      internalID: 717601499170581654
+      spriteID: bddb923b639ecd190800000000000000
+      internalID: -7936212022190293541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_37
+      name: black_helmet_37
       rect:
         serializedVersion: 2
-        x: 85
-        y: 974
-        width: 24
-        height: 19
+        x: 0
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1505,20 +1487,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdd43860fd14f1790800000000000000
-      internalID: -7557249223561622052
+      spriteID: 93b59d50309f86570800000000000000
+      internalID: 8460285691393825593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_38
+      name: black_helmet_38
       rect:
         serializedVersion: 2
-        x: 151
-        y: 974
-        width: 24
-        height: 19
+        x: 64
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1526,20 +1508,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c12f98195a1a11310800000000000000
-      internalID: 1374057093808124444
+      spriteID: 47d86a0b572546da0800000000000000
+      internalID: -5952542142048596620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_39
+      name: black_helmet_39
       rect:
         serializedVersion: 2
-        x: 213
-        y: 974
-        width: 27
-        height: 19
+        x: 128
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1547,20 +1529,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad16324a0c3157980800000000000000
-      internalID: -8541899400129846822
+      spriteID: 9369b44b2769d96d0800000000000000
+      internalID: -2982061958854109639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_40
+      name: black_helmet_40
       rect:
         serializedVersion: 2
-        x: 274
-        y: 974
-        width: 23
-        height: 19
+        x: 192
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1568,20 +1550,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6dbdb4da3a2987990800000000000000
-      internalID: -7387993957016544298
+      spriteID: c621c4658b33740f0800000000000000
+      internalID: -1132879914445565332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_41
+      name: black_helmet_41
       rect:
         serializedVersion: 2
-        x: 336
-        y: 974
-        width: 25
-        height: 19
+        x: 256
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1589,20 +1571,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63e198e5271d2c800800000000000000
-      internalID: 631297186927812150
+      spriteID: 748af50f20413f1b0800000000000000
+      internalID: -5624129506800326585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_42
+      name: black_helmet_42
       rect:
         serializedVersion: 2
-        x: 402
-        y: 974
-        width: 23
-        height: 19
+        x: 320
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1610,20 +1592,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8682f1e2ac0a67550800000000000000
-      internalID: 6158286330693363816
+      spriteID: 16b6bf85585841580800000000000000
+      internalID: -8857307759360906399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_43
+      name: black_helmet_43
       rect:
         serializedVersion: 2
-        x: 469
-        y: 974
-        width: 27
-        height: 19
+        x: 384
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1631,20 +1613,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3737977e7293f970800000000000000
-      internalID: 8787528369799903035
+      spriteID: 3d2d008df346365f0800000000000000
+      internalID: -764657286353202477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_44
+      name: black_helmet_44
       rect:
         serializedVersion: 2
-        x: 16
-        y: 910
-        width: 32
-        height: 19
+        x: 448
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1652,20 +1634,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a800a685535e9eb80800000000000000
-      internalID: -8364902815584616310
+      spriteID: 575b7c0ca68d92420800000000000000
+      internalID: 2605851812422989173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_45
+      name: black_helmet_45
       rect:
         serializedVersion: 2
-        x: 82
-        y: 910
-        width: 27
-        height: 19
+        x: 0
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1673,20 +1655,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b16b8c6c8d5ecc4a0800000000000000
-      internalID: -6571625037029657061
+      spriteID: a2faf47e02cabb7e0800000000000000
+      internalID: -1748614772983615702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_46
+      name: black_helmet_46
       rect:
         serializedVersion: 2
-        x: 147
-        y: 910
-        width: 24
-        height: 18
+        x: 64
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1694,20 +1676,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3ed128a33c4a9e60800000000000000
-      internalID: 7969766275333348925
+      spriteID: 5541e9644c70257d0800000000000000
+      internalID: -2931271867885022123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_47
+      name: black_helmet_47
       rect:
         serializedVersion: 2
-        x: 209
-        y: 910
-        width: 26
-        height: 20
+        x: 128
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1715,20 +1697,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36b65fcbfb0f186c0800000000000000
-      internalID: -4142765475904525469
+      spriteID: a5ef0bc4b0df9ff00800000000000000
+      internalID: 1151229404743007834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_48
+      name: black_helmet_48
       rect:
         serializedVersion: 2
-        x: 276
-        y: 909
-        width: 23
-        height: 17
+        x: 192
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1736,20 +1718,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 476d90caf7a29b400800000000000000
-      internalID: 340349974678722164
+      spriteID: 091200f511f2f2700800000000000000
+      internalID: 517684233825690000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_49
+      name: black_helmet_49
       rect:
         serializedVersion: 2
-        x: 341
-        y: 909
-        width: 22
-        height: 17
+        x: 256
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1757,20 +1739,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 598d872837bfffb70800000000000000
-      internalID: 8935136659255122069
+      spriteID: 5f6c6ced43a59c0a0800000000000000
+      internalID: -6860853374199871755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_50
+      name: black_helmet_50
       rect:
         serializedVersion: 2
-        x: 404
-        y: 909
-        width: 23
-        height: 17
+        x: 320
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1778,20 +1760,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3991999d7045520e0800000000000000
-      internalID: -2295336042383205997
+      spriteID: c33f63909180adf50800000000000000
+      internalID: 6906841882147877692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_51
+      name: black_helmet_51
       rect:
         serializedVersion: 2
-        x: 465
-        y: 910
-        width: 26
-        height: 20
+        x: 384
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1799,20 +1781,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f74f264b5ee564360800000000000000
-      internalID: 7153509398791517311
+      spriteID: cfa616ebce365ed20800000000000000
+      internalID: 3307159369830984444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_52
+      name: black_helmet_52
       rect:
         serializedVersion: 2
-        x: 20
-        y: 846
-        width: 21
-        height: 19
+        x: 448
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1820,20 +1802,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24c79022086888530800000000000000
-      internalID: 3857480965727812674
+      spriteID: 4a1fa4afe2e294fc0800000000000000
+      internalID: -3510223655256002140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_53
+      name: black_helmet_53
       rect:
         serializedVersion: 2
-        x: 83
-        y: 846
-        width: 24
-        height: 19
+        x: 0
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1841,20 +1823,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 446f6fa67bed99430800000000000000
-      internalID: 3790305440763934276
+      spriteID: 76a707677bb9ca990800000000000000
+      internalID: -7373347277643941273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_54
+      name: black_helmet_54
       rect:
         serializedVersion: 2
-        x: 145
-        y: 846
-        width: 24
-        height: 19
+        x: 64
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,20 +1844,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7560d0134c7bc5d0800000000000000
-      internalID: -3041200495871892101
+      spriteID: 779982e9ac67f2d10800000000000000
+      internalID: 2103030163614243191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_55
+      name: black_helmet_55
       rect:
         serializedVersion: 2
-        x: 208
-        y: 846
-        width: 27
-        height: 19
+        x: 128
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1883,20 +1865,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a2d937431cc61810800000000000000
-      internalID: 1735799089569321637
+      spriteID: 662f739f466eeb3a0800000000000000
+      internalID: -6647622678599962010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_56
+      name: black_helmet_56
       rect:
         serializedVersion: 2
-        x: 279
-        y: 846
-        width: 23
-        height: 19
+        x: 192
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1904,20 +1886,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 051827677127b8c00800000000000000
-      internalID: 903941595314946384
+      spriteID: 58feb0608ce148d30800000000000000
+      internalID: 4432701777683148677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_57
+      name: black_helmet_57
       rect:
         serializedVersion: 2
-        x: 343
-        y: 846
-        width: 25
-        height: 19
+        x: 256
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1925,20 +1907,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 419806468d0074370800000000000000
-      internalID: 8306608967105153300
+      spriteID: e5e91c97fc6ef1880800000000000000
+      internalID: -8637931781497971106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_58
+      name: black_helmet_58
       rect:
         serializedVersion: 2
-        x: 407
-        y: 846
-        width: 23
-        height: 19
+        x: 320
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1946,20 +1928,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 447bfd1ab2426e870800000000000000
-      internalID: 8711690299012790084
+      spriteID: c6988a4cd16228b20800000000000000
+      internalID: 3135110199898573164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_59
+      name: black_helmet_59
       rect:
         serializedVersion: 2
-        x: 464
-        y: 846
-        width: 27
-        height: 19
+        x: 384
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1967,20 +1949,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ec2515fc515949b0800000000000000
-      internalID: -5095452043702358807
+      spriteID: 4d80599c3b653f070800000000000000
+      internalID: 8138944281769740500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_60
+      name: black_helmet_60
       rect:
         serializedVersion: 2
-        x: 16
-        y: 782
-        width: 32
-        height: 19
+        x: 448
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1988,20 +1970,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0a831a7774f1fd30800000000000000
-      internalID: 4463617499687258637
+      spriteID: d37e97e482816e5b0800000000000000
+      internalID: -5339553746806773955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_61
+      name: black_helmet_61
       rect:
         serializedVersion: 2
-        x: 80
-        y: 782
-        width: 32
-        height: 19
+        x: 0
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2009,20 +1991,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdff1cb2e1c3b36f0800000000000000
-      internalID: -703902816472530980
+      spriteID: 190bc355a94ace8b0800000000000000
+      internalID: -5121537693465137007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_62
+      name: black_helmet_62
       rect:
         serializedVersion: 2
-        x: 144
-        y: 782
-        width: 32
-        height: 19
+        x: 64
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2030,20 +2012,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 404c5bd7f833f77e0800000000000000
-      internalID: -1765635837523540988
+      spriteID: a9812352aa029b770800000000000000
+      internalID: 8626962476345464986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_63
+      name: black_helmet_63
       rect:
         serializedVersion: 2
-        x: 208
-        y: 781
-        width: 31
-        height: 19
+        x: 128
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2051,20 +2033,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e3cb04e905360110800000000000000
-      internalID: 1226726265101992929
+      spriteID: 0da50fd69a6dc77e0800000000000000
+      internalID: -1766300930653791536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_64
+      name: black_helmet_64
       rect:
         serializedVersion: 2
-        x: 272
-        y: 782
-        width: 32
-        height: 19
+        x: 192
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2072,20 +2054,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: caecdd36ec3728090800000000000000
-      internalID: -8033731454999605588
+      spriteID: 2b1d7781382269e20800000000000000
+      internalID: 3356908518697849266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_65
+      name: black_helmet_65
       rect:
         serializedVersion: 2
-        x: 336
-        y: 782
-        width: 32
-        height: 19
+        x: 256
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2093,20 +2075,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05bafad9c2a0c5820800000000000000
-      internalID: 2908210646114872144
+      spriteID: 6988f0eaa69f70fd0800000000000000
+      internalID: -2375656041832544106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_66
+      name: black_helmet_66
       rect:
         serializedVersion: 2
-        x: 400
-        y: 782
-        width: 32
-        height: 19
+        x: 320
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2114,20 +2096,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f560dbabda4b7bf0800000000000000
-      internalID: -325584240713374223
+      spriteID: 521407322b16beff0800000000000000
+      internalID: -5803556784291547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_67
+      name: black_helmet_67
       rect:
         serializedVersion: 2
-        x: 465
-        y: 781
-        width: 31
-        height: 20
+        x: 384
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2135,20 +2117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c03608a2196b9ca0800000000000000
-      internalID: -6009093748946489148
+      spriteID: 8b957df4f5f507950800000000000000
+      internalID: 6444755929733224888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_68
+      name: black_helmet_68
       rect:
         serializedVersion: 2
-        x: 528
-        y: 782
-        width: 32
-        height: 19
+        x: 448
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2156,20 +2138,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f4a1915f20afb150800000000000000
-      internalID: 5890602962716304633
+      spriteID: 04e75306f0045cea0800000000000000
+      internalID: -5853201705915285952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_69
+      name: black_helmet_69
       rect:
         serializedVersion: 2
-        x: 23
-        y: 718
-        width: 21
-        height: 19
+        x: 512
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2177,20 +2159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99f8e420d1f8d4cc0800000000000000
-      internalID: -3725163962010005607
+      spriteID: 8aad3fc8871f708e0800000000000000
+      internalID: -1727146432010134872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_70
+      name: black_helmet_70
       rect:
         serializedVersion: 2
-        x: 87
-        y: 717
-        width: 21
-        height: 19
+        x: 0
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2198,20 +2180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78f6d6cfe5ceddf80800000000000000
-      internalID: -8080042263726690425
+      spriteID: 0243eaad84f834790800000000000000
+      internalID: -7547031007473552352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_71
+      name: black_helmet_71
       rect:
         serializedVersion: 2
-        x: 151
-        y: 718
-        width: 21
-        height: 19
+        x: 64
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2219,20 +2201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c06d27f24a74faf40800000000000000
-      internalID: 5741886820416935436
+      spriteID: a4342a248cdc9e480800000000000000
+      internalID: -8869331731134397622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_72
+      name: black_helmet_72
       rect:
         serializedVersion: 2
-        x: 215
-        y: 718
-        width: 23
-        height: 19
+        x: 128
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2240,20 +2222,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f204abebf2b9f3240800000000000000
-      internalID: 4773704759401660463
+      spriteID: 4a4b4103130212a90800000000000000
+      internalID: -7340550522005048156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_73
+      name: black_helmet_73
       rect:
         serializedVersion: 2
-        x: 279
-        y: 718
-        width: 24
-        height: 19
+        x: 192
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2261,20 +2243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e779bd3e5b73255a0800000000000000
-      internalID: -6534098855009740930
+      spriteID: f37449d7a8a8829f0800000000000000
+      internalID: -492991831780079809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_74
+      name: black_helmet_74
       rect:
         serializedVersion: 2
-        x: 343
-        y: 717
-        width: 26
-        height: 19
+        x: 256
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2282,20 +2264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02e81234d275880a0800000000000000
-      internalID: -6879152578897015264
+      spriteID: 02672bc550d234540800000000000000
+      internalID: 4990882313109927456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_75
+      name: black_helmet_75
       rect:
         serializedVersion: 2
-        x: 407
-        y: 718
-        width: 24
-        height: 19
+        x: 320
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2303,20 +2285,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a759825da627e6c0800000000000000
-      internalID: -4114277208723728473
+      spriteID: 8df8b5e31665f2120800000000000000
+      internalID: 2391224902815027160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_76
+      name: black_helmet_76
       rect:
         serializedVersion: 2
-        x: 471
-        y: 718
-        width: 23
-        height: 19
+        x: 384
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2324,20 +2306,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fce91d3cd58c8440800000000000000
-      internalID: 4939470072283000056
+      spriteID: 6520a4260b3bd4c70800000000000000
+      internalID: 8957012804054418006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_77
+      name: black_helmet_77
       rect:
         serializedVersion: 2
-        x: 535
-        y: 718
-        width: 22
-        height: 19
+        x: 448
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2345,20 +2327,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce2fefd4112430bd0800000000000000
-      internalID: -2665213912382770452
+      spriteID: 01f630cc7f592ce20800000000000000
+      internalID: 3369420362738790160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_78
+      name: black_helmet_78
       rect:
         serializedVersion: 2
-        x: 16
-        y: 654
-        width: 32
-        height: 19
+        x: 512
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2366,20 +2348,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2587c2689e479ce20800000000000000
-      internalID: 3371354342390790226
+      spriteID: fd8cef4e4ef7585f0800000000000000
+      internalID: -755056741443516193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_79
+      name: black_helmet_79
       rect:
         serializedVersion: 2
-        x: 80
-        y: 654
-        width: 32
-        height: 19
+        x: 0
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2387,20 +2369,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81e6bc8cadf5c86f0800000000000000
-      internalID: -681064050363503080
+      spriteID: 57129872b9cb2ad60800000000000000
+      internalID: 7900084070930522485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_80
+      name: black_helmet_80
       rect:
         serializedVersion: 2
-        x: 144
-        y: 654
-        width: 32
-        height: 19
+        x: 64
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2408,20 +2390,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed7eeb703db1e1b60800000000000000
-      internalID: 7718637404541609950
+      spriteID: 8409f0eb154133810800000000000000
+      internalID: 1743759822036111432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_81
+      name: black_helmet_81
       rect:
         serializedVersion: 2
-        x: 209
-        y: 653
-        width: 31
-        height: 19
+        x: 128
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2429,20 +2411,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f49f099cb86b6370800000000000000
-      internalID: 8316856296100828405
+      spriteID: 8f9d39b0cdc86dc90800000000000000
+      internalID: -7145368882061780488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_82
+      name: black_helmet_82
       rect:
         serializedVersion: 2
-        x: 272
-        y: 654
-        width: 32
-        height: 19
+        x: 192
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2450,20 +2432,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2e57d46e0a3cdbe0800000000000000
-      internalID: -1451221146424353237
+      spriteID: 568a8dea65c427da0800000000000000
+      internalID: -5948608222618671003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_83
+      name: black_helmet_83
       rect:
         serializedVersion: 2
-        x: 336
-        y: 654
-        width: 32
-        height: 19
+        x: 256
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2471,20 +2453,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4bb0e9e70605e63c0800000000000000
-      internalID: -4364462613504062540
+      spriteID: cc7ab84e19606c070800000000000000
+      internalID: 8126189801311021004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_84
+      name: black_helmet_84
       rect:
         serializedVersion: 2
-        x: 400
-        y: 654
-        width: 32
-        height: 19
+        x: 320
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2492,20 +2474,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 150015e79a241f2b0800000000000000
-      internalID: -5552583569834966959
+      spriteID: a6eaabd94af0c54e0800000000000000
+      internalID: -1991699735509291414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_85
+      name: black_helmet_85
       rect:
         serializedVersion: 2
-        x: 464
-        y: 653
-        width: 31
-        height: 19
+        x: 384
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2513,20 +2495,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b042b55a42fb51af0800000000000000
-      internalID: -426224425602702325
+      spriteID: 238ad8192cb4fa810800000000000000
+      internalID: 1778723676872353842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_86
+      name: black_helmet_86
       rect:
         serializedVersion: 2
-        x: 528
-        y: 654
-        width: 32
-        height: 19
+        x: 448
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2534,20 +2516,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7012ac79d7696920800000000000000
-      internalID: 2984030411906224254
+      spriteID: dc33ab35e04429c40800000000000000
+      internalID: 5517547321807221709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_87
+      name: black_helmet_87
       rect:
         serializedVersion: 2
-        x: 20
-        y: 590
-        width: 21
-        height: 19
+        x: 512
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2555,20 +2537,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48d768ba78e15f2a0800000000000000
-      internalID: -6704418902223979132
+      spriteID: 6327ae6c3d2f94bc0800000000000000
+      internalID: -3798237819321028042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_88
+      name: black_helmet_88
       rect:
         serializedVersion: 2
-        x: 84
-        y: 589
-        width: 21
-        height: 19
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2576,20 +2558,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce7b5715ca8b85b90800000000000000
-      internalID: -7252844149639628820
+      spriteID: fd3312784cdfa1ad0800000000000000
+      internalID: -2730591203524267041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_89
+      name: black_helmet_89
       rect:
         serializedVersion: 2
-        x: 148
-        y: 590
-        width: 21
-        height: 19
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2597,20 +2579,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b697e5dfe56b82cb0800000000000000
-      internalID: -4888456876416665237
+      spriteID: 9ed6e880369344500800000000000000
+      internalID: 379491366114061801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_90
+      name: black_helmet_90
       rect:
         serializedVersion: 2
-        x: 210
-        y: 590
-        width: 23
-        height: 19
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2618,20 +2600,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00f13519d72770920800000000000000
-      internalID: 2956457564026642176
+      spriteID: b4f82d785812d7f50800000000000000
+      internalID: 6880692663085076299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_91
+      name: black_helmet_91
       rect:
         serializedVersion: 2
-        x: 273
-        y: 590
-        width: 24
-        height: 19
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2639,20 +2621,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d850d456d8614010800000000000000
-      internalID: 1171332647848270033
+      spriteID: bd3f4272c5f2d7280800000000000000
+      internalID: -9044020403849858085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_92
+      name: black_helmet_92
       rect:
         serializedVersion: 2
-        x: 335
-        y: 589
-        width: 26
-        height: 19
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2660,20 +2642,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4a3377159fb573d0800000000000000
-      internalID: -3209448512367150513
+      spriteID: 395d9a8c3f4092120800000000000000
+      internalID: 2389446522386896275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_93
+      name: black_helmet_93
       rect:
         serializedVersion: 2
-        x: 401
-        y: 590
-        width: 24
-        height: 19
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2681,20 +2663,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b6245631913aefa0800000000000000
-      internalID: -5770745472770365767
+      spriteID: 320734de009a6cee0800000000000000
+      internalID: -1241118825848279005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_94
+      name: black_helmet_94
       rect:
         serializedVersion: 2
-        x: 466
-        y: 590
-        width: 23
-        height: 19
+        x: 384
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2702,20 +2684,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9fbb32d50c124d50800000000000000
-      internalID: 6719964405317746589
+      spriteID: ca83e5ff05a8b70f0800000000000000
+      internalID: -1118148001985054548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_95
+      name: black_helmet_95
       rect:
         serializedVersion: 2
-        x: 531
-        y: 590
-        width: 22
-        height: 19
+        x: 448
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2723,20 +2705,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e1aff456f4318350800000000000000
-      internalID: 6017148809736331747
+      spriteID: 9e72120fcba3a1ba0800000000000000
+      internalID: -6117512560672430103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_96
+      name: black_helmet_96
       rect:
         serializedVersion: 2
-        x: 16
-        y: 525
-        width: 32
-        height: 19
+        x: 512
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2744,20 +2726,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9f1a81b697106a20800000000000000
-      internalID: 3053466483348348829
+      spriteID: dfc22e5696295dd60800000000000000
+      internalID: 7914392901552057597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_97
+      name: black_helmet_97
       rect:
         serializedVersion: 2
-        x: 80
-        y: 524
-        width: 31
-        height: 19
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2765,20 +2747,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 817bc185682539fa0800000000000000
-      internalID: -5795197558538324200
+      spriteID: 304bb3e8a9ab213e0800000000000000
+      internalID: -2084398504545111037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_98
+      name: black_helmet_98
       rect:
         serializedVersion: 2
-        x: 144
-        y: 524
-        width: 29
-        height: 19
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2786,20 +2768,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdcdacdb435149700800000000000000
-      internalID: 546084771085343963
+      spriteID: 8c1a5569b0501f530800000000000000
+      internalID: 3886893500722422216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_99
+      name: black_helmet_99
       rect:
         serializedVersion: 2
-        x: 209
-        y: 525
-        width: 31
-        height: 21
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2807,20 +2789,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59ca03b1a314b9e90800000000000000
-      internalID: -7017943876506702699
+      spriteID: 5dc5182f1f18087d0800000000000000
+      internalID: -2918189682380415787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_100
+      name: black_helmet_100
       rect:
         serializedVersion: 2
-        x: 273
-        y: 525
-        width: 35
-        height: 20
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2828,20 +2810,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 268275a47a5a61c80800000000000000
-      internalID: -8352306320986658718
+      spriteID: a99c49adcb12c2b40800000000000000
+      internalID: 5416741546824616346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_101
+      name: black_helmet_101
       rect:
         serializedVersion: 2
-        x: 337
-        y: 525
-        width: 37
-        height: 19
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2849,20 +2831,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e72f00c8e38176d0800000000000000
-      internalID: -2994467241546799131
+      spriteID: c46f5512dcc8ec770800000000000000
+      internalID: 8632992348371285580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_102
+      name: black_helmet_102
       rect:
         serializedVersion: 2
-        x: 23
-        y: 462
-        width: 21
-        height: 19
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2870,20 +2852,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 30d75e331612ebbb0800000000000000
-      internalID: -4918457041675780861
+      spriteID: d27400b34207705e0800000000000000
+      internalID: -1943461413276072147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_103
+      name: black_helmet_103
       rect:
         serializedVersion: 2
-        x: 85
-        y: 460
-        width: 22
-        height: 19
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2891,20 +2873,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3ae17cd4e5b64040800000000000000
-      internalID: 4631589261352757821
+      spriteID: 5a9a2f21c6e0e5660800000000000000
+      internalID: 7376349097016600997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_104
+      name: black_helmet_104
       rect:
         serializedVersion: 2
-        x: 147
-        y: 462
-        width: 26
-        height: 19
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2912,20 +2894,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2180e7915c9df8cb0800000000000000
-      internalID: -4859426032350001134
+      spriteID: 3dcf9f9e0651818e0800000000000000
+      internalID: -1722603351482696493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_105
+      name: black_helmet_105
       rect:
         serializedVersion: 2
-        x: 207
-        y: 462
-        width: 30
-        height: 19
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2933,20 +2915,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d04f7e98d8ff3000800000000000000
-      internalID: 18006532788535508
+      spriteID: 3f0074cc24aaa0970800000000000000
+      internalID: 8721970832228155635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_106
+      name: black_helmet_106
       rect:
         serializedVersion: 2
-        x: 267
-        y: 462
-        width: 33
-        height: 19
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2954,20 +2936,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e11a27ce32d231eb0800000000000000
-      internalID: -4750403549631700706
+      spriteID: a38e4a432198d57c0800000000000000
+      internalID: -4080954976042162118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_107
+      name: black_helmet_107
       rect:
         serializedVersion: 2
-        x: 333
-        y: 462
-        width: 31
-        height: 19
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2975,20 +2957,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 688a08044b04000a0800000000000000
-      internalID: -6917457884720617338
+      spriteID: dc682a28c1446b660800000000000000
+      internalID: 7401177926871451341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_108
+      name: black_helmet_108
       rect:
         serializedVersion: 2
-        x: 16
-        y: 398
-        width: 32
-        height: 19
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2996,20 +2978,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a23ef2c5a2141f770800000000000000
-      internalID: 8642760810091766570
+      spriteID: fbe47ed832d897840800000000000000
+      internalID: 5222360426756918975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_109
+      name: black_helmet_109
       rect:
         serializedVersion: 2
-        x: 81
-        y: 398
-        width: 30
-        height: 19
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3017,20 +2999,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cda03f43c956c0e0800000000000000
-      internalID: -2250012268442899001
+      spriteID: e5bf0cbc43fd510a0800000000000000
+      internalID: -6911372635280442530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_110
+      name: black_helmet_110
       rect:
         serializedVersion: 2
-        x: 145
-        y: 396
-        width: 26
-        height: 19
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3038,20 +3020,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ae1f25aefb1ad310800000000000000
-      internalID: 1430486612150525608
+      spriteID: d4a4cc57f3da04120800000000000000
+      internalID: 2396105489831971405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_111
+      name: black_helmet_111
       rect:
         serializedVersion: 2
-        x: 212
-        y: 397
-        width: 28
-        height: 19
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3059,20 +3041,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e92e47f8950028af0800000000000000
-      internalID: -395753432596290914
+      spriteID: d00c1d6e7b04126c0800000000000000
+      internalID: -4169980621372669939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_112
+      name: black_helmet_112
       rect:
         serializedVersion: 2
-        x: 275
-        y: 398
-        width: 35
-        height: 19
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3080,20 +3062,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a37fd029ce72f5fc0800000000000000
-      internalID: -3504038088054802630
+      spriteID: 661b7d6e7765fb860800000000000000
+      internalID: 7547846573470232934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_113
+      name: black_helmet_113
       rect:
         serializedVersion: 2
-        x: 338
-        y: 398
-        width: 37
-        height: 19
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3101,20 +3083,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 94f81332bb539e5a0800000000000000
-      internalID: -6491598310012252343
+      spriteID: 425bf4ffb21077b00800000000000000
+      internalID: 826130345124410660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_114
+      name: black_helmet_114
       rect:
         serializedVersion: 2
-        x: 20
-        y: 334
-        width: 21
-        height: 19
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3122,20 +3104,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc91c331428e63560800000000000000
-      internalID: 7293271888212269515
+      spriteID: 0db73b0e2bd113ce0800000000000000
+      internalID: -1427326952788493360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_115
+      name: black_helmet_115
       rect:
         serializedVersion: 2
-        x: 85
-        y: 332
-        width: 22
-        height: 19
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3143,20 +3125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d3b6f407f664a3c0800000000000000
-      internalID: -4349238129006824488
+      spriteID: 7b2e704cdb4bad220800000000000000
+      internalID: 2511518469343142583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_116
+      name: black_helmet_116
       rect:
         serializedVersion: 2
-        x: 147
-        y: 334
-        width: 26
-        height: 19
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3164,20 +3146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f0cd5a55981d1830800000000000000
-      internalID: 4043415070193860854
+      spriteID: bbd122979d7bf4a80800000000000000
+      internalID: -8480357428647289413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_117
+      name: black_helmet_117
       rect:
         serializedVersion: 2
-        x: 211
-        y: 334
-        width: 30
-        height: 19
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3185,20 +3167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4d588443fb6e9580800000000000000
-      internalID: -8818492327773840052
+      spriteID: f06b936cba4222080800000000000000
+      internalID: -9213761567462935025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_118
+      name: black_helmet_118
       rect:
         serializedVersion: 2
-        x: 276
-        y: 334
-        width: 33
-        height: 19
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3206,20 +3188,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0889783a800ebd750800000000000000
-      internalID: 6330900028907296896
+      spriteID: b636af93c11a42860800000000000000
+      internalID: 7504300021709955947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_119
+      name: black_helmet_119
       rect:
         serializedVersion: 2
-        x: 340
-        y: 334
-        width: 31
-        height: 19
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3227,20 +3209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3bddbff954494850800000000000000
-      internalID: 6361691101970946878
+      spriteID: 28cd6adf63a3102e0800000000000000
+      internalID: -2161382338302911358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_120
+      name: black_helmet_120
       rect:
         serializedVersion: 2
-        x: 15
-        y: 269
-        width: 32
-        height: 19
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3248,20 +3230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 094ec2c8e5976ad90800000000000000
-      internalID: -7086843516635257712
+      spriteID: bf95e5029f14e6690800000000000000
+      internalID: -7607070182336472581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_121
+      name: black_helmet_121
       rect:
         serializedVersion: 2
-        x: 82
-        y: 268
-        width: 27
-        height: 19
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3269,20 +3251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062bfba61b459b390800000000000000
-      internalID: -7802111758465781152
+      spriteID: 9a6c391ae928d7020800000000000000
+      internalID: 2341170999129786025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_122
+      name: black_helmet_122
       rect:
         serializedVersion: 2
-        x: 148
-        y: 268
-        width: 24
-        height: 19
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3290,20 +3272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a701de37f7e279860800000000000000
-      internalID: 7536543626368454778
+      spriteID: 3854fb2b28bceb180800000000000000
+      internalID: -9097610435036756605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_123
+      name: black_helmet_123
       rect:
         serializedVersion: 2
-        x: 213
-        y: 267
-        width: 22
-        height: 20
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3311,20 +3293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a9f95a5bd04f8080800000000000000
-      internalID: -9183049804327290457
+      spriteID: 8f03989b9632e61f0800000000000000
+      internalID: -1049862726139432712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_124
+      name: black_helmet_124
       rect:
         serializedVersion: 2
-        x: 277
-        y: 267
-        width: 27
-        height: 20
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3332,20 +3314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65b072d408e032b60800000000000000
-      internalID: 7720030130456169302
+      spriteID: 12187efba8a8624b0800000000000000
+      internalID: -5465528769237778143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_125
+      name: black_helmet_125
       rect:
         serializedVersion: 2
-        x: 341
-        y: 267
-        width: 25
-        height: 25
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3353,20 +3335,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 967df1ef950962ec0800000000000000
-      internalID: -3592024936591403159
+      spriteID: 2e670d32238f203e0800000000000000
+      internalID: -2088834382913571102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_126
+      name: black_helmet_126
       rect:
         serializedVersion: 2
-        x: 405
-        y: 267
-        width: 26
-        height: 25
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3374,20 +3356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed135fd86fe333d80800000000000000
-      internalID: -8272198861884935714
+      spriteID: eedfdc59d589d7400800000000000000
+      internalID: 323582275953229294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_127
+      name: black_helmet_127
       rect:
         serializedVersion: 2
-        x: 469
-        y: 267
-        width: 27
-        height: 21
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3395,20 +3377,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fee12427c63bac910800000000000000
-      internalID: 1858495074598526703
+      spriteID: e14549dc7a793aff0800000000000000
+      internalID: -26010425869708258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_128
+      name: black_helmet_128
       rect:
         serializedVersion: 2
-        x: 533
-        y: 267
-        width: 28
-        height: 20
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3416,20 +3398,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 391bac8cf04990a20800000000000000
-      internalID: 3029115019897516435
+      spriteID: 515185a7e06888850800000000000000
+      internalID: 6379496268910564629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_129
+      name: black_helmet_129
       rect:
         serializedVersion: 2
-        x: 597
-        y: 267
-        width: 27
-        height: 20
+        x: 512
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3437,20 +3419,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48a6047fbdb4afc90800000000000000
-      internalID: -7135307251497014652
+      spriteID: b27dcfcd4d5890f70800000000000000
+      internalID: 9153994866894362411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_130
+      name: black_helmet_130
       rect:
         serializedVersion: 2
-        x: 661
-        y: 267
-        width: 22
-        height: 20
+        x: 576
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3458,20 +3440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6845df8b54dffc30800000000000000
-      internalID: 4395465251057125482
+      spriteID: 7059641fee85a23a0800000000000000
+      internalID: -6689436513232055033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_131
+      name: black_helmet_131
       rect:
         serializedVersion: 2
-        x: 725
-        y: 267
-        width: 22
-        height: 20
+        x: 640
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3479,20 +3461,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b1886455a190e440800000000000000
-      internalID: 4963126928634053048
+      spriteID: ca391cf0cd8758d10800000000000000
+      internalID: 2127239285554910124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_132
+      name: black_helmet_132
       rect:
         serializedVersion: 2
-        x: 789
-        y: 267
-        width: 22
-        height: 20
+        x: 704
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3500,20 +3482,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10475ec681137aaa0800000000000000
-      internalID: -6149892785175170047
+      spriteID: c22ef7a1928f3a410800000000000000
+      internalID: 1487305157384331820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_133
+      name: black_helmet_133
       rect:
         serializedVersion: 2
-        x: 24
-        y: 206
-        width: 21
-        height: 19
+        x: 768
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3521,20 +3503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24837cb691cd4fd80800000000000000
-      internalID: -8217701418303801278
+      spriteID: 524dd7d7535c0ac80800000000000000
+      internalID: -8313428078596598747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_134
+      name: black_helmet_134
       rect:
         serializedVersion: 2
-        x: 86
-        y: 206
-        width: 24
-        height: 19
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3542,20 +3524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae25ee7405b600670800000000000000
-      internalID: 8502914089023853290
+      spriteID: ff65bb1099970a2a0800000000000000
+      internalID: -6728244145225509121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_135
+      name: black_helmet_135
       rect:
         serializedVersion: 2
-        x: 147
-        y: 206
-        width: 29
-        height: 19
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3563,20 +3545,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dba2c1a206def2c0800000000000000
-      internalID: -4395840879474857007
+      spriteID: 5db5dfcfb13862bb0800000000000000
+      internalID: -4961133783270204459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_136
+      name: black_helmet_136
       rect:
         serializedVersion: 2
-        x: 209
-        y: 206
-        width: 32
-        height: 19
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3584,20 +3566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7246ef5f4c972e230800000000000000
-      internalID: 3666626933480645671
+      spriteID: 4723d18d0d9b5d940800000000000000
+      internalID: 5320362841438237300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_137
+      name: black_helmet_137
       rect:
         serializedVersion: 2
-        x: 274
-        y: 206
-        width: 31
-        height: 19
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3605,20 +3587,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4116a0bc52221fce0800000000000000
-      internalID: -1373278865655701228
+      spriteID: 746012304136f1bd0800000000000000
+      internalID: -2657296317522311609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_138
+      name: black_helmet_138
       rect:
         serializedVersion: 2
-        x: 337
-        y: 206
-        width: 28
-        height: 22
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3626,20 +3608,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 315a7ac374efb1970800000000000000
-      internalID: 8726848284874220819
+      spriteID: 59b036d3e825bd2b0800000000000000
+      internalID: -5558758544190010475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_139
+      name: black_helmet_139
       rect:
         serializedVersion: 2
-        x: 401
-        y: 206
-        width: 30
-        height: 23
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3647,20 +3629,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45c87db82cc09e250800000000000000
-      internalID: 5974320410393021524
+      spriteID: e1dc9c442ca5dd410800000000000000
+      internalID: 1503457641035844894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_140
+      name: black_helmet_140
       rect:
         serializedVersion: 2
-        x: 466
-        y: 206
-        width: 32
-        height: 23
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3668,20 +3650,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9253cf5563744e970800000000000000
-      internalID: 8783223471975707945
+      spriteID: 3bf16895ffc0b5900800000000000000
+      internalID: 674146860080177075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_141
+      name: black_helmet_141
       rect:
         serializedVersion: 2
-        x: 530
-        y: 206
-        width: 34
-        height: 20
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3689,20 +3671,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54b02161856dc2750800000000000000
-      internalID: 6281631254090746693
+      spriteID: 28b3c35b90ed10aa0800000000000000
+      internalID: -6196427479008396414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_142
+      name: black_helmet_142
       rect:
         serializedVersion: 2
-        x: 594
-        y: 206
-        width: 31
-        height: 19
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3710,20 +3692,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4b4549789fd5daf0800000000000000
-      internalID: -372145548225590453
+      spriteID: d74c9af5b0b492920800000000000000
+      internalID: 2965984341821867133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_143
+      name: black_helmet_143
       rect:
         serializedVersion: 2
-        x: 658
-        y: 206
-        width: 30
-        height: 19
+        x: 576
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3731,20 +3713,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeba77d1c9b76d750800000000000000
-      internalID: 6329382236755307502
+      spriteID: be141d39580e55520800000000000000
+      internalID: 2690303216738976235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_144
+      name: black_helmet_144
       rect:
         serializedVersion: 2
-        x: 722
-        y: 206
-        width: 25
-        height: 18
+        x: 640
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3752,20 +3734,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8c6d0cd96025f010800000000000000
-      internalID: 1221918512936479885
+      spriteID: 57ab04c101979cf30800000000000000
+      internalID: 4596338004808743541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_145
+      name: black_helmet_145
       rect:
         serializedVersion: 2
-        x: 786
-        y: 206
-        width: 30
-        height: 19
+        x: 704
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3773,20 +3755,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b83173783dd63c620800000000000000
-      internalID: 2793196949173900171
+      spriteID: 24f258d55082bc0d0800000000000000
+      internalID: -3401581090039320766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_146
+      name: black_helmet_146
       rect:
         serializedVersion: 2
-        x: 15
-        y: 142
-        width: 32
-        height: 19
+        x: 768
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3794,20 +3776,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e383a0cd0d0986200800000000000000
-      internalID: 173547812373018686
+      spriteID: e94d7319dc0f2d430800000000000000
+      internalID: 3806369400776807582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_147
+      name: black_helmet_147
       rect:
         serializedVersion: 2
-        x: 81
-        y: 142
-        width: 28
-        height: 19
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3815,20 +3797,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 271ed4c61c358f990800000000000000
-      internalID: -7352034301471497870
+      spriteID: eba9acb388d465520800000000000000
+      internalID: 2690423074914474686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_148
+      name: black_helmet_148
       rect:
         serializedVersion: 2
-        x: 150
-        y: 142
-        width: 22
-        height: 18
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3836,20 +3818,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f34fcd08edc4ba640800000000000000
-      internalID: 5092248322200892479
+      spriteID: 09690ea11be0d4f80800000000000000
+      internalID: -8120818399256209776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_149
+      name: black_helmet_149
       rect:
         serializedVersion: 2
-        x: 214
-        y: 141
-        width: 20
-        height: 18
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3857,20 +3839,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95c3cac5b9869dc00800000000000000
-      internalID: 925886214885358681
+      spriteID: 8efe9b133a3ef1c90800000000000000
+      internalID: -7196783389461319704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_150
+      name: black_helmet_150
       rect:
         serializedVersion: 2
-        x: 274
-        y: 151
-        width: 8
-        height: 12
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3878,20 +3860,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c22e7e2ea88f82070800000000000000
-      internalID: 8081982806712377900
+      spriteID: 79ad01fbcd8133970800000000000000
+      internalID: 8733351438778948247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_151
+      name: black_helmet_151
       rect:
         serializedVersion: 2
-        x: 278
-        y: 141
-        width: 18
-        height: 16
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3899,20 +3881,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f4a06bef9df508c0800000000000000
-      internalID: -4033539027949804302
+      spriteID: 2a538269d26c06760800000000000000
+      internalID: 7449171682765845922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_152
+      name: black_helmet_152
       rect:
         serializedVersion: 2
-        x: 338
-        y: 152
-        width: 10
-        height: 11
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3920,20 +3902,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34368a43b5d722e40800000000000000
-      internalID: 5630200314845487939
+      spriteID: 8e10e92a40966d440800000000000000
+      internalID: 4960267508224229864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_153
+      name: black_helmet_153
       rect:
         serializedVersion: 2
-        x: 342
-        y: 141
-        width: 18
-        height: 17
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3941,20 +3923,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40808e211e5a54230800000000000000
-      internalID: 3622483861392852996
+      spriteID: d8b39c2d72d726260800000000000000
+      internalID: 7089366373428181901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_154
+      name: black_helmet_154
       rect:
         serializedVersion: 2
-        x: 402
-        y: 154
-        width: 10
-        height: 11
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3962,20 +3944,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6292494a667809dd0800000000000000
-      internalID: -2481334519763556058
+      spriteID: a02e6230aff1a3c70800000000000000
+      internalID: 8951502368007447050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_155
+      name: black_helmet_155
       rect:
         serializedVersion: 2
-        x: 406
-        y: 141
-        width: 18
-        height: 17
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3983,20 +3965,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1b16cf06f08dbd10800000000000000
-      internalID: 2143010792013175579
+      spriteID: e2f72a1c9d27bd9e0800000000000000
+      internalID: -1595555363390587090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_156
+      name: black_helmet_156
       rect:
         serializedVersion: 2
-        x: 465
-        y: 156
-        width: 10
-        height: 11
+        x: 576
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4004,20 +3986,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8acdfecbc873e4ad0800000000000000
-      internalID: -2716172447653045080
+      spriteID: b2d0d2b17398a74c0800000000000000
+      internalID: -4288964825344832213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_157
+      name: black_helmet_157
       rect:
         serializedVersion: 2
-        x: 470
-        y: 141
-        width: 19
-        height: 18
+        x: 640
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4025,20 +4007,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50ee052d0a9de8f70800000000000000
-      internalID: 9191523174256274949
+      spriteID: 3671ba5f87564c5c0800000000000000
+      internalID: -4196117382610348189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_158
+      name: black_helmet_158
       rect:
         serializedVersion: 2
-        x: 529
-        y: 156
-        width: 9
-        height: 10
+        x: 704
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4046,20 +4028,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1335bd26eab6fb2b0800000000000000
-      internalID: -5566612217679621327
+      spriteID: b3ebb6ed9a66ad4f0800000000000000
+      internalID: -803216703765103045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_159
+      name: black_helmet_159
       rect:
         serializedVersion: 2
-        x: 534
-        y: 141
-        width: 18
-        height: 16
+        x: 768
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4067,20 +4049,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 044b5af209e9f8ff0800000000000000
-      internalID: -31632330256436160
+      spriteID: 3cc0e801aebbea110800000000000000
+      internalID: 1274162358566915267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_160
+      name: black_helmet_160
       rect:
         serializedVersion: 2
-        x: 594
-        y: 152
-        width: 9
-        height: 11
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4088,20 +4070,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b1e5f990061b06e0800000000000000
-      internalID: -1870377028403469902
+      spriteID: 7b9ae991b8373ae70800000000000000
+      internalID: 9125264311250233783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_161
+      name: black_helmet_161
       rect:
         serializedVersion: 2
-        x: 598
-        y: 141
-        width: 18
-        height: 16
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4109,20 +4091,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e66f582bea6b00110800000000000000
-      internalID: 1225179960080463470
+      spriteID: a34f0ab46164cb730800000000000000
+      internalID: 4016162029279704122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_162
+      name: black_helmet_162
       rect:
         serializedVersion: 2
-        x: 662
-        y: 141
-        width: 18
-        height: 18
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4130,20 +4112,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48319c63cb003de60800000000000000
-      internalID: 7985727372631020420
+      spriteID: 8a75242dd5297b540800000000000000
+      internalID: 5023644841012254632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_163
+      name: black_helmet_163
       rect:
         serializedVersion: 2
-        x: 724
-        y: 141
-        width: 20
-        height: 18
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4151,20 +4133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec175246d51cc7860800000000000000
-      internalID: 7529105283912921550
+      spriteID: f6c8823ac0f981740800000000000000
+      internalID: 5123019452759706735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_164
+      name: black_helmet_164
       rect:
         serializedVersion: 2
-        x: 790
-        y: 141
-        width: 18
-        height: 18
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4172,20 +4154,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d92475bd2b9899c40800000000000000
-      internalID: 5519594219596366493
+      spriteID: 3b18ee832a3ab10a0800000000000000
+      internalID: -6909749286134709837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_165
+      name: black_helmet_165
       rect:
         serializedVersion: 2
-        x: 19
-        y: 78
-        width: 21
-        height: 19
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4193,20 +4175,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c26aa5865d8a37390800000000000000
-      internalID: -7821722493280147924
+      spriteID: f2b4cc514aa935300800000000000000
+      internalID: 239705234711792431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_166
+      name: black_helmet_166
       rect:
         serializedVersion: 2
-        x: 82
-        y: 78
-        width: 24
-        height: 19
+        x: 384
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4214,20 +4196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6dce268f5114c90800000000000000
-      internalID: -7187439373750839593
+      spriteID: 280737319d49607d0800000000000000
+      internalID: -2952508845639634814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_167
+      name: black_helmet_167
       rect:
         serializedVersion: 2
-        x: 144
-        y: 78
-        width: 29
-        height: 19
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4235,20 +4217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69db67af01109d7c0800000000000000
-      internalID: -4046201617782489706
+      spriteID: 5e5e615f0602ce790800000000000000
+      internalID: -7499583678677850651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_168
+      name: black_helmet_168
       rect:
         serializedVersion: 2
-        x: 207
-        y: 78
-        width: 32
-        height: 19
+        x: 512
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4256,20 +4238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cff7aa76a4236a60800000000000000
-      internalID: 7666011288155717568
+      spriteID: 0d424eff423301f80800000000000000
+      internalID: -8137948292653505328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_169
+      name: black_helmet_169
       rect:
         serializedVersion: 2
-        x: 271
-        y: 78
-        width: 31
-        height: 19
+        x: 576
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4277,20 +4259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: acac35f1744278080800000000000000
-      internalID: -9185333027111974198
+      spriteID: f41cf5652cba932c0800000000000000
+      internalID: -4451337905517903537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_170
+      name: black_helmet_170
       rect:
         serializedVersion: 2
-        x: 339
-        y: 78
-        width: 28
-        height: 22
+        x: 640
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4298,20 +4280,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9094f34d83d70cc30800000000000000
-      internalID: 4377636520836679945
+      spriteID: 975c239e926eac3c0800000000000000
+      internalID: -4338402223337585287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_171
+      name: black_helmet_171
       rect:
         serializedVersion: 2
-        x: 401
-        y: 78
-        width: 30
-        height: 23
+        x: 704
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4319,20 +4301,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63747130d14906830800000000000000
-      internalID: 4062409716215007030
+      spriteID: 457618bbabc910e60800000000000000
+      internalID: 7926789144972453716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_172
+      name: black_helmet_172
       rect:
         serializedVersion: 2
-        x: 462
-        y: 78
-        width: 32
-        height: 23
+        x: 768
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4340,20 +4322,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 518f157928b7620a0800000000000000
-      internalID: -6906697177711380459
+      spriteID: 24dcf59dafe690ad0800000000000000
+      internalID: -2735533274983051966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_173
+      name: black_helmet_173
       rect:
         serializedVersion: 2
-        x: 524
-        y: 78
-        width: 34
-        height: 20
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4361,20 +4343,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 425d27b3cd922ddf0800000000000000
-      internalID: -157017011137620700
+      spriteID: cd9f18453123fd860800000000000000
+      internalID: 7556813758354553308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_174
+      name: black_helmet_174
       rect:
         serializedVersion: 2
-        x: 591
-        y: 78
-        width: 31
-        height: 19
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4382,20 +4364,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 859a700b9860bc6d0800000000000000
-      internalID: -2969272340887131816
+      spriteID: 84b109e9d9c631900800000000000000
+      internalID: 653985795124763464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_175
+      name: black_helmet_175
       rect:
         serializedVersion: 2
-        x: 656
-        y: 78
-        width: 30
-        height: 19
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4403,20 +4385,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae438330aa2170320800000000000000
-      internalID: 2524006637572207850
+      spriteID: e1549c348255b18f0800000000000000
+      internalID: -568767296507919074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_176
+      name: black_helmet_176
       rect:
         serializedVersion: 2
-        x: 725
-        y: 78
-        width: 25
-        height: 18
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4424,20 +4406,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d39b1bfdd4c88bed0800000000000000
-      internalID: -2398012535481452227
+      spriteID: 62600160c903db6c0800000000000000
+      internalID: -4126088236926761434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_177
+      name: black_helmet_177
       rect:
         serializedVersion: 2
-        x: 784
-        y: 78
-        width: 30
-        height: 19
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4445,134 +4427,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2a5d3d7f1dabe170800000000000000
-      internalID: 8208845096569625130
+      spriteID: 813810b2ed25ed660800000000000000
+      internalID: 7412453150856151832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: black_chestplate_178
+      name: black_helmet_178
       rect:
         serializedVersion: 2
-        x: 16
-        y: 14
-        width: 32
-        height: 19
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a75f6ed4f670cd6c0800000000000000
-      internalID: -4117407784693729926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: black_chestplate_179
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 13
-        width: 32
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3b23509bc0c78f70800000000000000
-      internalID: 9189525545205050172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: black_chestplate_180
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 7
-        width: 30
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a205e91d526797b0800000000000000
-      internalID: -5217593491279510871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: black_chestplate_181
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 6
-        width: 31
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 30708af2f6d8f68b0800000000000000
-      internalID: -5156747539635501309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: black_chestplate_182
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 6
-        width: 30
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1964f15d1a639500800000000000000
-      internalID: 401781465927674141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: black_chestplate_183
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 8
-        width: 32
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ffd3ed9fa48d25360800000000000000
-      internalID: 7157020574376410623
+      spriteID: ecb289c8d7e5d9c4b8441dd070c69dfb
+      internalID: -950492749
       vertices: []
       indices: 
       edges: []
@@ -4580,7 +4457,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d5ef65812a45dc347b477e8a02fec26b
     internalID: 0
     vertices: []
     indices: 
@@ -4588,190 +4465,185 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      black_chestplate_0: -7974565057862860138
-      black_chestplate_1: -8536856644876053688
-      black_chestplate_10: -8224188837904996560
-      black_chestplate_100: -8352306320986658718
-      black_chestplate_101: -2994467241546799131
-      black_chestplate_102: -4918457041675780861
-      black_chestplate_103: 4631589261352757821
-      black_chestplate_104: -4859426032350001134
-      black_chestplate_105: 18006532788535508
-      black_chestplate_106: -4750403549631700706
-      black_chestplate_107: -6917457884720617338
-      black_chestplate_108: 8642760810091766570
-      black_chestplate_109: -2250012268442899001
-      black_chestplate_11: -3752111827129363306
-      black_chestplate_110: 1430486612150525608
-      black_chestplate_111: -395753432596290914
-      black_chestplate_112: -3504038088054802630
-      black_chestplate_113: -6491598310012252343
-      black_chestplate_114: 7293271888212269515
-      black_chestplate_115: -4349238129006824488
-      black_chestplate_116: 4043415070193860854
-      black_chestplate_117: -8818492327773840052
-      black_chestplate_118: 6330900028907296896
-      black_chestplate_119: 6361691101970946878
-      black_chestplate_12: 9097317798002118284
-      black_chestplate_120: -7086843516635257712
-      black_chestplate_121: -7802111758465781152
-      black_chestplate_122: 7536543626368454778
-      black_chestplate_123: -9183049804327290457
-      black_chestplate_124: 7720030130456169302
-      black_chestplate_125: -3592024936591403159
-      black_chestplate_126: -8272198861884935714
-      black_chestplate_127: 1858495074598526703
-      black_chestplate_128: 3029115019897516435
-      black_chestplate_129: -7135307251497014652
-      black_chestplate_13: 8180073377268929073
-      black_chestplate_130: 4395465251057125482
-      black_chestplate_131: 4963126928634053048
-      black_chestplate_132: -6149892785175170047
-      black_chestplate_133: -8217701418303801278
-      black_chestplate_134: 8502914089023853290
-      black_chestplate_135: -4395840879474857007
-      black_chestplate_136: 3666626933480645671
-      black_chestplate_137: -1373278865655701228
-      black_chestplate_138: 8726848284874220819
-      black_chestplate_139: 5974320410393021524
-      black_chestplate_14: 9199902818598942221
-      black_chestplate_140: 8783223471975707945
-      black_chestplate_141: 6281631254090746693
-      black_chestplate_142: -372145548225590453
-      black_chestplate_143: 6329382236755307502
-      black_chestplate_144: 1221918512936479885
-      black_chestplate_145: 2793196949173900171
-      black_chestplate_146: 173547812373018686
-      black_chestplate_147: -7352034301471497870
-      black_chestplate_148: 5092248322200892479
-      black_chestplate_149: 925886214885358681
-      black_chestplate_15: -6663848807595309147
-      black_chestplate_150: 8081982806712377900
-      black_chestplate_151: -4033539027949804302
-      black_chestplate_152: 5630200314845487939
-      black_chestplate_153: 3622483861392852996
-      black_chestplate_154: -2481334519763556058
-      black_chestplate_155: 2143010792013175579
-      black_chestplate_156: -2716172447653045080
-      black_chestplate_157: 9191523174256274949
-      black_chestplate_158: -5566612217679621327
-      black_chestplate_159: -31632330256436160
-      black_chestplate_16: -7947439241296394953
-      black_chestplate_160: -1870377028403469902
-      black_chestplate_161: 1225179960080463470
-      black_chestplate_162: 7985727372631020420
-      black_chestplate_163: 7529105283912921550
-      black_chestplate_164: 5519594219596366493
-      black_chestplate_165: -7821722493280147924
-      black_chestplate_166: -7187439373750839593
-      black_chestplate_167: -4046201617782489706
-      black_chestplate_168: 7666011288155717568
-      black_chestplate_169: -9185333027111974198
-      black_chestplate_17: 8993451446564598939
-      black_chestplate_170: 4377636520836679945
-      black_chestplate_171: 4062409716215007030
-      black_chestplate_172: -6906697177711380459
-      black_chestplate_173: -157017011137620700
-      black_chestplate_174: -2969272340887131816
-      black_chestplate_175: 2524006637572207850
-      black_chestplate_176: -2398012535481452227
-      black_chestplate_177: 8208845096569625130
-      black_chestplate_178: -4117407784693729926
-      black_chestplate_179: 9189525545205050172
-      black_chestplate_18: 2289480010290719328
-      black_chestplate_180: -5217593491279510871
-      black_chestplate_181: -5156747539635501309
-      black_chestplate_182: 401781465927674141
-      black_chestplate_183: 7157020574376410623
-      black_chestplate_19: 5049911336271770938
-      black_chestplate_2: 7856239135447835465
-      black_chestplate_20: 2812534613223917810
-      black_chestplate_21: -7585496268078350071
-      black_chestplate_22: 5009249114638029676
-      black_chestplate_23: 5343298054891032697
-      black_chestplate_24: 7889408089393497493
-      black_chestplate_25: -5241556288604814669
-      black_chestplate_26: -6200788871739462519
-      black_chestplate_27: -6945040588250018093
-      black_chestplate_28: 4668072070906292407
-      black_chestplate_29: 8382287319297027126
-      black_chestplate_3: -2834372164361087056
-      black_chestplate_30: 5935375109675595966
-      black_chestplate_31: 1956661534560269253
-      black_chestplate_32: 2689169838531167004
-      black_chestplate_33: -6764489548209197966
-      black_chestplate_34: -3054924190523486834
-      black_chestplate_35: 3173850395805905297
-      black_chestplate_36: 717601499170581654
-      black_chestplate_37: -7557249223561622052
-      black_chestplate_38: 1374057093808124444
-      black_chestplate_39: -8541899400129846822
-      black_chestplate_4: 109132449985202477
-      black_chestplate_40: -7387993957016544298
-      black_chestplate_41: 631297186927812150
-      black_chestplate_42: 6158286330693363816
-      black_chestplate_43: 8787528369799903035
-      black_chestplate_44: -8364902815584616310
-      black_chestplate_45: -6571625037029657061
-      black_chestplate_46: 7969766275333348925
-      black_chestplate_47: -4142765475904525469
-      black_chestplate_48: 340349974678722164
-      black_chestplate_49: 8935136659255122069
-      black_chestplate_5: -4532203417751928494
-      black_chestplate_50: -2295336042383205997
-      black_chestplate_51: 7153509398791517311
-      black_chestplate_52: 3857480965727812674
-      black_chestplate_53: 3790305440763934276
-      black_chestplate_54: -3041200495871892101
-      black_chestplate_55: 1735799089569321637
-      black_chestplate_56: 903941595314946384
-      black_chestplate_57: 8306608967105153300
-      black_chestplate_58: 8711690299012790084
-      black_chestplate_59: -5095452043702358807
-      black_chestplate_6: -6281232777116360738
-      black_chestplate_60: 4463617499687258637
-      black_chestplate_61: -703902816472530980
-      black_chestplate_62: -1765635837523540988
-      black_chestplate_63: 1226726265101992929
-      black_chestplate_64: -8033731454999605588
-      black_chestplate_65: 2908210646114872144
-      black_chestplate_66: -325584240713374223
-      black_chestplate_67: -6009093748946489148
-      black_chestplate_68: 5890602962716304633
-      black_chestplate_69: -3725163962010005607
-      black_chestplate_7: 3160917375900001891
-      black_chestplate_70: -8080042263726690425
-      black_chestplate_71: 5741886820416935436
-      black_chestplate_72: 4773704759401660463
-      black_chestplate_73: -6534098855009740930
-      black_chestplate_74: -6879152578897015264
-      black_chestplate_75: -4114277208723728473
-      black_chestplate_76: 4939470072283000056
-      black_chestplate_77: -2665213912382770452
-      black_chestplate_78: 3371354342390790226
-      black_chestplate_79: -681064050363503080
-      black_chestplate_8: 5307425993500492753
-      black_chestplate_80: 7718637404541609950
-      black_chestplate_81: 8316856296100828405
-      black_chestplate_82: -1451221146424353237
-      black_chestplate_83: -4364462613504062540
-      black_chestplate_84: -5552583569834966959
-      black_chestplate_85: -426224425602702325
-      black_chestplate_86: 2984030411906224254
-      black_chestplate_87: -6704418902223979132
-      black_chestplate_88: -7252844149639628820
-      black_chestplate_89: -4888456876416665237
-      black_chestplate_9: -8608803835587035829
-      black_chestplate_90: 2956457564026642176
-      black_chestplate_91: 1171332647848270033
-      black_chestplate_92: -3209448512367150513
-      black_chestplate_93: -5770745472770365767
-      black_chestplate_94: 6719964405317746589
-      black_chestplate_95: 6017148809736331747
-      black_chestplate_96: 3053466483348348829
-      black_chestplate_97: -5795197558538324200
-      black_chestplate_98: 546084771085343963
-      black_chestplate_99: -7017943876506702699
+      black_helmet_0: -4317014771957297974
+      black_helmet_1: 7003315732983702003
+      black_helmet_10: 3648041375728269735
+      black_helmet_100: 5416741546824616346
+      black_helmet_101: 8632992348371285580
+      black_helmet_102: -1943461413276072147
+      black_helmet_103: 7376349097016600997
+      black_helmet_104: -1722603351482696493
+      black_helmet_105: 8721970832228155635
+      black_helmet_106: -4080954976042162118
+      black_helmet_107: 7401177926871451341
+      black_helmet_108: 5222360426756918975
+      black_helmet_109: -6911372635280442530
+      black_helmet_11: 5957660434342277022
+      black_helmet_110: 2396105489831971405
+      black_helmet_111: -4169980621372669939
+      black_helmet_112: 7547846573470232934
+      black_helmet_113: 826130345124410660
+      black_helmet_114: -1427326952788493360
+      black_helmet_115: 2511518469343142583
+      black_helmet_116: -8480357428647289413
+      black_helmet_117: -9213761567462935025
+      black_helmet_118: 7504300021709955947
+      black_helmet_119: -2161382338302911358
+      black_helmet_12: -8104452540573964599
+      black_helmet_120: -7607070182336472581
+      black_helmet_121: 2341170999129786025
+      black_helmet_122: -9097610435036756605
+      black_helmet_123: -1049862726139432712
+      black_helmet_124: -5465528769237778143
+      black_helmet_125: -2088834382913571102
+      black_helmet_126: 323582275953229294
+      black_helmet_127: -26010425869708258
+      black_helmet_128: 6379496268910564629
+      black_helmet_129: 9153994866894362411
+      black_helmet_13: 5487223601904490071
+      black_helmet_130: -6689436513232055033
+      black_helmet_131: 2127239285554910124
+      black_helmet_132: 1487305157384331820
+      black_helmet_133: -8313428078596598747
+      black_helmet_134: -6728244145225509121
+      black_helmet_135: -4961133783270204459
+      black_helmet_136: 5320362841438237300
+      black_helmet_137: -2657296317522311609
+      black_helmet_138: -5558758544190010475
+      black_helmet_139: 1503457641035844894
+      black_helmet_14: 7884931245582494046
+      black_helmet_140: 674146860080177075
+      black_helmet_141: -6196427479008396414
+      black_helmet_142: 2965984341821867133
+      black_helmet_143: 2690303216738976235
+      black_helmet_144: 4596338004808743541
+      black_helmet_145: -3401581090039320766
+      black_helmet_146: 3806369400776807582
+      black_helmet_147: 2690423074914474686
+      black_helmet_148: -8120818399256209776
+      black_helmet_149: -7196783389461319704
+      black_helmet_15: 1179157989554510120
+      black_helmet_150: 8733351438778948247
+      black_helmet_151: 7449171682765845922
+      black_helmet_152: 4960267508224229864
+      black_helmet_153: 7089366373428181901
+      black_helmet_154: 8951502368007447050
+      black_helmet_155: -1595555363390587090
+      black_helmet_156: -4288964825344832213
+      black_helmet_157: -4196117382610348189
+      black_helmet_158: -803216703765103045
+      black_helmet_159: 1274162358566915267
+      black_helmet_16: -3696426757973500255
+      black_helmet_160: 9125264311250233783
+      black_helmet_161: 4016162029279704122
+      black_helmet_162: 5023644841012254632
+      black_helmet_163: 5123019452759706735
+      black_helmet_164: -6909749286134709837
+      black_helmet_165: 239705234711792431
+      black_helmet_166: -2952508845639634814
+      black_helmet_167: -7499583678677850651
+      black_helmet_168: -8137948292653505328
+      black_helmet_169: -4451337905517903537
+      black_helmet_17: -2801721754155734641
+      black_helmet_170: -4338402223337585287
+      black_helmet_171: 7926789144972453716
+      black_helmet_172: -2735533274983051966
+      black_helmet_173: 7556813758354553308
+      black_helmet_174: 653985795124763464
+      black_helmet_175: -568767296507919074
+      black_helmet_176: -4126088236926761434
+      black_helmet_177: 7412453150856151832
+      black_helmet_178: -950492749
+      black_helmet_18: -2335581502583119964
+      black_helmet_19: 1262011559241101148
+      black_helmet_2: -1083380210702138741
+      black_helmet_20: -7889677490131977557
+      black_helmet_21: -1917230904539944097
+      black_helmet_22: -8764923603254401770
+      black_helmet_23: -4813640535905054922
+      black_helmet_24: -8983820187649772498
+      black_helmet_25: 4253317156691183769
+      black_helmet_26: 6092141995738405564
+      black_helmet_27: 8641749040359747428
+      black_helmet_28: -1545304276432267167
+      black_helmet_29: 2333437823004423795
+      black_helmet_3: 7276392338103256746
+      black_helmet_30: 7818898912064500012
+      black_helmet_31: 2348346392174805941
+      black_helmet_32: -8594971687137970951
+      black_helmet_33: 2420675727721319430
+      black_helmet_34: 6567836189259889187
+      black_helmet_35: -4338443491807829376
+      black_helmet_36: -7936212022190293541
+      black_helmet_37: 8460285691393825593
+      black_helmet_38: -5952542142048596620
+      black_helmet_39: -2982061958854109639
+      black_helmet_4: -2921724573648899642
+      black_helmet_40: -1132879914445565332
+      black_helmet_41: -5624129506800326585
+      black_helmet_42: -8857307759360906399
+      black_helmet_43: -764657286353202477
+      black_helmet_44: 2605851812422989173
+      black_helmet_45: -1748614772983615702
+      black_helmet_46: -2931271867885022123
+      black_helmet_47: 1151229404743007834
+      black_helmet_48: 517684233825690000
+      black_helmet_49: -6860853374199871755
+      black_helmet_5: -6023301192783505421
+      black_helmet_50: 6906841882147877692
+      black_helmet_51: 3307159369830984444
+      black_helmet_52: -3510223655256002140
+      black_helmet_53: -7373347277643941273
+      black_helmet_54: 2103030163614243191
+      black_helmet_55: -6647622678599962010
+      black_helmet_56: 4432701777683148677
+      black_helmet_57: -8637931781497971106
+      black_helmet_58: 3135110199898573164
+      black_helmet_59: 8138944281769740500
+      black_helmet_6: -1459368641371647252
+      black_helmet_60: -5339553746806773955
+      black_helmet_61: -5121537693465137007
+      black_helmet_62: 8626962476345464986
+      black_helmet_63: -1766300930653791536
+      black_helmet_64: 3356908518697849266
+      black_helmet_65: -2375656041832544106
+      black_helmet_66: -5803556784291547
+      black_helmet_67: 6444755929733224888
+      black_helmet_68: -5853201705915285952
+      black_helmet_69: -1727146432010134872
+      black_helmet_7: 3733725496384738342
+      black_helmet_70: -7547031007473552352
+      black_helmet_71: -8869331731134397622
+      black_helmet_72: -7340550522005048156
+      black_helmet_73: -492991831780079809
+      black_helmet_74: 4990882313109927456
+      black_helmet_75: 2391224902815027160
+      black_helmet_76: 8957012804054418006
+      black_helmet_77: 3369420362738790160
+      black_helmet_78: -755056741443516193
+      black_helmet_79: 7900084070930522485
+      black_helmet_8: 2040695094448711575
+      black_helmet_80: 1743759822036111432
+      black_helmet_81: -7145368882061780488
+      black_helmet_82: -5948608222618671003
+      black_helmet_83: 8126189801311021004
+      black_helmet_84: -1991699735509291414
+      black_helmet_85: 1778723676872353842
+      black_helmet_86: 5517547321807221709
+      black_helmet_87: -3798237819321028042
+      black_helmet_88: -2730591203524267041
+      black_helmet_89: 379491366114061801
+      black_helmet_9: -1456385041152808924
+      black_helmet_90: 6880692663085076299
+      black_helmet_91: -9044020403849858085
+      black_helmet_92: 2389446522386896275
+      black_helmet_93: -1241118825848279005
+      black_helmet_94: -1118148001985054548
+      black_helmet_95: -6117512560672430103
+      black_helmet_96: 7914392901552057597
+      black_helmet_97: -2084398504545111037
+      black_helmet_98: 3886893500722422216
+      black_helmet_99: -2918189682380415787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -23,6 +23,10 @@ public class Inventory : ScriptableObject
         {
             slots.Add(InventorySlot.GetEmpty(i));
         }
+
+        for (int i = 0; i < 4; i++)
+            PlayerEvents.GetInstance().ArmourChanged(null, i);
+        PlayerEvents.GetInstance().WeaponChanged(null);
     }
 
     public Weapon.Damage GetDamage()
@@ -74,6 +78,14 @@ public class Inventory : ScriptableObject
     {
         slot.index = index;
         slots[index] = slot;
+
+        Sprite[] sprites = null;
+        if (!slot.IsEmpty)
+            sprites = slot.item.GetSprite();
+        if (index >= 0 && index < 4)
+            PlayerEvents.GetInstance().ArmourChanged(sprites, index);
+        if (index == 4)
+            PlayerEvents.GetInstance().WeaponChanged(sprites);
     }
     public InventorySlot GetSlotAt(int itemIndex)
     {

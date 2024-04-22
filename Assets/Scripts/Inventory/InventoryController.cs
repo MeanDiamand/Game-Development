@@ -17,7 +17,7 @@ public class InventoryController : MonoBehaviour, IUIController
     {
         InitializeUI();
         InitializeInventoryModel();
-        Debug.Log("InventoryController Start()");
+        //Debug.Log("InventoryController Start()");
     }
     public bool Trigger()
     {
@@ -56,7 +56,7 @@ public class InventoryController : MonoBehaviour, IUIController
     }
     private void UpdateInventoryUI(List<InventorySlot> inventoryState)
     {
-        Debug.Log("UpdateInventoryUI");
+        //Debug.Log("UpdateInventoryUI");
         inventoryUI.ResetAllItems();
         foreach (var slot in inventoryState)
             inventoryUI.UpdateData(slot);
@@ -163,7 +163,7 @@ public class InventoryController : MonoBehaviour, IUIController
     }
     private void HandleDescriptionRequest(int itemIndex)
     {
-        Debug.Log("HandleDescriptionRequest");
+        //Debug.Log("HandleDescriptionRequest");
         InventorySlot slot = inventoryModel.GetSlotAt(itemIndex);
         Item item = slot.item;
         if (item == null)

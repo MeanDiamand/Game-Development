@@ -4,7 +4,7 @@ using UnityEngine;
 using static Inventory;
 
 [CreateAssetMenu]
-public class Weapon : Item
+public class Weapon : WearableItem
 {
     [field: SerializeField]
     public Damage damage { get; set; }
@@ -40,5 +40,4 @@ public class Weapon : Item
                 DamageType = DamageTypes.Physical
             };
     }
- 
 }
