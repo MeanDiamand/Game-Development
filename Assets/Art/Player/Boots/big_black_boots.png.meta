@@ -1,541 +1,748 @@
 fileFormatVersion: 2
-guid: a7fb385c7bb6eb54db6180c68b022775
+guid: df3965e0e866a854bb2291ef14b95f4e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6171749998868576760
-    second: steel_helmet_0
+      213: -3969898686530524407
+    second: big_black_boots_0
   - first:
-      213: 12241374522416488
-    second: steel_helmet_1
+      213: 6603734996458115491
+    second: big_black_boots_1
   - first:
-      213: 6986683232054315680
-    second: steel_helmet_2
+      213: 8666636182292746301
+    second: big_black_boots_2
   - first:
-      213: -9084514716749300429
-    second: steel_helmet_3
+      213: -1328954130865083601
+    second: big_black_boots_3
   - first:
-      213: -2605092767791272085
-    second: steel_helmet_4
+      213: 5215872143694555670
+    second: big_black_boots_4
   - first:
-      213: -3618400423685170181
-    second: steel_helmet_5
+      213: -6195539619055332214
+    second: big_black_boots_5
   - first:
-      213: -8915839874675382637
-    second: steel_helmet_6
+      213: 7266018718479149005
+    second: big_black_boots_6
   - first:
-      213: -3062091586150151873
-    second: steel_helmet_7
+      213: -4173367231937215282
+    second: big_black_boots_7
   - first:
-      213: -1322780199126261323
-    second: steel_helmet_8
+      213: -4625650819525080824
+    second: big_black_boots_8
   - first:
-      213: 4846370706414177993
-    second: steel_helmet_9
+      213: 695759056546448084
+    second: big_black_boots_9
   - first:
-      213: -586560210239163906
-    second: steel_helmet_10
+      213: 5579641440706423050
+    second: big_black_boots_10
   - first:
-      213: -1972632962815971818
-    second: steel_helmet_11
+      213: -2357326765419755587
+    second: big_black_boots_11
   - first:
-      213: -1713682853992552001
-    second: steel_helmet_12
+      213: 3653611308033237614
+    second: big_black_boots_12
   - first:
-      213: 3439335505553292134
-    second: steel_helmet_13
+      213: -3844166686791335677
+    second: big_black_boots_13
   - first:
-      213: 2892035228080534227
-    second: steel_helmet_14
+      213: -9050831598108679786
+    second: big_black_boots_14
   - first:
-      213: 3313697068908060132
-    second: steel_helmet_15
+      213: 6850832378136550799
+    second: big_black_boots_15
   - first:
-      213: -5567384938589405565
-    second: steel_helmet_16
+      213: 1653082082385168021
+    second: big_black_boots_16
   - first:
-      213: 7500603439164031947
-    second: steel_helmet_17
+      213: -5355497106368683370
+    second: big_black_boots_17
   - first:
-      213: -3644197443859134174
-    second: steel_helmet_18
+      213: -3515665906005851784
+    second: big_black_boots_18
   - first:
-      213: 4466993417679045759
-    second: steel_helmet_19
+      213: -8594790272778897122
+    second: big_black_boots_19
   - first:
-      213: 1742437157880726838
-    second: steel_helmet_20
+      213: 5658041473572952944
+    second: big_black_boots_20
   - first:
-      213: 5510097588438900594
-    second: steel_helmet_21
+      213: 591537732380786292
+    second: big_black_boots_21
   - first:
-      213: -3267568700784841838
-    second: steel_helmet_22
+      213: -1620654109618989258
+    second: big_black_boots_22
   - first:
-      213: 1348682662045803020
-    second: steel_helmet_23
+      213: -1395757078042825677
+    second: big_black_boots_23
   - first:
-      213: 8206618093779921881
-    second: steel_helmet_24
+      213: 2358406702218584682
+    second: big_black_boots_24
   - first:
-      213: 1185336702795753642
-    second: steel_helmet_25
+      213: 3174447177755546507
+    second: big_black_boots_25
   - first:
-      213: 8888250568420438383
-    second: steel_helmet_26
+      213: -2960683560726236146
+    second: big_black_boots_26
   - first:
-      213: 5559853279690005970
-    second: steel_helmet_27
+      213: 2068529473337839789
+    second: big_black_boots_27
   - first:
-      213: 5327364381975883520
-    second: steel_helmet_28
+      213: -1639395156353224028
+    second: big_black_boots_28
   - first:
-      213: 4207413756729204104
-    second: steel_helmet_29
+      213: -8450676385366424208
+    second: big_black_boots_29
   - first:
-      213: -4423727515652172706
-    second: steel_helmet_30
+      213: 8269777535669436106
+    second: big_black_boots_30
   - first:
-      213: -4389538743983595125
-    second: steel_helmet_31
+      213: -518245242542336487
+    second: big_black_boots_31
   - first:
-      213: -2314416292049436817
-    second: steel_helmet_32
+      213: 7847886921623796499
+    second: big_black_boots_32
   - first:
-      213: -6020420764971605737
-    second: steel_helmet_33
+      213: -8314248627838135143
+    second: big_black_boots_33
   - first:
-      213: 5703355630601134212
-    second: steel_helmet_34
+      213: 9012302241651708981
+    second: big_black_boots_34
   - first:
-      213: -3029926006429797792
-    second: steel_helmet_35
+      213: -6634218617077481243
+    second: big_black_boots_35
   - first:
-      213: -53097635868160739
-    second: steel_helmet_36
+      213: -5548657025610301856
+    second: big_black_boots_36
   - first:
-      213: -673222048977194238
-    second: steel_helmet_37
+      213: 5588807515174154490
+    second: big_black_boots_37
   - first:
-      213: -7496279777166356339
-    second: steel_helmet_38
+      213: -4195581313361321024
+    second: big_black_boots_38
   - first:
-      213: -3021865570111167463
-    second: steel_helmet_39
+      213: 5279190862712799013
+    second: big_black_boots_39
   - first:
-      213: 9061380609784110592
-    second: steel_helmet_40
+      213: 5188415231005100954
+    second: big_black_boots_40
   - first:
-      213: -3269708864223853646
-    second: steel_helmet_41
+      213: -8916309094874989500
+    second: big_black_boots_41
   - first:
-      213: -1408640524953191784
-    second: steel_helmet_42
+      213: -2254608334163941796
+    second: big_black_boots_42
   - first:
-      213: 8570442781222150036
-    second: steel_helmet_43
+      213: 2760129882891499138
+    second: big_black_boots_43
   - first:
-      213: -2688813780094995009
-    second: steel_helmet_44
+      213: -3528996852774728957
+    second: big_black_boots_44
   - first:
-      213: 8645676110124070078
-    second: steel_helmet_45
+      213: -5775996599551838019
+    second: big_black_boots_45
   - first:
-      213: -2337278104543630372
-    second: steel_helmet_46
+      213: -4231913088335830817
+    second: big_black_boots_46
   - first:
-      213: -554455110087410358
-    second: steel_helmet_47
+      213: -9050899915170351564
+    second: big_black_boots_47
   - first:
-      213: 2102823896779310437
-    second: steel_helmet_48
+      213: -3188277846120966276
+    second: big_black_boots_48
   - first:
-      213: 4886785767373659916
-    second: steel_helmet_49
+      213: 3305516514463981692
+    second: big_black_boots_49
   - first:
-      213: 2486674740593134430
-    second: steel_helmet_50
+      213: 3788355387071281907
+    second: big_black_boots_50
   - first:
-      213: 4501855816464969713
-    second: steel_helmet_51
+      213: -1175006369325205144
+    second: big_black_boots_51
   - first:
-      213: 1288944814315847801
-    second: steel_helmet_52
+      213: -2826230572179929653
+    second: big_black_boots_52
   - first:
-      213: 5792239042642673814
-    second: steel_helmet_53
+      213: 2079998287701557288
+    second: big_black_boots_53
   - first:
-      213: -9200427242908765608
-    second: steel_helmet_54
+      213: -1840598209566344947
+    second: big_black_boots_54
   - first:
-      213: -7230916463810660293
-    second: steel_helmet_55
+      213: -152441061438930631
+    second: big_black_boots_55
   - first:
-      213: -6077679775214339239
-    second: steel_helmet_56
+      213: 94778705388687201
+    second: big_black_boots_56
   - first:
-      213: -2014232571661212167
-    second: steel_helmet_57
+      213: -697789784117921968
+    second: big_black_boots_57
   - first:
-      213: -4008410288200766598
-    second: steel_helmet_58
+      213: -1371837492254373944
+    second: big_black_boots_58
   - first:
-      213: 514415130665000966
-    second: steel_helmet_59
+      213: 7194636312119953077
+    second: big_black_boots_59
   - first:
-      213: 8430018887565883415
-    second: steel_helmet_60
+      213: -2644407490663084471
+    second: big_black_boots_60
   - first:
-      213: 3324382747386455729
-    second: steel_helmet_61
+      213: -6957297907611688802
+    second: big_black_boots_61
   - first:
-      213: 1180296870818938530
-    second: steel_helmet_62
+      213: 862879952189640910
+    second: big_black_boots_62
   - first:
-      213: -2841516579443058458
-    second: steel_helmet_63
+      213: -58691106537691517
+    second: big_black_boots_63
   - first:
-      213: -2210705929708827437
-    second: steel_helmet_64
+      213: 1466009187116213779
+    second: big_black_boots_64
   - first:
-      213: 2085819806030340423
-    second: steel_helmet_65
+      213: 1938171617850088028
+    second: big_black_boots_65
   - first:
-      213: -7460367247566041362
-    second: steel_helmet_66
+      213: 8054424446653388395
+    second: big_black_boots_66
   - first:
-      213: -8499979738703707583
-    second: steel_helmet_67
+      213: 7580611609618689381
+    second: big_black_boots_67
   - first:
-      213: -8852262402376275218
-    second: steel_helmet_68
+      213: -4987440341328759589
+    second: big_black_boots_68
   - first:
-      213: 9124959812758010136
-    second: steel_helmet_69
+      213: -2687585351189424156
+    second: big_black_boots_69
   - first:
-      213: -251607274846075724
-    second: steel_helmet_70
+      213: -9074414083707305771
+    second: big_black_boots_70
   - first:
-      213: -3325462535381865803
-    second: steel_helmet_71
+      213: 5264484598999941977
+    second: big_black_boots_71
   - first:
-      213: 8397568820755220717
-    second: steel_helmet_72
+      213: 3682821320649618994
+    second: big_black_boots_72
   - first:
-      213: 4703732761374378263
-    second: steel_helmet_73
+      213: -5165984880244368431
+    second: big_black_boots_73
   - first:
-      213: -4071943459035029028
-    second: steel_helmet_74
+      213: 1528042595293488903
+    second: big_black_boots_74
   - first:
-      213: 7723011734815802537
-    second: steel_helmet_75
+      213: 3821261040188625063
+    second: big_black_boots_75
   - first:
-      213: 7521647195445578084
-    second: steel_helmet_76
+      213: 4939478002830847158
+    second: big_black_boots_76
   - first:
-      213: 7798953126886843722
-    second: steel_helmet_77
+      213: -1945342309933277115
+    second: big_black_boots_77
   - first:
-      213: 8103393022394613735
-    second: steel_helmet_78
+      213: 5961421875316009088
+    second: big_black_boots_78
   - first:
-      213: 1001067612486801208
-    second: steel_helmet_79
+      213: -3967711148950020419
+    second: big_black_boots_79
   - first:
-      213: -342845787209007105
-    second: steel_helmet_80
+      213: 5248067524360252147
+    second: big_black_boots_80
   - first:
-      213: 7407496882320240874
-    second: steel_helmet_81
+      213: -7455616168983355596
+    second: big_black_boots_81
   - first:
-      213: 1176574924260936011
-    second: steel_helmet_82
+      213: -7915651088841964442
+    second: big_black_boots_82
   - first:
-      213: -8729810696231732969
-    second: steel_helmet_83
+      213: -3960088590000670219
+    second: big_black_boots_83
   - first:
-      213: -4684543575520208719
-    second: steel_helmet_84
+      213: 8812533110397364035
+    second: big_black_boots_84
   - first:
-      213: -5556636124233375385
-    second: steel_helmet_85
+      213: -9103407883546425004
+    second: big_black_boots_85
   - first:
-      213: 4204050572261347990
-    second: steel_helmet_86
+      213: 6255515761397572292
+    second: big_black_boots_86
   - first:
-      213: 1071223655509989327
-    second: steel_helmet_87
+      213: 7752373343360025779
+    second: big_black_boots_87
   - first:
-      213: -987298771173507599
-    second: steel_helmet_88
+      213: 5188770725698505606
+    second: big_black_boots_88
   - first:
-      213: -941148049827953005
-    second: steel_helmet_89
+      213: 2605546290863907852
+    second: big_black_boots_89
   - first:
-      213: -40111364193426509
-    second: steel_helmet_90
+      213: 7151335740601399608
+    second: big_black_boots_90
   - first:
-      213: 3653208969029831014
-    second: steel_helmet_91
+      213: 604921560559694740
+    second: big_black_boots_91
   - first:
-      213: 8777758608245864649
-    second: steel_helmet_92
+      213: -8086217739355128379
+    second: big_black_boots_92
   - first:
-      213: -8863699348197801595
-    second: steel_helmet_93
+      213: 6468888365766115415
+    second: big_black_boots_93
   - first:
-      213: -1528422834583850921
-    second: steel_helmet_94
+      213: -362346864516295307
+    second: big_black_boots_94
   - first:
-      213: 6280033951698896790
-    second: steel_helmet_95
+      213: 8204906189039398780
+    second: big_black_boots_95
   - first:
-      213: -4751858050826911993
-    second: steel_helmet_96
+      213: -7078723992727429165
+    second: big_black_boots_96
   - first:
-      213: -3141439542981642364
-    second: steel_helmet_97
+      213: -5456625719349010917
+    second: big_black_boots_97
   - first:
-      213: -6121911227465134723
-    second: steel_helmet_98
+      213: -8498617551246317899
+    second: big_black_boots_98
   - first:
-      213: -7998694753117018577
-    second: steel_helmet_99
+      213: -6683591590233274819
+    second: big_black_boots_99
   - first:
-      213: -7351198424840555652
-    second: steel_helmet_100
+      213: -2066981353158648004
+    second: big_black_boots_100
   - first:
-      213: 7612810089966860576
-    second: steel_helmet_101
+      213: -3684886844831064403
+    second: big_black_boots_101
   - first:
-      213: 1876455311465488501
-    second: steel_helmet_102
+      213: -8632329498873434856
+    second: big_black_boots_102
   - first:
-      213: -8552234656509997781
-    second: steel_helmet_103
+      213: -3168719877872949200
+    second: big_black_boots_103
   - first:
-      213: 372493284527290364
-    second: steel_helmet_104
+      213: 6428013031226762625
+    second: big_black_boots_104
   - first:
-      213: -1785514995071107864
-    second: steel_helmet_105
+      213: 7327142482251327280
+    second: big_black_boots_105
   - first:
-      213: -5547875155533440087
-    second: steel_helmet_106
+      213: 2625495508895394230
+    second: big_black_boots_106
   - first:
-      213: 6302302562564093891
-    second: steel_helmet_107
+      213: 3643089131138280374
+    second: big_black_boots_107
   - first:
-      213: -6437388689642309485
-    second: steel_helmet_108
+      213: 292416717344908575
+    second: big_black_boots_108
   - first:
-      213: -3742859842601144340
-    second: steel_helmet_109
+      213: 4703692172100166283
+    second: big_black_boots_109
   - first:
-      213: -2188892216917094203
-    second: steel_helmet_110
+      213: -7228236074782025295
+    second: big_black_boots_110
   - first:
-      213: 8960342473285734135
-    second: steel_helmet_111
+      213: -7204157921878103942
+    second: big_black_boots_111
   - first:
-      213: -5135927531716469155
-    second: steel_helmet_112
+      213: 7923286955889684247
+    second: big_black_boots_112
   - first:
-      213: -3795696677588511176
-    second: steel_helmet_113
+      213: -6391160480869737879
+    second: big_black_boots_113
   - first:
-      213: -7269287026526555599
-    second: steel_helmet_114
+      213: 441865898671966356
+    second: big_black_boots_114
   - first:
-      213: -200280996575369581
-    second: steel_helmet_115
+      213: 6464000708060797237
+    second: big_black_boots_115
   - first:
-      213: 13329640905894783
-    second: steel_helmet_116
+      213: -7048422995234766604
+    second: big_black_boots_116
   - first:
-      213: -7343726047885292783
-    second: steel_helmet_117
+      213: -5928799927714342646
+    second: big_black_boots_117
   - first:
-      213: -2407927321422852646
-    second: steel_helmet_118
+      213: 8155405156235159555
+    second: big_black_boots_118
   - first:
-      213: 2179341348579415231
-    second: steel_helmet_119
+      213: -5240936455419593582
+    second: big_black_boots_119
   - first:
-      213: 3108581125857502269
-    second: steel_helmet_120
+      213: -7567192833357668836
+    second: big_black_boots_120
   - first:
-      213: 8783564235806967381
-    second: steel_helmet_121
+      213: -3091146531039225646
+    second: big_black_boots_121
   - first:
-      213: -454198823789125173
-    second: steel_helmet_122
+      213: 2878785541306332235
+    second: big_black_boots_122
   - first:
-      213: 397881566263101192
-    second: steel_helmet_123
+      213: 3612734977078895926
+    second: big_black_boots_123
   - first:
-      213: 874327018104137350
-    second: steel_helmet_124
+      213: 3307454058758500124
+    second: big_black_boots_124
   - first:
-      213: -6713696751126964014
-    second: steel_helmet_125
+      213: 4602547913504075586
+    second: big_black_boots_125
   - first:
-      213: -2321739273729232134
-    second: steel_helmet_126
+      213: -9157604662148899416
+    second: big_black_boots_126
   - first:
-      213: -6158422974067419945
-    second: steel_helmet_127
+      213: -5037017286813534035
+    second: big_black_boots_127
   - first:
-      213: -2885177728186784369
-    second: steel_helmet_128
+      213: -5591360739452030225
+    second: big_black_boots_128
   - first:
-      213: 7676975855596175510
-    second: steel_helmet_129
+      213: 7728371795712985150
+    second: big_black_boots_129
   - first:
-      213: 9018328958594954851
-    second: steel_helmet_130
+      213: -252125131203009115
+    second: big_black_boots_130
   - first:
-      213: 32627421838500222
-    second: steel_helmet_131
+      213: -417280821777679350
+    second: big_black_boots_131
   - first:
-      213: -7055271449064097300
-    second: steel_helmet_132
+      213: 3847439496180095313
+    second: big_black_boots_132
   - first:
-      213: -8137454989894214761
-    second: steel_helmet_133
+      213: -5090181800803264811
+    second: big_black_boots_133
   - first:
-      213: 7814079881433781314
-    second: steel_helmet_134
+      213: 2355721535369230264
+    second: big_black_boots_134
   - first:
-      213: -830653047195545880
-    second: steel_helmet_135
+      213: -4650673656962914050
+    second: big_black_boots_135
   - first:
-      213: 3571089155422953958
-    second: steel_helmet_136
+      213: 620862560978169358
+    second: big_black_boots_136
   - first:
-      213: 8608458343499641676
-    second: steel_helmet_137
+      213: 3768606390715927161
+    second: big_black_boots_137
   - first:
-      213: -4521896136606157206
-    second: steel_helmet_138
+      213: -5803222041702390374
+    second: big_black_boots_138
   - first:
-      213: -7379808085785645685
-    second: steel_helmet_139
+      213: -7824315865744275790
+    second: big_black_boots_139
   - first:
-      213: 6001633866373590326
-    second: steel_helmet_140
+      213: 3918990323284218007
+    second: big_black_boots_140
   - first:
-      213: 6783345607673735882
-    second: steel_helmet_141
+      213: 1106429656790418700
+    second: big_black_boots_141
   - first:
-      213: 8008768553774835756
-    second: steel_helmet_142
+      213: 1271701782692490128
+    second: big_black_boots_142
   - first:
-      213: 6434063186551292103
-    second: steel_helmet_143
+      213: -121558205216654631
+    second: big_black_boots_143
   - first:
-      213: 2159209666717278891
-    second: steel_helmet_144
+      213: -1846436822287301011
+    second: big_black_boots_144
   - first:
-      213: 9168518805462876353
-    second: steel_helmet_145
+      213: -8084570480023189915
+    second: big_black_boots_145
   - first:
-      213: -4869995486645530157
-    second: steel_helmet_146
+      213: 4423222206697763167
+    second: big_black_boots_146
   - first:
-      213: 4753510776598584501
-    second: steel_helmet_147
+      213: -8767163902460646286
+    second: big_black_boots_147
   - first:
-      213: -2947695224119492942
-    second: steel_helmet_148
+      213: -7193331495446817545
+    second: big_black_boots_148
   - first:
-      213: -3728641990419382530
-    second: steel_helmet_149
+      213: -4375465542834153636
+    second: big_black_boots_149
   - first:
-      213: -6777264154862774659
-    second: steel_helmet_150
+      213: 5614785989709007583
+    second: big_black_boots_150
   - first:
-      213: 6933023376168431261
-    second: steel_helmet_151
+      213: -2952833262814727090
+    second: big_black_boots_151
   - first:
-      213: 4733317475165143952
-    second: steel_helmet_152
+      213: -3783472621221951669
+    second: big_black_boots_152
   - first:
-      213: -3710771358779720537
-    second: steel_helmet_153
+      213: 7311390670204087523
+    second: big_black_boots_153
   - first:
-      213: 330302259733548480
-    second: steel_helmet_154
+      213: 4420512108928936087
+    second: big_black_boots_154
   - first:
-      213: -6939508502263261391
-    second: steel_helmet_155
+      213: -277659453221387085
+    second: big_black_boots_155
   - first:
-      213: 5002702932149469365
-    second: steel_helmet_156
+      213: -7019060208374298334
+    second: big_black_boots_156
   - first:
-      213: -7097283890999498678
-    second: steel_helmet_157
+      213: 7944332138171139164
+    second: big_black_boots_157
   - first:
-      213: 1514198295637716849
-    second: steel_helmet_158
+      213: -4968717499975946458
+    second: big_black_boots_158
   - first:
-      213: 4851667282939454625
-    second: steel_helmet_159
+      213: -2592789914997969748
+    second: big_black_boots_159
   - first:
-      213: 6321625766912571876
-    second: steel_helmet_160
+      213: 6067308722477990388
+    second: big_black_boots_160
   - first:
-      213: 913465685239183940
-    second: steel_helmet_161
+      213: -2709318929625591931
+    second: big_black_boots_161
   - first:
-      213: 1767121295051413413
-    second: steel_helmet_162
+      213: 5627501939992112877
+    second: big_black_boots_162
   - first:
-      213: -160991686874220841
-    second: steel_helmet_163
+      213: -1379058769320581365
+    second: big_black_boots_163
   - first:
-      213: -2698789183063486101
-    second: steel_helmet_164
+      213: -3743731531187537310
+    second: big_black_boots_164
   - first:
-      213: -2789530076184092515
-    second: steel_helmet_165
+      213: 8074536288031333579
+    second: big_black_boots_165
   - first:
-      213: 612811634397536670
-    second: steel_helmet_166
+      213: 8835401101465525497
+    second: big_black_boots_166
   - first:
-      213: -7041434853999231050
-    second: steel_helmet_167
+      213: -539176542851782484
+    second: big_black_boots_167
   - first:
-      213: 5545952958443293239
-    second: steel_helmet_168
+      213: 4922941179060001922
+    second: big_black_boots_168
   - first:
-      213: 2288095627074563934
-    second: steel_helmet_169
+      213: -5843089260219179214
+    second: big_black_boots_169
   - first:
-      213: 361337283283145269
-    second: steel_helmet_170
+      213: 7315973896413842821
+    second: big_black_boots_170
   - first:
-      213: -7107911798999722941
-    second: steel_helmet_171
+      213: 4102463870495671814
+    second: big_black_boots_171
   - first:
-      213: -7022891012795779029
-    second: steel_helmet_172
+      213: -5020827536584210729
+    second: big_black_boots_172
   - first:
-      213: 5061407138939349685
-    second: steel_helmet_173
+      213: 5540992758663391632
+    second: big_black_boots_173
   - first:
-      213: 5339238824444509861
-    second: steel_helmet_174
+      213: 346025123161107402
+    second: big_black_boots_174
   - first:
-      213: -8559243311990771042
-    second: steel_helmet_175
+      213: -5276008420565051546
+    second: big_black_boots_175
   - first:
-      213: -4096098757073665786
-    second: steel_helmet_176
+      213: 7142888844456688062
+    second: big_black_boots_176
   - first:
-      213: -831099577367464737
-    second: steel_helmet_177
+      213: -3326869771277457062
+    second: big_black_boots_177
+  - first:
+      213: 8936072360542164772
+    second: big_black_boots_178
+  - first:
+      213: -761841076758341124
+    second: big_black_boots_179
+  - first:
+      213: 5494362094960126047
+    second: big_black_boots_180
+  - first:
+      213: -2402531177008497972
+    second: big_black_boots_181
+  - first:
+      213: -7062390912897161361
+    second: big_black_boots_182
+  - first:
+      213: 6999782415536103288
+    second: big_black_boots_183
+  - first:
+      213: 2993372709256560484
+    second: big_black_boots_184
+  - first:
+      213: 2764407154084061827
+    second: big_black_boots_185
+  - first:
+      213: 3055382571936337533
+    second: big_black_boots_186
+  - first:
+      213: 1216997536493178600
+    second: big_black_boots_187
+  - first:
+      213: -1538815755748325118
+    second: big_black_boots_188
+  - first:
+      213: 6488457211571924425
+    second: big_black_boots_189
+  - first:
+      213: -4933136161060072276
+    second: big_black_boots_190
+  - first:
+      213: -1481822881244650980
+    second: big_black_boots_191
+  - first:
+      213: -6949079667415742766
+    second: big_black_boots_192
+  - first:
+      213: -3920232177340191890
+    second: big_black_boots_193
+  - first:
+      213: -5537023016349584085
+    second: big_black_boots_194
+  - first:
+      213: -191850896289381644
+    second: big_black_boots_195
+  - first:
+      213: -7806930548846280022
+    second: big_black_boots_196
+  - first:
+      213: -5444275107760770104
+    second: big_black_boots_197
+  - first:
+      213: -6594974101100569017
+    second: big_black_boots_198
+  - first:
+      213: 160815508302104569
+    second: big_black_boots_199
+  - first:
+      213: -1936681514976197048
+    second: big_black_boots_200
+  - first:
+      213: -8961331705431916255
+    second: big_black_boots_201
+  - first:
+      213: 478642752381493816
+    second: big_black_boots_202
+  - first:
+      213: -6691855243921014374
+    second: big_black_boots_203
+  - first:
+      213: -1966136583676445718
+    second: big_black_boots_204
+  - first:
+      213: -7109968778655510870
+    second: big_black_boots_205
+  - first:
+      213: 1322116209645172773
+    second: big_black_boots_206
+  - first:
+      213: 386928477328021422
+    second: big_black_boots_207
+  - first:
+      213: 7470189265168796526
+    second: big_black_boots_208
+  - first:
+      213: -982546786572475344
+    second: big_black_boots_209
+  - first:
+      213: -5675534809771179019
+    second: big_black_boots_210
+  - first:
+      213: 6783839136071150480
+    second: big_black_boots_211
+  - first:
+      213: 6526976199088186152
+    second: big_black_boots_212
+  - first:
+      213: -2021620693910128552
+    second: big_black_boots_213
+  - first:
+      213: -14606189524081314
+    second: big_black_boots_214
+  - first:
+      213: -7975349643473654159
+    second: big_black_boots_215
+  - first:
+      213: 8515801951881928856
+    second: big_black_boots_216
+  - first:
+      213: 3603624117178617706
+    second: big_black_boots_217
+  - first:
+      213: 65441641692669914
+    second: big_black_boots_218
+  - first:
+      213: -8188253169575953532
+    second: big_black_boots_219
+  - first:
+      213: -8430774229208629301
+    second: big_black_boots_220
+  - first:
+      213: -6274766522665227106
+    second: big_black_boots_221
+  - first:
+      213: 2385793255437367886
+    second: big_black_boots_222
+  - first:
+      213: -4199684621714752493
+    second: big_black_boots_223
+  - first:
+      213: 4939171097537450285
+    second: big_black_boots_224
+  - first:
+      213: -5874914124129765335
+    second: big_black_boots_225
+  - first:
+      213: 7806706422385042626
+    second: big_black_boots_226
+  - first:
+      213: 6115703515548795678
+    second: big_black_boots_227
+  - first:
+      213: 4939739898892291667
+    second: big_black_boots_228
+  - first:
+      213: 6416803422729556718
+    second: big_black_boots_229
+  - first:
+      213: -8760395575763807862
+    second: big_black_boots_230
+  - first:
+      213: 7981760587003214086
+    second: big_black_boots_231
+  - first:
+      213: 4719091100072409978
+    second: big_black_boots_232
+  - first:
+      213: 3510863448817605217
+    second: big_black_boots_233
+  - first:
+      213: -7746831885601135562
+    second: big_black_boots_234
+  - first:
+      213: 829797935967650869
+    second: big_black_boots_235
+  - first:
+      213: 7291924331326137053
+    second: big_black_boots_236
+  - first:
+      213: -8774930293560905862
+    second: big_black_boots_237
+  - first:
+      213: 8252555410265840148
+    second: big_black_boots_238
+  - first:
+      213: 7298719867263539726
+    second: big_black_boots_239
+  - first:
+      213: -7144970257200296406
+    second: big_black_boots_240
+  - first:
+      213: 8418224510143555446
+    second: big_black_boots_241
+  - first:
+      213: -6245600154882008791
+    second: big_black_boots_242
+  - first:
+      213: 2429395856043542346
+    second: big_black_boots_243
+  - first:
+      213: 1838125286651076161
+    second: big_black_boots_244
+  - first:
+      213: -7504236992895735095
+    second: big_black_boots_245
+  - first:
+      213: 1263967080850602925
+    second: big_black_boots_246
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -696,7 +903,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: steel_helmet_0
+      name: big_black_boots_0
       rect:
         serializedVersion: 2
         x: 0
@@ -710,14 +917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f93415bce576a550800000000000000
-      internalID: 6171749998868576760
+      spriteID: 90bee039d2618e8c0800000000000000
+      internalID: -3969898686530524407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_1
+      name: big_black_boots_1
       rect:
         serializedVersion: 2
         x: 64
@@ -731,14 +938,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86d98fb177d7b2000800000000000000
-      internalID: 12241374522416488
+      spriteID: 3a193bebdfd25ab50800000000000000
+      internalID: 6603734996458115491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_2
+      name: big_black_boots_2
       rect:
         serializedVersion: 2
         x: 128
@@ -752,14 +959,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aa86cce16fa5f060800000000000000
-      internalID: 6986683232054315680
+      spriteID: d305b13a0b3164870800000000000000
+      internalID: 8666636182292746301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_3
+      name: big_black_boots_3
       rect:
         serializedVersion: 2
         x: 192
@@ -773,14 +980,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33d79573ff15de180800000000000000
-      internalID: -9084514716749300429
+      spriteID: f2baff2524b9e8de0800000000000000
+      internalID: -1328954130865083601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_4
+      name: big_black_boots_4
       rect:
         serializedVersion: 2
         x: 256
@@ -794,14 +1001,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6facd81ee9d8dbd0800000000000000
-      internalID: -2605092767791272085
+      spriteID: 61ae4ce6410826840800000000000000
+      internalID: 5215872143694555670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_5
+      name: big_black_boots_5
       rect:
         serializedVersion: 2
         x: 320
@@ -815,14 +1022,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfb5f1b5cfbd8cdc0800000000000000
-      internalID: -3618400423685170181
+      spriteID: a841956ba85050aa0800000000000000
+      internalID: -6195539619055332214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_6
+      name: big_black_boots_6
       rect:
         serializedVersion: 2
         x: 384
@@ -836,14 +1043,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 396e5b34fd2944480800000000000000
-      internalID: -8915839874675382637
+      spriteID: dc7e946078516d460800000000000000
+      internalID: 7266018718479149005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_7
+      name: big_black_boots_7
       rect:
         serializedVersion: 2
         x: 448
@@ -857,14 +1064,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f39cec11de34185d0800000000000000
-      internalID: -3062091586150151873
+      spriteID: ec4802f2d983516c0800000000000000
+      internalID: -4173367231937215282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_8
+      name: big_black_boots_8
       rect:
         serializedVersion: 2
         x: 0
@@ -878,14 +1085,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b1a823da6a84ade0800000000000000
-      internalID: -1322780199126261323
+      spriteID: 809863f56136ecfb0800000000000000
+      internalID: -4625650819525080824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_9
+      name: big_black_boots_9
       rect:
         serializedVersion: 2
         x: 64
@@ -899,14 +1106,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ce0da5fa74c14340800000000000000
-      internalID: 4846370706414177993
+      spriteID: 4d246b6fc25d7a900800000000000000
+      internalID: 695759056546448084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_10
+      name: big_black_boots_10
       rect:
         serializedVersion: 2
         x: 128
@@ -920,14 +1127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef1f055b89e1cd7f0800000000000000
-      internalID: -586560210239163906
+      spriteID: a09ea5ff35ede6d40800000000000000
+      internalID: 5579641440706423050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_11
+      name: big_black_boots_11
       rect:
         serializedVersion: 2
         x: 192
@@ -941,14 +1148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ea02395cccf94e0800000000000000
-      internalID: -1972632962815971818
+      spriteID: db782a7ebc7194fd0800000000000000
+      internalID: -2357326765419755587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_12
+      name: big_black_boots_12
       rect:
         serializedVersion: 2
         x: 256
@@ -962,14 +1169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb9a8161686c738e0800000000000000
-      internalID: -1713682853992552001
+      spriteID: e62eba2802c34b230800000000000000
+      internalID: 3653611308033237614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_13
+      name: big_black_boots_13
       rect:
         serializedVersion: 2
         x: 320
@@ -983,14 +1190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66b74ef7b69fabf20800000000000000
-      internalID: 3439335505553292134
+      spriteID: 301896004c6c6aac0800000000000000
+      internalID: -3844166686791335677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_14
+      name: big_black_boots_14
       rect:
         serializedVersion: 2
         x: 384
@@ -1004,14 +1211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d2f7af97b2922820800000000000000
-      internalID: 2892035228080534227
+      spriteID: 691e9d86d9cf46280800000000000000
+      internalID: -9050831598108679786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_15
+      name: big_black_boots_15
       rect:
         serializedVersion: 2
         x: 0
@@ -1025,14 +1232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ed948d6ded9cfd20800000000000000
-      internalID: 3313697068908060132
+      spriteID: f8dd29a20cb031f50800000000000000
+      internalID: 6850832378136550799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_16
+      name: big_black_boots_16
       rect:
         serializedVersion: 2
         x: 64
@@ -1046,14 +1253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38eb48745ecacb2b0800000000000000
-      internalID: -5567384938589405565
+      spriteID: 5968121456de0f610800000000000000
+      internalID: 1653082082385168021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_17
+      name: big_black_boots_17
       rect:
         serializedVersion: 2
         x: 128
@@ -1067,14 +1274,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc30278861f771860800000000000000
-      internalID: 7500603439164031947
+      spriteID: 6922343a1c37da5b0800000000000000
+      internalID: -5355497106368683370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_18
+      name: big_black_boots_18
       rect:
         serializedVersion: 2
         x: 192
@@ -1088,14 +1295,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 229c36b8bb53d6dc0800000000000000
-      internalID: -3644197443859134174
+      spriteID: 871c19b3c78d53fc0800000000000000
+      internalID: -3515665906005851784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_19
+      name: big_black_boots_19
       rect:
         serializedVersion: 2
         x: 256
@@ -1109,14 +1316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7484c2a8d2fdfd30800000000000000
-      internalID: 4466993417679045759
+      spriteID: e19f708b8cb29b880800000000000000
+      internalID: -8594790272778897122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_20
+      name: big_black_boots_20
       rect:
         serializedVersion: 2
         x: 320
@@ -1130,14 +1337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6350ceefc516e2810800000000000000
-      internalID: 1742437157880726838
+      spriteID: 07b5ebc1eb6658e40800000000000000
+      internalID: 5658041473572952944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_21
+      name: big_black_boots_21
       rect:
         serializedVersion: 2
         x: 384
@@ -1151,14 +1358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27f13ac109cc77c40800000000000000
-      internalID: 5510097588438900594
+      spriteID: 47efbc9fe60953800800000000000000
+      internalID: 591537732380786292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_22
+      name: big_black_boots_22
       rect:
         serializedVersion: 2
         x: 0
@@ -1172,14 +1379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29be886349347a2d0800000000000000
-      internalID: -3267568700784841838
+      spriteID: 63712648ca74289e0800000000000000
+      internalID: -1620654109618989258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_23
+      name: big_black_boots_23
       rect:
         serializedVersion: 2
         x: 64
@@ -1193,14 +1400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c02e7f94cbb77b210800000000000000
-      internalID: 1348682662045803020
+      spriteID: 33c2582255641ace0800000000000000
+      internalID: -1395757078042825677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_24
+      name: big_black_boots_24
       rect:
         serializedVersion: 2
         x: 128
@@ -1214,14 +1421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dbab0ffca3c3e170800000000000000
-      internalID: 8206618093779921881
+      spriteID: a62a3a9766ebab020800000000000000
+      internalID: 2358406702218584682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_25
+      name: big_black_boots_25
       rect:
         serializedVersion: 2
         x: 192
@@ -1235,14 +1442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa8af557379237010800000000000000
-      internalID: 1185336702795753642
+      spriteID: b835c54a3e6ed0c20800000000000000
+      internalID: 3174447177755546507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_26
+      name: big_black_boots_26
       rect:
         serializedVersion: 2
         x: 256
@@ -1256,14 +1463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f613d5dccc8695b70800000000000000
-      internalID: 8888250568420438383
+      spriteID: e04f296ecf989e6d0800000000000000
+      internalID: -2960683560726236146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_27
+      name: big_black_boots_27
       rect:
         serializedVersion: 2
         x: 320
@@ -1277,14 +1484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dd963bb911982d40800000000000000
-      internalID: 5559853279690005970
+      spriteID: da05ab1b894e4bc10800000000000000
+      internalID: 2068529473337839789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_28
+      name: big_black_boots_28
       rect:
         serializedVersion: 2
         x: 384
@@ -1298,14 +1505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00fadb80ea99ee940800000000000000
-      internalID: 5327364381975883520
+      spriteID: 4a2f11b8ac2bf39e0800000000000000
+      internalID: -1639395156353224028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_29
+      name: big_black_boots_29
       rect:
         serializedVersion: 2
         x: 0
@@ -1319,14 +1526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88d9fe8158cb36a30800000000000000
-      internalID: 4207413756729204104
+      spriteID: 075c372e99a29ba80800000000000000
+      internalID: -8450676385366424208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_30
+      name: big_black_boots_30
       rect:
         serializedVersion: 2
         x: 64
@@ -1340,14 +1547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e545e6e2343cb92c0800000000000000
-      internalID: -4423727515652172706
+      spriteID: acef4118ad624c270800000000000000
+      internalID: 8269777535669436106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_31
+      name: big_black_boots_31
       rect:
         serializedVersion: 2
         x: 128
@@ -1361,14 +1568,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b812b05e4c93513c0800000000000000
-      internalID: -4389538743983595125
+      spriteID: 9165abb92b2dec8f0800000000000000
+      internalID: -518245242542336487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_32
+      name: big_black_boots_32
       rect:
         serializedVersion: 2
         x: 192
@@ -1382,14 +1589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f340a05aa81efd0800000000000000
-      internalID: -2314416292049436817
+      spriteID: 31bf1d8439b49ec60800000000000000
+      internalID: 7847886921623796499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_33
+      name: big_black_boots_33
       rect:
         serializedVersion: 2
         x: 256
@@ -1403,14 +1610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7116b79363b237ca0800000000000000
-      internalID: -6020420764971605737
+      spriteID: 994dd6b7ceadd9c80800000000000000
+      internalID: -8314248627838135143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_34
+      name: big_black_boots_34
       rect:
         serializedVersion: 2
         x: 320
@@ -1424,14 +1631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48064b57ab3662f40800000000000000
-      internalID: 5703355630601134212
+      spriteID: 5345b1ab321221d70800000000000000
+      internalID: 9012302241651708981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_35
+      name: big_black_boots_35
       rect:
         serializedVersion: 2
         x: 384
@@ -1445,14 +1652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062b803b95a83f5d0800000000000000
-      internalID: -3029926006429797792
+      spriteID: 5e040de31558ee3a0800000000000000
+      internalID: -6634218617077481243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_36
+      name: big_black_boots_36
       rect:
         serializedVersion: 2
         x: 448
@@ -1466,14 +1673,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4aa34bfb534ff0800000000000000
-      internalID: -53097635868160739
+      spriteID: 06eb50055d53ff2b0800000000000000
+      internalID: -5548657025610301856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_37
+      name: big_black_boots_37
       rect:
         serializedVersion: 2
         x: 0
@@ -1487,14 +1694,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 203f0c30d1c38a6f0800000000000000
-      internalID: -673222048977194238
+      spriteID: af03df303de6f8d40800000000000000
+      internalID: 5588807515174154490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_38
+      name: big_black_boots_38
       rect:
         serializedVersion: 2
         x: 64
@@ -1508,14 +1715,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d801e09724dd7f790800000000000000
-      internalID: -7496279777166356339
+      spriteID: 0c3e4de460d46c5c0800000000000000
+      internalID: -4195581313361321024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_39
+      name: big_black_boots_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1529,14 +1736,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9146a86464d2016d0800000000000000
-      internalID: -3021865570111167463
+      spriteID: 52ffb798e14734940800000000000000
+      internalID: 5279190862712799013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_40
+      name: big_black_boots_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1550,14 +1757,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00e5bc4c7ad70cd70800000000000000
-      internalID: 9061380609784110592
+      spriteID: a9b0947c924f00840800000000000000
+      internalID: 5188415231005100954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_41
+      name: big_black_boots_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1571,14 +1778,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cdf49c19af92d0800000000000000
-      internalID: -3269708864223853646
+      spriteID: 44c346c6e18e24480800000000000000
+      internalID: -8916309094874989500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_42
+      name: big_black_boots_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1592,14 +1799,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89af1f5e7e0837ce0800000000000000
-      internalID: -1408640524953191784
+      spriteID: c56e58e5aa506b0e0800000000000000
+      internalID: -2254608334163941796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_43
+      name: big_black_boots_43
       rect:
         serializedVersion: 2
         x: 384
@@ -1613,14 +1820,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49f9e862d4450f670800000000000000
-      internalID: 8570442781222150036
+      spriteID: 28630b33183fd4620800000000000000
+      internalID: 2760129882891499138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_44
+      name: big_black_boots_44
       rect:
         serializedVersion: 2
         x: 448
@@ -1634,14 +1841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb5334aec1a6faad0800000000000000
-      internalID: -2688813780094995009
+      spriteID: 30b04e05f0c760fc0800000000000000
+      internalID: -3528996852774728957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_45
+      name: big_black_boots_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1655,14 +1862,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb4b60b8d9c9bf770800000000000000
-      internalID: 8645676110124070078
+      spriteID: db839dbf1b987dfa0800000000000000
+      internalID: -5775996599551838019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_46
+      name: big_black_boots_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1676,14 +1883,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdbe06582f1509fd0800000000000000
-      internalID: -2337278104543630372
+      spriteID: fd0aa61c7793545c0800000000000000
+      internalID: -4231913088335830817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_47
+      name: big_black_boots_47
       rect:
         serializedVersion: 2
         x: 128
@@ -1697,14 +1904,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4df657d30e2e48f0800000000000000
-      internalID: -554455110087410358
+      spriteID: 43678aa1b7eb46280800000000000000
+      internalID: -9050899915170351564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_48
+      name: big_black_boots_48
       rect:
         serializedVersion: 2
         x: 192
@@ -1718,14 +1925,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 565cbb0613bbe2d10800000000000000
-      internalID: 2102823896779310437
+      spriteID: c7756b0f036f0c3d0800000000000000
+      internalID: -3188277846120966276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_49
+      name: big_black_boots_49
       rect:
         serializedVersion: 2
         x: 256
@@ -1739,14 +1946,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0fddbd93c951d340800000000000000
-      internalID: 4886785767373659916
+      spriteID: c7020dba1cd8fdd20800000000000000
+      internalID: 3305516514463981692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_50
+      name: big_black_boots_50
       rect:
         serializedVersion: 2
         x: 320
@@ -1760,14 +1967,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5b8df86081728220800000000000000
-      internalID: 2486674740593134430
+      spriteID: 3fa32592721f29430800000000000000
+      internalID: 3788355387071281907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_51
+      name: big_black_boots_51
       rect:
         serializedVersion: 2
         x: 384
@@ -1781,14 +1988,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ffab62630ec97e30800000000000000
-      internalID: 4501855816464969713
+      spriteID: 869bc8bbee981bfe0800000000000000
+      internalID: -1175006369325205144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_52
+      name: big_black_boots_52
       rect:
         serializedVersion: 2
         x: 448
@@ -1802,14 +2009,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 970c060ca7043e110800000000000000
-      internalID: 1288944814315847801
+      spriteID: bc5cdd3c44637c8d0800000000000000
+      internalID: -2826230572179929653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_53
+      name: big_black_boots_53
       rect:
         serializedVersion: 2
         x: 0
@@ -1823,14 +2030,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908dde78ba226050800000000000000
-      internalID: 5792239042642673814
+      spriteID: 8204fdf1c63addc10800000000000000
+      internalID: 2079998287701557288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_54
+      name: big_black_boots_54
       rect:
         serializedVersion: 2
         x: 64
@@ -1844,14 +2051,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 852b8942b24815080800000000000000
-      internalID: -9200427242908765608
+      spriteID: d09f3982ea1e476e0800000000000000
+      internalID: -1840598209566344947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_55
+      name: big_black_boots_55
       rect:
         serializedVersion: 2
         x: 128
@@ -1865,14 +2072,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38ba0689cf96ab90800000000000000
-      internalID: -7230916463810660293
+      spriteID: 931cfbb89ab62edf0800000000000000
+      internalID: -152441061438930631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_56
+      name: big_black_boots_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1886,14 +2093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95bf5c3027eb7aba0800000000000000
-      internalID: -6077679775214339239
+      spriteID: 16fc6fafab8b05100800000000000000
+      internalID: 94778705388687201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_57
+      name: big_black_boots_57
       rect:
         serializedVersion: 2
         x: 256
@@ -1907,14 +2114,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f5ac1fd5220c04e0800000000000000
-      internalID: -2014232571661212167
+      spriteID: 05731cd63e3f056f0800000000000000
+      internalID: -697789784117921968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_58
+      name: big_black_boots_58
       rect:
         serializedVersion: 2
         x: 320
@@ -1928,14 +2135,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ba5c194144f58c0800000000000000
-      internalID: -4008410288200766598
+      spriteID: 8c78d90b11146fce0800000000000000
+      internalID: -1371837492254373944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_59
+      name: big_black_boots_59
       rect:
         serializedVersion: 2
         x: 384
@@ -1949,14 +2156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600af5af5d1932700800000000000000
-      internalID: 514415130665000966
+      spriteID: 5b649086b9b78d360800000000000000
+      internalID: 7194636312119953077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_60
+      name: big_black_boots_60
       rect:
         serializedVersion: 2
         x: 448
@@ -1970,14 +2177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 718b23b93817df470800000000000000
-      internalID: 8430018887565883415
+      spriteID: 94e05add56d2d4bd0800000000000000
+      internalID: -2644407490663084471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_61
+      name: big_black_boots_61
       rect:
         serializedVersion: 2
         x: 0
@@ -1991,14 +2198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b62863de74922e20800000000000000
-      internalID: 3324382747386455729
+      spriteID: e90ac341a66b27f90800000000000000
+      internalID: -6957297907611688802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_62
+      name: big_black_boots_62
       rect:
         serializedVersion: 2
         x: 64
@@ -2012,14 +2219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aefaa220c1416010800000000000000
-      internalID: 1180296870818938530
+      spriteID: ec0d11aaeb099fb00800000000000000
+      internalID: 862879952189640910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_63
+      name: big_black_boots_63
       rect:
         serializedVersion: 2
         x: 128
@@ -2033,14 +2240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e8d9ead9b7e098d0800000000000000
-      internalID: -2841516579443058458
+      spriteID: 386a853efbc7f2ff0800000000000000
+      internalID: -58691106537691517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_64
+      name: big_black_boots_64
       rect:
         serializedVersion: 2
         x: 192
@@ -2054,14 +2261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dc0bd47baef151e0800000000000000
-      internalID: -2210705929708827437
+      spriteID: 3166583a69f485410800000000000000
+      internalID: 1466009187116213779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_65
+      name: big_black_boots_65
       rect:
         serializedVersion: 2
         x: 256
@@ -2075,14 +2282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 741a9ebff0252fc10800000000000000
-      internalID: 2085819806030340423
+      spriteID: c5ad2bb41d4c5ea10800000000000000
+      internalID: 1938171617850088028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_66
+      name: big_black_boots_66
       rect:
         serializedVersion: 2
         x: 320
@@ -2096,14 +2303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eee0edad383777890800000000000000
-      internalID: -7460367247566041362
+      spriteID: b665ffc2c5017cf60800000000000000
+      internalID: 8054424446653388395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_67
+      name: big_black_boots_67
       rect:
         serializedVersion: 2
         x: 384
@@ -2117,14 +2324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1424c8466710a0a80800000000000000
-      internalID: -8499979738703707583
+      spriteID: 56d268b581eb33960800000000000000
+      internalID: 7580611609618689381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_68
+      name: big_black_boots_68
       rect:
         serializedVersion: 2
         x: 448
@@ -2138,14 +2345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeae0df0f32762580800000000000000
-      internalID: -8852262402376275218
+      spriteID: bd475a42f6d09cab0800000000000000
+      internalID: -4987440341328759589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_69
+      name: big_black_boots_69
       rect:
         serializedVersion: 2
         x: 512
@@ -2159,14 +2366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 819f7258a9e52ae70800000000000000
-      internalID: 9124959812758010136
+      spriteID: 4e79fcecc57c3bad0800000000000000
+      internalID: -2687585351189424156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_70
+      name: big_black_boots_70
       rect:
         serializedVersion: 2
         x: 0
@@ -2180,14 +2387,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b445ef348c128cf0800000000000000
-      internalID: -251607274846075724
+      spriteID: 5d003db1874311280800000000000000
+      internalID: -9074414083707305771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_71
+      name: big_black_boots_71
       rect:
         serializedVersion: 2
         x: 64
@@ -2201,14 +2408,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5baa1b0717599d1d0800000000000000
-      internalID: -3325462535381865803
+      spriteID: 95308e0b9d43f0940800000000000000
+      internalID: 5264484598999941977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_72
+      name: big_black_boots_72
       rect:
         serializedVersion: 2
         x: 128
@@ -2222,14 +2429,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de8c20aa9582a8470800000000000000
-      internalID: 8397568820755220717
+      spriteID: 2363e8c8a720c1330800000000000000
+      internalID: 3682821320649618994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_73
+      name: big_black_boots_73
       rect:
         serializedVersion: 2
         x: 192
@@ -2243,14 +2450,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71946186604074140800000000000000
-      internalID: 4703732761374378263
+      spriteID: 1dbdef93f1cbe48b0800000000000000
+      internalID: -5165984880244368431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_74
+      name: big_black_boots_74
       rect:
         serializedVersion: 2
         x: 256
@@ -2264,14 +2471,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd1edb28ffc8d77c0800000000000000
-      internalID: -4071943459035029028
+      spriteID: 707622ef4a2b43510800000000000000
+      internalID: 1528042595293488903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_75
+      name: big_black_boots_75
       rect:
         serializedVersion: 2
         x: 320
@@ -2285,14 +2492,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a48ed92146ad2b60800000000000000
-      internalID: 7723011734815802537
+      spriteID: 7a09b7e8ba8d70530800000000000000
+      internalID: 3821261040188625063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_76
+      name: big_black_boots_76
       rect:
         serializedVersion: 2
         x: 384
@@ -2306,14 +2513,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 469c85ad542426860800000000000000
-      internalID: 7521647195445578084
+      spriteID: 6bca696b21d8c8440800000000000000
+      internalID: 4939478002830847158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_77
+      name: big_black_boots_77
       rect:
         serializedVersion: 2
         x: 448
@@ -2327,14 +2534,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45230c5c827b3c60800000000000000
-      internalID: 7798953126886843722
+      spriteID: 540a3e9d971c005e0800000000000000
+      internalID: -1945342309933277115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_78
+      name: big_black_boots_78
       rect:
         serializedVersion: 2
         x: 512
@@ -2348,14 +2555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7efb53f2509057070800000000000000
-      internalID: 8103393022394613735
+      spriteID: 08824725c993bb250800000000000000
+      internalID: 5961421875316009088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_79
+      name: big_black_boots_79
       rect:
         serializedVersion: 2
         x: 0
@@ -2369,14 +2576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8379c6e80b184ed00800000000000000
-      internalID: 1001067612486801208
+      spriteID: dbe1a7b5bbbdfe8c0800000000000000
+      internalID: -3967711148950020419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_80
+      name: big_black_boots_80
       rect:
         serializedVersion: 2
         x: 64
@@ -2390,14 +2597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffffaa0b297fd3bf0800000000000000
-      internalID: -342845787209007105
+      spriteID: 3faa1c2ab91e4d840800000000000000
+      internalID: 5248067524360252147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_81
+      name: big_black_boots_81
       rect:
         serializedVersion: 2
         x: 128
@@ -2411,14 +2618,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae0f289fa27bcc660800000000000000
-      internalID: 7407496882320240874
+      spriteID: 43f961a8894588890800000000000000
+      internalID: -7455616168983355596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_82
+      name: big_black_boots_82
       rect:
         serializedVersion: 2
         x: 192
@@ -2432,14 +2639,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b49843ce8a8045010800000000000000
-      internalID: 1176574924260936011
+      spriteID: 66404ab0645f52290800000000000000
+      internalID: -7915651088841964442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_83
+      name: big_black_boots_83
       rect:
         serializedVersion: 2
         x: 256
@@ -2453,14 +2660,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 719b3be9c6b79d680800000000000000
-      internalID: -8729810696231732969
+      spriteID: 5f9bee9a860fa09c0800000000000000
+      internalID: -3960088590000670219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_84
+      name: big_black_boots_84
       rect:
         serializedVersion: 2
         x: 320
@@ -2474,14 +2681,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b8974610782dfeb0800000000000000
-      internalID: -4684543575520208719
+      spriteID: 3476a905c286c4a70800000000000000
+      internalID: 8812533110397364035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_85
+      name: big_black_boots_85
       rect:
         serializedVersion: 2
         x: 384
@@ -2495,14 +2702,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76167f4a2ecd2e2b0800000000000000
-      internalID: -5556636124233375385
+      spriteID: 45989b703c23aa180800000000000000
+      internalID: -9103407883546425004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_86
+      name: big_black_boots_86
       rect:
         serializedVersion: 2
         x: 448
@@ -2516,14 +2723,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6925a61b8b9c75a30800000000000000
-      internalID: 4204050572261347990
+      spriteID: 4c2a5fc117e00d650800000000000000
+      internalID: 6255515761397572292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_87
+      name: big_black_boots_87
       rect:
         serializedVersion: 2
         x: 512
@@ -2537,14 +2744,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc71ba53d30cdde00800000000000000
-      internalID: 1071223655509989327
+      spriteID: 3b48e216b76f59b60800000000000000
+      internalID: 7752373343360025779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_88
+      name: big_black_boots_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2558,14 +2765,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fdf501aff86c42f0800000000000000
-      internalID: -987298771173507599
+      spriteID: 68b8436db77320840800000000000000
+      internalID: 5188770725698505606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_89
+      name: big_black_boots_89
       rect:
         serializedVersion: 2
         x: 64
@@ -2579,14 +2786,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39604f8c5de50f2f0800000000000000
-      internalID: -941148049827953005
+      spriteID: c04a7c8fb82c82420800000000000000
+      internalID: 2605546290863907852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_90
+      name: big_black_boots_90
       rect:
         serializedVersion: 2
         x: 128
@@ -2600,14 +2807,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b36bc14dee717ff0800000000000000
-      internalID: -40111364193426509
+      spriteID: 839f91877f5ae3360800000000000000
+      internalID: 7151335740601399608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_91
+      name: big_black_boots_91
       rect:
         serializedVersion: 2
         x: 192
@@ -2621,14 +2828,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6694b49a33ec2b230800000000000000
-      internalID: 3653208969029831014
+      spriteID: 493b22e44fc156800800000000000000
+      internalID: 604921560559694740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_92
+      name: big_black_boots_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2642,14 +2849,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c83f9892fcd0d970800000000000000
-      internalID: 8777758608245864649
+      spriteID: 5cd76450fcbf7cf80800000000000000
+      internalID: -8086217739355128379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_93
+      name: big_black_boots_93
       rect:
         serializedVersion: 2
         x: 320
@@ -2663,14 +2870,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5810fca9760ddf480800000000000000
-      internalID: -8863699348197801595
+      spriteID: 750852de1bb16c950800000000000000
+      internalID: 6468888365766115415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_94
+      name: big_black_boots_94
       rect:
         serializedVersion: 2
         x: 384
@@ -2684,14 +2891,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750b806a783f9cae0800000000000000
-      internalID: -1528422834583850921
+      spriteID: 575970f427fa8faf0800000000000000
+      internalID: -362346864516295307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_95
+      name: big_black_boots_95
       rect:
         serializedVersion: 2
         x: 448
@@ -2705,14 +2912,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 697c7642b99272750800000000000000
-      internalID: 6280033951698896790
+      spriteID: c7fe81d15beadd170800000000000000
+      internalID: 8204906189039398780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_96
+      name: big_black_boots_96
       rect:
         serializedVersion: 2
         x: 512
@@ -2726,14 +2933,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70fb16977420e0eb0800000000000000
-      internalID: -4751858050826911993
+      spriteID: 3df5276880253cd90800000000000000
+      internalID: -7078723992727429165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_97
+      name: big_black_boots_97
       rect:
         serializedVersion: 2
         x: 0
@@ -2747,14 +2954,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487b635316d5764d0800000000000000
-      internalID: -3141439542981642364
+      spriteID: b1e11f591db2644b0800000000000000
+      internalID: -5456625719349010917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_98
+      name: big_black_boots_98
       rect:
         serializedVersion: 2
         x: 64
@@ -2768,14 +2975,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7d07748c2a9a0ba0800000000000000
-      internalID: -6121911227465134723
+      spriteID: 5b620106d58de0a80800000000000000
+      internalID: -8498617551246317899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_99
+      name: big_black_boots_99
       rect:
         serializedVersion: 2
         x: 128
@@ -2789,14 +2996,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f26edad308deef090800000000000000
-      internalID: -7998694753117018577
+      spriteID: d368b502cdc1f33a0800000000000000
+      internalID: -6683591590233274819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_100
+      name: big_black_boots_100
       rect:
         serializedVersion: 2
         x: 192
@@ -2810,14 +3017,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c73b7fd1bfb4bf990800000000000000
-      internalID: -7351198424840555652
+      spriteID: c3f5f9f196b9053e0800000000000000
+      internalID: -2066981353158648004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_101
+      name: big_black_boots_101
       rect:
         serializedVersion: 2
         x: 256
@@ -2831,14 +3038,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 029fbf2417226a960800000000000000
-      internalID: 7612810089966860576
+      spriteID: dae955020f6acdcc0800000000000000
+      internalID: -3684886844831064403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_102
+      name: big_black_boots_102
       rect:
         serializedVersion: 2
         x: 320
@@ -2852,14 +3059,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 570abc4f9228a0a10800000000000000
-      internalID: 1876455311465488501
+      spriteID: 81de58b8e0ec33880800000000000000
+      internalID: -8632329498873434856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_103
+      name: big_black_boots_103
       rect:
         serializedVersion: 2
         x: 0
@@ -2873,14 +3080,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2dcfee34eb505980800000000000000
-      internalID: -8552234656509997781
+      spriteID: 038e9a64f027604d0800000000000000
+      internalID: -3168719877872949200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_104
+      name: big_black_boots_104
       rect:
         serializedVersion: 2
         x: 64
@@ -2894,14 +3101,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf7b7713bac5b2500800000000000000
-      internalID: 372493284527290364
+      spriteID: 1856ad97bc3e43950800000000000000
+      internalID: 6428013031226762625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_105
+      name: big_black_boots_105
       rect:
         serializedVersion: 2
         x: 128
@@ -2915,14 +3122,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ec37a172939837e0800000000000000
-      internalID: -1785514995071107864
+      spriteID: 037a349444d3fa560800000000000000
+      internalID: 7327142482251327280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_106
+      name: big_black_boots_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2936,14 +3143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9abd630a0fcf103b0800000000000000
-      internalID: -5547875155533440087
+      spriteID: 6b9e71f3142af6420800000000000000
+      internalID: 2625495508895394230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_107
+      name: big_black_boots_107
       rect:
         serializedVersion: 2
         x: 256
@@ -2957,14 +3164,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7baa42ac6467750800000000000000
-      internalID: 6302302562564093891
+      spriteID: 6bb659a434ade8230800000000000000
+      internalID: 3643089131138280374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_108
+      name: big_black_boots_108
       rect:
         serializedVersion: 2
         x: 320
@@ -2978,14 +3185,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 398b0c0f71dc9a6a0800000000000000
-      internalID: -6437388689642309485
+      spriteID: f15aab3847fde0400800000000000000
+      internalID: 292416717344908575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_109
+      name: big_black_boots_109
       rect:
         serializedVersion: 2
         x: 0
@@ -2999,14 +3206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cef2fadbdc0be0cc0800000000000000
-      internalID: -3742859842601144340
+      spriteID: b82e0dafb1fd64140800000000000000
+      internalID: 4703692172100166283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_110
+      name: big_black_boots_110
       rect:
         serializedVersion: 2
         x: 64
@@ -3020,14 +3227,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c01a0f302e7f91e0800000000000000
-      internalID: -2188892216917094203
+      spriteID: 1b914f9369520bb90800000000000000
+      internalID: -7228236074782025295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_111
+      name: big_black_boots_111
       rect:
         serializedVersion: 2
         x: 128
@@ -3041,14 +3248,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fe8a0a6108895c70800000000000000
-      internalID: 8960342473285734135
+      spriteID: a78a3a01a80b50c90800000000000000
+      internalID: -7204157921878103942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_112
+      name: big_black_boots_112
       rect:
         serializedVersion: 2
         x: 192
@@ -3062,14 +3269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5e14e70f1589b8b0800000000000000
-      internalID: -5135927531716469155
+      spriteID: 71f6a4bc18b25fd60800000000000000
+      internalID: 7923286955889684247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_113
+      name: big_black_boots_113
       rect:
         serializedVersion: 2
         x: 256
@@ -3083,14 +3290,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836d4317bf9f25bc0800000000000000
-      internalID: -3795696677588511176
+      spriteID: 96a9e3b87690e47a0800000000000000
+      internalID: -6391160480869737879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_114
+      name: big_black_boots_114
       rect:
         serializedVersion: 2
         x: 320
@@ -3104,14 +3311,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1327785b6fd4e1b90800000000000000
-      internalID: -7269287026526555599
+      spriteID: 49883b891b2d12600800000000000000
+      internalID: 441865898671966356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_115
+      name: big_black_boots_115
       rect:
         serializedVersion: 2
         x: 0
@@ -3125,14 +3332,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3962dd7ae75783df0800000000000000
-      internalID: -200280996575369581
+      spriteID: 53956df656eb4b950800000000000000
+      internalID: 6464000708060797237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_116
+      name: big_black_boots_116
       rect:
         serializedVersion: 2
         x: 64
@@ -3146,14 +3353,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7bed2fdc3b5f2000800000000000000
-      internalID: 13329640905894783
+      spriteID: 4f0465641a8fe2e90800000000000000
+      internalID: -7048422995234766604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_117
+      name: big_black_boots_117
       rect:
         serializedVersion: 2
         x: 128
@@ -3167,14 +3374,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11b83047118d51a90800000000000000
-      internalID: -7343726047885292783
+      spriteID: a09993cb0eba8bda0800000000000000
+      internalID: -5928799927714342646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_118
+      name: big_black_boots_118
       rect:
         serializedVersion: 2
         x: 192
@@ -3188,14 +3395,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: add02a1ebd2559ed0800000000000000
-      internalID: -2407927321422852646
+      spriteID: 30829c8c7c1dd2170800000000000000
+      internalID: 8155405156235159555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_119
+      name: big_black_boots_119
       rect:
         serializedVersion: 2
         x: 256
@@ -3209,14 +3416,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb4956ee8639e3e10800000000000000
-      internalID: 2179341348579415231
+      spriteID: 29cf15cbf047447b0800000000000000
+      internalID: -5240936455419593582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_120
+      name: big_black_boots_120
       rect:
         serializedVersion: 2
         x: 320
@@ -3230,14 +3437,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3468326016e32b20800000000000000
-      internalID: 3108581125857502269
+      spriteID: c1e95d4f53eebf690800000000000000
+      internalID: -7567192833357668836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_121
+      name: big_black_boots_121
       rect:
         serializedVersion: 2
         x: 0
@@ -3251,14 +3458,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5568919922d75e970800000000000000
-      internalID: 8783564235806967381
+      spriteID: 2d8d9bc8b9a0a15d0800000000000000
+      internalID: -3091146531039225646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_122
+      name: big_black_boots_122
       rect:
         serializedVersion: 2
         x: 64
@@ -3272,14 +3479,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc126a2839c52b9f0800000000000000
-      internalID: -454198823789125173
+      spriteID: b443816823083f720800000000000000
+      internalID: 2878785541306332235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_123
+      name: big_black_boots_123
       rect:
         serializedVersion: 2
         x: 128
@@ -3293,14 +3500,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 807c9cb2d2f858500800000000000000
-      internalID: 397881566263101192
+      spriteID: 635aa601253032230800000000000000
+      internalID: 3612734977078895926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_124
+      name: big_black_boots_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3314,14 +3521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 686af936acb322c00800000000000000
-      internalID: 874327018104137350
+      spriteID: c1f693b51ff66ed20800000000000000
+      internalID: 3307454058758500124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_125
+      name: big_black_boots_125
       rect:
         serializedVersion: 2
         x: 256
@@ -3335,14 +3542,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d81263206824d2a0800000000000000
-      internalID: -6713696751126964014
+      spriteID: 24f202621f88fdf30800000000000000
+      internalID: 4602547913504075586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_126
+      name: big_black_boots_126
       rect:
         serializedVersion: 2
         x: 320
@@ -3356,14 +3563,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af2bb408e6687cfd0800000000000000
-      internalID: -2321739273729232134
+      spriteID: 8ad572f2417a9e080800000000000000
+      internalID: -9157604662148899416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_127
+      name: big_black_boots_127
       rect:
         serializedVersion: 2
         x: 384
@@ -3377,14 +3584,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d45b1e0fe2e88aa0800000000000000
-      internalID: -6158422974067419945
+      spriteID: da83af3077be81ab0800000000000000
+      internalID: -5037017286813534035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_128
+      name: big_black_boots_128
       rect:
         serializedVersion: 2
         x: 448
@@ -3398,14 +3605,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f85ee8d742ac5f7d0800000000000000
-      internalID: -2885177728186784369
+      spriteID: fe275e1280f7762b0800000000000000
+      internalID: -5591360739452030225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_129
+      name: big_black_boots_129
       rect:
         serializedVersion: 2
         x: 512
@@ -3419,14 +3626,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908f06cdd81a8a60800000000000000
-      internalID: 7676975855596175510
+      spriteID: e38ce979331b04b60800000000000000
+      internalID: 7728371795712985150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_130
+      name: big_black_boots_130
       rect:
         serializedVersion: 2
         x: 576
@@ -3440,14 +3647,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 366bbac186a872d70800000000000000
-      internalID: 9018328958594954851
+      spriteID: 5a522bb6785408cf0800000000000000
+      internalID: -252125131203009115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_131
+      name: big_black_boots_131
       rect:
         serializedVersion: 2
         x: 640
@@ -3461,14 +3668,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e71ee90a77ae37000800000000000000
-      internalID: 32627421838500222
+      spriteID: a0cbb5ead45853af0800000000000000
+      internalID: -417280821777679350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_132
+      name: big_black_boots_132
       rect:
         serializedVersion: 2
         x: 704
@@ -3482,14 +3689,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce9349c5ff3a61e90800000000000000
-      internalID: -7055271449064097300
+      spriteID: 1595f9056d9d46530800000000000000
+      internalID: 3847439496180095313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_133
+      name: big_black_boots_133
       rect:
         serializedVersion: 2
         x: 768
@@ -3503,14 +3710,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79b10affcc3f11f80800000000000000
-      internalID: -8137454989894214761
+      spriteID: 5d696f00f9a0c59b0800000000000000
+      internalID: -5090181800803264811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_134
+      name: big_black_boots_134
       rect:
         serializedVersion: 2
         x: 0
@@ -3524,14 +3731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 244136b5040317c60800000000000000
-      internalID: 7814079881433781314
+      spriteID: 8b7bb69514431b020800000000000000
+      internalID: 2355721535369230264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_135
+      name: big_black_boots_135
       rect:
         serializedVersion: 2
         x: 64
@@ -3545,14 +3752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ee405e547de874f0800000000000000
-      internalID: -830653047195545880
+      spriteID: ef8657603fc757fb0800000000000000
+      internalID: -4650673656962914050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_136
+      name: big_black_boots_136
       rect:
         serializedVersion: 2
         x: 128
@@ -3566,14 +3773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12c3a9aae0f8130800000000000000
-      internalID: 3571089155422953958
+      spriteID: e0e6171b53fbd9800800000000000000
+      internalID: 620862560978169358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_137
+      name: big_black_boots_137
       rect:
         serializedVersion: 2
         x: 192
@@ -3587,14 +3794,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c433b0cf043677770800000000000000
-      internalID: 8608458343499641676
+      spriteID: 97ac3e0ab87cc4430800000000000000
+      internalID: 3768606390715927161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_138
+      name: big_black_boots_138
       rect:
         serializedVersion: 2
         x: 256
@@ -3608,14 +3815,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a66f06afb6ffe31c0800000000000000
-      internalID: -4521896136606157206
+      spriteID: a95ac93cc40d67fa0800000000000000
+      internalID: -5803222041702390374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_139
+      name: big_black_boots_139
       rect:
         serializedVersion: 2
         x: 320
@@ -3629,14 +3836,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8de03855a7a59990800000000000000
-      internalID: -7379808085785645685
+      spriteID: 2b60cd3dc227a6390800000000000000
+      internalID: -7824315865744275790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_140
+      name: big_black_boots_140
       rect:
         serializedVersion: 2
         x: 384
@@ -3650,14 +3857,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63de62514361a4350800000000000000
-      internalID: 6001633866373590326
+      spriteID: 7909c817fec036630800000000000000
+      internalID: 3918990323284218007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_141
+      name: big_black_boots_141
       rect:
         serializedVersion: 2
         x: 448
@@ -3671,14 +3878,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca6916f3e8432e50800000000000000
-      internalID: 6783345607673735882
+      spriteID: c0543f529e3da5f00800000000000000
+      internalID: 1106429656790418700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_142
+      name: big_black_boots_142
       rect:
         serializedVersion: 2
         x: 512
@@ -3692,14 +3899,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c286110419cd42f60800000000000000
-      internalID: 8008768553774835756
+      spriteID: 09bed99980ef5a110800000000000000
+      internalID: 1271701782692490128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_143
+      name: big_black_boots_143
       rect:
         serializedVersion: 2
         x: 576
@@ -3713,14 +3920,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c0cec801626a4950800000000000000
-      internalID: 6434063186551292103
+      spriteID: 9daf686d473205ef0800000000000000
+      internalID: -121558205216654631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_144
+      name: big_black_boots_144
       rect:
         serializedVersion: 2
         x: 640
@@ -3734,14 +3941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba2e54c70cd07fd10800000000000000
-      internalID: 2159209666717278891
+      spriteID: d664d533e732066e0800000000000000
+      internalID: -1846436822287301011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_145
+      name: big_black_boots_145
       rect:
         serializedVersion: 2
         x: 704
@@ -3755,14 +3962,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c08a14d64f1d3f70800000000000000
-      internalID: 9168518805462876353
+      spriteID: 566cb987bf5ddcf80800000000000000
+      internalID: -8084570480023189915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_146
+      name: big_black_boots_146
       rect:
         serializedVersion: 2
         x: 768
@@ -3776,14 +3983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d1dcb048ec4a6cb0800000000000000
-      internalID: -4869995486645530157
+      spriteID: f51f6d86921726d30800000000000000
+      internalID: 4423222206697763167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_147
+      name: big_black_boots_147
       rect:
         serializedVersion: 2
         x: 0
@@ -3797,14 +4004,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5bc562bbddcd7f140800000000000000
-      internalID: 4753510776598584501
+      spriteID: 27ca43291e6c45680800000000000000
+      internalID: -8767163902460646286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_148
+      name: big_black_boots_148
       rect:
         serializedVersion: 2
         x: 64
@@ -3818,14 +4025,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2befd3cafcea717d0800000000000000
-      internalID: -2947695224119492942
+      spriteID: 7f45346ed172c2c90800000000000000
+      internalID: -7193331495446817545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_149
+      name: big_black_boots_149
       rect:
         serializedVersion: 2
         x: 128
@@ -3839,14 +4046,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efe727a6dd3314cc0800000000000000
-      internalID: -3728641990419382530
+      spriteID: c57986065493743c0800000000000000
+      internalID: -4375465542834153636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_150
+      name: big_black_boots_150
       rect:
         serializedVersion: 2
         x: 192
@@ -3860,14 +4067,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d769a6c982252f1a0800000000000000
-      internalID: -6777264154862774659
+      spriteID: fda0276fb1abbed40800000000000000
+      internalID: 5614785989709007583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_151
+      name: big_black_boots_151
       rect:
         serializedVersion: 2
         x: 256
@@ -3881,14 +4088,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9eaff3270c073060800000000000000
-      internalID: 6933023376168431261
+      spriteID: e4478f0dacd6507d0800000000000000
+      internalID: -2952833262814727090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_152
+      name: big_black_boots_152
       rect:
         serializedVersion: 2
         x: 320
@@ -3902,14 +4109,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0930e5c5a2f10b140800000000000000
-      internalID: 4733317475165143952
+      spriteID: b4746aa52b76e7bc0800000000000000
+      internalID: -3783472621221951669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_153
+      name: big_black_boots_153
       rect:
         serializedVersion: 2
         x: 384
@@ -3923,14 +4130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7acbd351c11b08cc0800000000000000
-      internalID: -3710771358779720537
+      spriteID: 3ecae9fb317477560800000000000000
+      internalID: 7311390670204087523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_154
+      name: big_black_boots_154
       rect:
         serializedVersion: 2
         x: 448
@@ -3944,14 +4151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd4debb728759400800000000000000
-      internalID: 330302259733548480
+      spriteID: 798a50a9750d85d30800000000000000
+      internalID: 4420512108928936087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_155
+      name: big_black_boots_155
       rect:
         serializedVersion: 2
         x: 512
@@ -3965,14 +4172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1379bc6c8c9e1bf90800000000000000
-      internalID: -6939508502263261391
+      spriteID: 3b4c53ac23e852cf0800000000000000
+      internalID: -277659453221387085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_156
+      name: big_black_boots_156
       rect:
         serializedVersion: 2
         x: 576
@@ -3986,14 +4193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b00393bfcb2d6540800000000000000
-      internalID: 5002702932149469365
+      spriteID: 22945c6dde9479e90800000000000000
+      internalID: -7019060208374298334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_157
+      name: big_black_boots_157
       rect:
         serializedVersion: 2
         x: 640
@@ -4007,14 +4214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a486fd677e1618d90800000000000000
-      internalID: -7097283890999498678
+      spriteID: c5409612dffef3e60800000000000000
+      internalID: 7944332138171139164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_158
+      name: big_black_boots_158
       rect:
         serializedVersion: 2
         x: 704
@@ -4028,14 +4235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17fecfac353830510800000000000000
-      internalID: 1514198295637716849
+      spriteID: 62faaa852c19b0bb0800000000000000
+      internalID: -4968717499975946458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_159
+      name: big_black_boots_159
       rect:
         serializedVersion: 2
         x: 768
@@ -4049,14 +4256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a4adf740b5945340800000000000000
-      internalID: 4851667282939454625
+      spriteID: caca45b3f4f840cd0800000000000000
+      internalID: -2592789914997969748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_160
+      name: big_black_boots_160
       rect:
         serializedVersion: 2
         x: 0
@@ -4070,14 +4277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e9b7cf342deab750800000000000000
-      internalID: 6321625766912571876
+      spriteID: 4f10ee91329633450800000000000000
+      internalID: 6067308722477990388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_161
+      name: big_black_boots_161
       rect:
         serializedVersion: 2
         x: 64
@@ -4091,14 +4298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44ab03373384dac00800000000000000
-      internalID: 913465685239183940
+      spriteID: 58fcc60c9c0966ad0800000000000000
+      internalID: -2709318929625591931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_162
+      name: big_black_boots_162
       rect:
         serializedVersion: 2
         x: 128
@@ -4112,14 +4319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7519a8473168810800000000000000
-      internalID: 1767121295051413413
+      spriteID: dee2d0ad237e81e40800000000000000
+      internalID: 5627501939992112877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_163
+      name: big_black_boots_163
       rect:
         serializedVersion: 2
         x: 192
@@ -4133,14 +4340,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6321ce9ea04cdf0800000000000000
-      internalID: -160991686874220841
+      spriteID: b07624a1b599cdce0800000000000000
+      internalID: -1379058769320581365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_164
+      name: big_black_boots_164
       rect:
         serializedVersion: 2
         x: 256
@@ -4154,14 +4361,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6195db6989fb8ad0800000000000000
-      internalID: -2698789183063486101
+      spriteID: 26a332de1089b0cc0800000000000000
+      internalID: -3743731531187537310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_165
+      name: big_black_boots_165
       rect:
         serializedVersion: 2
         x: 320
@@ -4175,14 +4382,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9067cedc299949d0800000000000000
-      internalID: -2789530076184092515
+      spriteID: bccdb1629f38e0070800000000000000
+      internalID: 8074536288031333579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_166
+      name: big_black_boots_166
       rect:
         serializedVersion: 2
         x: 384
@@ -4196,14 +4403,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e91ed764fe4218800800000000000000
-      internalID: 612811634397536670
+      spriteID: 9fc92f46d76ad9a70800000000000000
+      internalID: 8835401101465525497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_167
+      name: big_black_boots_167
       rect:
         serializedVersion: 2
         x: 448
@@ -4217,14 +4424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bf3252be4cc74e90800000000000000
-      internalID: -7041434853999231050
+      spriteID: ca8a81c7ac57488f0800000000000000
+      internalID: -539176542851782484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_168
+      name: big_black_boots_168
       rect:
         serializedVersion: 2
         x: 512
@@ -4238,14 +4445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73a0a0df4de27fc40800000000000000
-      internalID: 5545952958443293239
+      spriteID: 28c93046becc15440800000000000000
+      internalID: 4922941179060001922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_169
+      name: big_black_boots_169
       rect:
         serializedVersion: 2
         x: 576
@@ -4259,14 +4466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5f67e799d2f0cf10800000000000000
-      internalID: 2288095627074563934
+      spriteID: 23f5cbd964d29eea0800000000000000
+      internalID: -5843089260219179214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_170
+      name: big_black_boots_170
       rect:
         serializedVersion: 2
         x: 640
@@ -4280,14 +4487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 532523e385ab30500800000000000000
-      internalID: 361337283283145269
+      spriteID: 58d07c14f7f878560800000000000000
+      internalID: 7315973896413842821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_171
+      name: big_black_boots_171
       rect:
         serializedVersion: 2
         x: 704
@@ -4301,14 +4508,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34450ddc0ef9b5d90800000000000000
-      internalID: -7107911798999722941
+      spriteID: 606c4c88721eee830800000000000000
+      internalID: 4102463870495671814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_172
+      name: big_black_boots_172
       rect:
         serializedVersion: 2
         x: 768
@@ -4322,14 +4529,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b28360e25dda98e90800000000000000
-      internalID: -7022891012795779029
+      spriteID: 7d6066bf4ff625ab0800000000000000
+      internalID: -5020827536584210729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_173
+      name: big_black_boots_173
       rect:
         serializedVersion: 2
         x: 0
@@ -4343,14 +4550,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ba2b14f9fabd3640800000000000000
-      internalID: 5061407138939349685
+      spriteID: 099a42b7e8f85ec40800000000000000
+      internalID: 5540992758663391632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_174
+      name: big_black_boots_174
       rect:
         serializedVersion: 2
         x: 64
@@ -4364,14 +4571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ae3dfd1c69c81a40800000000000000
-      internalID: 5339238824444509861
+      spriteID: acbe06524045dc400800000000000000
+      internalID: 346025123161107402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_175
+      name: big_black_boots_175
       rect:
         serializedVersion: 2
         x: 128
@@ -4385,35 +4592,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e92f6aa7e85773980800000000000000
-      internalID: -8559243311990771042
+      spriteID: 66710448b4ad7c6b0800000000000000
+      internalID: -5276008420565051546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_176
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60184bbe1ebb727c0800000000000000
-      internalID: -4096098757073665786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: steel_helmet_177
+      name: big_black_boots_176
       rect:
         serializedVersion: 2
         x: 256
@@ -4427,14 +4613,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd4f80676575774f0800000000000000
-      internalID: -831099577367464737
+      spriteID: eb9f0f33f83a02360800000000000000
+      internalID: 7142888844456688062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_178
+      name: big_black_boots_177
       rect:
         serializedVersion: 2
         x: 320
@@ -4446,10 +4632,10 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a7f2ee719847e2d4bb72faa0a47d6a85
-      internalID: 56923198
+      spriteID: a59a50dc19594d1d0800000000000000
+      internalID: -3326869771277457062
       vertices: []
       indices: 
       edges: []
@@ -4457,7 +4643,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3b1f81d695b1a3f408ed788d6526ea13
+    spriteID: 51ef24f4b42f04b409559315f634ea93
     internalID: 0
     vertices: []
     indices: 
@@ -4465,185 +4651,184 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      steel_helmet_0: 6171749998868576760
-      steel_helmet_1: 12241374522416488
-      steel_helmet_10: -586560210239163906
-      steel_helmet_100: -7351198424840555652
-      steel_helmet_101: 7612810089966860576
-      steel_helmet_102: 1876455311465488501
-      steel_helmet_103: -8552234656509997781
-      steel_helmet_104: 372493284527290364
-      steel_helmet_105: -1785514995071107864
-      steel_helmet_106: -5547875155533440087
-      steel_helmet_107: 6302302562564093891
-      steel_helmet_108: -6437388689642309485
-      steel_helmet_109: -3742859842601144340
-      steel_helmet_11: -1972632962815971818
-      steel_helmet_110: -2188892216917094203
-      steel_helmet_111: 8960342473285734135
-      steel_helmet_112: -5135927531716469155
-      steel_helmet_113: -3795696677588511176
-      steel_helmet_114: -7269287026526555599
-      steel_helmet_115: -200280996575369581
-      steel_helmet_116: 13329640905894783
-      steel_helmet_117: -7343726047885292783
-      steel_helmet_118: -2407927321422852646
-      steel_helmet_119: 2179341348579415231
-      steel_helmet_12: -1713682853992552001
-      steel_helmet_120: 3108581125857502269
-      steel_helmet_121: 8783564235806967381
-      steel_helmet_122: -454198823789125173
-      steel_helmet_123: 397881566263101192
-      steel_helmet_124: 874327018104137350
-      steel_helmet_125: -6713696751126964014
-      steel_helmet_126: -2321739273729232134
-      steel_helmet_127: -6158422974067419945
-      steel_helmet_128: -2885177728186784369
-      steel_helmet_129: 7676975855596175510
-      steel_helmet_13: 3439335505553292134
-      steel_helmet_130: 9018328958594954851
-      steel_helmet_131: 32627421838500222
-      steel_helmet_132: -7055271449064097300
-      steel_helmet_133: -8137454989894214761
-      steel_helmet_134: 7814079881433781314
-      steel_helmet_135: -830653047195545880
-      steel_helmet_136: 3571089155422953958
-      steel_helmet_137: 8608458343499641676
-      steel_helmet_138: -4521896136606157206
-      steel_helmet_139: -7379808085785645685
-      steel_helmet_14: 2892035228080534227
-      steel_helmet_140: 6001633866373590326
-      steel_helmet_141: 6783345607673735882
-      steel_helmet_142: 8008768553774835756
-      steel_helmet_143: 6434063186551292103
-      steel_helmet_144: 2159209666717278891
-      steel_helmet_145: 9168518805462876353
-      steel_helmet_146: -4869995486645530157
-      steel_helmet_147: 4753510776598584501
-      steel_helmet_148: -2947695224119492942
-      steel_helmet_149: -3728641990419382530
-      steel_helmet_15: 3313697068908060132
-      steel_helmet_150: -6777264154862774659
-      steel_helmet_151: 6933023376168431261
-      steel_helmet_152: 4733317475165143952
-      steel_helmet_153: -3710771358779720537
-      steel_helmet_154: 330302259733548480
-      steel_helmet_155: -6939508502263261391
-      steel_helmet_156: 5002702932149469365
-      steel_helmet_157: -7097283890999498678
-      steel_helmet_158: 1514198295637716849
-      steel_helmet_159: 4851667282939454625
-      steel_helmet_16: -5567384938589405565
-      steel_helmet_160: 6321625766912571876
-      steel_helmet_161: 913465685239183940
-      steel_helmet_162: 1767121295051413413
-      steel_helmet_163: -160991686874220841
-      steel_helmet_164: -2698789183063486101
-      steel_helmet_165: -2789530076184092515
-      steel_helmet_166: 612811634397536670
-      steel_helmet_167: -7041434853999231050
-      steel_helmet_168: 5545952958443293239
-      steel_helmet_169: 2288095627074563934
-      steel_helmet_17: 7500603439164031947
-      steel_helmet_170: 361337283283145269
-      steel_helmet_171: -7107911798999722941
-      steel_helmet_172: -7022891012795779029
-      steel_helmet_173: 5061407138939349685
-      steel_helmet_174: 5339238824444509861
-      steel_helmet_175: -8559243311990771042
-      steel_helmet_176: -4096098757073665786
-      steel_helmet_177: -831099577367464737
-      steel_helmet_178: 56923198
-      steel_helmet_18: -3644197443859134174
-      steel_helmet_19: 4466993417679045759
-      steel_helmet_2: 6986683232054315680
-      steel_helmet_20: 1742437157880726838
-      steel_helmet_21: 5510097588438900594
-      steel_helmet_22: -3267568700784841838
-      steel_helmet_23: 1348682662045803020
-      steel_helmet_24: 8206618093779921881
-      steel_helmet_25: 1185336702795753642
-      steel_helmet_26: 8888250568420438383
-      steel_helmet_27: 5559853279690005970
-      steel_helmet_28: 5327364381975883520
-      steel_helmet_29: 4207413756729204104
-      steel_helmet_3: -9084514716749300429
-      steel_helmet_30: -4423727515652172706
-      steel_helmet_31: -4389538743983595125
-      steel_helmet_32: -2314416292049436817
-      steel_helmet_33: -6020420764971605737
-      steel_helmet_34: 5703355630601134212
-      steel_helmet_35: -3029926006429797792
-      steel_helmet_36: -53097635868160739
-      steel_helmet_37: -673222048977194238
-      steel_helmet_38: -7496279777166356339
-      steel_helmet_39: -3021865570111167463
-      steel_helmet_4: -2605092767791272085
-      steel_helmet_40: 9061380609784110592
-      steel_helmet_41: -3269708864223853646
-      steel_helmet_42: -1408640524953191784
-      steel_helmet_43: 8570442781222150036
-      steel_helmet_44: -2688813780094995009
-      steel_helmet_45: 8645676110124070078
-      steel_helmet_46: -2337278104543630372
-      steel_helmet_47: -554455110087410358
-      steel_helmet_48: 2102823896779310437
-      steel_helmet_49: 4886785767373659916
-      steel_helmet_5: -3618400423685170181
-      steel_helmet_50: 2486674740593134430
-      steel_helmet_51: 4501855816464969713
-      steel_helmet_52: 1288944814315847801
-      steel_helmet_53: 5792239042642673814
-      steel_helmet_54: -9200427242908765608
-      steel_helmet_55: -7230916463810660293
-      steel_helmet_56: -6077679775214339239
-      steel_helmet_57: -2014232571661212167
-      steel_helmet_58: -4008410288200766598
-      steel_helmet_59: 514415130665000966
-      steel_helmet_6: -8915839874675382637
-      steel_helmet_60: 8430018887565883415
-      steel_helmet_61: 3324382747386455729
-      steel_helmet_62: 1180296870818938530
-      steel_helmet_63: -2841516579443058458
-      steel_helmet_64: -2210705929708827437
-      steel_helmet_65: 2085819806030340423
-      steel_helmet_66: -7460367247566041362
-      steel_helmet_67: -8499979738703707583
-      steel_helmet_68: -8852262402376275218
-      steel_helmet_69: 9124959812758010136
-      steel_helmet_7: -3062091586150151873
-      steel_helmet_70: -251607274846075724
-      steel_helmet_71: -3325462535381865803
-      steel_helmet_72: 8397568820755220717
-      steel_helmet_73: 4703732761374378263
-      steel_helmet_74: -4071943459035029028
-      steel_helmet_75: 7723011734815802537
-      steel_helmet_76: 7521647195445578084
-      steel_helmet_77: 7798953126886843722
-      steel_helmet_78: 8103393022394613735
-      steel_helmet_79: 1001067612486801208
-      steel_helmet_8: -1322780199126261323
-      steel_helmet_80: -342845787209007105
-      steel_helmet_81: 7407496882320240874
-      steel_helmet_82: 1176574924260936011
-      steel_helmet_83: -8729810696231732969
-      steel_helmet_84: -4684543575520208719
-      steel_helmet_85: -5556636124233375385
-      steel_helmet_86: 4204050572261347990
-      steel_helmet_87: 1071223655509989327
-      steel_helmet_88: -987298771173507599
-      steel_helmet_89: -941148049827953005
-      steel_helmet_9: 4846370706414177993
-      steel_helmet_90: -40111364193426509
-      steel_helmet_91: 3653208969029831014
-      steel_helmet_92: 8777758608245864649
-      steel_helmet_93: -8863699348197801595
-      steel_helmet_94: -1528422834583850921
-      steel_helmet_95: 6280033951698896790
-      steel_helmet_96: -4751858050826911993
-      steel_helmet_97: -3141439542981642364
-      steel_helmet_98: -6121911227465134723
-      steel_helmet_99: -7998694753117018577
+      big_black_boots_0: -3969898686530524407
+      big_black_boots_1: 6603734996458115491
+      big_black_boots_10: 5579641440706423050
+      big_black_boots_100: -2066981353158648004
+      big_black_boots_101: -3684886844831064403
+      big_black_boots_102: -8632329498873434856
+      big_black_boots_103: -3168719877872949200
+      big_black_boots_104: 6428013031226762625
+      big_black_boots_105: 7327142482251327280
+      big_black_boots_106: 2625495508895394230
+      big_black_boots_107: 3643089131138280374
+      big_black_boots_108: 292416717344908575
+      big_black_boots_109: 4703692172100166283
+      big_black_boots_11: -2357326765419755587
+      big_black_boots_110: -7228236074782025295
+      big_black_boots_111: -7204157921878103942
+      big_black_boots_112: 7923286955889684247
+      big_black_boots_113: -6391160480869737879
+      big_black_boots_114: 441865898671966356
+      big_black_boots_115: 6464000708060797237
+      big_black_boots_116: -7048422995234766604
+      big_black_boots_117: -5928799927714342646
+      big_black_boots_118: 8155405156235159555
+      big_black_boots_119: -5240936455419593582
+      big_black_boots_12: 3653611308033237614
+      big_black_boots_120: -7567192833357668836
+      big_black_boots_121: -3091146531039225646
+      big_black_boots_122: 2878785541306332235
+      big_black_boots_123: 3612734977078895926
+      big_black_boots_124: 3307454058758500124
+      big_black_boots_125: 4602547913504075586
+      big_black_boots_126: -9157604662148899416
+      big_black_boots_127: -5037017286813534035
+      big_black_boots_128: -5591360739452030225
+      big_black_boots_129: 7728371795712985150
+      big_black_boots_13: -3844166686791335677
+      big_black_boots_130: -252125131203009115
+      big_black_boots_131: -417280821777679350
+      big_black_boots_132: 3847439496180095313
+      big_black_boots_133: -5090181800803264811
+      big_black_boots_134: 2355721535369230264
+      big_black_boots_135: -4650673656962914050
+      big_black_boots_136: 620862560978169358
+      big_black_boots_137: 3768606390715927161
+      big_black_boots_138: -5803222041702390374
+      big_black_boots_139: -7824315865744275790
+      big_black_boots_14: -9050831598108679786
+      big_black_boots_140: 3918990323284218007
+      big_black_boots_141: 1106429656790418700
+      big_black_boots_142: 1271701782692490128
+      big_black_boots_143: -121558205216654631
+      big_black_boots_144: -1846436822287301011
+      big_black_boots_145: -8084570480023189915
+      big_black_boots_146: 4423222206697763167
+      big_black_boots_147: -8767163902460646286
+      big_black_boots_148: -7193331495446817545
+      big_black_boots_149: -4375465542834153636
+      big_black_boots_15: 6850832378136550799
+      big_black_boots_150: 5614785989709007583
+      big_black_boots_151: -2952833262814727090
+      big_black_boots_152: -3783472621221951669
+      big_black_boots_153: 7311390670204087523
+      big_black_boots_154: 4420512108928936087
+      big_black_boots_155: -277659453221387085
+      big_black_boots_156: -7019060208374298334
+      big_black_boots_157: 7944332138171139164
+      big_black_boots_158: -4968717499975946458
+      big_black_boots_159: -2592789914997969748
+      big_black_boots_16: 1653082082385168021
+      big_black_boots_160: 6067308722477990388
+      big_black_boots_161: -2709318929625591931
+      big_black_boots_162: 5627501939992112877
+      big_black_boots_163: -1379058769320581365
+      big_black_boots_164: -3743731531187537310
+      big_black_boots_165: 8074536288031333579
+      big_black_boots_166: 8835401101465525497
+      big_black_boots_167: -539176542851782484
+      big_black_boots_168: 4922941179060001922
+      big_black_boots_169: -5843089260219179214
+      big_black_boots_17: -5355497106368683370
+      big_black_boots_170: 7315973896413842821
+      big_black_boots_171: 4102463870495671814
+      big_black_boots_172: -5020827536584210729
+      big_black_boots_173: 5540992758663391632
+      big_black_boots_174: 346025123161107402
+      big_black_boots_175: -5276008420565051546
+      big_black_boots_176: 7142888844456688062
+      big_black_boots_177: -3326869771277457062
+      big_black_boots_18: -3515665906005851784
+      big_black_boots_19: -8594790272778897122
+      big_black_boots_2: 8666636182292746301
+      big_black_boots_20: 5658041473572952944
+      big_black_boots_21: 591537732380786292
+      big_black_boots_22: -1620654109618989258
+      big_black_boots_23: -1395757078042825677
+      big_black_boots_24: 2358406702218584682
+      big_black_boots_25: 3174447177755546507
+      big_black_boots_26: -2960683560726236146
+      big_black_boots_27: 2068529473337839789
+      big_black_boots_28: -1639395156353224028
+      big_black_boots_29: -8450676385366424208
+      big_black_boots_3: -1328954130865083601
+      big_black_boots_30: 8269777535669436106
+      big_black_boots_31: -518245242542336487
+      big_black_boots_32: 7847886921623796499
+      big_black_boots_33: -8314248627838135143
+      big_black_boots_34: 9012302241651708981
+      big_black_boots_35: -6634218617077481243
+      big_black_boots_36: -5548657025610301856
+      big_black_boots_37: 5588807515174154490
+      big_black_boots_38: -4195581313361321024
+      big_black_boots_39: 5279190862712799013
+      big_black_boots_4: 5215872143694555670
+      big_black_boots_40: 5188415231005100954
+      big_black_boots_41: -8916309094874989500
+      big_black_boots_42: -2254608334163941796
+      big_black_boots_43: 2760129882891499138
+      big_black_boots_44: -3528996852774728957
+      big_black_boots_45: -5775996599551838019
+      big_black_boots_46: -4231913088335830817
+      big_black_boots_47: -9050899915170351564
+      big_black_boots_48: -3188277846120966276
+      big_black_boots_49: 3305516514463981692
+      big_black_boots_5: -6195539619055332214
+      big_black_boots_50: 3788355387071281907
+      big_black_boots_51: -1175006369325205144
+      big_black_boots_52: -2826230572179929653
+      big_black_boots_53: 2079998287701557288
+      big_black_boots_54: -1840598209566344947
+      big_black_boots_55: -152441061438930631
+      big_black_boots_56: 94778705388687201
+      big_black_boots_57: -697789784117921968
+      big_black_boots_58: -1371837492254373944
+      big_black_boots_59: 7194636312119953077
+      big_black_boots_6: 7266018718479149005
+      big_black_boots_60: -2644407490663084471
+      big_black_boots_61: -6957297907611688802
+      big_black_boots_62: 862879952189640910
+      big_black_boots_63: -58691106537691517
+      big_black_boots_64: 1466009187116213779
+      big_black_boots_65: 1938171617850088028
+      big_black_boots_66: 8054424446653388395
+      big_black_boots_67: 7580611609618689381
+      big_black_boots_68: -4987440341328759589
+      big_black_boots_69: -2687585351189424156
+      big_black_boots_7: -4173367231937215282
+      big_black_boots_70: -9074414083707305771
+      big_black_boots_71: 5264484598999941977
+      big_black_boots_72: 3682821320649618994
+      big_black_boots_73: -5165984880244368431
+      big_black_boots_74: 1528042595293488903
+      big_black_boots_75: 3821261040188625063
+      big_black_boots_76: 4939478002830847158
+      big_black_boots_77: -1945342309933277115
+      big_black_boots_78: 5961421875316009088
+      big_black_boots_79: -3967711148950020419
+      big_black_boots_8: -4625650819525080824
+      big_black_boots_80: 5248067524360252147
+      big_black_boots_81: -7455616168983355596
+      big_black_boots_82: -7915651088841964442
+      big_black_boots_83: -3960088590000670219
+      big_black_boots_84: 8812533110397364035
+      big_black_boots_85: -9103407883546425004
+      big_black_boots_86: 6255515761397572292
+      big_black_boots_87: 7752373343360025779
+      big_black_boots_88: 5188770725698505606
+      big_black_boots_89: 2605546290863907852
+      big_black_boots_9: 695759056546448084
+      big_black_boots_90: 7151335740601399608
+      big_black_boots_91: 604921560559694740
+      big_black_boots_92: -8086217739355128379
+      big_black_boots_93: 6468888365766115415
+      big_black_boots_94: -362346864516295307
+      big_black_boots_95: 8204906189039398780
+      big_black_boots_96: -7078723992727429165
+      big_black_boots_97: -5456625719349010917
+      big_black_boots_98: -8498617551246317899
+      big_black_boots_99: -6683591590233274819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

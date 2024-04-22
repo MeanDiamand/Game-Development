@@ -1,541 +1,541 @@
 fileFormatVersion: 2
-guid: a7fb385c7bb6eb54db6180c68b022775
+guid: e4022d16be1a8424da4477c44687c279
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6171749998868576760
-    second: steel_helmet_0
+      213: -4034953207897923281
+    second: diamond_crown_0
   - first:
-      213: 12241374522416488
-    second: steel_helmet_1
+      213: 8353394434253663046
+    second: diamond_crown_1
   - first:
-      213: 6986683232054315680
-    second: steel_helmet_2
+      213: 2270755034605357445
+    second: diamond_crown_2
   - first:
-      213: -9084514716749300429
-    second: steel_helmet_3
+      213: 4625292676847727400
+    second: diamond_crown_3
   - first:
-      213: -2605092767791272085
-    second: steel_helmet_4
+      213: -8895296733327483577
+    second: diamond_crown_4
   - first:
-      213: -3618400423685170181
-    second: steel_helmet_5
+      213: 1368094391578236881
+    second: diamond_crown_5
   - first:
-      213: -8915839874675382637
-    second: steel_helmet_6
+      213: -513703049571183584
+    second: diamond_crown_6
   - first:
-      213: -3062091586150151873
-    second: steel_helmet_7
+      213: 607848588126396021
+    second: diamond_crown_7
   - first:
-      213: -1322780199126261323
-    second: steel_helmet_8
+      213: -3848405645949709528
+    second: diamond_crown_8
   - first:
-      213: 4846370706414177993
-    second: steel_helmet_9
+      213: 4793224956808846361
+    second: diamond_crown_9
   - first:
-      213: -586560210239163906
-    second: steel_helmet_10
+      213: 1443030980064229519
+    second: diamond_crown_10
   - first:
-      213: -1972632962815971818
-    second: steel_helmet_11
+      213: -4262864113912751613
+    second: diamond_crown_11
   - first:
-      213: -1713682853992552001
-    second: steel_helmet_12
+      213: -5741279283607344933
+    second: diamond_crown_12
   - first:
-      213: 3439335505553292134
-    second: steel_helmet_13
+      213: 5142274664555445733
+    second: diamond_crown_13
   - first:
-      213: 2892035228080534227
-    second: steel_helmet_14
+      213: 2485777238263252661
+    second: diamond_crown_14
   - first:
-      213: 3313697068908060132
-    second: steel_helmet_15
+      213: -3709957491640702321
+    second: diamond_crown_15
   - first:
-      213: -5567384938589405565
-    second: steel_helmet_16
+      213: -149834060381997077
+    second: diamond_crown_16
   - first:
-      213: 7500603439164031947
-    second: steel_helmet_17
+      213: -6986015846924744685
+    second: diamond_crown_17
   - first:
-      213: -3644197443859134174
-    second: steel_helmet_18
+      213: 7436566626590931003
+    second: diamond_crown_18
   - first:
-      213: 4466993417679045759
-    second: steel_helmet_19
+      213: -8628219423074241165
+    second: diamond_crown_19
   - first:
-      213: 1742437157880726838
-    second: steel_helmet_20
+      213: -7458231825885310878
+    second: diamond_crown_20
   - first:
-      213: 5510097588438900594
-    second: steel_helmet_21
+      213: 7343846941496513071
+    second: diamond_crown_21
   - first:
-      213: -3267568700784841838
-    second: steel_helmet_22
+      213: 2772351781510884796
+    second: diamond_crown_22
   - first:
-      213: 1348682662045803020
-    second: steel_helmet_23
+      213: 8784238807175725271
+    second: diamond_crown_23
   - first:
-      213: 8206618093779921881
-    second: steel_helmet_24
+      213: 5551635963333247071
+    second: diamond_crown_24
   - first:
-      213: 1185336702795753642
-    second: steel_helmet_25
+      213: -843413635315277638
+    second: diamond_crown_25
   - first:
-      213: 8888250568420438383
-    second: steel_helmet_26
+      213: 6061569057950386869
+    second: diamond_crown_26
   - first:
-      213: 5559853279690005970
-    second: steel_helmet_27
+      213: 107912598949806119
+    second: diamond_crown_27
   - first:
-      213: 5327364381975883520
-    second: steel_helmet_28
+      213: 5914762305361418883
+    second: diamond_crown_28
   - first:
-      213: 4207413756729204104
-    second: steel_helmet_29
+      213: -2456609403226365804
+    second: diamond_crown_29
   - first:
-      213: -4423727515652172706
-    second: steel_helmet_30
+      213: 381910154361488217
+    second: diamond_crown_30
   - first:
-      213: -4389538743983595125
-    second: steel_helmet_31
+      213: 5235227697164209407
+    second: diamond_crown_31
   - first:
-      213: -2314416292049436817
-    second: steel_helmet_32
+      213: -652831177384947093
+    second: diamond_crown_32
   - first:
-      213: -6020420764971605737
-    second: steel_helmet_33
+      213: 5107408644000779762
+    second: diamond_crown_33
   - first:
-      213: 5703355630601134212
-    second: steel_helmet_34
+      213: -5609487636302580796
+    second: diamond_crown_34
   - first:
-      213: -3029926006429797792
-    second: steel_helmet_35
+      213: 8042153202262221386
+    second: diamond_crown_35
   - first:
-      213: -53097635868160739
-    second: steel_helmet_36
+      213: 3988430923235145991
+    second: diamond_crown_36
   - first:
-      213: -673222048977194238
-    second: steel_helmet_37
+      213: -4606479082216029938
+    second: diamond_crown_37
   - first:
-      213: -7496279777166356339
-    second: steel_helmet_38
+      213: -4129778320018070529
+    second: diamond_crown_38
   - first:
-      213: -3021865570111167463
-    second: steel_helmet_39
+      213: -1302871031165964370
+    second: diamond_crown_39
   - first:
-      213: 9061380609784110592
-    second: steel_helmet_40
+      213: 3938265665313153115
+    second: diamond_crown_40
   - first:
-      213: -3269708864223853646
-    second: steel_helmet_41
+      213: -7123912188840882918
+    second: diamond_crown_41
   - first:
-      213: -1408640524953191784
-    second: steel_helmet_42
+      213: 3284962306960224244
+    second: diamond_crown_42
   - first:
-      213: 8570442781222150036
-    second: steel_helmet_43
+      213: 3784793114063559379
+    second: diamond_crown_43
   - first:
-      213: -2688813780094995009
-    second: steel_helmet_44
+      213: 4150934909152456598
+    second: diamond_crown_44
   - first:
-      213: 8645676110124070078
-    second: steel_helmet_45
+      213: -324485976819371888
+    second: diamond_crown_45
   - first:
-      213: -2337278104543630372
-    second: steel_helmet_46
+      213: -5326188526960918106
+    second: diamond_crown_46
   - first:
-      213: -554455110087410358
-    second: steel_helmet_47
+      213: 2834471838349934347
+    second: diamond_crown_47
   - first:
-      213: 2102823896779310437
-    second: steel_helmet_48
+      213: 6513105560167909755
+    second: diamond_crown_48
   - first:
-      213: 4886785767373659916
-    second: steel_helmet_49
+      213: 8106884687791617233
+    second: diamond_crown_49
   - first:
-      213: 2486674740593134430
-    second: steel_helmet_50
+      213: -5909591965450522276
+    second: diamond_crown_50
   - first:
-      213: 4501855816464969713
-    second: steel_helmet_51
+      213: 3822380955139041596
+    second: diamond_crown_51
   - first:
-      213: 1288944814315847801
-    second: steel_helmet_52
+      213: -3258493748433481225
+    second: diamond_crown_52
   - first:
-      213: 5792239042642673814
-    second: steel_helmet_53
+      213: -8708169345763929332
+    second: diamond_crown_53
   - first:
-      213: -9200427242908765608
-    second: steel_helmet_54
+      213: -7060113978884519217
+    second: diamond_crown_54
   - first:
-      213: -7230916463810660293
-    second: steel_helmet_55
+      213: -1218823605879781885
+    second: diamond_crown_55
   - first:
-      213: -6077679775214339239
-    second: steel_helmet_56
+      213: -1784095137363565052
+    second: diamond_crown_56
   - first:
-      213: -2014232571661212167
-    second: steel_helmet_57
+      213: 8365462590788650627
+    second: diamond_crown_57
   - first:
-      213: -4008410288200766598
-    second: steel_helmet_58
+      213: 7856225088689999315
+    second: diamond_crown_58
   - first:
-      213: 514415130665000966
-    second: steel_helmet_59
+      213: -2767748946246043196
+    second: diamond_crown_59
   - first:
-      213: 8430018887565883415
-    second: steel_helmet_60
+      213: -8727310447804604436
+    second: diamond_crown_60
   - first:
-      213: 3324382747386455729
-    second: steel_helmet_61
+      213: -3628999824657871494
+    second: diamond_crown_61
   - first:
-      213: 1180296870818938530
-    second: steel_helmet_62
+      213: 2613479206037120529
+    second: diamond_crown_62
   - first:
-      213: -2841516579443058458
-    second: steel_helmet_63
+      213: -5737792559298163913
+    second: diamond_crown_63
   - first:
-      213: -2210705929708827437
-    second: steel_helmet_64
+      213: -8408863905306215061
+    second: diamond_crown_64
   - first:
-      213: 2085819806030340423
-    second: steel_helmet_65
+      213: -2381359701675400409
+    second: diamond_crown_65
   - first:
-      213: -7460367247566041362
-    second: steel_helmet_66
+      213: 8266123560326915726
+    second: diamond_crown_66
   - first:
-      213: -8499979738703707583
-    second: steel_helmet_67
+      213: 5575538436396262739
+    second: diamond_crown_67
   - first:
-      213: -8852262402376275218
-    second: steel_helmet_68
+      213: -955988928363291408
+    second: diamond_crown_68
   - first:
-      213: 9124959812758010136
-    second: steel_helmet_69
+      213: -7925819444109619577
+    second: diamond_crown_69
   - first:
-      213: -251607274846075724
-    second: steel_helmet_70
+      213: 180106182082941073
+    second: diamond_crown_70
   - first:
-      213: -3325462535381865803
-    second: steel_helmet_71
+      213: -4019258756709467078
+    second: diamond_crown_71
   - first:
-      213: 8397568820755220717
-    second: steel_helmet_72
+      213: -2338257002530602699
+    second: diamond_crown_72
   - first:
-      213: 4703732761374378263
-    second: steel_helmet_73
+      213: -577566088780661267
+    second: diamond_crown_73
   - first:
-      213: -4071943459035029028
-    second: steel_helmet_74
+      213: -1071698490929534646
+    second: diamond_crown_74
   - first:
-      213: 7723011734815802537
-    second: steel_helmet_75
+      213: -2055933315616538432
+    second: diamond_crown_75
   - first:
-      213: 7521647195445578084
-    second: steel_helmet_76
+      213: -5077884502455619319
+    second: diamond_crown_76
   - first:
-      213: 7798953126886843722
-    second: steel_helmet_77
+      213: -712597692111687743
+    second: diamond_crown_77
   - first:
-      213: 8103393022394613735
-    second: steel_helmet_78
+      213: -8269725233079279425
+    second: diamond_crown_78
   - first:
-      213: 1001067612486801208
-    second: steel_helmet_79
+      213: -2628630072141683908
+    second: diamond_crown_79
   - first:
-      213: -342845787209007105
-    second: steel_helmet_80
+      213: 8102023556831525591
+    second: diamond_crown_80
   - first:
-      213: 7407496882320240874
-    second: steel_helmet_81
+      213: -2223330555274123624
+    second: diamond_crown_81
   - first:
-      213: 1176574924260936011
-    second: steel_helmet_82
+      213: -5254093371667873005
+    second: diamond_crown_82
   - first:
-      213: -8729810696231732969
-    second: steel_helmet_83
+      213: -8513554271702702026
+    second: diamond_crown_83
   - first:
-      213: -4684543575520208719
-    second: steel_helmet_84
+      213: 7109553100836619112
+    second: diamond_crown_84
   - first:
-      213: -5556636124233375385
-    second: steel_helmet_85
+      213: 4612016702880030967
+    second: diamond_crown_85
   - first:
-      213: 4204050572261347990
-    second: steel_helmet_86
+      213: -4870860513349164650
+    second: diamond_crown_86
   - first:
-      213: 1071223655509989327
-    second: steel_helmet_87
+      213: 4554058505743500723
+    second: diamond_crown_87
   - first:
-      213: -987298771173507599
-    second: steel_helmet_88
+      213: -2864115689825008012
+    second: diamond_crown_88
   - first:
-      213: -941148049827953005
-    second: steel_helmet_89
+      213: -2249274544176922425
+    second: diamond_crown_89
   - first:
-      213: -40111364193426509
-    second: steel_helmet_90
+      213: -4749590177377254171
+    second: diamond_crown_90
   - first:
-      213: 3653208969029831014
-    second: steel_helmet_91
+      213: -4259940460144793300
+    second: diamond_crown_91
   - first:
-      213: 8777758608245864649
-    second: steel_helmet_92
+      213: -1662181697419981803
+    second: diamond_crown_92
   - first:
-      213: -8863699348197801595
-    second: steel_helmet_93
+      213: -2914035710983045997
+    second: diamond_crown_93
   - first:
-      213: -1528422834583850921
-    second: steel_helmet_94
+      213: 1970251483264744031
+    second: diamond_crown_94
   - first:
-      213: 6280033951698896790
-    second: steel_helmet_95
+      213: -5182596351510851106
+    second: diamond_crown_95
   - first:
-      213: -4751858050826911993
-    second: steel_helmet_96
+      213: -8298937647204371767
+    second: diamond_crown_96
   - first:
-      213: -3141439542981642364
-    second: steel_helmet_97
+      213: -4553042852674792704
+    second: diamond_crown_97
   - first:
-      213: -6121911227465134723
-    second: steel_helmet_98
+      213: -2617733401105057281
+    second: diamond_crown_98
   - first:
-      213: -7998694753117018577
-    second: steel_helmet_99
+      213: -4905456084687342750
+    second: diamond_crown_99
   - first:
-      213: -7351198424840555652
-    second: steel_helmet_100
+      213: -6834351953155671401
+    second: diamond_crown_100
   - first:
-      213: 7612810089966860576
-    second: steel_helmet_101
+      213: -1621635776767182715
+    second: diamond_crown_101
   - first:
-      213: 1876455311465488501
-    second: steel_helmet_102
+      213: 4628166040307902324
+    second: diamond_crown_102
   - first:
-      213: -8552234656509997781
-    second: steel_helmet_103
+      213: 7670905448591314765
+    second: diamond_crown_103
   - first:
-      213: 372493284527290364
-    second: steel_helmet_104
+      213: 2004689310308702040
+    second: diamond_crown_104
   - first:
-      213: -1785514995071107864
-    second: steel_helmet_105
+      213: -1700379589331404279
+    second: diamond_crown_105
   - first:
-      213: -5547875155533440087
-    second: steel_helmet_106
+      213: -2753411520834741766
+    second: diamond_crown_106
   - first:
-      213: 6302302562564093891
-    second: steel_helmet_107
+      213: 9117440914368113833
+    second: diamond_crown_107
   - first:
-      213: -6437388689642309485
-    second: steel_helmet_108
+      213: 5438947739447469941
+    second: diamond_crown_108
   - first:
-      213: -3742859842601144340
-    second: steel_helmet_109
+      213: -3521517328823404574
+    second: diamond_crown_109
   - first:
-      213: -2188892216917094203
-    second: steel_helmet_110
+      213: 4465044737326884198
+    second: diamond_crown_110
   - first:
-      213: 8960342473285734135
-    second: steel_helmet_111
+      213: -8359597962930699045
+    second: diamond_crown_111
   - first:
-      213: -5135927531716469155
-    second: steel_helmet_112
+      213: 2371955316188206592
+    second: diamond_crown_112
   - first:
-      213: -3795696677588511176
-    second: steel_helmet_113
+      213: 7317310749245437072
+    second: diamond_crown_113
   - first:
-      213: -7269287026526555599
-    second: steel_helmet_114
+      213: -510171994430797462
+    second: diamond_crown_114
   - first:
-      213: -200280996575369581
-    second: steel_helmet_115
+      213: -5561273499248214419
+    second: diamond_crown_115
   - first:
-      213: 13329640905894783
-    second: steel_helmet_116
+      213: -9113387152632242778
+    second: diamond_crown_116
   - first:
-      213: -7343726047885292783
-    second: steel_helmet_117
+      213: 482008477161470336
+    second: diamond_crown_117
   - first:
-      213: -2407927321422852646
-    second: steel_helmet_118
+      213: 6440268031852970438
+    second: diamond_crown_118
   - first:
-      213: 2179341348579415231
-    second: steel_helmet_119
+      213: -1761300741570315551
+    second: diamond_crown_119
   - first:
-      213: 3108581125857502269
-    second: steel_helmet_120
+      213: 1789690140502839918
+    second: diamond_crown_120
   - first:
-      213: 8783564235806967381
-    second: steel_helmet_121
+      213: -6256562638477713082
+    second: diamond_crown_121
   - first:
-      213: -454198823789125173
-    second: steel_helmet_122
+      213: 2687106081826612082
+    second: diamond_crown_122
   - first:
-      213: 397881566263101192
-    second: steel_helmet_123
+      213: -5057784599718423708
+    second: diamond_crown_123
   - first:
-      213: 874327018104137350
-    second: steel_helmet_124
+      213: 5712513238699587523
+    second: diamond_crown_124
   - first:
-      213: -6713696751126964014
-    second: steel_helmet_125
+      213: -6399719730438252468
+    second: diamond_crown_125
   - first:
-      213: -2321739273729232134
-    second: steel_helmet_126
+      213: -9067795788621493797
+    second: diamond_crown_126
   - first:
-      213: -6158422974067419945
-    second: steel_helmet_127
+      213: -8810584881049629450
+    second: diamond_crown_127
   - first:
-      213: -2885177728186784369
-    second: steel_helmet_128
+      213: -3682970518729801766
+    second: diamond_crown_128
   - first:
-      213: 7676975855596175510
-    second: steel_helmet_129
+      213: -6259533662195084030
+    second: diamond_crown_129
   - first:
-      213: 9018328958594954851
-    second: steel_helmet_130
+      213: -3332750017506526658
+    second: diamond_crown_130
   - first:
-      213: 32627421838500222
-    second: steel_helmet_131
+      213: -5129504629074466841
+    second: diamond_crown_131
   - first:
-      213: -7055271449064097300
-    second: steel_helmet_132
+      213: -7378425744207983678
+    second: diamond_crown_132
   - first:
-      213: -8137454989894214761
-    second: steel_helmet_133
+      213: 4579693295429319385
+    second: diamond_crown_133
   - first:
-      213: 7814079881433781314
-    second: steel_helmet_134
+      213: 2137366640356015473
+    second: diamond_crown_134
   - first:
-      213: -830653047195545880
-    second: steel_helmet_135
+      213: 4607302548702374393
+    second: diamond_crown_135
   - first:
-      213: 3571089155422953958
-    second: steel_helmet_136
+      213: -8619690606608790384
+    second: diamond_crown_136
   - first:
-      213: 8608458343499641676
-    second: steel_helmet_137
+      213: 176663634711204970
+    second: diamond_crown_137
   - first:
-      213: -4521896136606157206
-    second: steel_helmet_138
+      213: 6552295507115735184
+    second: diamond_crown_138
   - first:
-      213: -7379808085785645685
-    second: steel_helmet_139
+      213: -2423758276409191316
+    second: diamond_crown_139
   - first:
-      213: 6001633866373590326
-    second: steel_helmet_140
+      213: 4850886750101095539
+    second: diamond_crown_140
   - first:
-      213: 6783345607673735882
-    second: steel_helmet_141
+      213: 8120210406230939893
+    second: diamond_crown_141
   - first:
-      213: 8008768553774835756
-    second: steel_helmet_142
+      213: -5382565929033987076
+    second: diamond_crown_142
   - first:
-      213: 6434063186551292103
-    second: steel_helmet_143
+      213: -6110919254561093727
+    second: diamond_crown_143
   - first:
-      213: 2159209666717278891
-    second: steel_helmet_144
+      213: -109602417728511076
+    second: diamond_crown_144
   - first:
-      213: 9168518805462876353
-    second: steel_helmet_145
+      213: -5741701129177423088
+    second: diamond_crown_145
   - first:
-      213: -4869995486645530157
-    second: steel_helmet_146
+      213: 6597493232578863774
+    second: diamond_crown_146
   - first:
-      213: 4753510776598584501
-    second: steel_helmet_147
+      213: 6062310999735551767
+    second: diamond_crown_147
   - first:
-      213: -2947695224119492942
-    second: steel_helmet_148
+      213: 3116054494083066475
+    second: diamond_crown_148
   - first:
-      213: -3728641990419382530
-    second: steel_helmet_149
+      213: 3519101828328300411
+    second: diamond_crown_149
   - first:
-      213: -6777264154862774659
-    second: steel_helmet_150
+      213: -486441831802613717
+    second: diamond_crown_150
   - first:
-      213: 6933023376168431261
-    second: steel_helmet_151
+      213: -5152904925581167181
+    second: diamond_crown_151
   - first:
-      213: 4733317475165143952
-    second: steel_helmet_152
+      213: -6835664417399715354
+    second: diamond_crown_152
   - first:
-      213: -3710771358779720537
-    second: steel_helmet_153
+      213: 2977413683153379020
+    second: diamond_crown_153
   - first:
-      213: 330302259733548480
-    second: steel_helmet_154
+      213: 5256446886215273492
+    second: diamond_crown_154
   - first:
-      213: -6939508502263261391
-    second: steel_helmet_155
+      213: -4180399043494084865
+    second: diamond_crown_155
   - first:
-      213: 5002702932149469365
-    second: steel_helmet_156
+      213: 5076492131925134353
+    second: diamond_crown_156
   - first:
-      213: -7097283890999498678
-    second: steel_helmet_157
+      213: 7191289631501325359
+    second: diamond_crown_157
   - first:
-      213: 1514198295637716849
-    second: steel_helmet_158
+      213: -8419030527633984501
+    second: diamond_crown_158
   - first:
-      213: 4851667282939454625
-    second: steel_helmet_159
+      213: 8221791508999070541
+    second: diamond_crown_159
   - first:
-      213: 6321625766912571876
-    second: steel_helmet_160
+      213: -1190594529471780999
+    second: diamond_crown_160
   - first:
-      213: 913465685239183940
-    second: steel_helmet_161
+      213: -1087157969948576724
+    second: diamond_crown_161
   - first:
-      213: 1767121295051413413
-    second: steel_helmet_162
+      213: -485695175358973801
+    second: diamond_crown_162
   - first:
-      213: -160991686874220841
-    second: steel_helmet_163
+      213: -3367060611468883905
+    second: diamond_crown_163
   - first:
-      213: -2698789183063486101
-    second: steel_helmet_164
+      213: -2942657735210276488
+    second: diamond_crown_164
   - first:
-      213: -2789530076184092515
-    second: steel_helmet_165
+      213: -814529081386255909
+    second: diamond_crown_165
   - first:
-      213: 612811634397536670
-    second: steel_helmet_166
+      213: 2896481701933258976
+    second: diamond_crown_166
   - first:
-      213: -7041434853999231050
-    second: steel_helmet_167
+      213: -4610684342116895781
+    second: diamond_crown_167
   - first:
-      213: 5545952958443293239
-    second: steel_helmet_168
+      213: 6938422911442522820
+    second: diamond_crown_168
   - first:
-      213: 2288095627074563934
-    second: steel_helmet_169
+      213: 1410580059562980519
+    second: diamond_crown_169
   - first:
-      213: 361337283283145269
-    second: steel_helmet_170
+      213: -9000339792351502182
+    second: diamond_crown_170
   - first:
-      213: -7107911798999722941
-    second: steel_helmet_171
+      213: 8662199918267080026
+    second: diamond_crown_171
   - first:
-      213: -7022891012795779029
-    second: steel_helmet_172
+      213: -2430881126722018386
+    second: diamond_crown_172
   - first:
-      213: 5061407138939349685
-    second: steel_helmet_173
+      213: -6484511004385103576
+    second: diamond_crown_173
   - first:
-      213: 5339238824444509861
-    second: steel_helmet_174
+      213: 4713361450276130372
+    second: diamond_crown_174
   - first:
-      213: -8559243311990771042
-    second: steel_helmet_175
+      213: -4943835766122015949
+    second: diamond_crown_175
   - first:
-      213: -4096098757073665786
-    second: steel_helmet_176
+      213: 8045268663120103085
+    second: diamond_crown_176
   - first:
-      213: -831099577367464737
-    second: steel_helmet_177
+      213: -1698834049179678764
+    second: diamond_crown_177
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -696,7 +696,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: steel_helmet_0
+      name: diamond_crown_0
       rect:
         serializedVersion: 2
         x: 0
@@ -710,14 +710,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f93415bce576a550800000000000000
-      internalID: 6171749998868576760
+      spriteID: f21ebed7f67f008c0800000000000000
+      internalID: -4034953207897923281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_1
+      name: diamond_crown_1
       rect:
         serializedVersion: 2
         x: 64
@@ -731,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86d98fb177d7b2000800000000000000
-      internalID: 12241374522416488
+      spriteID: 64b2a62daf73de370800000000000000
+      internalID: 8353394434253663046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_2
+      name: diamond_crown_2
       rect:
         serializedVersion: 2
         x: 128
@@ -752,14 +752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aa86cce16fa5f060800000000000000
-      internalID: 6986683232054315680
+      spriteID: 58905994ca7538f10800000000000000
+      internalID: 2270755034605357445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_3
+      name: diamond_crown_3
       rect:
         serializedVersion: 2
         x: 192
@@ -773,14 +773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33d79573ff15de180800000000000000
-      internalID: -9084514716749300429
+      spriteID: 82379b90f27503040800000000000000
+      internalID: 4625292676847727400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_4
+      name: diamond_crown_4
       rect:
         serializedVersion: 2
         x: 256
@@ -794,14 +794,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6facd81ee9d8dbd0800000000000000
-      internalID: -2605092767791272085
+      spriteID: 74d925610ce8d8480800000000000000
+      internalID: -8895296733327483577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_5
+      name: diamond_crown_5
       rect:
         serializedVersion: 2
         x: 320
@@ -815,14 +815,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfb5f1b5cfbd8cdc0800000000000000
-      internalID: -3618400423685170181
+      spriteID: 1d79935c9927cf210800000000000000
+      internalID: 1368094391578236881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_6
+      name: diamond_crown_6
       rect:
         serializedVersion: 2
         x: 384
@@ -836,14 +836,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 396e5b34fd2944480800000000000000
-      internalID: -8915839874675382637
+      spriteID: 02456425cc5fed8f0800000000000000
+      internalID: -513703049571183584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_7
+      name: diamond_crown_7
       rect:
         serializedVersion: 2
         x: 448
@@ -857,14 +857,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f39cec11de34185d0800000000000000
-      internalID: -3062091586150151873
+      spriteID: 57e1f7402138f6800800000000000000
+      internalID: 607848588126396021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_8
+      name: diamond_crown_8
       rect:
         serializedVersion: 2
         x: 0
@@ -878,14 +878,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b1a823da6a84ade0800000000000000
-      internalID: -1322780199126261323
+      spriteID: 8235f896477b79ac0800000000000000
+      internalID: -3848405645949709528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_9
+      name: diamond_crown_9
       rect:
         serializedVersion: 2
         x: 64
@@ -899,14 +899,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ce0da5fa74c14340800000000000000
-      internalID: 4846370706414177993
+      spriteID: 91cd02fd3b4f48240800000000000000
+      internalID: 4793224956808846361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_10
+      name: diamond_crown_10
       rect:
         serializedVersion: 2
         x: 128
@@ -920,14 +920,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef1f055b89e1cd7f0800000000000000
-      internalID: -586560210239163906
+      spriteID: f88bc96e70da60410800000000000000
+      internalID: 1443030980064229519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_11
+      name: diamond_crown_11
       rect:
         serializedVersion: 2
         x: 192
@@ -941,14 +941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ea02395cccf94e0800000000000000
-      internalID: -1972632962815971818
+      spriteID: 30a587c8ca347d4c0800000000000000
+      internalID: -4262864113912751613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_12
+      name: diamond_crown_12
       rect:
         serializedVersion: 2
         x: 256
@@ -962,14 +962,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb9a8161686c738e0800000000000000
-      internalID: -1713682853992552001
+      spriteID: bd8664009e0e250b0800000000000000
+      internalID: -5741279283607344933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_13
+      name: diamond_crown_13
       rect:
         serializedVersion: 2
         x: 320
@@ -983,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66b74ef7b69fabf20800000000000000
-      internalID: 3439335505553292134
+      spriteID: 5ed715eff870d5740800000000000000
+      internalID: 5142274664555445733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_14
+      name: diamond_crown_14
       rect:
         serializedVersion: 2
         x: 384
@@ -1004,14 +1004,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d2f7af97b2922820800000000000000
-      internalID: 2892035228080534227
+      spriteID: 5b6ce6d5a314f7220800000000000000
+      internalID: 2485777238263252661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_15
+      name: diamond_crown_15
       rect:
         serializedVersion: 2
         x: 0
@@ -1025,14 +1025,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ed948d6ded9cfd20800000000000000
-      internalID: 3313697068908060132
+      spriteID: f8ae4fa4155938cc0800000000000000
+      internalID: -3709957491640702321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_16
+      name: diamond_crown_16
       rect:
         serializedVersion: 2
         x: 64
@@ -1046,14 +1046,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38eb48745ecacb2b0800000000000000
-      internalID: -5567384938589405565
+      spriteID: be73da747beabedf0800000000000000
+      internalID: -149834060381997077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_17
+      name: diamond_crown_17
       rect:
         serializedVersion: 2
         x: 128
@@ -1067,14 +1067,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc30278861f771860800000000000000
-      internalID: 7500603439164031947
+      spriteID: 3180dc8c99fac0f90800000000000000
+      internalID: -6986015846924744685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_18
+      name: diamond_crown_18
       rect:
         serializedVersion: 2
         x: 192
@@ -1088,14 +1088,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 229c36b8bb53d6dc0800000000000000
-      internalID: -3644197443859134174
+      spriteID: b383a7e32fdf33760800000000000000
+      internalID: 7436566626590931003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_19
+      name: diamond_crown_19
       rect:
         serializedVersion: 2
         x: 256
@@ -1109,14 +1109,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7484c2a8d2fdfd30800000000000000
-      internalID: 4466993417679045759
+      spriteID: 375b8832628624880800000000000000
+      internalID: -8628219423074241165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_20
+      name: diamond_crown_20
       rect:
         serializedVersion: 2
         x: 320
@@ -1130,14 +1130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6350ceefc516e2810800000000000000
-      internalID: 1742437157880726838
+      spriteID: 260d7957ba90f7890800000000000000
+      internalID: -7458231825885310878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_21
+      name: diamond_crown_21
       rect:
         serializedVersion: 2
         x: 384
@@ -1151,14 +1151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27f13ac109cc77c40800000000000000
-      internalID: 5510097588438900594
+      spriteID: f221db842e59ae560800000000000000
+      internalID: 7343846941496513071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_22
+      name: diamond_crown_22
       rect:
         serializedVersion: 2
         x: 0
@@ -1172,14 +1172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29be886349347a2d0800000000000000
-      internalID: -3267568700784841838
+      spriteID: cbda069b14f597620800000000000000
+      internalID: 2772351781510884796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_23
+      name: diamond_crown_23
       rect:
         serializedVersion: 2
         x: 64
@@ -1193,14 +1193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c02e7f94cbb77b210800000000000000
-      internalID: 1348682662045803020
+      spriteID: 7d009eb77a2e7e970800000000000000
+      internalID: 8784238807175725271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_24
+      name: diamond_crown_24
       rect:
         serializedVersion: 2
         x: 128
@@ -1214,14 +1214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dbab0ffca3c3e170800000000000000
-      internalID: 8206618093779921881
+      spriteID: f5003ccae7f5b0d40800000000000000
+      internalID: 5551635963333247071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_25
+      name: diamond_crown_25
       rect:
         serializedVersion: 2
         x: 192
@@ -1235,14 +1235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa8af557379237010800000000000000
-      internalID: 1185336702795753642
+      spriteID: ab0ef4c64c79b44f0800000000000000
+      internalID: -843413635315277638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_26
+      name: diamond_crown_26
       rect:
         serializedVersion: 2
         x: 256
@@ -1256,14 +1256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f613d5dccc8695b70800000000000000
-      internalID: 8888250568420438383
+      spriteID: 5bac1a051f40f1450800000000000000
+      internalID: 6061569057950386869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_27
+      name: diamond_crown_27
       rect:
         serializedVersion: 2
         x: 320
@@ -1277,14 +1277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dd963bb911982d40800000000000000
-      internalID: 5559853279690005970
+      spriteID: 720413fdfe16f7100800000000000000
+      internalID: 107912598949806119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_28
+      name: diamond_crown_28
       rect:
         serializedVersion: 2
         x: 384
@@ -1298,14 +1298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00fadb80ea99ee940800000000000000
-      internalID: 5327364381975883520
+      spriteID: 38a10fd9af4751250800000000000000
+      internalID: 5914762305361418883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_29
+      name: diamond_crown_29
       rect:
         serializedVersion: 2
         x: 0
@@ -1319,14 +1319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88d9fe8158cb36a30800000000000000
-      internalID: 4207413756729204104
+      spriteID: 490eec073ce58edd0800000000000000
+      internalID: -2456609403226365804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_30
+      name: diamond_crown_30
       rect:
         serializedVersion: 2
         x: 64
@@ -1340,14 +1340,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e545e6e2343cb92c0800000000000000
-      internalID: -4423727515652172706
+      spriteID: 953c4de0341dc4500800000000000000
+      internalID: 381910154361488217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_31
+      name: diamond_crown_31
       rect:
         serializedVersion: 2
         x: 128
@@ -1361,14 +1361,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b812b05e4c93513c0800000000000000
-      internalID: -4389538743983595125
+      spriteID: ffc42c76ad347a840800000000000000
+      internalID: 5235227697164209407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_32
+      name: diamond_crown_32
       rect:
         serializedVersion: 2
         x: 192
@@ -1382,14 +1382,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f340a05aa81efd0800000000000000
-      internalID: -2314416292049436817
+      spriteID: b629ba5c08da0f6f0800000000000000
+      internalID: -652831177384947093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_33
+      name: diamond_crown_33
       rect:
         serializedVersion: 2
         x: 256
@@ -1403,14 +1403,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7116b79363b237ca0800000000000000
-      internalID: -6020420764971605737
+      spriteID: 2fd0d6cf91921e640800000000000000
+      internalID: 5107408644000779762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_34
+      name: diamond_crown_34
       rect:
         serializedVersion: 2
         x: 320
@@ -1424,14 +1424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48064b57ab3662f40800000000000000
-      internalID: 5703355630601134212
+      spriteID: 4c33d3217b81722b0800000000000000
+      internalID: -5609487636302580796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_35
+      name: diamond_crown_35
       rect:
         serializedVersion: 2
         x: 384
@@ -1445,14 +1445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062b803b95a83f5d0800000000000000
-      internalID: -3029926006429797792
+      spriteID: a422c127ab77b9f60800000000000000
+      internalID: 8042153202262221386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_36
+      name: diamond_crown_36
       rect:
         serializedVersion: 2
         x: 448
@@ -1466,14 +1466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4aa34bfb534ff0800000000000000
-      internalID: -53097635868160739
+      spriteID: 7093d960bc0c95730800000000000000
+      internalID: 3988430923235145991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_37
+      name: diamond_crown_37
       rect:
         serializedVersion: 2
         x: 0
@@ -1487,14 +1487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 203f0c30d1c38a6f0800000000000000
-      internalID: -673222048977194238
+      spriteID: e010f3f4eaf7210c0800000000000000
+      internalID: -4606479082216029938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_38
+      name: diamond_crown_38
       rect:
         serializedVersion: 2
         x: 64
@@ -1508,14 +1508,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d801e09724dd7f790800000000000000
-      internalID: -7496279777166356339
+      spriteID: ff3a63a9f7410b6c0800000000000000
+      internalID: -4129778320018070529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_39
+      name: diamond_crown_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1529,14 +1529,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9146a86464d2016d0800000000000000
-      internalID: -3021865570111167463
+      spriteID: eafa43733b54bede0800000000000000
+      internalID: -1302871031165964370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_40
+      name: diamond_crown_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1550,14 +1550,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00e5bc4c7ad70cd70800000000000000
-      internalID: 9061380609784110592
+      spriteID: b50ab1cb1c787a630800000000000000
+      internalID: 3938265665313153115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_41
+      name: diamond_crown_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1571,14 +1571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cdf49c19af92d0800000000000000
-      internalID: -3269708864223853646
+      spriteID: a1d401dbb97c22d90800000000000000
+      internalID: -7123912188840882918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_42
+      name: diamond_crown_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1592,14 +1592,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89af1f5e7e0837ce0800000000000000
-      internalID: -1408640524953191784
+      spriteID: 4ff69ee40d7869d20800000000000000
+      internalID: 3284962306960224244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_43
+      name: diamond_crown_43
       rect:
         serializedVersion: 2
         x: 384
@@ -1613,14 +1613,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49f9e862d4450f670800000000000000
-      internalID: 8570442781222150036
+      spriteID: 3da5a18d849468430800000000000000
+      internalID: 3784793114063559379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_44
+      name: diamond_crown_44
       rect:
         serializedVersion: 2
         x: 448
@@ -1634,14 +1634,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb5334aec1a6faad0800000000000000
-      internalID: -2688813780094995009
+      spriteID: 69fecc9ae451b9930800000000000000
+      internalID: 4150934909152456598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_45
+      name: diamond_crown_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1655,14 +1655,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb4b60b8d9c9bf770800000000000000
-      internalID: 8645676110124070078
+      spriteID: 090f51929b13f7bf0800000000000000
+      internalID: -324485976819371888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_46
+      name: diamond_crown_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1676,14 +1676,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdbe06582f1509fd0800000000000000
-      internalID: -2337278104543630372
+      spriteID: 6a1cbbb01c39516b0800000000000000
+      internalID: -5326188526960918106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_47
+      name: diamond_crown_47
       rect:
         serializedVersion: 2
         x: 128
@@ -1697,14 +1697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4df657d30e2e48f0800000000000000
-      internalID: -554455110087410358
+      spriteID: b0f32ba8e11165720800000000000000
+      internalID: 2834471838349934347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_48
+      name: diamond_crown_48
       rect:
         serializedVersion: 2
         x: 192
@@ -1718,14 +1718,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 565cbb0613bbe2d10800000000000000
-      internalID: 2102823896779310437
+      spriteID: b790e62cff2336a50800000000000000
+      internalID: 6513105560167909755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_49
+      name: diamond_crown_49
       rect:
         serializedVersion: 2
         x: 256
@@ -1739,14 +1739,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0fddbd93c951d340800000000000000
-      internalID: 4886785767373659916
+      spriteID: 1d47fd2eba0718070800000000000000
+      internalID: 8106884687791617233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_50
+      name: diamond_crown_50
       rect:
         serializedVersion: 2
         x: 320
@@ -1760,14 +1760,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5b8df86081728220800000000000000
-      internalID: 2486674740593134430
+      spriteID: c51b1d3fa69ecfda0800000000000000
+      internalID: -5909591965450522276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_51
+      name: diamond_crown_51
       rect:
         serializedVersion: 2
         x: 384
@@ -1781,14 +1781,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ffab62630ec97e30800000000000000
-      internalID: 4501855816464969713
+      spriteID: c39e7431a33db0530800000000000000
+      internalID: 3822380955139041596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_52
+      name: diamond_crown_52
       rect:
         serializedVersion: 2
         x: 448
@@ -1802,14 +1802,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 970c060ca7043e110800000000000000
-      internalID: 1288944814315847801
+      spriteID: 7f19ac5333187c2d0800000000000000
+      internalID: -3258493748433481225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_53
+      name: diamond_crown_53
       rect:
         serializedVersion: 2
         x: 0
@@ -1823,14 +1823,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908dde78ba226050800000000000000
-      internalID: 5792239042642673814
+      spriteID: c039bcd2e1e562780800000000000000
+      internalID: -8708169345763929332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_54
+      name: diamond_crown_54
       rect:
         serializedVersion: 2
         x: 64
@@ -1844,14 +1844,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 852b8942b24815080800000000000000
-      internalID: -9200427242908765608
+      spriteID: fca81d60ebf650e90800000000000000
+      internalID: -7060113978884519217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_55
+      name: diamond_crown_55
       rect:
         serializedVersion: 2
         x: 128
@@ -1865,14 +1865,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38ba0689cf96ab90800000000000000
-      internalID: -7230916463810660293
+      spriteID: 306cca7536ed51fe0800000000000000
+      internalID: -1218823605879781885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_56
+      name: diamond_crown_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1886,14 +1886,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95bf5c3027eb7aba0800000000000000
-      internalID: -6077679775214339239
+      spriteID: 40661f3dcee9d37e0800000000000000
+      internalID: -1784095137363565052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_57
+      name: diamond_crown_57
       rect:
         serializedVersion: 2
         x: 256
@@ -1907,14 +1907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f5ac1fd5220c04e0800000000000000
-      internalID: -2014232571661212167
+      spriteID: 386c6c977e7181470800000000000000
+      internalID: 8365462590788650627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_58
+      name: diamond_crown_58
       rect:
         serializedVersion: 2
         x: 320
@@ -1928,14 +1928,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ba5c194144f58c0800000000000000
-      internalID: -4008410288200766598
+      spriteID: 3dd01e6181be60d60800000000000000
+      internalID: 7856225088689999315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_59
+      name: diamond_crown_59
       rect:
         serializedVersion: 2
         x: 384
@@ -1949,14 +1949,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600af5af5d1932700800000000000000
-      internalID: 514415130665000966
+      spriteID: 4c9fa8f5ffaf699d0800000000000000
+      internalID: -2767748946246043196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_60
+      name: diamond_crown_60
       rect:
         serializedVersion: 2
         x: 448
@@ -1970,14 +1970,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 718b23b93817df470800000000000000
-      internalID: 8430018887565883415
+      spriteID: cef1d02136d52e680800000000000000
+      internalID: -8727310447804604436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_61
+      name: diamond_crown_61
       rect:
         serializedVersion: 2
         x: 0
@@ -1991,14 +1991,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b62863de74922e20800000000000000
-      internalID: 3324382747386455729
+      spriteID: a7d005103e333adc0800000000000000
+      internalID: -3628999824657871494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_62
+      name: diamond_crown_62
       rect:
         serializedVersion: 2
         x: 64
@@ -2012,14 +2012,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aefaa220c1416010800000000000000
-      internalID: 1180296870818938530
+      spriteID: 11666b7bd71f44420800000000000000
+      internalID: 2613479206037120529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_63
+      name: diamond_crown_63
       rect:
         serializedVersion: 2
         x: 128
@@ -2033,14 +2033,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e8d9ead9b7e098d0800000000000000
-      internalID: -2841516579443058458
+      spriteID: 73b472441144f50b0800000000000000
+      internalID: -5737792559298163913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_64
+      name: diamond_crown_64
       rect:
         serializedVersion: 2
         x: 192
@@ -2054,14 +2054,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dc0bd47baef151e0800000000000000
-      internalID: -2210705929708827437
+      spriteID: b6d7e9784d6bd4b80800000000000000
+      internalID: -8408863905306215061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_65
+      name: diamond_crown_65
       rect:
         serializedVersion: 2
         x: 256
@@ -2075,14 +2075,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 741a9ebff0252fc10800000000000000
-      internalID: 2085819806030340423
+      spriteID: 7232533e7f5b3fed0800000000000000
+      internalID: -2381359701675400409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_66
+      name: diamond_crown_66
       rect:
         serializedVersion: 2
         x: 320
@@ -2096,14 +2096,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eee0edad383777890800000000000000
-      internalID: -7460367247566041362
+      spriteID: e86e5c2159b27b270800000000000000
+      internalID: 8266123560326915726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_67
+      name: diamond_crown_67
       rect:
         serializedVersion: 2
         x: 384
@@ -2117,14 +2117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1424c8466710a0a80800000000000000
-      internalID: -8499979738703707583
+      spriteID: 355afecdaaa406d40800000000000000
+      internalID: 5575538436396262739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_68
+      name: diamond_crown_68
       rect:
         serializedVersion: 2
         x: 448
@@ -2138,14 +2138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeae0df0f32762580800000000000000
-      internalID: -8852262402376275218
+      spriteID: 0fc13bb7225abb2f0800000000000000
+      internalID: -955988928363291408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_69
+      name: diamond_crown_69
       rect:
         serializedVersion: 2
         x: 512
@@ -2159,14 +2159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 819f7258a9e52ae70800000000000000
-      internalID: 9124959812758010136
+      spriteID: 78e46f75535d10290800000000000000
+      internalID: -7925819444109619577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_70
+      name: diamond_crown_70
       rect:
         serializedVersion: 2
         x: 0
@@ -2180,14 +2180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b445ef348c128cf0800000000000000
-      internalID: -251607274846075724
+      spriteID: 190d7ec4e9ddf7200800000000000000
+      internalID: 180106182082941073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_71
+      name: diamond_crown_71
       rect:
         serializedVersion: 2
         x: 64
@@ -2201,14 +2201,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5baa1b0717599d1d0800000000000000
-      internalID: -3325462535381865803
+      spriteID: a3c34f9a479b838c0800000000000000
+      internalID: -4019258756709467078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_72
+      name: diamond_crown_72
       rect:
         serializedVersion: 2
         x: 128
@@ -2222,14 +2222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de8c20aa9582a8470800000000000000
-      internalID: 8397568820755220717
+      spriteID: 531089215a7dc8fd0800000000000000
+      internalID: -2338257002530602699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_73
+      name: diamond_crown_73
       rect:
         serializedVersion: 2
         x: 192
@@ -2243,14 +2243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71946186604074140800000000000000
-      internalID: 4703732761374378263
+      spriteID: dedbaebc3b21cf7f0800000000000000
+      internalID: -577566088780661267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_74
+      name: diamond_crown_74
       rect:
         serializedVersion: 2
         x: 256
@@ -2264,14 +2264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd1edb28ffc8d77c0800000000000000
-      internalID: -4071943459035029028
+      spriteID: a49a2dd86ef8021f0800000000000000
+      internalID: -1071698490929534646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_75
+      name: diamond_crown_75
       rect:
         serializedVersion: 2
         x: 320
@@ -2285,14 +2285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a48ed92146ad2b60800000000000000
-      internalID: 7723011734815802537
+      spriteID: 0c009c0da8bd773e0800000000000000
+      internalID: -2055933315616538432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_76
+      name: diamond_crown_76
       rect:
         serializedVersion: 2
         x: 384
@@ -2306,14 +2306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 469c85ad542426860800000000000000
-      internalID: 7521647195445578084
+      spriteID: 901fba4e2fab789b0800000000000000
+      internalID: -5077884502455619319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_77
+      name: diamond_crown_77
       rect:
         serializedVersion: 2
         x: 448
@@ -2327,14 +2327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45230c5c827b3c60800000000000000
-      internalID: 7798953126886843722
+      spriteID: 1cf6bedac285c16f0800000000000000
+      internalID: -712597692111687743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_78
+      name: diamond_crown_78
       rect:
         serializedVersion: 2
         x: 512
@@ -2348,14 +2348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7efb53f2509057070800000000000000
-      internalID: 8103393022394613735
+      spriteID: fb0a93427b80c3d80800000000000000
+      internalID: -8269725233079279425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_79
+      name: diamond_crown_79
       rect:
         serializedVersion: 2
         x: 0
@@ -2369,14 +2369,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8379c6e80b184ed00800000000000000
-      internalID: 1001067612486801208
+      spriteID: c33e51060ea358bd0800000000000000
+      internalID: -2628630072141683908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_80
+      name: diamond_crown_80
       rect:
         serializedVersion: 2
         x: 64
@@ -2390,14 +2390,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffffaa0b297fd3bf0800000000000000
-      internalID: -342845787209007105
+      spriteID: 7da3ac2af7b207070800000000000000
+      internalID: 8102023556831525591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_81
+      name: diamond_crown_81
       rect:
         serializedVersion: 2
         x: 128
@@ -2411,14 +2411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae0f289fa27bcc660800000000000000
-      internalID: 7407496882320240874
+      spriteID: 8962d92c3a42521e0800000000000000
+      internalID: -2223330555274123624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_82
+      name: diamond_crown_82
       rect:
         serializedVersion: 2
         x: 192
@@ -2432,14 +2432,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b49843ce8a8045010800000000000000
-      internalID: 1176574924260936011
+      spriteID: 31380057ae5b517b0800000000000000
+      internalID: -5254093371667873005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_83
+      name: diamond_crown_83
       rect:
         serializedVersion: 2
         x: 256
@@ -2453,14 +2453,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 719b3be9c6b79d680800000000000000
-      internalID: -8729810696231732969
+      spriteID: 638a6232f77c9d980800000000000000
+      internalID: -8513554271702702026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_84
+      name: diamond_crown_84
       rect:
         serializedVersion: 2
         x: 320
@@ -2474,14 +2474,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b8974610782dfeb0800000000000000
-      internalID: -4684543575520208719
+      spriteID: 863c42f80e43aa260800000000000000
+      internalID: 7109553100836619112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_85
+      name: diamond_crown_85
       rect:
         serializedVersion: 2
         x: 384
@@ -2495,14 +2495,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76167f4a2ecd2e2b0800000000000000
-      internalID: -5556636124233375385
+      spriteID: 7f0255971cc210040800000000000000
+      internalID: 4612016702880030967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_86
+      name: diamond_crown_86
       rect:
         serializedVersion: 2
         x: 448
@@ -2516,14 +2516,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6925a61b8b9c75a30800000000000000
-      internalID: 4204050572261347990
+      spriteID: 691a8578b2a376cb0800000000000000
+      internalID: -4870860513349164650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_87
+      name: diamond_crown_87
       rect:
         serializedVersion: 2
         x: 512
@@ -2537,14 +2537,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc71ba53d30cdde00800000000000000
-      internalID: 1071223655509989327
+      spriteID: 3b500312514433f30800000000000000
+      internalID: 4554058505743500723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_88
+      name: diamond_crown_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2558,14 +2558,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fdf501aff86c42f0800000000000000
-      internalID: -987298771173507599
+      spriteID: 4768b5074fd9048d0800000000000000
+      internalID: -2864115689825008012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_89
+      name: diamond_crown_89
       rect:
         serializedVersion: 2
         x: 64
@@ -2579,14 +2579,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39604f8c5de50f2f0800000000000000
-      internalID: -941148049827953005
+      spriteID: 7c0810028b8f8c0e0800000000000000
+      internalID: -2249274544176922425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_90
+      name: diamond_crown_90
       rect:
         serializedVersion: 2
         x: 128
@@ -2600,14 +2600,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b36bc14dee717ff0800000000000000
-      internalID: -40111364193426509
+      spriteID: 5e48eb8e5e0161eb0800000000000000
+      internalID: -4749590177377254171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_91
+      name: diamond_crown_91
       rect:
         serializedVersion: 2
         x: 192
@@ -2621,14 +2621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6694b49a33ec2b230800000000000000
-      internalID: 3653208969029831014
+      spriteID: c2961ccb8b6a1e4c0800000000000000
+      internalID: -4259940460144793300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_92
+      name: diamond_crown_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2642,14 +2642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c83f9892fcd0d970800000000000000
-      internalID: 8777758608245864649
+      spriteID: 51c40258d8ebee8e0800000000000000
+      internalID: -1662181697419981803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_93
+      name: diamond_crown_93
       rect:
         serializedVersion: 2
         x: 320
@@ -2663,14 +2663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5810fca9760ddf480800000000000000
-      internalID: -8863699348197801595
+      spriteID: 39c7d08c5f34f87d0800000000000000
+      internalID: -2914035710983045997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_94
+      name: diamond_crown_94
       rect:
         serializedVersion: 2
         x: 384
@@ -2684,14 +2684,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750b806a783f9cae0800000000000000
-      internalID: -1528422834583850921
+      spriteID: f5a7e22094db75b10800000000000000
+      internalID: 1970251483264744031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_95
+      name: diamond_crown_95
       rect:
         serializedVersion: 2
         x: 448
@@ -2705,14 +2705,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 697c7642b99272750800000000000000
-      internalID: 6280033951698896790
+      spriteID: ed1d5fda318b318b0800000000000000
+      internalID: -5182596351510851106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_96
+      name: diamond_crown_96
       rect:
         serializedVersion: 2
         x: 512
@@ -2726,14 +2726,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70fb16977420e0eb0800000000000000
-      internalID: -4751858050826911993
+      spriteID: 9c27445fd2044dc80800000000000000
+      internalID: -8298937647204371767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_97
+      name: diamond_crown_97
       rect:
         serializedVersion: 2
         x: 0
@@ -2747,14 +2747,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487b635316d5764d0800000000000000
-      internalID: -3141439542981642364
+      spriteID: 003103706a750d0c0800000000000000
+      internalID: -4553042852674792704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_98
+      name: diamond_crown_98
       rect:
         serializedVersion: 2
         x: 64
@@ -2768,14 +2768,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7d07748c2a9a0ba0800000000000000
-      internalID: -6121911227465134723
+      spriteID: ff9357e4751fbabd0800000000000000
+      internalID: -2617733401105057281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_99
+      name: diamond_crown_99
       rect:
         serializedVersion: 2
         x: 128
@@ -2789,14 +2789,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f26edad308deef090800000000000000
-      internalID: -7998694753117018577
+      spriteID: 263bee26ea15cebb0800000000000000
+      internalID: -4905456084687342750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_100
+      name: diamond_crown_100
       rect:
         serializedVersion: 2
         x: 192
@@ -2810,14 +2810,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c73b7fd1bfb4bf990800000000000000
-      internalID: -7351198424840555652
+      spriteID: 79ab82acb118721a0800000000000000
+      internalID: -6834351953155671401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_101
+      name: diamond_crown_101
       rect:
         serializedVersion: 2
         x: 256
@@ -2831,14 +2831,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 029fbf2417226a960800000000000000
-      internalID: 7612810089966860576
+      spriteID: 5883ab25adace79e0800000000000000
+      internalID: -1621635776767182715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_102
+      name: diamond_crown_102
       rect:
         serializedVersion: 2
         x: 320
@@ -2852,14 +2852,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 570abc4f9228a0a10800000000000000
-      internalID: 1876455311465488501
+      spriteID: 477241a1e7c8a3040800000000000000
+      internalID: 4628166040307902324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_103
+      name: diamond_crown_103
       rect:
         serializedVersion: 2
         x: 0
@@ -2873,14 +2873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2dcfee34eb505980800000000000000
-      internalID: -8552234656509997781
+      spriteID: d4fc4e00dd7847a60800000000000000
+      internalID: 7670905448591314765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_104
+      name: diamond_crown_104
       rect:
         serializedVersion: 2
         x: 64
@@ -2894,14 +2894,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf7b7713bac5b2500800000000000000
-      internalID: 372493284527290364
+      spriteID: 85719f17e4612db10800000000000000
+      internalID: 2004689310308702040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_105
+      name: diamond_crown_105
       rect:
         serializedVersion: 2
         x: 128
@@ -2915,14 +2915,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ec37a172939837e0800000000000000
-      internalID: -1785514995071107864
+      spriteID: 90ab392c5c90768e0800000000000000
+      internalID: -1700379589331404279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_106
+      name: diamond_crown_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2936,14 +2936,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9abd630a0fcf103b0800000000000000
-      internalID: -5547875155533440087
+      spriteID: af95d2c5fcae9c9d0800000000000000
+      internalID: -2753411520834741766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_107
+      name: diamond_crown_107
       rect:
         serializedVersion: 2
         x: 256
@@ -2957,14 +2957,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7baa42ac6467750800000000000000
-      internalID: 6302302562564093891
+      spriteID: 9ac26819438a78e70800000000000000
+      internalID: 9117440914368113833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_108
+      name: diamond_crown_108
       rect:
         serializedVersion: 2
         x: 320
@@ -2978,14 +2978,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 398b0c0f71dc9a6a0800000000000000
-      internalID: -6437388689642309485
+      spriteID: 5772ea9f6260b7b40800000000000000
+      internalID: 5438947739447469941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_109
+      name: diamond_crown_109
       rect:
         serializedVersion: 2
         x: 0
@@ -2999,14 +2999,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cef2fadbdc0be0cc0800000000000000
-      internalID: -3742859842601144340
+      spriteID: 2e73911b5ae012fc0800000000000000
+      internalID: -3521517328823404574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_110
+      name: diamond_crown_110
       rect:
         serializedVersion: 2
         x: 64
@@ -3020,14 +3020,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c01a0f302e7f91e0800000000000000
-      internalID: -2188892216917094203
+      spriteID: 665a892288607fd30800000000000000
+      internalID: 4465044737326884198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_111
+      name: diamond_crown_111
       rect:
         serializedVersion: 2
         x: 128
@@ -3041,14 +3041,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fe8a0a6108895c70800000000000000
-      internalID: 8960342473285734135
+      spriteID: bd4cf6a91fdbcfb80800000000000000
+      internalID: -8359597962930699045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_112
+      name: diamond_crown_112
       rect:
         serializedVersion: 2
         x: 192
@@ -3062,14 +3062,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5e14e70f1589b8b0800000000000000
-      internalID: -5135927531716469155
+      spriteID: 0065f7cfac0eae020800000000000000
+      internalID: 2371955316188206592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_113
+      name: diamond_crown_113
       rect:
         serializedVersion: 2
         x: 256
@@ -3083,14 +3083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836d4317bf9f25bc0800000000000000
-      internalID: -3795696677588511176
+      spriteID: 094fbef8b5f4c8560800000000000000
+      internalID: 7317310749245437072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_114
+      name: diamond_crown_114
       rect:
         serializedVersion: 2
         x: 320
@@ -3104,14 +3104,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1327785b6fd4e1b90800000000000000
-      internalID: -7269287026526555599
+      spriteID: a69899926418be8f0800000000000000
+      internalID: -510171994430797462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_115
+      name: diamond_crown_115
       rect:
         serializedVersion: 2
         x: 0
@@ -3125,14 +3125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3962dd7ae75783df0800000000000000
-      internalID: -200280996575369581
+      spriteID: d6e3482a73362d2b0800000000000000
+      internalID: -5561273499248214419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_116
+      name: diamond_crown_116
       rect:
         serializedVersion: 2
         x: 64
@@ -3146,14 +3146,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7bed2fdc3b5f2000800000000000000
-      internalID: 13329640905894783
+      spriteID: 6ad1fb26baeb68180800000000000000
+      internalID: -9113387152632242778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_117
+      name: diamond_crown_117
       rect:
         serializedVersion: 2
         x: 128
@@ -3167,14 +3167,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11b83047118d51a90800000000000000
-      internalID: -7343726047885292783
+      spriteID: 089bfebf72070b600800000000000000
+      internalID: 482008477161470336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_118
+      name: diamond_crown_118
       rect:
         serializedVersion: 2
         x: 192
@@ -3188,14 +3188,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: add02a1ebd2559ed0800000000000000
-      internalID: -2407927321422852646
+      spriteID: 6c186e827ad606950800000000000000
+      internalID: 6440268031852970438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_119
+      name: diamond_crown_119
       rect:
         serializedVersion: 2
         x: 256
@@ -3209,14 +3209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb4956ee8639e3e10800000000000000
-      internalID: 2179341348579415231
+      spriteID: 1eab11cae4a9e87e0800000000000000
+      internalID: -1761300741570315551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_120
+      name: diamond_crown_120
       rect:
         serializedVersion: 2
         x: 320
@@ -3230,14 +3230,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3468326016e32b20800000000000000
-      internalID: 3108581125857502269
+      spriteID: e62d0ba53b146d810800000000000000
+      internalID: 1789690140502839918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_121
+      name: diamond_crown_121
       rect:
         serializedVersion: 2
         x: 0
@@ -3251,14 +3251,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5568919922d75e970800000000000000
-      internalID: 8783564235806967381
+      spriteID: 6412e82dd693c29a0800000000000000
+      internalID: -6256562638477713082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_122
+      name: diamond_crown_122
       rect:
         serializedVersion: 2
         x: 64
@@ -3272,14 +3272,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc126a2839c52b9f0800000000000000
-      internalID: -454198823789125173
+      spriteID: 27321199eb48a4520800000000000000
+      internalID: 2687106081826612082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_123
+      name: diamond_crown_123
       rect:
         serializedVersion: 2
         x: 128
@@ -3293,14 +3293,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 807c9cb2d2f858500800000000000000
-      internalID: 397881566263101192
+      spriteID: 463975f24b32fc9b0800000000000000
+      internalID: -5057784599718423708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_124
+      name: diamond_crown_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3314,14 +3314,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 686af936acb322c00800000000000000
-      internalID: 874327018104137350
+      spriteID: 3c7b76f368ce64f40800000000000000
+      internalID: 5712513238699587523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_125
+      name: diamond_crown_125
       rect:
         serializedVersion: 2
         x: 256
@@ -3335,14 +3335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d81263206824d2a0800000000000000
-      internalID: -6713696751126964014
+      spriteID: c485b25ffc0af27a0800000000000000
+      internalID: -6399719730438252468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_126
+      name: diamond_crown_126
       rect:
         serializedVersion: 2
         x: 320
@@ -3356,14 +3356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af2bb408e6687cfd0800000000000000
-      internalID: -2321739273729232134
+      spriteID: bd9ce6306c7b82280800000000000000
+      internalID: -9067795788621493797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_127
+      name: diamond_crown_127
       rect:
         serializedVersion: 2
         x: 384
@@ -3377,14 +3377,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d45b1e0fe2e88aa0800000000000000
-      internalID: -6158422974067419945
+      spriteID: 6fc0c9d2bb38ab580800000000000000
+      internalID: -8810584881049629450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_128
+      name: diamond_crown_128
       rect:
         serializedVersion: 2
         x: 448
@@ -3398,14 +3398,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f85ee8d742ac5f7d0800000000000000
-      internalID: -2885177728186784369
+      spriteID: adfbfd093d573ecc0800000000000000
+      internalID: -3682970518729801766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_129
+      name: diamond_crown_129
       rect:
         serializedVersion: 2
         x: 512
@@ -3419,14 +3419,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908f06cdd81a8a60800000000000000
-      internalID: 7676975855596175510
+      spriteID: 20513457c4ba129a0800000000000000
+      internalID: -6259533662195084030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_130
+      name: diamond_crown_130
       rect:
         serializedVersion: 2
         x: 576
@@ -3440,14 +3440,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 366bbac186a872d70800000000000000
-      internalID: 9018328958594954851
+      spriteID: e3ab8594481bfb1d0800000000000000
+      internalID: -3332750017506526658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_131
+      name: diamond_crown_131
       rect:
         serializedVersion: 2
         x: 640
@@ -3461,14 +3461,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e71ee90a77ae37000800000000000000
-      internalID: 32627421838500222
+      spriteID: 7e76b4697b650d8b0800000000000000
+      internalID: -5129504629074466841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_132
+      name: diamond_crown_132
       rect:
         serializedVersion: 2
         x: 704
@@ -3482,14 +3482,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce9349c5ff3a61e90800000000000000
-      internalID: -7055271449064097300
+      spriteID: 2cbc2e2d0e09a9990800000000000000
+      internalID: -7378425744207983678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_133
+      name: diamond_crown_133
       rect:
         serializedVersion: 2
         x: 768
@@ -3503,14 +3503,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79b10affcc3f11f80800000000000000
-      internalID: -8137454989894214761
+      spriteID: 9da7d46b9c65e8f30800000000000000
+      internalID: 4579693295429319385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_134
+      name: diamond_crown_134
       rect:
         serializedVersion: 2
         x: 0
@@ -3524,14 +3524,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 244136b5040317c60800000000000000
-      internalID: 7814079881433781314
+      spriteID: 17db03992a379ad10800000000000000
+      internalID: 2137366640356015473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_135
+      name: diamond_crown_135
       rect:
         serializedVersion: 2
         x: 64
@@ -3545,14 +3545,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ee405e547de874f0800000000000000
-      internalID: -830653047195545880
+      spriteID: 9f9282ce14d60ff30800000000000000
+      internalID: 4607302548702374393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_136
+      name: diamond_crown_136
       rect:
         serializedVersion: 2
         x: 128
@@ -3566,14 +3566,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12c3a9aae0f8130800000000000000
-      internalID: 3571089155422953958
+      spriteID: 09ccf47ff05b06880800000000000000
+      internalID: -8619690606608790384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_137
+      name: diamond_crown_137
       rect:
         serializedVersion: 2
         x: 192
@@ -3587,14 +3587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c433b0cf043677770800000000000000
-      internalID: 8608458343499641676
+      spriteID: a64d0b7c3a2a37200800000000000000
+      internalID: 176663634711204970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_138
+      name: diamond_crown_138
       rect:
         serializedVersion: 2
         x: 256
@@ -3608,14 +3608,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a66f06afb6ffe31c0800000000000000
-      internalID: -4521896136606157206
+      spriteID: 09875055c0e6eea50800000000000000
+      internalID: 6552295507115735184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_139
+      name: diamond_crown_139
       rect:
         serializedVersion: 2
         x: 320
@@ -3629,14 +3629,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8de03855a7a59990800000000000000
-      internalID: -7379808085785645685
+      spriteID: c64973170b41d5ed0800000000000000
+      internalID: -2423758276409191316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_140
+      name: diamond_crown_140
       rect:
         serializedVersion: 2
         x: 384
@@ -3650,14 +3650,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63de62514361a4350800000000000000
-      internalID: 6001633866373590326
+      spriteID: 374cc615ccfc15340800000000000000
+      internalID: 4850886750101095539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_141
+      name: diamond_crown_141
       rect:
         serializedVersion: 2
         x: 448
@@ -3671,14 +3671,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca6916f3e8432e50800000000000000
-      internalID: 6783345607673735882
+      spriteID: 5f853dc7758c0b070800000000000000
+      internalID: 8120210406230939893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_142
+      name: diamond_crown_142
       rect:
         serializedVersion: 2
         x: 512
@@ -3692,14 +3692,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c286110419cd42f60800000000000000
-      internalID: 8008768553774835756
+      spriteID: cfb0fcb3ec84d45b0800000000000000
+      internalID: -5382565929033987076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_143
+      name: diamond_crown_143
       rect:
         serializedVersion: 2
         x: 576
@@ -3713,14 +3713,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c0cec801626a4950800000000000000
-      internalID: 6434063186551292103
+      spriteID: 1a78ac4a057a13ba0800000000000000
+      internalID: -6110919254561093727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_144
+      name: diamond_crown_144
       rect:
         serializedVersion: 2
         x: 640
@@ -3734,14 +3734,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba2e54c70cd07fd10800000000000000
-      internalID: 2159209666717278891
+      spriteID: c93a4c88e2d9a7ef0800000000000000
+      internalID: -109602417728511076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_145
+      name: diamond_crown_145
       rect:
         serializedVersion: 2
         x: 704
@@ -3755,14 +3755,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c08a14d64f1d3f70800000000000000
-      internalID: 9168518805462876353
+      spriteID: 013abec6e316150b0800000000000000
+      internalID: -5741701129177423088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_146
+      name: diamond_crown_146
       rect:
         serializedVersion: 2
         x: 768
@@ -3776,14 +3776,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d1dcb048ec4a6cb0800000000000000
-      internalID: -4869995486645530157
+      spriteID: e9228e7d3210f8b50800000000000000
+      internalID: 6597493232578863774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_147
+      name: diamond_crown_147
       rect:
         serializedVersion: 2
         x: 0
@@ -3797,14 +3797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5bc562bbddcd7f140800000000000000
-      internalID: 4753510776598584501
+      spriteID: 7174e291cb7a12450800000000000000
+      internalID: 6062310999735551767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_148
+      name: diamond_crown_148
       rect:
         serializedVersion: 2
         x: 64
@@ -3818,14 +3818,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2befd3cafcea717d0800000000000000
-      internalID: -2947695224119492942
+      spriteID: b6aa4948d037e3b20800000000000000
+      internalID: 3116054494083066475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_149
+      name: diamond_crown_149
       rect:
         serializedVersion: 2
         x: 128
@@ -3839,14 +3839,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efe727a6dd3314cc0800000000000000
-      internalID: -3728641990419382530
+      spriteID: b7f9fe5c77c56d030800000000000000
+      internalID: 3519101828328300411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_150
+      name: diamond_crown_150
       rect:
         serializedVersion: 2
         x: 192
@@ -3860,14 +3860,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d769a6c982252f1a0800000000000000
-      internalID: -6777264154862774659
+      spriteID: b20d3833bbfcf39f0800000000000000
+      internalID: -486441831802613717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_151
+      name: diamond_crown_151
       rect:
         serializedVersion: 2
         x: 256
@@ -3881,14 +3881,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9eaff3270c073060800000000000000
-      internalID: 6933023376168431261
+      spriteID: 3b5bf5d75443d78b0800000000000000
+      internalID: -5152904925581167181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_152
+      name: diamond_crown_152
       rect:
         serializedVersion: 2
         x: 320
@@ -3902,14 +3902,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0930e5c5a2f10b140800000000000000
-      internalID: 4733317475165143952
+      spriteID: 6e9cc15ed67d221a0800000000000000
+      internalID: -6835664417399715354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_153
+      name: diamond_crown_153
       rect:
         serializedVersion: 2
         x: 384
@@ -3923,14 +3923,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7acbd351c11b08cc0800000000000000
-      internalID: -3710771358779720537
+      spriteID: cce9eb548f5e15920800000000000000
+      internalID: 2977413683153379020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_154
+      name: diamond_crown_154
       rect:
         serializedVersion: 2
         x: 448
@@ -3944,14 +3944,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd4debb728759400800000000000000
-      internalID: 330302259733548480
+      spriteID: 41cc199d796a2f840800000000000000
+      internalID: 5256446886215273492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_155
+      name: diamond_crown_155
       rect:
         serializedVersion: 2
         x: 512
@@ -3965,14 +3965,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1379bc6c8c9e1bf90800000000000000
-      internalID: -6939508502263261391
+      spriteID: ffef629f73d3cf5c0800000000000000
+      internalID: -4180399043494084865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_156
+      name: diamond_crown_156
       rect:
         serializedVersion: 2
         x: 576
@@ -3986,14 +3986,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b00393bfcb2d6540800000000000000
-      internalID: 5002702932149469365
+      spriteID: 11c867492b2537640800000000000000
+      internalID: 5076492131925134353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_157
+      name: diamond_crown_157
       rect:
         serializedVersion: 2
         x: 640
@@ -4007,14 +4007,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a486fd677e1618d90800000000000000
-      internalID: -7097283890999498678
+      spriteID: f24169a91d79cc360800000000000000
+      internalID: 7191289631501325359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_158
+      name: diamond_crown_158
       rect:
         serializedVersion: 2
         x: 704
@@ -4028,14 +4028,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17fecfac353830510800000000000000
-      internalID: 1514198295637716849
+      spriteID: b04f43f4758992b80800000000000000
+      internalID: -8419030527633984501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_159
+      name: diamond_crown_159
       rect:
         serializedVersion: 2
         x: 768
@@ -4049,14 +4049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a4adf740b5945340800000000000000
-      internalID: 4851667282939454625
+      spriteID: d43663701dba91270800000000000000
+      internalID: 8221791508999070541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_160
+      name: diamond_crown_160
       rect:
         serializedVersion: 2
         x: 0
@@ -4070,14 +4070,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e9b7cf342deab750800000000000000
-      internalID: 6321625766912571876
+      spriteID: 977af4f55982a7fe0800000000000000
+      internalID: -1190594529471780999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_161
+      name: diamond_crown_161
       rect:
         serializedVersion: 2
         x: 64
@@ -4091,14 +4091,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44ab03373384dac00800000000000000
-      internalID: 913465685239183940
+      spriteID: c24fa7a1693a9e0f0800000000000000
+      internalID: -1087157969948576724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_162
+      name: diamond_crown_162
       rect:
         serializedVersion: 2
         x: 128
@@ -4112,14 +4112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7519a8473168810800000000000000
-      internalID: 1767121295051413413
+      spriteID: 7987b93bfc67249f0800000000000000
+      internalID: -485695175358973801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_163
+      name: diamond_crown_163
       rect:
         serializedVersion: 2
         x: 192
@@ -4133,14 +4133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6321ce9ea04cdf0800000000000000
-      internalID: -160991686874220841
+      spriteID: f38003c963cc541d0800000000000000
+      internalID: -3367060611468883905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_164
+      name: diamond_crown_164
       rect:
         serializedVersion: 2
         x: 256
@@ -4154,14 +4154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6195db6989fb8ad0800000000000000
-      internalID: -2698789183063486101
+      spriteID: 8796c3571649927d0800000000000000
+      internalID: -2942657735210276488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_165
+      name: diamond_crown_165
       rect:
         serializedVersion: 2
         x: 320
@@ -4175,14 +4175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9067cedc299949d0800000000000000
-      internalID: -2789530076184092515
+      spriteID: bd93fb4bd1632b4f0800000000000000
+      internalID: -814529081386255909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_166
+      name: diamond_crown_166
       rect:
         serializedVersion: 2
         x: 384
@@ -4196,14 +4196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e91ed764fe4218800800000000000000
-      internalID: 612811634397536670
+      spriteID: 0e8962ef2ce523820800000000000000
+      internalID: 2896481701933258976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_167
+      name: diamond_crown_167
       rect:
         serializedVersion: 2
         x: 448
@@ -4217,14 +4217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bf3252be4cc74e90800000000000000
-      internalID: -7041434853999231050
+      spriteID: bd3baa0f40f8300c0800000000000000
+      internalID: -4610684342116895781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_168
+      name: diamond_crown_168
       rect:
         serializedVersion: 2
         x: 512
@@ -4238,14 +4238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73a0a0df4de27fc40800000000000000
-      internalID: 5545952958443293239
+      spriteID: 4c296f960ea3a4060800000000000000
+      internalID: 6938422911442522820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_169
+      name: diamond_crown_169
       rect:
         serializedVersion: 2
         x: 576
@@ -4259,14 +4259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5f67e799d2f0cf10800000000000000
-      internalID: 2288095627074563934
+      spriteID: 7a430813713639310800000000000000
+      internalID: 1410580059562980519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_170
+      name: diamond_crown_170
       rect:
         serializedVersion: 2
         x: 640
@@ -4280,14 +4280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 532523e385ab30500800000000000000
-      internalID: 361337283283145269
+      spriteID: a90631b05ae581380800000000000000
+      internalID: -9000339792351502182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_171
+      name: diamond_crown_171
       rect:
         serializedVersion: 2
         x: 704
@@ -4301,14 +4301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34450ddc0ef9b5d90800000000000000
-      internalID: -7107911798999722941
+      spriteID: a5d1abd6ee0563870800000000000000
+      internalID: 8662199918267080026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_172
+      name: diamond_crown_172
       rect:
         serializedVersion: 2
         x: 768
@@ -4322,14 +4322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b28360e25dda98e90800000000000000
-      internalID: -7022891012795779029
+      spriteID: ea3688e9e76c34ed0800000000000000
+      internalID: -2430881126722018386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_173
+      name: diamond_crown_173
       rect:
         serializedVersion: 2
         x: 0
@@ -4343,14 +4343,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ba2b14f9fabd3640800000000000000
-      internalID: 5061407138939349685
+      spriteID: 821b38119936206a0800000000000000
+      internalID: -6484511004385103576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_174
+      name: diamond_crown_174
       rect:
         serializedVersion: 2
         x: 64
@@ -4364,14 +4364,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ae3dfd1c69c81a40800000000000000
-      internalID: 5339238824444509861
+      spriteID: 44e8abd3449396140800000000000000
+      internalID: 4713361450276130372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_175
+      name: diamond_crown_175
       rect:
         serializedVersion: 2
         x: 128
@@ -4385,14 +4385,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e92f6aa7e85773980800000000000000
-      internalID: -8559243311990771042
+      spriteID: 3331d647097f36bb0800000000000000
+      internalID: -4943835766122015949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_176
+      name: diamond_crown_176
       rect:
         serializedVersion: 2
         x: 192
@@ -4406,14 +4406,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60184bbe1ebb727c0800000000000000
-      internalID: -4096098757073665786
+      spriteID: da60bd3393986af60800000000000000
+      internalID: 8045268663120103085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_177
+      name: diamond_crown_177
       rect:
         serializedVersion: 2
         x: 256
@@ -4427,14 +4427,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd4f80676575774f0800000000000000
-      internalID: -831099577367464737
+      spriteID: 4d78e4ede678c68e0800000000000000
+      internalID: -1698834049179678764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_178
+      name: diamond_crown_178
       rect:
         serializedVersion: 2
         x: 320
@@ -4448,8 +4448,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7f2ee719847e2d4bb72faa0a47d6a85
-      internalID: 56923198
+      spriteID: dbbee5ac6eebdb04d9bc9d4686baea83
+      internalID: 1474442366
       vertices: []
       indices: 
       edges: []
@@ -4457,7 +4457,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3b1f81d695b1a3f408ed788d6526ea13
+    spriteID: a04996f5d37f5f9448907307dcd43fe6
     internalID: 0
     vertices: []
     indices: 
@@ -4465,185 +4465,185 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      steel_helmet_0: 6171749998868576760
-      steel_helmet_1: 12241374522416488
-      steel_helmet_10: -586560210239163906
-      steel_helmet_100: -7351198424840555652
-      steel_helmet_101: 7612810089966860576
-      steel_helmet_102: 1876455311465488501
-      steel_helmet_103: -8552234656509997781
-      steel_helmet_104: 372493284527290364
-      steel_helmet_105: -1785514995071107864
-      steel_helmet_106: -5547875155533440087
-      steel_helmet_107: 6302302562564093891
-      steel_helmet_108: -6437388689642309485
-      steel_helmet_109: -3742859842601144340
-      steel_helmet_11: -1972632962815971818
-      steel_helmet_110: -2188892216917094203
-      steel_helmet_111: 8960342473285734135
-      steel_helmet_112: -5135927531716469155
-      steel_helmet_113: -3795696677588511176
-      steel_helmet_114: -7269287026526555599
-      steel_helmet_115: -200280996575369581
-      steel_helmet_116: 13329640905894783
-      steel_helmet_117: -7343726047885292783
-      steel_helmet_118: -2407927321422852646
-      steel_helmet_119: 2179341348579415231
-      steel_helmet_12: -1713682853992552001
-      steel_helmet_120: 3108581125857502269
-      steel_helmet_121: 8783564235806967381
-      steel_helmet_122: -454198823789125173
-      steel_helmet_123: 397881566263101192
-      steel_helmet_124: 874327018104137350
-      steel_helmet_125: -6713696751126964014
-      steel_helmet_126: -2321739273729232134
-      steel_helmet_127: -6158422974067419945
-      steel_helmet_128: -2885177728186784369
-      steel_helmet_129: 7676975855596175510
-      steel_helmet_13: 3439335505553292134
-      steel_helmet_130: 9018328958594954851
-      steel_helmet_131: 32627421838500222
-      steel_helmet_132: -7055271449064097300
-      steel_helmet_133: -8137454989894214761
-      steel_helmet_134: 7814079881433781314
-      steel_helmet_135: -830653047195545880
-      steel_helmet_136: 3571089155422953958
-      steel_helmet_137: 8608458343499641676
-      steel_helmet_138: -4521896136606157206
-      steel_helmet_139: -7379808085785645685
-      steel_helmet_14: 2892035228080534227
-      steel_helmet_140: 6001633866373590326
-      steel_helmet_141: 6783345607673735882
-      steel_helmet_142: 8008768553774835756
-      steel_helmet_143: 6434063186551292103
-      steel_helmet_144: 2159209666717278891
-      steel_helmet_145: 9168518805462876353
-      steel_helmet_146: -4869995486645530157
-      steel_helmet_147: 4753510776598584501
-      steel_helmet_148: -2947695224119492942
-      steel_helmet_149: -3728641990419382530
-      steel_helmet_15: 3313697068908060132
-      steel_helmet_150: -6777264154862774659
-      steel_helmet_151: 6933023376168431261
-      steel_helmet_152: 4733317475165143952
-      steel_helmet_153: -3710771358779720537
-      steel_helmet_154: 330302259733548480
-      steel_helmet_155: -6939508502263261391
-      steel_helmet_156: 5002702932149469365
-      steel_helmet_157: -7097283890999498678
-      steel_helmet_158: 1514198295637716849
-      steel_helmet_159: 4851667282939454625
-      steel_helmet_16: -5567384938589405565
-      steel_helmet_160: 6321625766912571876
-      steel_helmet_161: 913465685239183940
-      steel_helmet_162: 1767121295051413413
-      steel_helmet_163: -160991686874220841
-      steel_helmet_164: -2698789183063486101
-      steel_helmet_165: -2789530076184092515
-      steel_helmet_166: 612811634397536670
-      steel_helmet_167: -7041434853999231050
-      steel_helmet_168: 5545952958443293239
-      steel_helmet_169: 2288095627074563934
-      steel_helmet_17: 7500603439164031947
-      steel_helmet_170: 361337283283145269
-      steel_helmet_171: -7107911798999722941
-      steel_helmet_172: -7022891012795779029
-      steel_helmet_173: 5061407138939349685
-      steel_helmet_174: 5339238824444509861
-      steel_helmet_175: -8559243311990771042
-      steel_helmet_176: -4096098757073665786
-      steel_helmet_177: -831099577367464737
-      steel_helmet_178: 56923198
-      steel_helmet_18: -3644197443859134174
-      steel_helmet_19: 4466993417679045759
-      steel_helmet_2: 6986683232054315680
-      steel_helmet_20: 1742437157880726838
-      steel_helmet_21: 5510097588438900594
-      steel_helmet_22: -3267568700784841838
-      steel_helmet_23: 1348682662045803020
-      steel_helmet_24: 8206618093779921881
-      steel_helmet_25: 1185336702795753642
-      steel_helmet_26: 8888250568420438383
-      steel_helmet_27: 5559853279690005970
-      steel_helmet_28: 5327364381975883520
-      steel_helmet_29: 4207413756729204104
-      steel_helmet_3: -9084514716749300429
-      steel_helmet_30: -4423727515652172706
-      steel_helmet_31: -4389538743983595125
-      steel_helmet_32: -2314416292049436817
-      steel_helmet_33: -6020420764971605737
-      steel_helmet_34: 5703355630601134212
-      steel_helmet_35: -3029926006429797792
-      steel_helmet_36: -53097635868160739
-      steel_helmet_37: -673222048977194238
-      steel_helmet_38: -7496279777166356339
-      steel_helmet_39: -3021865570111167463
-      steel_helmet_4: -2605092767791272085
-      steel_helmet_40: 9061380609784110592
-      steel_helmet_41: -3269708864223853646
-      steel_helmet_42: -1408640524953191784
-      steel_helmet_43: 8570442781222150036
-      steel_helmet_44: -2688813780094995009
-      steel_helmet_45: 8645676110124070078
-      steel_helmet_46: -2337278104543630372
-      steel_helmet_47: -554455110087410358
-      steel_helmet_48: 2102823896779310437
-      steel_helmet_49: 4886785767373659916
-      steel_helmet_5: -3618400423685170181
-      steel_helmet_50: 2486674740593134430
-      steel_helmet_51: 4501855816464969713
-      steel_helmet_52: 1288944814315847801
-      steel_helmet_53: 5792239042642673814
-      steel_helmet_54: -9200427242908765608
-      steel_helmet_55: -7230916463810660293
-      steel_helmet_56: -6077679775214339239
-      steel_helmet_57: -2014232571661212167
-      steel_helmet_58: -4008410288200766598
-      steel_helmet_59: 514415130665000966
-      steel_helmet_6: -8915839874675382637
-      steel_helmet_60: 8430018887565883415
-      steel_helmet_61: 3324382747386455729
-      steel_helmet_62: 1180296870818938530
-      steel_helmet_63: -2841516579443058458
-      steel_helmet_64: -2210705929708827437
-      steel_helmet_65: 2085819806030340423
-      steel_helmet_66: -7460367247566041362
-      steel_helmet_67: -8499979738703707583
-      steel_helmet_68: -8852262402376275218
-      steel_helmet_69: 9124959812758010136
-      steel_helmet_7: -3062091586150151873
-      steel_helmet_70: -251607274846075724
-      steel_helmet_71: -3325462535381865803
-      steel_helmet_72: 8397568820755220717
-      steel_helmet_73: 4703732761374378263
-      steel_helmet_74: -4071943459035029028
-      steel_helmet_75: 7723011734815802537
-      steel_helmet_76: 7521647195445578084
-      steel_helmet_77: 7798953126886843722
-      steel_helmet_78: 8103393022394613735
-      steel_helmet_79: 1001067612486801208
-      steel_helmet_8: -1322780199126261323
-      steel_helmet_80: -342845787209007105
-      steel_helmet_81: 7407496882320240874
-      steel_helmet_82: 1176574924260936011
-      steel_helmet_83: -8729810696231732969
-      steel_helmet_84: -4684543575520208719
-      steel_helmet_85: -5556636124233375385
-      steel_helmet_86: 4204050572261347990
-      steel_helmet_87: 1071223655509989327
-      steel_helmet_88: -987298771173507599
-      steel_helmet_89: -941148049827953005
-      steel_helmet_9: 4846370706414177993
-      steel_helmet_90: -40111364193426509
-      steel_helmet_91: 3653208969029831014
-      steel_helmet_92: 8777758608245864649
-      steel_helmet_93: -8863699348197801595
-      steel_helmet_94: -1528422834583850921
-      steel_helmet_95: 6280033951698896790
-      steel_helmet_96: -4751858050826911993
-      steel_helmet_97: -3141439542981642364
-      steel_helmet_98: -6121911227465134723
-      steel_helmet_99: -7998694753117018577
+      diamond_crown_0: -4034953207897923281
+      diamond_crown_1: 8353394434253663046
+      diamond_crown_10: 1443030980064229519
+      diamond_crown_100: -6834351953155671401
+      diamond_crown_101: -1621635776767182715
+      diamond_crown_102: 4628166040307902324
+      diamond_crown_103: 7670905448591314765
+      diamond_crown_104: 2004689310308702040
+      diamond_crown_105: -1700379589331404279
+      diamond_crown_106: -2753411520834741766
+      diamond_crown_107: 9117440914368113833
+      diamond_crown_108: 5438947739447469941
+      diamond_crown_109: -3521517328823404574
+      diamond_crown_11: -4262864113912751613
+      diamond_crown_110: 4465044737326884198
+      diamond_crown_111: -8359597962930699045
+      diamond_crown_112: 2371955316188206592
+      diamond_crown_113: 7317310749245437072
+      diamond_crown_114: -510171994430797462
+      diamond_crown_115: -5561273499248214419
+      diamond_crown_116: -9113387152632242778
+      diamond_crown_117: 482008477161470336
+      diamond_crown_118: 6440268031852970438
+      diamond_crown_119: -1761300741570315551
+      diamond_crown_12: -5741279283607344933
+      diamond_crown_120: 1789690140502839918
+      diamond_crown_121: -6256562638477713082
+      diamond_crown_122: 2687106081826612082
+      diamond_crown_123: -5057784599718423708
+      diamond_crown_124: 5712513238699587523
+      diamond_crown_125: -6399719730438252468
+      diamond_crown_126: -9067795788621493797
+      diamond_crown_127: -8810584881049629450
+      diamond_crown_128: -3682970518729801766
+      diamond_crown_129: -6259533662195084030
+      diamond_crown_13: 5142274664555445733
+      diamond_crown_130: -3332750017506526658
+      diamond_crown_131: -5129504629074466841
+      diamond_crown_132: -7378425744207983678
+      diamond_crown_133: 4579693295429319385
+      diamond_crown_134: 2137366640356015473
+      diamond_crown_135: 4607302548702374393
+      diamond_crown_136: -8619690606608790384
+      diamond_crown_137: 176663634711204970
+      diamond_crown_138: 6552295507115735184
+      diamond_crown_139: -2423758276409191316
+      diamond_crown_14: 2485777238263252661
+      diamond_crown_140: 4850886750101095539
+      diamond_crown_141: 8120210406230939893
+      diamond_crown_142: -5382565929033987076
+      diamond_crown_143: -6110919254561093727
+      diamond_crown_144: -109602417728511076
+      diamond_crown_145: -5741701129177423088
+      diamond_crown_146: 6597493232578863774
+      diamond_crown_147: 6062310999735551767
+      diamond_crown_148: 3116054494083066475
+      diamond_crown_149: 3519101828328300411
+      diamond_crown_15: -3709957491640702321
+      diamond_crown_150: -486441831802613717
+      diamond_crown_151: -5152904925581167181
+      diamond_crown_152: -6835664417399715354
+      diamond_crown_153: 2977413683153379020
+      diamond_crown_154: 5256446886215273492
+      diamond_crown_155: -4180399043494084865
+      diamond_crown_156: 5076492131925134353
+      diamond_crown_157: 7191289631501325359
+      diamond_crown_158: -8419030527633984501
+      diamond_crown_159: 8221791508999070541
+      diamond_crown_16: -149834060381997077
+      diamond_crown_160: -1190594529471780999
+      diamond_crown_161: -1087157969948576724
+      diamond_crown_162: -485695175358973801
+      diamond_crown_163: -3367060611468883905
+      diamond_crown_164: -2942657735210276488
+      diamond_crown_165: -814529081386255909
+      diamond_crown_166: 2896481701933258976
+      diamond_crown_167: -4610684342116895781
+      diamond_crown_168: 6938422911442522820
+      diamond_crown_169: 1410580059562980519
+      diamond_crown_17: -6986015846924744685
+      diamond_crown_170: -9000339792351502182
+      diamond_crown_171: 8662199918267080026
+      diamond_crown_172: -2430881126722018386
+      diamond_crown_173: -6484511004385103576
+      diamond_crown_174: 4713361450276130372
+      diamond_crown_175: -4943835766122015949
+      diamond_crown_176: 8045268663120103085
+      diamond_crown_177: -1698834049179678764
+      diamond_crown_178: 1474442366
+      diamond_crown_18: 7436566626590931003
+      diamond_crown_19: -8628219423074241165
+      diamond_crown_2: 2270755034605357445
+      diamond_crown_20: -7458231825885310878
+      diamond_crown_21: 7343846941496513071
+      diamond_crown_22: 2772351781510884796
+      diamond_crown_23: 8784238807175725271
+      diamond_crown_24: 5551635963333247071
+      diamond_crown_25: -843413635315277638
+      diamond_crown_26: 6061569057950386869
+      diamond_crown_27: 107912598949806119
+      diamond_crown_28: 5914762305361418883
+      diamond_crown_29: -2456609403226365804
+      diamond_crown_3: 4625292676847727400
+      diamond_crown_30: 381910154361488217
+      diamond_crown_31: 5235227697164209407
+      diamond_crown_32: -652831177384947093
+      diamond_crown_33: 5107408644000779762
+      diamond_crown_34: -5609487636302580796
+      diamond_crown_35: 8042153202262221386
+      diamond_crown_36: 3988430923235145991
+      diamond_crown_37: -4606479082216029938
+      diamond_crown_38: -4129778320018070529
+      diamond_crown_39: -1302871031165964370
+      diamond_crown_4: -8895296733327483577
+      diamond_crown_40: 3938265665313153115
+      diamond_crown_41: -7123912188840882918
+      diamond_crown_42: 3284962306960224244
+      diamond_crown_43: 3784793114063559379
+      diamond_crown_44: 4150934909152456598
+      diamond_crown_45: -324485976819371888
+      diamond_crown_46: -5326188526960918106
+      diamond_crown_47: 2834471838349934347
+      diamond_crown_48: 6513105560167909755
+      diamond_crown_49: 8106884687791617233
+      diamond_crown_5: 1368094391578236881
+      diamond_crown_50: -5909591965450522276
+      diamond_crown_51: 3822380955139041596
+      diamond_crown_52: -3258493748433481225
+      diamond_crown_53: -8708169345763929332
+      diamond_crown_54: -7060113978884519217
+      diamond_crown_55: -1218823605879781885
+      diamond_crown_56: -1784095137363565052
+      diamond_crown_57: 8365462590788650627
+      diamond_crown_58: 7856225088689999315
+      diamond_crown_59: -2767748946246043196
+      diamond_crown_6: -513703049571183584
+      diamond_crown_60: -8727310447804604436
+      diamond_crown_61: -3628999824657871494
+      diamond_crown_62: 2613479206037120529
+      diamond_crown_63: -5737792559298163913
+      diamond_crown_64: -8408863905306215061
+      diamond_crown_65: -2381359701675400409
+      diamond_crown_66: 8266123560326915726
+      diamond_crown_67: 5575538436396262739
+      diamond_crown_68: -955988928363291408
+      diamond_crown_69: -7925819444109619577
+      diamond_crown_7: 607848588126396021
+      diamond_crown_70: 180106182082941073
+      diamond_crown_71: -4019258756709467078
+      diamond_crown_72: -2338257002530602699
+      diamond_crown_73: -577566088780661267
+      diamond_crown_74: -1071698490929534646
+      diamond_crown_75: -2055933315616538432
+      diamond_crown_76: -5077884502455619319
+      diamond_crown_77: -712597692111687743
+      diamond_crown_78: -8269725233079279425
+      diamond_crown_79: -2628630072141683908
+      diamond_crown_8: -3848405645949709528
+      diamond_crown_80: 8102023556831525591
+      diamond_crown_81: -2223330555274123624
+      diamond_crown_82: -5254093371667873005
+      diamond_crown_83: -8513554271702702026
+      diamond_crown_84: 7109553100836619112
+      diamond_crown_85: 4612016702880030967
+      diamond_crown_86: -4870860513349164650
+      diamond_crown_87: 4554058505743500723
+      diamond_crown_88: -2864115689825008012
+      diamond_crown_89: -2249274544176922425
+      diamond_crown_9: 4793224956808846361
+      diamond_crown_90: -4749590177377254171
+      diamond_crown_91: -4259940460144793300
+      diamond_crown_92: -1662181697419981803
+      diamond_crown_93: -2914035710983045997
+      diamond_crown_94: 1970251483264744031
+      diamond_crown_95: -5182596351510851106
+      diamond_crown_96: -8298937647204371767
+      diamond_crown_97: -4553042852674792704
+      diamond_crown_98: -2617733401105057281
+      diamond_crown_99: -4905456084687342750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

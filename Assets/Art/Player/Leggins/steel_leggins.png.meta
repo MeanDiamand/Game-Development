@@ -1,541 +1,547 @@
 fileFormatVersion: 2
-guid: a7fb385c7bb6eb54db6180c68b022775
+guid: debfbc067f3eeeb41aacca01f594d3c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6171749998868576760
-    second: steel_helmet_0
+      213: -4936312262195287576
+    second: steel_leggins_0
   - first:
-      213: 12241374522416488
-    second: steel_helmet_1
+      213: -5646328077532419625
+    second: steel_leggins_1
   - first:
-      213: 6986683232054315680
-    second: steel_helmet_2
+      213: -3152032770035465363
+    second: steel_leggins_2
   - first:
-      213: -9084514716749300429
-    second: steel_helmet_3
+      213: -6371974511845935991
+    second: steel_leggins_3
   - first:
-      213: -2605092767791272085
-    second: steel_helmet_4
+      213: 683396232082451952
+    second: steel_leggins_4
   - first:
-      213: -3618400423685170181
-    second: steel_helmet_5
+      213: -407083833454529652
+    second: steel_leggins_5
   - first:
-      213: -8915839874675382637
-    second: steel_helmet_6
+      213: -7605828003240395503
+    second: steel_leggins_6
   - first:
-      213: -3062091586150151873
-    second: steel_helmet_7
+      213: -5146382155244099004
+    second: steel_leggins_7
   - first:
-      213: -1322780199126261323
-    second: steel_helmet_8
+      213: 1919598099006893808
+    second: steel_leggins_8
   - first:
-      213: 4846370706414177993
-    second: steel_helmet_9
+      213: -4217107217883257195
+    second: steel_leggins_9
   - first:
-      213: -586560210239163906
-    second: steel_helmet_10
+      213: 9180360805353511000
+    second: steel_leggins_10
   - first:
-      213: -1972632962815971818
-    second: steel_helmet_11
+      213: 6670834549807257148
+    second: steel_leggins_11
   - first:
-      213: -1713682853992552001
-    second: steel_helmet_12
+      213: 6952306282371414342
+    second: steel_leggins_12
   - first:
-      213: 3439335505553292134
-    second: steel_helmet_13
+      213: -949153835481592510
+    second: steel_leggins_13
   - first:
-      213: 2892035228080534227
-    second: steel_helmet_14
+      213: 7929389271439013345
+    second: steel_leggins_14
   - first:
-      213: 3313697068908060132
-    second: steel_helmet_15
+      213: 3688110092750621853
+    second: steel_leggins_15
   - first:
-      213: -5567384938589405565
-    second: steel_helmet_16
+      213: -1197938373381534035
+    second: steel_leggins_16
   - first:
-      213: 7500603439164031947
-    second: steel_helmet_17
+      213: 3300402245000452239
+    second: steel_leggins_17
   - first:
-      213: -3644197443859134174
-    second: steel_helmet_18
+      213: 2776769006346977690
+    second: steel_leggins_18
   - first:
-      213: 4466993417679045759
-    second: steel_helmet_19
+      213: 5718114627795386958
+    second: steel_leggins_19
   - first:
-      213: 1742437157880726838
-    second: steel_helmet_20
+      213: 5927237613087259459
+    second: steel_leggins_20
   - first:
-      213: 5510097588438900594
-    second: steel_helmet_21
+      213: 7066179613134724734
+    second: steel_leggins_21
   - first:
-      213: -3267568700784841838
-    second: steel_helmet_22
+      213: -6208028923226721225
+    second: steel_leggins_22
   - first:
-      213: 1348682662045803020
-    second: steel_helmet_23
+      213: -8277899346642809018
+    second: steel_leggins_23
   - first:
-      213: 8206618093779921881
-    second: steel_helmet_24
+      213: -5027345617056269989
+    second: steel_leggins_24
   - first:
-      213: 1185336702795753642
-    second: steel_helmet_25
+      213: -3241184041087176226
+    second: steel_leggins_25
   - first:
-      213: 8888250568420438383
-    second: steel_helmet_26
+      213: 6665393083746775909
+    second: steel_leggins_26
   - first:
-      213: 5559853279690005970
-    second: steel_helmet_27
+      213: 262973786432852369
+    second: steel_leggins_27
   - first:
-      213: 5327364381975883520
-    second: steel_helmet_28
+      213: 6761529713838452341
+    second: steel_leggins_28
   - first:
-      213: 4207413756729204104
-    second: steel_helmet_29
+      213: -8936140605630965856
+    second: steel_leggins_29
   - first:
-      213: -4423727515652172706
-    second: steel_helmet_30
+      213: 6770954054464839536
+    second: steel_leggins_30
   - first:
-      213: -4389538743983595125
-    second: steel_helmet_31
+      213: -934272132252503732
+    second: steel_leggins_31
   - first:
-      213: -2314416292049436817
-    second: steel_helmet_32
+      213: -7082708468457714418
+    second: steel_leggins_32
   - first:
-      213: -6020420764971605737
-    second: steel_helmet_33
+      213: 4719428856771238614
+    second: steel_leggins_33
   - first:
-      213: 5703355630601134212
-    second: steel_helmet_34
+      213: 1998503241168657820
+    second: steel_leggins_34
   - first:
-      213: -3029926006429797792
-    second: steel_helmet_35
+      213: 6371204877414824123
+    second: steel_leggins_35
   - first:
-      213: -53097635868160739
-    second: steel_helmet_36
+      213: 7395516391069152225
+    second: steel_leggins_36
   - first:
-      213: -673222048977194238
-    second: steel_helmet_37
+      213: 5005593431405990410
+    second: steel_leggins_37
   - first:
-      213: -7496279777166356339
-    second: steel_helmet_38
+      213: -8875637810195258881
+    second: steel_leggins_38
   - first:
-      213: -3021865570111167463
-    second: steel_helmet_39
+      213: 491203629527353817
+    second: steel_leggins_39
   - first:
-      213: 9061380609784110592
-    second: steel_helmet_40
+      213: -5050451652358335608
+    second: steel_leggins_40
   - first:
-      213: -3269708864223853646
-    second: steel_helmet_41
+      213: -4743229695529406066
+    second: steel_leggins_41
   - first:
-      213: -1408640524953191784
-    second: steel_helmet_42
+      213: 8745451796731640907
+    second: steel_leggins_42
   - first:
-      213: 8570442781222150036
-    second: steel_helmet_43
+      213: -2732559621390432570
+    second: steel_leggins_43
   - first:
-      213: -2688813780094995009
-    second: steel_helmet_44
+      213: -3994161478070805344
+    second: steel_leggins_44
   - first:
-      213: 8645676110124070078
-    second: steel_helmet_45
+      213: -8678449155067082171
+    second: steel_leggins_45
   - first:
-      213: -2337278104543630372
-    second: steel_helmet_46
+      213: -6873371076211195395
+    second: steel_leggins_46
   - first:
-      213: -554455110087410358
-    second: steel_helmet_47
+      213: 1163098621484760402
+    second: steel_leggins_47
   - first:
-      213: 2102823896779310437
-    second: steel_helmet_48
+      213: 4474183639554738221
+    second: steel_leggins_48
   - first:
-      213: 4886785767373659916
-    second: steel_helmet_49
+      213: -5760683825892265908
+    second: steel_leggins_49
   - first:
-      213: 2486674740593134430
-    second: steel_helmet_50
+      213: 3112680720457259735
+    second: steel_leggins_50
   - first:
-      213: 4501855816464969713
-    second: steel_helmet_51
+      213: -8994928570705696374
+    second: steel_leggins_51
   - first:
-      213: 1288944814315847801
-    second: steel_helmet_52
+      213: -8723623529398753482
+    second: steel_leggins_52
   - first:
-      213: 5792239042642673814
-    second: steel_helmet_53
+      213: 7875834757948478613
+    second: steel_leggins_53
   - first:
-      213: -9200427242908765608
-    second: steel_helmet_54
+      213: -1502016909476789386
+    second: steel_leggins_54
   - first:
-      213: -7230916463810660293
-    second: steel_helmet_55
+      213: -9017378251473847055
+    second: steel_leggins_55
   - first:
-      213: -6077679775214339239
-    second: steel_helmet_56
+      213: 5231149455612952506
+    second: steel_leggins_56
   - first:
-      213: -2014232571661212167
-    second: steel_helmet_57
+      213: 8685593779200389579
+    second: steel_leggins_57
   - first:
-      213: -4008410288200766598
-    second: steel_helmet_58
+      213: 4807920695186440785
+    second: steel_leggins_58
   - first:
-      213: 514415130665000966
-    second: steel_helmet_59
+      213: 1650445501111392713
+    second: steel_leggins_59
   - first:
-      213: 8430018887565883415
-    second: steel_helmet_60
+      213: -6279934753930626001
+    second: steel_leggins_60
   - first:
-      213: 3324382747386455729
-    second: steel_helmet_61
+      213: 9038607826587785875
+    second: steel_leggins_61
   - first:
-      213: 1180296870818938530
-    second: steel_helmet_62
+      213: 7215034931008343434
+    second: steel_leggins_62
   - first:
-      213: -2841516579443058458
-    second: steel_helmet_63
+      213: -6845177812034857024
+    second: steel_leggins_63
   - first:
-      213: -2210705929708827437
-    second: steel_helmet_64
+      213: -5800226340912512162
+    second: steel_leggins_64
   - first:
-      213: 2085819806030340423
-    second: steel_helmet_65
+      213: 7429612093723593526
+    second: steel_leggins_65
   - first:
-      213: -7460367247566041362
-    second: steel_helmet_66
+      213: -8610440253920650632
+    second: steel_leggins_66
   - first:
-      213: -8499979738703707583
-    second: steel_helmet_67
+      213: -2319248424181634335
+    second: steel_leggins_67
   - first:
-      213: -8852262402376275218
-    second: steel_helmet_68
+      213: -1083185778649520903
+    second: steel_leggins_68
   - first:
-      213: 9124959812758010136
-    second: steel_helmet_69
+      213: 1405286664411158415
+    second: steel_leggins_69
   - first:
-      213: -251607274846075724
-    second: steel_helmet_70
+      213: -1028722281529183017
+    second: steel_leggins_70
   - first:
-      213: -3325462535381865803
-    second: steel_helmet_71
+      213: -5792075035613614371
+    second: steel_leggins_71
   - first:
-      213: 8397568820755220717
-    second: steel_helmet_72
+      213: -3490964026199599312
+    second: steel_leggins_72
   - first:
-      213: 4703732761374378263
-    second: steel_helmet_73
+      213: 6064960250741220301
+    second: steel_leggins_73
   - first:
-      213: -4071943459035029028
-    second: steel_helmet_74
+      213: -1828814116826936718
+    second: steel_leggins_74
   - first:
-      213: 7723011734815802537
-    second: steel_helmet_75
+      213: -2116673713274611450
+    second: steel_leggins_75
   - first:
-      213: 7521647195445578084
-    second: steel_helmet_76
+      213: -5652262614173775806
+    second: steel_leggins_76
   - first:
-      213: 7798953126886843722
-    second: steel_helmet_77
+      213: -1331931830394430670
+    second: steel_leggins_77
   - first:
-      213: 8103393022394613735
-    second: steel_helmet_78
+      213: 2101502815183495763
+    second: steel_leggins_78
   - first:
-      213: 1001067612486801208
-    second: steel_helmet_79
+      213: -7727219604002526483
+    second: steel_leggins_79
   - first:
-      213: -342845787209007105
-    second: steel_helmet_80
+      213: -1451700615139040687
+    second: steel_leggins_80
   - first:
-      213: 7407496882320240874
-    second: steel_helmet_81
+      213: -3660099464420451918
+    second: steel_leggins_81
   - first:
-      213: 1176574924260936011
-    second: steel_helmet_82
+      213: -527900424974771998
+    second: steel_leggins_82
   - first:
-      213: -8729810696231732969
-    second: steel_helmet_83
+      213: -1765746732012266473
+    second: steel_leggins_83
   - first:
-      213: -4684543575520208719
-    second: steel_helmet_84
+      213: 5005289064238321832
+    second: steel_leggins_84
   - first:
-      213: -5556636124233375385
-    second: steel_helmet_85
+      213: -545346515460008016
+    second: steel_leggins_85
   - first:
-      213: 4204050572261347990
-    second: steel_helmet_86
+      213: 8331564902736723344
+    second: steel_leggins_86
   - first:
-      213: 1071223655509989327
-    second: steel_helmet_87
+      213: 4427104837953555499
+    second: steel_leggins_87
   - first:
-      213: -987298771173507599
-    second: steel_helmet_88
+      213: 1852635502841136022
+    second: steel_leggins_88
   - first:
-      213: -941148049827953005
-    second: steel_helmet_89
+      213: 1030216153179356013
+    second: steel_leggins_89
   - first:
-      213: -40111364193426509
-    second: steel_helmet_90
+      213: 8159553441893413849
+    second: steel_leggins_90
   - first:
-      213: 3653208969029831014
-    second: steel_helmet_91
+      213: 5768484358969982052
+    second: steel_leggins_91
   - first:
-      213: 8777758608245864649
-    second: steel_helmet_92
+      213: -3216316573465987242
+    second: steel_leggins_92
   - first:
-      213: -8863699348197801595
-    second: steel_helmet_93
+      213: 5128520864904226580
+    second: steel_leggins_93
   - first:
-      213: -1528422834583850921
-    second: steel_helmet_94
+      213: -7055009580148168437
+    second: steel_leggins_94
   - first:
-      213: 6280033951698896790
-    second: steel_helmet_95
+      213: -2353893302826505899
+    second: steel_leggins_95
   - first:
-      213: -4751858050826911993
-    second: steel_helmet_96
+      213: 589068313707076695
+    second: steel_leggins_96
   - first:
-      213: -3141439542981642364
-    second: steel_helmet_97
+      213: -4904227284815066400
+    second: steel_leggins_97
   - first:
-      213: -6121911227465134723
-    second: steel_helmet_98
+      213: 8432675386241535209
+    second: steel_leggins_98
   - first:
-      213: -7998694753117018577
-    second: steel_helmet_99
+      213: 641479009050427919
+    second: steel_leggins_99
   - first:
-      213: -7351198424840555652
-    second: steel_helmet_100
+      213: 2269529547907479216
+    second: steel_leggins_100
   - first:
-      213: 7612810089966860576
-    second: steel_helmet_101
+      213: 6027181860862184966
+    second: steel_leggins_101
   - first:
-      213: 1876455311465488501
-    second: steel_helmet_102
+      213: -691080943235055859
+    second: steel_leggins_102
   - first:
-      213: -8552234656509997781
-    second: steel_helmet_103
+      213: -6032422845279532967
+    second: steel_leggins_103
   - first:
-      213: 372493284527290364
-    second: steel_helmet_104
+      213: 3674751435005513914
+    second: steel_leggins_104
   - first:
-      213: -1785514995071107864
-    second: steel_helmet_105
+      213: 2909110570882229056
+    second: steel_leggins_105
   - first:
-      213: -5547875155533440087
-    second: steel_helmet_106
+      213: 590117652666398701
+    second: steel_leggins_106
   - first:
-      213: 6302302562564093891
-    second: steel_helmet_107
+      213: 8976689658187314501
+    second: steel_leggins_107
   - first:
-      213: -6437388689642309485
-    second: steel_helmet_108
+      213: -3177039319472906080
+    second: steel_leggins_108
   - first:
-      213: -3742859842601144340
-    second: steel_helmet_109
+      213: 6440554767984324259
+    second: steel_leggins_109
   - first:
-      213: -2188892216917094203
-    second: steel_helmet_110
+      213: -3266811078552619748
+    second: steel_leggins_110
   - first:
-      213: 8960342473285734135
-    second: steel_helmet_111
+      213: -8401759361188002637
+    second: steel_leggins_111
   - first:
-      213: -5135927531716469155
-    second: steel_helmet_112
+      213: 178029376375806031
+    second: steel_leggins_112
   - first:
-      213: -3795696677588511176
-    second: steel_helmet_113
+      213: 8111679672013183434
+    second: steel_leggins_113
   - first:
-      213: -7269287026526555599
-    second: steel_helmet_114
+      213: 4756623629713508230
+    second: steel_leggins_114
   - first:
-      213: -200280996575369581
-    second: steel_helmet_115
+      213: -3554599002980890987
+    second: steel_leggins_115
   - first:
-      213: 13329640905894783
-    second: steel_helmet_116
+      213: 3167611388799600514
+    second: steel_leggins_116
   - first:
-      213: -7343726047885292783
-    second: steel_helmet_117
+      213: -8875595762519651883
+    second: steel_leggins_117
   - first:
-      213: -2407927321422852646
-    second: steel_helmet_118
+      213: 4808776297293260843
+    second: steel_leggins_118
   - first:
-      213: 2179341348579415231
-    second: steel_helmet_119
+      213: -6469821922024210218
+    second: steel_leggins_119
   - first:
-      213: 3108581125857502269
-    second: steel_helmet_120
+      213: 5431568686365871270
+    second: steel_leggins_120
   - first:
-      213: 8783564235806967381
-    second: steel_helmet_121
+      213: 4617190819732980310
+    second: steel_leggins_121
   - first:
-      213: -454198823789125173
-    second: steel_helmet_122
+      213: 6227516144319651965
+    second: steel_leggins_122
   - first:
-      213: 397881566263101192
-    second: steel_helmet_123
+      213: 7677730693918920283
+    second: steel_leggins_123
   - first:
-      213: 874327018104137350
-    second: steel_helmet_124
+      213: -2420689001617771766
+    second: steel_leggins_124
   - first:
-      213: -6713696751126964014
-    second: steel_helmet_125
+      213: -377988794726495293
+    second: steel_leggins_125
   - first:
-      213: -2321739273729232134
-    second: steel_helmet_126
+      213: 5252093548322782325
+    second: steel_leggins_126
   - first:
-      213: -6158422974067419945
-    second: steel_helmet_127
+      213: -1854361773192645023
+    second: steel_leggins_127
   - first:
-      213: -2885177728186784369
-    second: steel_helmet_128
+      213: -7687284146714230390
+    second: steel_leggins_128
   - first:
-      213: 7676975855596175510
-    second: steel_helmet_129
+      213: 4457258600525029199
+    second: steel_leggins_129
   - first:
-      213: 9018328958594954851
-    second: steel_helmet_130
+      213: 6249121516708459532
+    second: steel_leggins_130
   - first:
-      213: 32627421838500222
-    second: steel_helmet_131
+      213: 6387778869099275481
+    second: steel_leggins_131
   - first:
-      213: -7055271449064097300
-    second: steel_helmet_132
+      213: 4226829443587393707
+    second: steel_leggins_132
   - first:
-      213: -8137454989894214761
-    second: steel_helmet_133
+      213: -5168815645128797474
+    second: steel_leggins_133
   - first:
-      213: 7814079881433781314
-    second: steel_helmet_134
+      213: 2838470319708612114
+    second: steel_leggins_134
   - first:
-      213: -830653047195545880
-    second: steel_helmet_135
+      213: -1183905989406360587
+    second: steel_leggins_135
   - first:
-      213: 3571089155422953958
-    second: steel_helmet_136
+      213: -2389538911794004076
+    second: steel_leggins_136
   - first:
-      213: 8608458343499641676
-    second: steel_helmet_137
+      213: -7140050044391511315
+    second: steel_leggins_137
   - first:
-      213: -4521896136606157206
-    second: steel_helmet_138
+      213: -8779794815527206284
+    second: steel_leggins_138
   - first:
-      213: -7379808085785645685
-    second: steel_helmet_139
+      213: 8141127645626197817
+    second: steel_leggins_139
   - first:
-      213: 6001633866373590326
-    second: steel_helmet_140
+      213: -6993678268574573642
+    second: steel_leggins_140
   - first:
-      213: 6783345607673735882
-    second: steel_helmet_141
+      213: -2562257290512355739
+    second: steel_leggins_141
   - first:
-      213: 8008768553774835756
-    second: steel_helmet_142
+      213: 5765043527077864584
+    second: steel_leggins_142
   - first:
-      213: 6434063186551292103
-    second: steel_helmet_143
+      213: -3130549606435926816
+    second: steel_leggins_143
   - first:
-      213: 2159209666717278891
-    second: steel_helmet_144
+      213: -6195011751705881170
+    second: steel_leggins_144
   - first:
-      213: 9168518805462876353
-    second: steel_helmet_145
+      213: -8196749028882953563
+    second: steel_leggins_145
   - first:
-      213: -4869995486645530157
-    second: steel_helmet_146
+      213: -362256368321796833
+    second: steel_leggins_146
   - first:
-      213: 4753510776598584501
-    second: steel_helmet_147
+      213: 5835780369176346340
+    second: steel_leggins_147
   - first:
-      213: -2947695224119492942
-    second: steel_helmet_148
+      213: -2375507568362288053
+    second: steel_leggins_148
   - first:
-      213: -3728641990419382530
-    second: steel_helmet_149
+      213: 2295122305333367586
+    second: steel_leggins_149
   - first:
-      213: -6777264154862774659
-    second: steel_helmet_150
+      213: -3383592187815058202
+    second: steel_leggins_150
   - first:
-      213: 6933023376168431261
-    second: steel_helmet_151
+      213: -7926286156378122276
+    second: steel_leggins_151
   - first:
-      213: 4733317475165143952
-    second: steel_helmet_152
+      213: -1130621400771367228
+    second: steel_leggins_152
   - first:
-      213: -3710771358779720537
-    second: steel_helmet_153
+      213: 1320678962147981767
+    second: steel_leggins_153
   - first:
-      213: 330302259733548480
-    second: steel_helmet_154
+      213: 1029341605433246528
+    second: steel_leggins_154
   - first:
-      213: -6939508502263261391
-    second: steel_helmet_155
+      213: -941728560745149660
+    second: steel_leggins_155
   - first:
-      213: 5002702932149469365
-    second: steel_helmet_156
+      213: -640278275900647373
+    second: steel_leggins_156
   - first:
-      213: -7097283890999498678
-    second: steel_helmet_157
+      213: 2486388416459852442
+    second: steel_leggins_157
   - first:
-      213: 1514198295637716849
-    second: steel_helmet_158
+      213: -5234871139316073000
+    second: steel_leggins_158
   - first:
-      213: 4851667282939454625
-    second: steel_helmet_159
+      213: -3003056476229067532
+    second: steel_leggins_159
   - first:
-      213: 6321625766912571876
-    second: steel_helmet_160
+      213: 697843848539635476
+    second: steel_leggins_160
   - first:
-      213: 913465685239183940
-    second: steel_helmet_161
+      213: -6932227408947987521
+    second: steel_leggins_161
   - first:
-      213: 1767121295051413413
-    second: steel_helmet_162
+      213: -2143457196654783119
+    second: steel_leggins_162
   - first:
-      213: -160991686874220841
-    second: steel_helmet_163
+      213: 1335876325679147478
+    second: steel_leggins_163
   - first:
-      213: -2698789183063486101
-    second: steel_helmet_164
+      213: 2313805164120882996
+    second: steel_leggins_164
   - first:
-      213: -2789530076184092515
-    second: steel_helmet_165
+      213: 9107239029267130872
+    second: steel_leggins_165
   - first:
-      213: 612811634397536670
-    second: steel_helmet_166
+      213: -257203269182114613
+    second: steel_leggins_166
   - first:
-      213: -7041434853999231050
-    second: steel_helmet_167
+      213: 7798035787631999757
+    second: steel_leggins_167
   - first:
-      213: 5545952958443293239
-    second: steel_helmet_168
+      213: -5056803179824029756
+    second: steel_leggins_168
   - first:
-      213: 2288095627074563934
-    second: steel_helmet_169
+      213: -3638543230257554314
+    second: steel_leggins_169
   - first:
-      213: 361337283283145269
-    second: steel_helmet_170
+      213: 7711032382985174370
+    second: steel_leggins_170
   - first:
-      213: -7107911798999722941
-    second: steel_helmet_171
+      213: 6653421746926160155
+    second: steel_leggins_171
   - first:
-      213: -7022891012795779029
-    second: steel_helmet_172
+      213: 4737911251563338617
+    second: steel_leggins_172
   - first:
-      213: 5061407138939349685
-    second: steel_helmet_173
+      213: 4823248882877333432
+    second: steel_leggins_173
   - first:
-      213: 5339238824444509861
-    second: steel_helmet_174
+      213: -7582321774205702103
+    second: steel_leggins_174
   - first:
-      213: -8559243311990771042
-    second: steel_helmet_175
+      213: -3775057469513469728
+    second: steel_leggins_175
   - first:
-      213: -4096098757073665786
-    second: steel_helmet_176
+      213: -7501846912467704884
+    second: steel_leggins_176
   - first:
-      213: -831099577367464737
-    second: steel_helmet_177
+      213: -2835910886164622427
+    second: steel_leggins_177
+  - first:
+      213: 7888550213640003969
+    second: steel_leggins_178
+  - first:
+      213: -1107925935586703155
+    second: steel_leggins_179
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -696,7 +702,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: steel_helmet_0
+      name: steel_leggins_0
       rect:
         serializedVersion: 2
         x: 0
@@ -710,14 +716,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f93415bce576a550800000000000000
-      internalID: 6171749998868576760
+      spriteID: 8e9e177b622be7bb0800000000000000
+      internalID: -4936312262195287576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_1
+      name: steel_leggins_1
       rect:
         serializedVersion: 2
         x: 64
@@ -731,14 +737,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86d98fb177d7b2000800000000000000
-      internalID: 12241374522416488
+      spriteID: 7d9ad5d678634a1b0800000000000000
+      internalID: -5646328077532419625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_2
+      name: steel_leggins_2
       rect:
         serializedVersion: 2
         x: 128
@@ -752,14 +758,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aa86cce16fa5f060800000000000000
-      internalID: 6986683232054315680
+      spriteID: d6345a555eab144d0800000000000000
+      internalID: -3152032770035465363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_3
+      name: steel_leggins_3
       rect:
         serializedVersion: 2
         x: 192
@@ -773,14 +779,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33d79573ff15de180800000000000000
-      internalID: -9084514716749300429
+      spriteID: 984749f01f23297a0800000000000000
+      internalID: -6371974511845935991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_4
+      name: steel_leggins_4
       rect:
         serializedVersion: 2
         x: 256
@@ -794,14 +800,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6facd81ee9d8dbd0800000000000000
-      internalID: -2605092767791272085
+      spriteID: 0fd6d169049eb7900800000000000000
+      internalID: 683396232082451952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_5
+      name: steel_leggins_5
       rect:
         serializedVersion: 2
         x: 320
@@ -815,14 +821,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfb5f1b5cfbd8cdc0800000000000000
-      internalID: -3618400423685170181
+      spriteID: c837329096fb95af0800000000000000
+      internalID: -407083833454529652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_6
+      name: steel_leggins_6
       rect:
         serializedVersion: 2
         x: 384
@@ -836,14 +842,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 396e5b34fd2944480800000000000000
-      internalID: -8915839874675382637
+      spriteID: 11d332c7abba27690800000000000000
+      internalID: -7605828003240395503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_7
+      name: steel_leggins_7
       rect:
         serializedVersion: 2
         x: 448
@@ -857,14 +863,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f39cec11de34185d0800000000000000
-      internalID: -3062091586150151873
+      spriteID: 44a244e42b06498b0800000000000000
+      internalID: -5146382155244099004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_8
+      name: steel_leggins_8
       rect:
         serializedVersion: 2
         x: 0
@@ -878,14 +884,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b1a823da6a84ade0800000000000000
-      internalID: -1322780199126261323
+      spriteID: 0fe22d2fc48c3aa10800000000000000
+      internalID: 1919598099006893808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_9
+      name: steel_leggins_9
       rect:
         serializedVersion: 2
         x: 64
@@ -899,14 +905,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ce0da5fa74c14340800000000000000
-      internalID: 4846370706414177993
+      spriteID: 596255a1453d975c0800000000000000
+      internalID: -4217107217883257195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_10
+      name: steel_leggins_10
       rect:
         serializedVersion: 2
         x: 128
@@ -920,14 +926,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef1f055b89e1cd7f0800000000000000
-      internalID: -586560210239163906
+      spriteID: 858d3094381376f70800000000000000
+      internalID: 9180360805353511000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_11
+      name: steel_leggins_11
       rect:
         serializedVersion: 2
         x: 192
@@ -941,14 +947,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ea02395cccf94e0800000000000000
-      internalID: -1972632962815971818
+      spriteID: c361aa0fda0939c50800000000000000
+      internalID: 6670834549807257148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_12
+      name: steel_leggins_12
       rect:
         serializedVersion: 2
         x: 256
@@ -962,14 +968,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb9a8161686c738e0800000000000000
-      internalID: -1713682853992552001
+      spriteID: 649f67a9abd8b7060800000000000000
+      internalID: 6952306282371414342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_13
+      name: steel_leggins_13
       rect:
         serializedVersion: 2
         x: 320
@@ -983,14 +989,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66b74ef7b69fabf20800000000000000
-      internalID: 3439335505553292134
+      spriteID: 24d8bee8d9de3d2f0800000000000000
+      internalID: -949153835481592510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_14
+      name: steel_leggins_14
       rect:
         serializedVersion: 2
         x: 384
@@ -1004,14 +1010,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d2f7af97b2922820800000000000000
-      internalID: 2892035228080534227
+      spriteID: 1e57ae9d789da0e60800000000000000
+      internalID: 7929389271439013345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_15
+      name: steel_leggins_15
       rect:
         serializedVersion: 2
         x: 0
@@ -1025,14 +1031,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ed948d6ded9cfd20800000000000000
-      internalID: 3313697068908060132
+      spriteID: d9c0fe2c69cce2330800000000000000
+      internalID: 3688110092750621853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_16
+      name: steel_leggins_16
       rect:
         serializedVersion: 2
         x: 64
@@ -1046,14 +1052,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38eb48745ecacb2b0800000000000000
-      internalID: -5567384938589405565
+      spriteID: daec8c77561106fe0800000000000000
+      internalID: -1197938373381534035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_17
+      name: steel_leggins_17
       rect:
         serializedVersion: 2
         x: 128
@@ -1067,14 +1073,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc30278861f771860800000000000000
-      internalID: 7500603439164031947
+      spriteID: f8857250b526dcd20800000000000000
+      internalID: 3300402245000452239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_18
+      name: steel_leggins_18
       rect:
         serializedVersion: 2
         x: 192
@@ -1088,14 +1094,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 229c36b8bb53d6dc0800000000000000
-      internalID: -3644197443859134174
+      spriteID: a9140a603b0198620800000000000000
+      internalID: 2776769006346977690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_19
+      name: steel_leggins_19
       rect:
         serializedVersion: 2
         x: 256
@@ -1109,14 +1115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7484c2a8d2fdfd30800000000000000
-      internalID: 4466993417679045759
+      spriteID: e4285b645f2da5f40800000000000000
+      internalID: 5718114627795386958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_20
+      name: steel_leggins_20
       rect:
         serializedVersion: 2
         x: 320
@@ -1130,14 +1136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6350ceefc516e2810800000000000000
-      internalID: 1742437157880726838
+      spriteID: 34b766b8437c14250800000000000000
+      internalID: 5927237613087259459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_21
+      name: steel_leggins_21
       rect:
         serializedVersion: 2
         x: 384
@@ -1151,14 +1157,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27f13ac109cc77c40800000000000000
-      internalID: 5510097588438900594
+      spriteID: e7e90008bec101260800000000000000
+      internalID: 7066179613134724734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_22
+      name: steel_leggins_22
       rect:
         serializedVersion: 2
         x: 0
@@ -1172,14 +1178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29be886349347a2d0800000000000000
-      internalID: -3267568700784841838
+      spriteID: 73478bbf596a8d9a0800000000000000
+      internalID: -6208028923226721225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_23
+      name: steel_leggins_23
       rect:
         serializedVersion: 2
         x: 64
@@ -1193,14 +1199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c02e7f94cbb77b210800000000000000
-      internalID: 1348682662045803020
+      spriteID: 64fcae4076efe1d80800000000000000
+      internalID: -8277899346642809018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_24
+      name: steel_leggins_24
       rect:
         serializedVersion: 2
         x: 128
@@ -1214,14 +1220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dbab0ffca3c3e170800000000000000
-      internalID: 8206618093779921881
+      spriteID: b597e3c1cc74b3ab0800000000000000
+      internalID: -5027345617056269989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_25
+      name: steel_leggins_25
       rect:
         serializedVersion: 2
         x: 192
@@ -1235,14 +1241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa8af557379237010800000000000000
-      internalID: 1185336702795753642
+      spriteID: ed1755389400503d0800000000000000
+      internalID: -3241184041087176226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_26
+      name: steel_leggins_26
       rect:
         serializedVersion: 2
         x: 256
@@ -1256,14 +1262,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f613d5dccc8695b70800000000000000
-      internalID: 8888250568420438383
+      spriteID: 5637215e1bb308c50800000000000000
+      internalID: 6665393083746775909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_27
+      name: steel_leggins_27
       rect:
         serializedVersion: 2
         x: 320
@@ -1277,14 +1283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dd963bb911982d40800000000000000
-      internalID: 5559853279690005970
+      spriteID: 191d195f34546a300800000000000000
+      internalID: 262973786432852369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_28
+      name: steel_leggins_28
       rect:
         serializedVersion: 2
         x: 384
@@ -1298,14 +1304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00fadb80ea99ee940800000000000000
-      internalID: 5327364381975883520
+      spriteID: 57ee69b5377c5dd50800000000000000
+      internalID: 6761529713838452341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_29
+      name: steel_leggins_29
       rect:
         serializedVersion: 2
         x: 0
@@ -1319,14 +1325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88d9fe8158cb36a30800000000000000
-      internalID: 4207413756729204104
+      spriteID: 0a71c6207737cf380800000000000000
+      internalID: -8936140605630965856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_30
+      name: steel_leggins_30
       rect:
         serializedVersion: 2
         x: 64
@@ -1340,14 +1346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e545e6e2343cb92c0800000000000000
-      internalID: -4423727515652172706
+      spriteID: 07f1ed6a6d247fd50800000000000000
+      internalID: 6770954054464839536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_31
+      name: steel_leggins_31
       rect:
         serializedVersion: 2
         x: 128
@@ -1361,14 +1367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b812b05e4c93513c0800000000000000
-      internalID: -4389538743983595125
+      spriteID: c41fa89127cc803f0800000000000000
+      internalID: -934272132252503732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_32
+      name: steel_leggins_32
       rect:
         serializedVersion: 2
         x: 192
@@ -1382,14 +1388,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f340a05aa81efd0800000000000000
-      internalID: -2314416292049436817
+      spriteID: e0d4de97c2a25bd90800000000000000
+      internalID: -7082708468457714418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_33
+      name: steel_leggins_33
       rect:
         serializedVersion: 2
         x: 256
@@ -1403,14 +1409,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7116b79363b237ca0800000000000000
-      internalID: -6020420764971605737
+      spriteID: 6dad3966a87ce7140800000000000000
+      internalID: 4719428856771238614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_34
+      name: steel_leggins_34
       rect:
         serializedVersion: 2
         x: 320
@@ -1424,14 +1430,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48064b57ab3662f40800000000000000
-      internalID: 5703355630601134212
+      spriteID: c9d135cfb1c1cbb10800000000000000
+      internalID: 1998503241168657820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_35
+      name: steel_leggins_35
       rect:
         serializedVersion: 2
         x: 384
@@ -1445,14 +1451,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062b803b95a83f5d0800000000000000
-      internalID: -3029926006429797792
+      spriteID: bb8fb8574111b6850800000000000000
+      internalID: 6371204877414824123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_36
+      name: steel_leggins_36
       rect:
         serializedVersion: 2
         x: 448
@@ -1466,14 +1472,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4aa34bfb534ff0800000000000000
-      internalID: -53097635868160739
+      spriteID: 1e3714c79f622a660800000000000000
+      internalID: 7395516391069152225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_37
+      name: steel_leggins_37
       rect:
         serializedVersion: 2
         x: 0
@@ -1487,14 +1493,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 203f0c30d1c38a6f0800000000000000
-      internalID: -673222048977194238
+      spriteID: a029bf084b0777540800000000000000
+      internalID: 5005593431405990410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_38
+      name: steel_leggins_38
       rect:
         serializedVersion: 2
         x: 64
@@ -1508,14 +1514,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d801e09724dd7f790800000000000000
-      internalID: -7496279777166356339
+      spriteID: ff12940df6663d480800000000000000
+      internalID: -8875637810195258881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_39
+      name: steel_leggins_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1529,14 +1535,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9146a86464d2016d0800000000000000
-      internalID: -3021865570111167463
+      spriteID: 9d94c5a391b11d600800000000000000
+      internalID: 491203629527353817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_40
+      name: steel_leggins_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1550,14 +1556,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00e5bc4c7ad70cd70800000000000000
-      internalID: 9061380609784110592
+      spriteID: 88395e90bf039e9b0800000000000000
+      internalID: -5050451652358335608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_41
+      name: steel_leggins_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1571,14 +1577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cdf49c19af92d0800000000000000
-      internalID: -3269708864223853646
+      spriteID: e81b2edf8b9ac2eb0800000000000000
+      internalID: -4743229695529406066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_42
+      name: steel_leggins_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1592,14 +1598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89af1f5e7e0837ce0800000000000000
-      internalID: -1408640524953191784
+      spriteID: b4cbd70e2161e5970800000000000000
+      internalID: 8745451796731640907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_43
+      name: steel_leggins_43
       rect:
         serializedVersion: 2
         x: 384
@@ -1613,14 +1619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49f9e862d4450f670800000000000000
-      internalID: 8570442781222150036
+      spriteID: 6c68277808ff31ad0800000000000000
+      internalID: -2732559621390432570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_44
+      name: steel_leggins_44
       rect:
         serializedVersion: 2
         x: 448
@@ -1634,14 +1640,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb5334aec1a6faad0800000000000000
-      internalID: -2688813780094995009
+      spriteID: 0ac5a043c43e198c0800000000000000
+      internalID: -3994161478070805344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_45
+      name: steel_leggins_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1655,14 +1661,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb4b60b8d9c9bf770800000000000000
-      internalID: 8645676110124070078
+      spriteID: 54a00fe4974ff8780800000000000000
+      internalID: -8678449155067082171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_46
+      name: steel_leggins_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1676,14 +1682,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdbe06582f1509fd0800000000000000
-      internalID: -2337278104543630372
+      spriteID: df1ccf04c61ec90a0800000000000000
+      internalID: -6873371076211195395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_47
+      name: steel_leggins_47
       rect:
         serializedVersion: 2
         x: 128
@@ -1697,14 +1703,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4df657d30e2e48f0800000000000000
-      internalID: -554455110087410358
+      spriteID: 25d785ca808242010800000000000000
+      internalID: 1163098621484760402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_48
+      name: steel_leggins_48
       rect:
         serializedVersion: 2
         x: 192
@@ -1718,14 +1724,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 565cbb0613bbe2d10800000000000000
-      internalID: 2102823896779310437
+      spriteID: d28468f905e771e30800000000000000
+      internalID: 4474183639554738221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_49
+      name: steel_leggins_49
       rect:
         serializedVersion: 2
         x: 256
@@ -1739,14 +1745,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0fddbd93c951d340800000000000000
-      internalID: 4886785767373659916
+      spriteID: c407a5ee490fd00b0800000000000000
+      internalID: -5760683825892265908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_50
+      name: steel_leggins_50
       rect:
         serializedVersion: 2
         x: 320
@@ -1760,14 +1766,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5b8df86081728220800000000000000
-      internalID: 2486674740593134430
+      spriteID: 7dadf02af96723b20800000000000000
+      internalID: 3112680720457259735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_51
+      name: steel_leggins_51
       rect:
         serializedVersion: 2
         x: 384
@@ -1781,14 +1787,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ffab62630ec97e30800000000000000
-      internalID: 4501855816464969713
+      spriteID: a8923134f189b2380800000000000000
+      internalID: -8994928570705696374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_52
+      name: steel_leggins_52
       rect:
         serializedVersion: 2
         x: 448
@@ -1802,14 +1808,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 970c060ca7043e110800000000000000
-      internalID: 1288944814315847801
+      spriteID: 637a2f7ae967fe680800000000000000
+      internalID: -8723623529398753482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_53
+      name: steel_leggins_53
       rect:
         serializedVersion: 2
         x: 0
@@ -1823,14 +1829,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908dde78ba226050800000000000000
-      internalID: 5792239042642673814
+      spriteID: 59491310cf59c4d60800000000000000
+      internalID: 7875834757948478613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_54
+      name: steel_leggins_54
       rect:
         serializedVersion: 2
         x: 64
@@ -1844,14 +1850,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 852b8942b24815080800000000000000
-      internalID: -9200427242908765608
+      spriteID: 67381003493c72be0800000000000000
+      internalID: -1502016909476789386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_55
+      name: steel_leggins_55
       rect:
         serializedVersion: 2
         x: 128
@@ -1865,14 +1871,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38ba0689cf96ab90800000000000000
-      internalID: -7230916463810660293
+      spriteID: 1fc7193a146dbd280800000000000000
+      internalID: -9017378251473847055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_56
+      name: steel_leggins_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1886,14 +1892,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95bf5c3027eb7aba0800000000000000
-      internalID: -6077679775214339239
+      spriteID: abfb9ccc6b6c89840800000000000000
+      internalID: 5231149455612952506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_57
+      name: steel_leggins_57
       rect:
         serializedVersion: 2
         x: 256
@@ -1907,14 +1913,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f5ac1fd5220c04e0800000000000000
-      internalID: -2014232571661212167
+      spriteID: bc1f490268d698870800000000000000
+      internalID: 8685593779200389579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_58
+      name: steel_leggins_58
       rect:
         serializedVersion: 2
         x: 320
@@ -1928,14 +1934,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ba5c194144f58c0800000000000000
-      internalID: -4008410288200766598
+      spriteID: 15246d8166a29b240800000000000000
+      internalID: 4807920695186440785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_59
+      name: steel_leggins_59
       rect:
         serializedVersion: 2
         x: 384
@@ -1949,14 +1955,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600af5af5d1932700800000000000000
-      internalID: 514415130665000966
+      spriteID: 9c9d2e6507f87e610800000000000000
+      internalID: 1650445501111392713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_60
+      name: steel_leggins_60
       rect:
         serializedVersion: 2
         x: 448
@@ -1970,14 +1976,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 718b23b93817df470800000000000000
-      internalID: 8430018887565883415
+      spriteID: f2cb5532d9039d8a0800000000000000
+      internalID: -6279934753930626001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_61
+      name: steel_leggins_61
       rect:
         serializedVersion: 2
         x: 0
@@ -1991,14 +1997,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b62863de74922e20800000000000000
-      internalID: 3324382747386455729
+      spriteID: 39a94dffde59f6d70800000000000000
+      internalID: 9038607826587785875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_62
+      name: steel_leggins_62
       rect:
         serializedVersion: 2
         x: 64
@@ -2012,14 +2018,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aefaa220c1416010800000000000000
-      internalID: 1180296870818938530
+      spriteID: a8d89c8fa04f02460800000000000000
+      internalID: 7215034931008343434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_63
+      name: steel_leggins_63
       rect:
         serializedVersion: 2
         x: 128
@@ -2033,14 +2039,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e8d9ead9b7e098d0800000000000000
-      internalID: -2841516579443058458
+      spriteID: 0c7d6491c0b0101a0800000000000000
+      internalID: -6845177812034857024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_64
+      name: steel_leggins_64
       rect:
         serializedVersion: 2
         x: 192
@@ -2054,14 +2060,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dc0bd47baef151e0800000000000000
-      internalID: -2210705929708827437
+      spriteID: e53cb05bfd4718fa0800000000000000
+      internalID: -5800226340912512162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_65
+      name: steel_leggins_65
       rect:
         serializedVersion: 2
         x: 256
@@ -2075,14 +2081,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 741a9ebff0252fc10800000000000000
-      internalID: 2085819806030340423
+      spriteID: 63b4751e5d84b1760800000000000000
+      internalID: 7429612093723593526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_66
+      name: steel_leggins_66
       rect:
         serializedVersion: 2
         x: 320
@@ -2096,14 +2102,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eee0edad383777890800000000000000
-      internalID: -7460367247566041362
+      spriteID: 87ad5598532918880800000000000000
+      internalID: -8610440253920650632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_67
+      name: steel_leggins_67
       rect:
         serializedVersion: 2
         x: 384
@@ -2117,14 +2123,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1424c8466710a0a80800000000000000
-      internalID: -8499979738703707583
+      spriteID: 1eae4ca98df50dfd0800000000000000
+      internalID: -2319248424181634335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_68
+      name: steel_leggins_68
       rect:
         serializedVersion: 2
         x: 448
@@ -2138,14 +2144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeae0df0f32762580800000000000000
-      internalID: -8852262402376275218
+      spriteID: 9f427d5f540c7f0f0800000000000000
+      internalID: -1083185778649520903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_69
+      name: steel_leggins_69
       rect:
         serializedVersion: 2
         x: 512
@@ -2159,14 +2165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 819f7258a9e52ae70800000000000000
-      internalID: 9124959812758010136
+      spriteID: f8712d796c4908310800000000000000
+      internalID: 1405286664411158415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_70
+      name: steel_leggins_70
       rect:
         serializedVersion: 2
         x: 0
@@ -2180,14 +2186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b445ef348c128cf0800000000000000
-      internalID: -251607274846075724
+      spriteID: 7d47cec098e39b1f0800000000000000
+      internalID: -1028722281529183017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_71
+      name: steel_leggins_71
       rect:
         serializedVersion: 2
         x: 64
@@ -2201,14 +2207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5baa1b0717599d1d0800000000000000
-      internalID: -3325462535381865803
+      spriteID: ddea7dd517a6e9fa0800000000000000
+      internalID: -5792075035613614371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_72
+      name: steel_leggins_72
       rect:
         serializedVersion: 2
         x: 128
@@ -2222,14 +2228,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de8c20aa9582a8470800000000000000
-      internalID: 8397568820755220717
+      spriteID: 03794bec6ba9d8fc0800000000000000
+      internalID: -3490964026199599312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_73
+      name: steel_leggins_73
       rect:
         serializedVersion: 2
         x: 192
@@ -2243,14 +2249,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71946186604074140800000000000000
-      internalID: 4703732761374378263
+      spriteID: dc36b4ae6311b2450800000000000000
+      internalID: 6064960250741220301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_74
+      name: steel_leggins_74
       rect:
         serializedVersion: 2
         x: 256
@@ -2264,14 +2270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd1edb28ffc8d77c0800000000000000
-      internalID: -4071943459035029028
+      spriteID: 27a8f4e004fbe96e0800000000000000
+      internalID: -1828814116826936718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_75
+      name: steel_leggins_75
       rect:
         serializedVersion: 2
         x: 320
@@ -2285,14 +2291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a48ed92146ad2b60800000000000000
-      internalID: 7723011734815802537
+      spriteID: 6091cdee87010a2e0800000000000000
+      internalID: -2116673713274611450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_76
+      name: steel_leggins_76
       rect:
         serializedVersion: 2
         x: 384
@@ -2306,14 +2312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 469c85ad542426860800000000000000
-      internalID: 7521647195445578084
+      spriteID: 24883f079112f81b0800000000000000
+      internalID: -5652262614173775806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_77
+      name: steel_leggins_77
       rect:
         serializedVersion: 2
         x: 448
@@ -2327,14 +2333,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45230c5c827b3c60800000000000000
-      internalID: 7798953126886843722
+      spriteID: 23bdd40ae07048de0800000000000000
+      internalID: -1331931830394430670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_78
+      name: steel_leggins_78
       rect:
         serializedVersion: 2
         x: 512
@@ -2348,14 +2354,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7efb53f2509057070800000000000000
-      internalID: 8103393022394613735
+      spriteID: 352ee791da90a2d10800000000000000
+      internalID: 2101502815183495763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_79
+      name: steel_leggins_79
       rect:
         serializedVersion: 2
         x: 0
@@ -2369,14 +2375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8379c6e80b184ed00800000000000000
-      internalID: 1001067612486801208
+      spriteID: deaaef1f5b663c490800000000000000
+      internalID: -7727219604002526483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_80
+      name: steel_leggins_80
       rect:
         serializedVersion: 2
         x: 64
@@ -2390,14 +2396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffffaa0b297fd3bf0800000000000000
-      internalID: -342845787209007105
+      spriteID: 152eb626bf58adbe0800000000000000
+      internalID: -1451700615139040687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_81
+      name: steel_leggins_81
       rect:
         serializedVersion: 2
         x: 128
@@ -2411,14 +2417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae0f289fa27bcc660800000000000000
-      internalID: 7407496882320240874
+      spriteID: 2b91f9cdde6b43dc0800000000000000
+      internalID: -3660099464420451918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_82
+      name: steel_leggins_82
       rect:
         serializedVersion: 2
         x: 192
@@ -2432,14 +2438,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b49843ce8a8045010800000000000000
-      internalID: 1176574924260936011
+      spriteID: 2e8d9944c558ca8f0800000000000000
+      internalID: -527900424974771998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_83
+      name: steel_leggins_83
       rect:
         serializedVersion: 2
         x: 256
@@ -2453,14 +2459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 719b3be9c6b79d680800000000000000
-      internalID: -8729810696231732969
+      spriteID: 71c1a1bd3bece77e0800000000000000
+      internalID: -1765746732012266473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_84
+      name: steel_leggins_84
       rect:
         serializedVersion: 2
         x: 320
@@ -2474,14 +2480,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b8974610782dfeb0800000000000000
-      internalID: -4684543575520208719
+      spriteID: 8a0921082eb567540800000000000000
+      internalID: 5005289064238321832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_85
+      name: steel_leggins_85
       rect:
         serializedVersion: 2
         x: 384
@@ -2495,14 +2501,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76167f4a2ecd2e2b0800000000000000
-      internalID: -5556636124233375385
+      spriteID: 0b7528acb3a8e68f0800000000000000
+      internalID: -545346515460008016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_86
+      name: steel_leggins_86
       rect:
         serializedVersion: 2
         x: 448
@@ -2516,14 +2522,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6925a61b8b9c75a30800000000000000
-      internalID: 4204050572261347990
+      spriteID: 09dfbb2f22aaf9370800000000000000
+      internalID: 8331564902736723344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_87
+      name: steel_leggins_87
       rect:
         serializedVersion: 2
         x: 512
@@ -2537,14 +2543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc71ba53d30cdde00800000000000000
-      internalID: 1071223655509989327
+      spriteID: b2c82a1f46c307d30800000000000000
+      internalID: 4427104837953555499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_88
+      name: steel_leggins_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2558,14 +2564,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fdf501aff86c42f0800000000000000
-      internalID: -987298771173507599
+      spriteID: 6938f159c22e5b910800000000000000
+      internalID: 1852635502841136022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_89
+      name: steel_leggins_89
       rect:
         serializedVersion: 2
         x: 64
@@ -2579,14 +2585,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39604f8c5de50f2f0800000000000000
-      internalID: -941148049827953005
+      spriteID: d6bff1c02201c4e00800000000000000
+      internalID: 1030216153179356013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_90
+      name: steel_leggins_90
       rect:
         serializedVersion: 2
         x: 128
@@ -2600,14 +2606,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b36bc14dee717ff0800000000000000
-      internalID: -40111364193426509
+      spriteID: 9d37fddcf9e8c3170800000000000000
+      internalID: 8159553441893413849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_91
+      name: steel_leggins_91
       rect:
         serializedVersion: 2
         x: 192
@@ -2621,14 +2627,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6694b49a33ec2b230800000000000000
-      internalID: 3653208969029831014
+      spriteID: 46c7dc436f5cd0050800000000000000
+      internalID: 5768484358969982052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_92
+      name: steel_leggins_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2642,14 +2648,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c83f9892fcd0d970800000000000000
-      internalID: 8777758608245864649
+      spriteID: 657bb510e195d53d0800000000000000
+      internalID: -3216316573465987242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_93
+      name: steel_leggins_93
       rect:
         serializedVersion: 2
         x: 320
@@ -2663,14 +2669,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5810fca9760ddf480800000000000000
-      internalID: -8863699348197801595
+      spriteID: 417abc7fd8a2c2740800000000000000
+      internalID: 5128520864904226580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_94
+      name: steel_leggins_94
       rect:
         serializedVersion: 2
         x: 384
@@ -2684,14 +2690,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750b806a783f9cae0800000000000000
-      internalID: -1528422834583850921
+      spriteID: b096a487a22971e90800000000000000
+      internalID: -7055009580148168437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_95
+      name: steel_leggins_95
       rect:
         serializedVersion: 2
         x: 448
@@ -2705,14 +2711,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 697c7642b99272750800000000000000
-      internalID: 6280033951698896790
+      spriteID: 559ead5338a455fd0800000000000000
+      internalID: -2353893302826505899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_96
+      name: steel_leggins_96
       rect:
         serializedVersion: 2
         x: 512
@@ -2726,14 +2732,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70fb16977420e0eb0800000000000000
-      internalID: -4751858050826911993
+      spriteID: 75cd2f2a28acc2800800000000000000
+      internalID: 589068313707076695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_97
+      name: steel_leggins_97
       rect:
         serializedVersion: 2
         x: 0
@@ -2747,14 +2753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487b635316d5764d0800000000000000
-      internalID: -3141439542981642364
+      spriteID: 0eac1d6a44fa0fbb0800000000000000
+      internalID: -4904227284815066400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_98
+      name: steel_leggins_98
       rect:
         serializedVersion: 2
         x: 64
@@ -2768,14 +2774,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7d07748c2a9a0ba0800000000000000
-      internalID: -6121911227465134723
+      spriteID: 9ec4b17e591e60570800000000000000
+      internalID: 8432675386241535209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_99
+      name: steel_leggins_99
       rect:
         serializedVersion: 2
         x: 128
@@ -2789,14 +2795,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f26edad308deef090800000000000000
-      internalID: -7998694753117018577
+      spriteID: f02025192cdf6e800800000000000000
+      internalID: 641479009050427919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_100
+      name: steel_leggins_100
       rect:
         serializedVersion: 2
         x: 192
@@ -2810,14 +2816,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c73b7fd1bfb4bf990800000000000000
-      internalID: -7351198424840555652
+      spriteID: 0b6374e691dfe7f10800000000000000
+      internalID: 2269529547907479216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_101
+      name: steel_leggins_101
       rect:
         serializedVersion: 2
         x: 256
@@ -2831,14 +2837,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 029fbf2417226a960800000000000000
-      internalID: 7612810089966860576
+      spriteID: 60e4e5518f9d4a350800000000000000
+      internalID: 6027181860862184966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_102
+      name: steel_leggins_102
       rect:
         serializedVersion: 2
         x: 320
@@ -2852,14 +2858,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 570abc4f9228a0a10800000000000000
-      internalID: 1876455311465488501
+      spriteID: d0fbe6b2b89c866f0800000000000000
+      internalID: -691080943235055859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_103
+      name: steel_leggins_103
       rect:
         serializedVersion: 2
         x: 0
@@ -2873,14 +2879,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2dcfee34eb505980800000000000000
-      internalID: -8552234656509997781
+      spriteID: 95889242267884ca0800000000000000
+      internalID: -6032422845279532967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_104
+      name: steel_leggins_104
       rect:
         serializedVersion: 2
         x: 64
@@ -2894,14 +2900,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf7b7713bac5b2500800000000000000
-      internalID: 372493284527290364
+      spriteID: ab05c51e5f65ff230800000000000000
+      internalID: 3674751435005513914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_105
+      name: steel_leggins_105
       rect:
         serializedVersion: 2
         x: 128
@@ -2915,14 +2921,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ec37a172939837e0800000000000000
-      internalID: -1785514995071107864
+      spriteID: 043e4cda6ac3f5820800000000000000
+      internalID: 2909110570882229056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_106
+      name: steel_leggins_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2936,14 +2942,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9abd630a0fcf103b0800000000000000
-      internalID: -5547875155533440087
+      spriteID: de73ed6e0e4803800800000000000000
+      internalID: 590117652666398701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_107
+      name: steel_leggins_107
       rect:
         serializedVersion: 2
         x: 256
@@ -2957,14 +2963,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7baa42ac6467750800000000000000
-      internalID: 6302302562564093891
+      spriteID: 5457d2ffeab939c70800000000000000
+      internalID: 8976689658187314501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_108
+      name: steel_leggins_108
       rect:
         serializedVersion: 2
         x: 320
@@ -2978,14 +2984,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 398b0c0f71dc9a6a0800000000000000
-      internalID: -6437388689642309485
+      spriteID: 0a06e555293e8e3d0800000000000000
+      internalID: -3177039319472906080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_109
+      name: steel_leggins_109
       rect:
         serializedVersion: 2
         x: 0
@@ -2999,14 +3005,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cef2fadbdc0be0cc0800000000000000
-      internalID: -3742859842601144340
+      spriteID: 3ae672e1072716950800000000000000
+      internalID: 6440554767984324259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_110
+      name: steel_leggins_110
       rect:
         serializedVersion: 2
         x: 64
@@ -3020,14 +3026,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c01a0f302e7f91e0800000000000000
-      internalID: -2188892216917094203
+      spriteID: c157f82e1a4f9a2d0800000000000000
+      internalID: -3266811078552619748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_111
+      name: steel_leggins_111
       rect:
         serializedVersion: 2
         x: 128
@@ -3041,14 +3047,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fe8a0a6108895c70800000000000000
-      internalID: 8960342473285734135
+      spriteID: 3b4831c1064f66b80800000000000000
+      internalID: -8401759361188002637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_112
+      name: steel_leggins_112
       rect:
         serializedVersion: 2
         x: 192
@@ -3062,14 +3068,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5e14e70f1589b8b0800000000000000
-      internalID: -5135927531716469155
+      spriteID: f48d67a46cc787200800000000000000
+      internalID: 178029376375806031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_113
+      name: steel_leggins_113
       rect:
         serializedVersion: 2
         x: 256
@@ -3083,14 +3089,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836d4317bf9f25bc0800000000000000
-      internalID: -3795696677588511176
+      spriteID: ac95a162fa9729070800000000000000
+      internalID: 8111679672013183434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_114
+      name: steel_leggins_114
       rect:
         serializedVersion: 2
         x: 320
@@ -3104,14 +3110,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1327785b6fd4e1b90800000000000000
-      internalID: -7269287026526555599
+      spriteID: 6878d435dfbe20240800000000000000
+      internalID: 4756623629713508230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_115
+      name: steel_leggins_115
       rect:
         serializedVersion: 2
         x: 0
@@ -3125,14 +3131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3962dd7ae75783df0800000000000000
-      internalID: -200280996575369581
+      spriteID: 596cd543a078baec0800000000000000
+      internalID: -3554599002980890987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_116
+      name: steel_leggins_116
       rect:
         serializedVersion: 2
         x: 64
@@ -3146,14 +3152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7bed2fdc3b5f2000800000000000000
-      internalID: 13329640905894783
+      spriteID: 287c1ef76cd95fb20800000000000000
+      internalID: 3167611388799600514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_117
+      name: steel_leggins_117
       rect:
         serializedVersion: 2
         x: 128
@@ -3167,14 +3173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11b83047118d51a90800000000000000
-      internalID: -7343726047885292783
+      spriteID: 5d9cd0dcdac83d480800000000000000
+      internalID: -8875595762519651883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_118
+      name: steel_leggins_118
       rect:
         serializedVersion: 2
         x: 192
@@ -3188,14 +3194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: add02a1ebd2559ed0800000000000000
-      internalID: -2407927321422852646
+      spriteID: b28ab7c70943cb240800000000000000
+      internalID: 4808776297293260843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_119
+      name: steel_leggins_119
       rect:
         serializedVersion: 2
         x: 256
@@ -3209,14 +3215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb4956ee8639e3e10800000000000000
-      internalID: 2179341348579415231
+      spriteID: 6d046b19d339636a0800000000000000
+      internalID: -6469821922024210218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_120
+      name: steel_leggins_120
       rect:
         serializedVersion: 2
         x: 320
@@ -3230,14 +3236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3468326016e32b20800000000000000
-      internalID: 3108581125857502269
+      spriteID: 6ac09fb41fec06b40800000000000000
+      internalID: 5431568686365871270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_121
+      name: steel_leggins_121
       rect:
         serializedVersion: 2
         x: 0
@@ -3251,14 +3257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5568919922d75e970800000000000000
-      internalID: 8783564235806967381
+      spriteID: 652016e669e831040800000000000000
+      internalID: 4617190819732980310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_122
+      name: steel_leggins_122
       rect:
         serializedVersion: 2
         x: 64
@@ -3272,14 +3278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc126a2839c52b9f0800000000000000
-      internalID: -454198823789125173
+      spriteID: d70ee2f30f49c6650800000000000000
+      internalID: 6227516144319651965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_123
+      name: steel_leggins_123
       rect:
         serializedVersion: 2
         x: 128
@@ -3293,14 +3299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 807c9cb2d2f858500800000000000000
-      internalID: 397881566263101192
+      spriteID: b5e86244367cc8a60800000000000000
+      internalID: 7677730693918920283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_124
+      name: steel_leggins_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3314,14 +3320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 686af936acb322c00800000000000000
-      internalID: 874327018104137350
+      spriteID: a03b0eaad2cf76ed0800000000000000
+      internalID: -2420689001617771766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_125
+      name: steel_leggins_125
       rect:
         serializedVersion: 2
         x: 256
@@ -3335,14 +3341,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d81263206824d2a0800000000000000
-      internalID: -6713696751126964014
+      spriteID: 3cbcf31a13d11caf0800000000000000
+      internalID: -377988794726495293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_126
+      name: steel_leggins_126
       rect:
         serializedVersion: 2
         x: 320
@@ -3356,14 +3362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af2bb408e6687cfd0800000000000000
-      internalID: -2321739273729232134
+      spriteID: 57c76e2614f23e840800000000000000
+      internalID: 5252093548322782325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_127
+      name: steel_leggins_127
       rect:
         serializedVersion: 2
         x: 384
@@ -3377,14 +3383,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d45b1e0fe2e88aa0800000000000000
-      internalID: -6158422974067419945
+      spriteID: 166f9c7cacbf346e0800000000000000
+      internalID: -1854361773192645023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_128
+      name: steel_leggins_128
       rect:
         serializedVersion: 2
         x: 448
@@ -3398,14 +3404,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f85ee8d742ac5f7d0800000000000000
-      internalID: -2885177728186784369
+      spriteID: a814b9b2cc7415590800000000000000
+      internalID: -7687284146714230390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_129
+      name: steel_leggins_129
       rect:
         serializedVersion: 2
         x: 512
@@ -3419,14 +3425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908f06cdd81a8a60800000000000000
-      internalID: 7676975855596175510
+      spriteID: f4f5954e41d5bdd30800000000000000
+      internalID: 4457258600525029199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_130
+      name: steel_leggins_130
       rect:
         serializedVersion: 2
         x: 576
@@ -3440,14 +3446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 366bbac186a872d70800000000000000
-      internalID: 9018328958594954851
+      spriteID: c0478a109e659b650800000000000000
+      internalID: 6249121516708459532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_131
+      name: steel_leggins_131
       rect:
         serializedVersion: 2
         x: 640
@@ -3461,14 +3467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e71ee90a77ae37000800000000000000
-      internalID: 32627421838500222
+      spriteID: 9d4a86c9903f5a850800000000000000
+      internalID: 6387778869099275481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_132
+      name: steel_leggins_132
       rect:
         serializedVersion: 2
         x: 704
@@ -3482,14 +3488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce9349c5ff3a61e90800000000000000
-      internalID: -7055271449064097300
+      spriteID: ba84037fbf6b8aa30800000000000000
+      internalID: 4226829443587393707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_133
+      name: steel_leggins_133
       rect:
         serializedVersion: 2
         x: 768
@@ -3503,14 +3509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79b10affcc3f11f80800000000000000
-      internalID: -8137454989894214761
+      spriteID: ed2dd9a6e8da448b0800000000000000
+      internalID: -5168815645128797474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_134
+      name: steel_leggins_134
       rect:
         serializedVersion: 2
         x: 0
@@ -3524,14 +3530,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 244136b5040317c60800000000000000
-      internalID: 7814079881433781314
+      spriteID: 216a8b787b5446720800000000000000
+      internalID: 2838470319708612114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_135
+      name: steel_leggins_135
       rect:
         serializedVersion: 2
         x: 64
@@ -3545,14 +3551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ee405e547de874f0800000000000000
-      internalID: -830653047195545880
+      spriteID: 5fbf9f576cbe19fe0800000000000000
+      internalID: -1183905989406360587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_136
+      name: steel_leggins_136
       rect:
         serializedVersion: 2
         x: 128
@@ -3566,14 +3572,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12c3a9aae0f8130800000000000000
-      internalID: 3571089155422953958
+      spriteID: 49f7b812507a6ded0800000000000000
+      internalID: -2389538911794004076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_137
+      name: steel_leggins_137
       rect:
         serializedVersion: 2
         x: 192
@@ -3587,14 +3593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c433b0cf043677770800000000000000
-      internalID: 8608458343499641676
+      spriteID: dea2881705279ec90800000000000000
+      internalID: -7140050044391511315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_138
+      name: steel_leggins_138
       rect:
         serializedVersion: 2
         x: 256
@@ -3608,14 +3614,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a66f06afb6ffe31c0800000000000000
-      internalID: -4521896136606157206
+      spriteID: 4724fa3f127e72680800000000000000
+      internalID: -8779794815527206284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_139
+      name: steel_leggins_139
       rect:
         serializedVersion: 2
         x: 320
@@ -3629,14 +3635,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8de03855a7a59990800000000000000
-      internalID: -7379808085785645685
+      spriteID: 93769acc5781bf070800000000000000
+      internalID: 8141127645626197817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_140
+      name: steel_leggins_140
       rect:
         serializedVersion: 2
         x: 384
@@ -3650,14 +3656,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63de62514361a4350800000000000000
-      internalID: 6001633866373590326
+      spriteID: 6bb5e383ba671fe90800000000000000
+      internalID: -6993678268574573642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_141
+      name: steel_leggins_141
       rect:
         serializedVersion: 2
         x: 448
@@ -3671,14 +3677,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca6916f3e8432e50800000000000000
-      internalID: 6783345607673735882
+      spriteID: 56e2bd7d198017cd0800000000000000
+      internalID: -2562257290512355739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_142
+      name: steel_leggins_142
       rect:
         serializedVersion: 2
         x: 512
@@ -3692,14 +3698,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c286110419cd42f60800000000000000
-      internalID: 8008768553774835756
+      spriteID: 884242a1b8c810050800000000000000
+      internalID: 5765043527077864584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_143
+      name: steel_leggins_143
       rect:
         serializedVersion: 2
         x: 576
@@ -3713,14 +3719,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c0cec801626a4950800000000000000
-      internalID: 6434063186551292103
+      spriteID: 0ecc5a428bd0e84d0800000000000000
+      internalID: -3130549606435926816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_144
+      name: steel_leggins_144
       rect:
         serializedVersion: 2
         x: 640
@@ -3734,14 +3740,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba2e54c70cd07fd10800000000000000
-      internalID: 2159209666717278891
+      spriteID: ea5533862a5e60aa0800000000000000
+      internalID: -6195011751705881170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_145
+      name: steel_leggins_145
       rect:
         serializedVersion: 2
         x: 704
@@ -3755,14 +3761,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c08a14d64f1d3f70800000000000000
-      internalID: 9168518805462876353
+      spriteID: 5aa476cbf2c4f3e80800000000000000
+      internalID: -8196749028882953563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_146
+      name: steel_leggins_146
       rect:
         serializedVersion: 2
         x: 768
@@ -3776,14 +3782,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d1dcb048ec4a6cb0800000000000000
-      internalID: -4869995486645530157
+      spriteID: f156e8890c109faf0800000000000000
+      internalID: -362256368321796833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_147
+      name: steel_leggins_147
       rect:
         serializedVersion: 2
         x: 0
@@ -3797,14 +3803,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5bc562bbddcd7f140800000000000000
-      internalID: 4753510776598584501
+      spriteID: 4ee34f3935bdcf050800000000000000
+      internalID: 5835780369176346340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_148
+      name: steel_leggins_148
       rect:
         serializedVersion: 2
         x: 64
@@ -3818,14 +3824,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2befd3cafcea717d0800000000000000
-      internalID: -2947695224119492942
+      spriteID: b4c838ad370880fd0800000000000000
+      internalID: -2375507568362288053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_149
+      name: steel_leggins_149
       rect:
         serializedVersion: 2
         x: 128
@@ -3839,14 +3845,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efe727a6dd3314cc0800000000000000
-      internalID: -3728641990419382530
+      spriteID: 223987d9399e9df10800000000000000
+      internalID: 2295122305333367586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_150
+      name: steel_leggins_150
       rect:
         serializedVersion: 2
         x: 192
@@ -3860,14 +3866,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d769a6c982252f1a0800000000000000
-      internalID: -6777264154862774659
+      spriteID: 6e42f7c05d01b01d0800000000000000
+      internalID: -3383592187815058202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_151
+      name: steel_leggins_151
       rect:
         serializedVersion: 2
         x: 256
@@ -3881,14 +3887,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9eaff3270c073060800000000000000
-      internalID: 6933023376168431261
+      spriteID: cd75cfc6cbc200290800000000000000
+      internalID: -7926286156378122276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_152
+      name: steel_leggins_152
       rect:
         serializedVersion: 2
         x: 320
@@ -3902,14 +3908,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0930e5c5a2f10b140800000000000000
-      internalID: 4733317475165143952
+      spriteID: 4ce619783d93f40f0800000000000000
+      internalID: -1130621400771367228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_153
+      name: steel_leggins_153
       rect:
         serializedVersion: 2
         x: 384
@@ -3923,14 +3929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7acbd351c11b08cc0800000000000000
-      internalID: -3710771358779720537
+      spriteID: 7c97921d48ef35210800000000000000
+      internalID: 1320678962147981767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_154
+      name: steel_leggins_154
       rect:
         serializedVersion: 2
         x: 448
@@ -3944,14 +3950,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd4debb728759400800000000000000
-      internalID: 330302259733548480
+      spriteID: 04301688cb4f84e00800000000000000
+      internalID: 1029341605433246528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_155
+      name: steel_leggins_155
       rect:
         serializedVersion: 2
         x: 512
@@ -3965,14 +3971,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1379bc6c8c9e1bf90800000000000000
-      internalID: -6939508502263261391
+      spriteID: 42b02fd0dde4ee2f0800000000000000
+      internalID: -941728560745149660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_156
+      name: steel_leggins_156
       rect:
         serializedVersion: 2
         x: 576
@@ -3986,14 +3992,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b00393bfcb2d6540800000000000000
-      internalID: 5002702932149469365
+      spriteID: 338da87ec464d17f0800000000000000
+      internalID: -640278275900647373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_157
+      name: steel_leggins_157
       rect:
         serializedVersion: 2
         x: 640
@@ -4007,14 +4013,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a486fd677e1618d90800000000000000
-      internalID: -7097283890999498678
+      spriteID: a9a4cb0671d618220800000000000000
+      internalID: 2486388416459852442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_158
+      name: steel_leggins_158
       rect:
         serializedVersion: 2
         x: 704
@@ -4028,14 +4034,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17fecfac353830510800000000000000
-      internalID: 1514198295637716849
+      spriteID: 8ddfe103f600a57b0800000000000000
+      internalID: -5234871139316073000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_159
+      name: steel_leggins_159
       rect:
         serializedVersion: 2
         x: 768
@@ -4049,14 +4055,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a4adf740b5945340800000000000000
-      internalID: 4851667282939454625
+      spriteID: 4fc1ee5bb000356d0800000000000000
+      internalID: -3003056476229067532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_160
+      name: steel_leggins_160
       rect:
         serializedVersion: 2
         x: 0
@@ -4070,14 +4076,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e9b7cf342deab750800000000000000
-      internalID: 6321625766912571876
+      spriteID: 41f75ec684d3fa900800000000000000
+      internalID: 697843848539635476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_161
+      name: steel_leggins_161
       rect:
         serializedVersion: 2
         x: 64
@@ -4091,14 +4097,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44ab03373384dac00800000000000000
-      internalID: 913465685239183940
+      spriteID: fbbbd6b66e7cbcf90800000000000000
+      internalID: -6932227408947987521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_162
+      name: steel_leggins_162
       rect:
         serializedVersion: 2
         x: 128
@@ -4112,14 +4118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7519a8473168810800000000000000
-      internalID: 1767121295051413413
+      spriteID: 17513224909e042e0800000000000000
+      internalID: -2143457196654783119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_163
+      name: steel_leggins_163
       rect:
         serializedVersion: 2
         x: 192
@@ -4133,14 +4139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6321ce9ea04cdf0800000000000000
-      internalID: -160991686874220841
+      spriteID: 6d9a5ffb07cf98210800000000000000
+      internalID: 1335876325679147478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_164
+      name: steel_leggins_164
       rect:
         serializedVersion: 2
         x: 256
@@ -4154,14 +4160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6195db6989fb8ad0800000000000000
-      internalID: -2698789183063486101
+      spriteID: 43fb3e6a9894c1020800000000000000
+      internalID: 2313805164120882996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_165
+      name: steel_leggins_165
       rect:
         serializedVersion: 2
         x: 320
@@ -4175,14 +4181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9067cedc299949d0800000000000000
-      internalID: -2789530076184092515
+      spriteID: 8f96a0815a9636e70800000000000000
+      internalID: 9107239029267130872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_166
+      name: steel_leggins_166
       rect:
         serializedVersion: 2
         x: 384
@@ -4196,14 +4202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e91ed764fe4218800800000000000000
-      internalID: 612811634397536670
+      spriteID: bc4b4594dfa3e6cf0800000000000000
+      internalID: -257203269182114613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_167
+      name: steel_leggins_167
       rect:
         serializedVersion: 2
         x: 448
@@ -4217,14 +4223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bf3252be4cc74e90800000000000000
-      internalID: -7041434853999231050
+      spriteID: d0bb69bab30383c60800000000000000
+      internalID: 7798035787631999757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_168
+      name: steel_leggins_168
       rect:
         serializedVersion: 2
         x: 512
@@ -4238,14 +4244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73a0a0df4de27fc40800000000000000
-      internalID: 5545952958443293239
+      spriteID: 4cfd58fcc40a2d9b0800000000000000
+      internalID: -5056803179824029756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_169
+      name: steel_leggins_169
       rect:
         serializedVersion: 2
         x: 576
@@ -4259,14 +4265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5f67e799d2f0cf10800000000000000
-      internalID: 2288095627074563934
+      spriteID: 67c989cb53c418dc0800000000000000
+      internalID: -3638543230257554314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_170
+      name: steel_leggins_170
       rect:
         serializedVersion: 2
         x: 640
@@ -4280,14 +4286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 532523e385ab30500800000000000000
-      internalID: 361337283283145269
+      spriteID: 26d7d57f817130b60800000000000000
+      internalID: 7711032382985174370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_171
+      name: steel_leggins_171
       rect:
         serializedVersion: 2
         x: 704
@@ -4301,14 +4307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34450ddc0ef9b5d90800000000000000
-      internalID: -7107911798999722941
+      spriteID: b198466d3d3b55c50800000000000000
+      internalID: 6653421746926160155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_172
+      name: steel_leggins_172
       rect:
         serializedVersion: 2
         x: 768
@@ -4322,14 +4328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b28360e25dda98e90800000000000000
-      internalID: -7022891012795779029
+      spriteID: 97b52c64e2170c140800000000000000
+      internalID: 4737911251563338617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_173
+      name: steel_leggins_173
       rect:
         serializedVersion: 2
         x: 0
@@ -4343,14 +4349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ba2b14f9fabd3640800000000000000
-      internalID: 5061407138939349685
+      spriteID: 8bff337ed4f9fe240800000000000000
+      internalID: 4823248882877333432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_174
+      name: steel_leggins_174
       rect:
         serializedVersion: 2
         x: 64
@@ -4364,14 +4370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ae3dfd1c69c81a40800000000000000
-      internalID: 5339238824444509861
+      spriteID: 92072cbe48e26c690800000000000000
+      internalID: -7582321774205702103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_175
+      name: steel_leggins_175
       rect:
         serializedVersion: 2
         x: 128
@@ -4385,14 +4391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e92f6aa7e85773980800000000000000
-      internalID: -8559243311990771042
+      spriteID: 0e0f6fa8b3d4c9bc0800000000000000
+      internalID: -3775057469513469728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_176
+      name: steel_leggins_176
       rect:
         serializedVersion: 2
         x: 192
@@ -4406,35 +4412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60184bbe1ebb727c0800000000000000
-      internalID: -4096098757073665786
+      spriteID: cc36007caf514e790800000000000000
+      internalID: -7501846912467704884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_177
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd4f80676575774f0800000000000000
-      internalID: -831099577367464737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: steel_helmet_178
+      name: steel_leggins_177
       rect:
         serializedVersion: 2
         x: 320
@@ -4446,10 +4431,10 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a7f2ee719847e2d4bb72faa0a47d6a85
-      internalID: 56923198
+      spriteID: 5a39e770312d4a8d0800000000000000
+      internalID: -2835910886164622427
       vertices: []
       indices: 
       edges: []
@@ -4457,7 +4442,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3b1f81d695b1a3f408ed788d6526ea13
+    spriteID: 989f38c04e93ba045b71b7a543f9f7a9
     internalID: 0
     vertices: []
     indices: 
@@ -4465,185 +4450,184 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      steel_helmet_0: 6171749998868576760
-      steel_helmet_1: 12241374522416488
-      steel_helmet_10: -586560210239163906
-      steel_helmet_100: -7351198424840555652
-      steel_helmet_101: 7612810089966860576
-      steel_helmet_102: 1876455311465488501
-      steel_helmet_103: -8552234656509997781
-      steel_helmet_104: 372493284527290364
-      steel_helmet_105: -1785514995071107864
-      steel_helmet_106: -5547875155533440087
-      steel_helmet_107: 6302302562564093891
-      steel_helmet_108: -6437388689642309485
-      steel_helmet_109: -3742859842601144340
-      steel_helmet_11: -1972632962815971818
-      steel_helmet_110: -2188892216917094203
-      steel_helmet_111: 8960342473285734135
-      steel_helmet_112: -5135927531716469155
-      steel_helmet_113: -3795696677588511176
-      steel_helmet_114: -7269287026526555599
-      steel_helmet_115: -200280996575369581
-      steel_helmet_116: 13329640905894783
-      steel_helmet_117: -7343726047885292783
-      steel_helmet_118: -2407927321422852646
-      steel_helmet_119: 2179341348579415231
-      steel_helmet_12: -1713682853992552001
-      steel_helmet_120: 3108581125857502269
-      steel_helmet_121: 8783564235806967381
-      steel_helmet_122: -454198823789125173
-      steel_helmet_123: 397881566263101192
-      steel_helmet_124: 874327018104137350
-      steel_helmet_125: -6713696751126964014
-      steel_helmet_126: -2321739273729232134
-      steel_helmet_127: -6158422974067419945
-      steel_helmet_128: -2885177728186784369
-      steel_helmet_129: 7676975855596175510
-      steel_helmet_13: 3439335505553292134
-      steel_helmet_130: 9018328958594954851
-      steel_helmet_131: 32627421838500222
-      steel_helmet_132: -7055271449064097300
-      steel_helmet_133: -8137454989894214761
-      steel_helmet_134: 7814079881433781314
-      steel_helmet_135: -830653047195545880
-      steel_helmet_136: 3571089155422953958
-      steel_helmet_137: 8608458343499641676
-      steel_helmet_138: -4521896136606157206
-      steel_helmet_139: -7379808085785645685
-      steel_helmet_14: 2892035228080534227
-      steel_helmet_140: 6001633866373590326
-      steel_helmet_141: 6783345607673735882
-      steel_helmet_142: 8008768553774835756
-      steel_helmet_143: 6434063186551292103
-      steel_helmet_144: 2159209666717278891
-      steel_helmet_145: 9168518805462876353
-      steel_helmet_146: -4869995486645530157
-      steel_helmet_147: 4753510776598584501
-      steel_helmet_148: -2947695224119492942
-      steel_helmet_149: -3728641990419382530
-      steel_helmet_15: 3313697068908060132
-      steel_helmet_150: -6777264154862774659
-      steel_helmet_151: 6933023376168431261
-      steel_helmet_152: 4733317475165143952
-      steel_helmet_153: -3710771358779720537
-      steel_helmet_154: 330302259733548480
-      steel_helmet_155: -6939508502263261391
-      steel_helmet_156: 5002702932149469365
-      steel_helmet_157: -7097283890999498678
-      steel_helmet_158: 1514198295637716849
-      steel_helmet_159: 4851667282939454625
-      steel_helmet_16: -5567384938589405565
-      steel_helmet_160: 6321625766912571876
-      steel_helmet_161: 913465685239183940
-      steel_helmet_162: 1767121295051413413
-      steel_helmet_163: -160991686874220841
-      steel_helmet_164: -2698789183063486101
-      steel_helmet_165: -2789530076184092515
-      steel_helmet_166: 612811634397536670
-      steel_helmet_167: -7041434853999231050
-      steel_helmet_168: 5545952958443293239
-      steel_helmet_169: 2288095627074563934
-      steel_helmet_17: 7500603439164031947
-      steel_helmet_170: 361337283283145269
-      steel_helmet_171: -7107911798999722941
-      steel_helmet_172: -7022891012795779029
-      steel_helmet_173: 5061407138939349685
-      steel_helmet_174: 5339238824444509861
-      steel_helmet_175: -8559243311990771042
-      steel_helmet_176: -4096098757073665786
-      steel_helmet_177: -831099577367464737
-      steel_helmet_178: 56923198
-      steel_helmet_18: -3644197443859134174
-      steel_helmet_19: 4466993417679045759
-      steel_helmet_2: 6986683232054315680
-      steel_helmet_20: 1742437157880726838
-      steel_helmet_21: 5510097588438900594
-      steel_helmet_22: -3267568700784841838
-      steel_helmet_23: 1348682662045803020
-      steel_helmet_24: 8206618093779921881
-      steel_helmet_25: 1185336702795753642
-      steel_helmet_26: 8888250568420438383
-      steel_helmet_27: 5559853279690005970
-      steel_helmet_28: 5327364381975883520
-      steel_helmet_29: 4207413756729204104
-      steel_helmet_3: -9084514716749300429
-      steel_helmet_30: -4423727515652172706
-      steel_helmet_31: -4389538743983595125
-      steel_helmet_32: -2314416292049436817
-      steel_helmet_33: -6020420764971605737
-      steel_helmet_34: 5703355630601134212
-      steel_helmet_35: -3029926006429797792
-      steel_helmet_36: -53097635868160739
-      steel_helmet_37: -673222048977194238
-      steel_helmet_38: -7496279777166356339
-      steel_helmet_39: -3021865570111167463
-      steel_helmet_4: -2605092767791272085
-      steel_helmet_40: 9061380609784110592
-      steel_helmet_41: -3269708864223853646
-      steel_helmet_42: -1408640524953191784
-      steel_helmet_43: 8570442781222150036
-      steel_helmet_44: -2688813780094995009
-      steel_helmet_45: 8645676110124070078
-      steel_helmet_46: -2337278104543630372
-      steel_helmet_47: -554455110087410358
-      steel_helmet_48: 2102823896779310437
-      steel_helmet_49: 4886785767373659916
-      steel_helmet_5: -3618400423685170181
-      steel_helmet_50: 2486674740593134430
-      steel_helmet_51: 4501855816464969713
-      steel_helmet_52: 1288944814315847801
-      steel_helmet_53: 5792239042642673814
-      steel_helmet_54: -9200427242908765608
-      steel_helmet_55: -7230916463810660293
-      steel_helmet_56: -6077679775214339239
-      steel_helmet_57: -2014232571661212167
-      steel_helmet_58: -4008410288200766598
-      steel_helmet_59: 514415130665000966
-      steel_helmet_6: -8915839874675382637
-      steel_helmet_60: 8430018887565883415
-      steel_helmet_61: 3324382747386455729
-      steel_helmet_62: 1180296870818938530
-      steel_helmet_63: -2841516579443058458
-      steel_helmet_64: -2210705929708827437
-      steel_helmet_65: 2085819806030340423
-      steel_helmet_66: -7460367247566041362
-      steel_helmet_67: -8499979738703707583
-      steel_helmet_68: -8852262402376275218
-      steel_helmet_69: 9124959812758010136
-      steel_helmet_7: -3062091586150151873
-      steel_helmet_70: -251607274846075724
-      steel_helmet_71: -3325462535381865803
-      steel_helmet_72: 8397568820755220717
-      steel_helmet_73: 4703732761374378263
-      steel_helmet_74: -4071943459035029028
-      steel_helmet_75: 7723011734815802537
-      steel_helmet_76: 7521647195445578084
-      steel_helmet_77: 7798953126886843722
-      steel_helmet_78: 8103393022394613735
-      steel_helmet_79: 1001067612486801208
-      steel_helmet_8: -1322780199126261323
-      steel_helmet_80: -342845787209007105
-      steel_helmet_81: 7407496882320240874
-      steel_helmet_82: 1176574924260936011
-      steel_helmet_83: -8729810696231732969
-      steel_helmet_84: -4684543575520208719
-      steel_helmet_85: -5556636124233375385
-      steel_helmet_86: 4204050572261347990
-      steel_helmet_87: 1071223655509989327
-      steel_helmet_88: -987298771173507599
-      steel_helmet_89: -941148049827953005
-      steel_helmet_9: 4846370706414177993
-      steel_helmet_90: -40111364193426509
-      steel_helmet_91: 3653208969029831014
-      steel_helmet_92: 8777758608245864649
-      steel_helmet_93: -8863699348197801595
-      steel_helmet_94: -1528422834583850921
-      steel_helmet_95: 6280033951698896790
-      steel_helmet_96: -4751858050826911993
-      steel_helmet_97: -3141439542981642364
-      steel_helmet_98: -6121911227465134723
-      steel_helmet_99: -7998694753117018577
+      steel_leggins_0: -4936312262195287576
+      steel_leggins_1: -5646328077532419625
+      steel_leggins_10: 9180360805353511000
+      steel_leggins_100: 2269529547907479216
+      steel_leggins_101: 6027181860862184966
+      steel_leggins_102: -691080943235055859
+      steel_leggins_103: -6032422845279532967
+      steel_leggins_104: 3674751435005513914
+      steel_leggins_105: 2909110570882229056
+      steel_leggins_106: 590117652666398701
+      steel_leggins_107: 8976689658187314501
+      steel_leggins_108: -3177039319472906080
+      steel_leggins_109: 6440554767984324259
+      steel_leggins_11: 6670834549807257148
+      steel_leggins_110: -3266811078552619748
+      steel_leggins_111: -8401759361188002637
+      steel_leggins_112: 178029376375806031
+      steel_leggins_113: 8111679672013183434
+      steel_leggins_114: 4756623629713508230
+      steel_leggins_115: -3554599002980890987
+      steel_leggins_116: 3167611388799600514
+      steel_leggins_117: -8875595762519651883
+      steel_leggins_118: 4808776297293260843
+      steel_leggins_119: -6469821922024210218
+      steel_leggins_12: 6952306282371414342
+      steel_leggins_120: 5431568686365871270
+      steel_leggins_121: 4617190819732980310
+      steel_leggins_122: 6227516144319651965
+      steel_leggins_123: 7677730693918920283
+      steel_leggins_124: -2420689001617771766
+      steel_leggins_125: -377988794726495293
+      steel_leggins_126: 5252093548322782325
+      steel_leggins_127: -1854361773192645023
+      steel_leggins_128: -7687284146714230390
+      steel_leggins_129: 4457258600525029199
+      steel_leggins_13: -949153835481592510
+      steel_leggins_130: 6249121516708459532
+      steel_leggins_131: 6387778869099275481
+      steel_leggins_132: 4226829443587393707
+      steel_leggins_133: -5168815645128797474
+      steel_leggins_134: 2838470319708612114
+      steel_leggins_135: -1183905989406360587
+      steel_leggins_136: -2389538911794004076
+      steel_leggins_137: -7140050044391511315
+      steel_leggins_138: -8779794815527206284
+      steel_leggins_139: 8141127645626197817
+      steel_leggins_14: 7929389271439013345
+      steel_leggins_140: -6993678268574573642
+      steel_leggins_141: -2562257290512355739
+      steel_leggins_142: 5765043527077864584
+      steel_leggins_143: -3130549606435926816
+      steel_leggins_144: -6195011751705881170
+      steel_leggins_145: -8196749028882953563
+      steel_leggins_146: -362256368321796833
+      steel_leggins_147: 5835780369176346340
+      steel_leggins_148: -2375507568362288053
+      steel_leggins_149: 2295122305333367586
+      steel_leggins_15: 3688110092750621853
+      steel_leggins_150: -3383592187815058202
+      steel_leggins_151: -7926286156378122276
+      steel_leggins_152: -1130621400771367228
+      steel_leggins_153: 1320678962147981767
+      steel_leggins_154: 1029341605433246528
+      steel_leggins_155: -941728560745149660
+      steel_leggins_156: -640278275900647373
+      steel_leggins_157: 2486388416459852442
+      steel_leggins_158: -5234871139316073000
+      steel_leggins_159: -3003056476229067532
+      steel_leggins_16: -1197938373381534035
+      steel_leggins_160: 697843848539635476
+      steel_leggins_161: -6932227408947987521
+      steel_leggins_162: -2143457196654783119
+      steel_leggins_163: 1335876325679147478
+      steel_leggins_164: 2313805164120882996
+      steel_leggins_165: 9107239029267130872
+      steel_leggins_166: -257203269182114613
+      steel_leggins_167: 7798035787631999757
+      steel_leggins_168: -5056803179824029756
+      steel_leggins_169: -3638543230257554314
+      steel_leggins_17: 3300402245000452239
+      steel_leggins_170: 7711032382985174370
+      steel_leggins_171: 6653421746926160155
+      steel_leggins_172: 4737911251563338617
+      steel_leggins_173: 4823248882877333432
+      steel_leggins_174: -7582321774205702103
+      steel_leggins_175: -3775057469513469728
+      steel_leggins_176: -7501846912467704884
+      steel_leggins_177: -2835910886164622427
+      steel_leggins_18: 2776769006346977690
+      steel_leggins_19: 5718114627795386958
+      steel_leggins_2: -3152032770035465363
+      steel_leggins_20: 5927237613087259459
+      steel_leggins_21: 7066179613134724734
+      steel_leggins_22: -6208028923226721225
+      steel_leggins_23: -8277899346642809018
+      steel_leggins_24: -5027345617056269989
+      steel_leggins_25: -3241184041087176226
+      steel_leggins_26: 6665393083746775909
+      steel_leggins_27: 262973786432852369
+      steel_leggins_28: 6761529713838452341
+      steel_leggins_29: -8936140605630965856
+      steel_leggins_3: -6371974511845935991
+      steel_leggins_30: 6770954054464839536
+      steel_leggins_31: -934272132252503732
+      steel_leggins_32: -7082708468457714418
+      steel_leggins_33: 4719428856771238614
+      steel_leggins_34: 1998503241168657820
+      steel_leggins_35: 6371204877414824123
+      steel_leggins_36: 7395516391069152225
+      steel_leggins_37: 5005593431405990410
+      steel_leggins_38: -8875637810195258881
+      steel_leggins_39: 491203629527353817
+      steel_leggins_4: 683396232082451952
+      steel_leggins_40: -5050451652358335608
+      steel_leggins_41: -4743229695529406066
+      steel_leggins_42: 8745451796731640907
+      steel_leggins_43: -2732559621390432570
+      steel_leggins_44: -3994161478070805344
+      steel_leggins_45: -8678449155067082171
+      steel_leggins_46: -6873371076211195395
+      steel_leggins_47: 1163098621484760402
+      steel_leggins_48: 4474183639554738221
+      steel_leggins_49: -5760683825892265908
+      steel_leggins_5: -407083833454529652
+      steel_leggins_50: 3112680720457259735
+      steel_leggins_51: -8994928570705696374
+      steel_leggins_52: -8723623529398753482
+      steel_leggins_53: 7875834757948478613
+      steel_leggins_54: -1502016909476789386
+      steel_leggins_55: -9017378251473847055
+      steel_leggins_56: 5231149455612952506
+      steel_leggins_57: 8685593779200389579
+      steel_leggins_58: 4807920695186440785
+      steel_leggins_59: 1650445501111392713
+      steel_leggins_6: -7605828003240395503
+      steel_leggins_60: -6279934753930626001
+      steel_leggins_61: 9038607826587785875
+      steel_leggins_62: 7215034931008343434
+      steel_leggins_63: -6845177812034857024
+      steel_leggins_64: -5800226340912512162
+      steel_leggins_65: 7429612093723593526
+      steel_leggins_66: -8610440253920650632
+      steel_leggins_67: -2319248424181634335
+      steel_leggins_68: -1083185778649520903
+      steel_leggins_69: 1405286664411158415
+      steel_leggins_7: -5146382155244099004
+      steel_leggins_70: -1028722281529183017
+      steel_leggins_71: -5792075035613614371
+      steel_leggins_72: -3490964026199599312
+      steel_leggins_73: 6064960250741220301
+      steel_leggins_74: -1828814116826936718
+      steel_leggins_75: -2116673713274611450
+      steel_leggins_76: -5652262614173775806
+      steel_leggins_77: -1331931830394430670
+      steel_leggins_78: 2101502815183495763
+      steel_leggins_79: -7727219604002526483
+      steel_leggins_8: 1919598099006893808
+      steel_leggins_80: -1451700615139040687
+      steel_leggins_81: -3660099464420451918
+      steel_leggins_82: -527900424974771998
+      steel_leggins_83: -1765746732012266473
+      steel_leggins_84: 5005289064238321832
+      steel_leggins_85: -545346515460008016
+      steel_leggins_86: 8331564902736723344
+      steel_leggins_87: 4427104837953555499
+      steel_leggins_88: 1852635502841136022
+      steel_leggins_89: 1030216153179356013
+      steel_leggins_9: -4217107217883257195
+      steel_leggins_90: 8159553441893413849
+      steel_leggins_91: 5768484358969982052
+      steel_leggins_92: -3216316573465987242
+      steel_leggins_93: 5128520864904226580
+      steel_leggins_94: -7055009580148168437
+      steel_leggins_95: -2353893302826505899
+      steel_leggins_96: 589068313707076695
+      steel_leggins_97: -4904227284815066400
+      steel_leggins_98: 8432675386241535209
+      steel_leggins_99: 641479009050427919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

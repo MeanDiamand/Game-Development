@@ -44,6 +44,6 @@ public class Item : ScriptableObject
     }
     public virtual Sprite[] GetSprite()
     {
-        throw new Exception("GetSprite() not implemented in item");
+        return null;
     }
 }

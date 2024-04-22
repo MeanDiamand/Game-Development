@@ -1,541 +1,541 @@
 fileFormatVersion: 2
-guid: a7fb385c7bb6eb54db6180c68b022775
+guid: efb71057ef2c99044b223e33d4deac83
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6171749998868576760
-    second: steel_helmet_0
+      213: 3423942860756691475
+    second: black_legion_skirt_0
   - first:
-      213: 12241374522416488
-    second: steel_helmet_1
+      213: -2160052252674799030
+    second: black_legion_skirt_1
   - first:
-      213: 6986683232054315680
-    second: steel_helmet_2
+      213: -5295813250355376352
+    second: black_legion_skirt_2
   - first:
-      213: -9084514716749300429
-    second: steel_helmet_3
+      213: -1043747646662511928
+    second: black_legion_skirt_3
   - first:
-      213: -2605092767791272085
-    second: steel_helmet_4
+      213: 1447672840709320458
+    second: black_legion_skirt_4
   - first:
-      213: -3618400423685170181
-    second: steel_helmet_5
+      213: 7930352811788751024
+    second: black_legion_skirt_5
   - first:
-      213: -8915839874675382637
-    second: steel_helmet_6
+      213: -1803140415877390264
+    second: black_legion_skirt_6
   - first:
-      213: -3062091586150151873
-    second: steel_helmet_7
+      213: -4802623938837204273
+    second: black_legion_skirt_7
   - first:
-      213: -1322780199126261323
-    second: steel_helmet_8
+      213: -2904715485371061815
+    second: black_legion_skirt_8
   - first:
-      213: 4846370706414177993
-    second: steel_helmet_9
+      213: 4518835697513548042
+    second: black_legion_skirt_9
   - first:
-      213: -586560210239163906
-    second: steel_helmet_10
+      213: -6251254945030883248
+    second: black_legion_skirt_10
   - first:
-      213: -1972632962815971818
-    second: steel_helmet_11
+      213: 4898559401910092182
+    second: black_legion_skirt_11
   - first:
-      213: -1713682853992552001
-    second: steel_helmet_12
+      213: -6167820571768975347
+    second: black_legion_skirt_12
   - first:
-      213: 3439335505553292134
-    second: steel_helmet_13
+      213: 3141999158205749206
+    second: black_legion_skirt_13
   - first:
-      213: 2892035228080534227
-    second: steel_helmet_14
+      213: -5894751566275538381
+    second: black_legion_skirt_14
   - first:
-      213: 3313697068908060132
-    second: steel_helmet_15
+      213: 6524251724121761913
+    second: black_legion_skirt_15
   - first:
-      213: -5567384938589405565
-    second: steel_helmet_16
+      213: -7285965200553725295
+    second: black_legion_skirt_16
   - first:
-      213: 7500603439164031947
-    second: steel_helmet_17
+      213: 5792784461504236114
+    second: black_legion_skirt_17
   - first:
-      213: -3644197443859134174
-    second: steel_helmet_18
+      213: 9155504983786800964
+    second: black_legion_skirt_18
   - first:
-      213: 4466993417679045759
-    second: steel_helmet_19
+      213: -7036948387959527164
+    second: black_legion_skirt_19
   - first:
-      213: 1742437157880726838
-    second: steel_helmet_20
+      213: -4250548967942239296
+    second: black_legion_skirt_20
   - first:
-      213: 5510097588438900594
-    second: steel_helmet_21
+      213: -2882871230363724439
+    second: black_legion_skirt_21
   - first:
-      213: -3267568700784841838
-    second: steel_helmet_22
+      213: 1170999434061347332
+    second: black_legion_skirt_22
   - first:
-      213: 1348682662045803020
-    second: steel_helmet_23
+      213: 4324670508534803321
+    second: black_legion_skirt_23
   - first:
-      213: 8206618093779921881
-    second: steel_helmet_24
+      213: 8772339949454711537
+    second: black_legion_skirt_24
   - first:
-      213: 1185336702795753642
-    second: steel_helmet_25
+      213: 2272119838491278249
+    second: black_legion_skirt_25
   - first:
-      213: 8888250568420438383
-    second: steel_helmet_26
+      213: -2393881117467423151
+    second: black_legion_skirt_26
   - first:
-      213: 5559853279690005970
-    second: steel_helmet_27
+      213: -6637683810967708077
+    second: black_legion_skirt_27
   - first:
-      213: 5327364381975883520
-    second: steel_helmet_28
+      213: 3643376470314382804
+    second: black_legion_skirt_28
   - first:
-      213: 4207413756729204104
-    second: steel_helmet_29
+      213: 7968028626306598949
+    second: black_legion_skirt_29
   - first:
-      213: -4423727515652172706
-    second: steel_helmet_30
+      213: 960677959261322411
+    second: black_legion_skirt_30
   - first:
-      213: -4389538743983595125
-    second: steel_helmet_31
+      213: -8127494833089710878
+    second: black_legion_skirt_31
   - first:
-      213: -2314416292049436817
-    second: steel_helmet_32
+      213: 3431118722530799914
+    second: black_legion_skirt_32
   - first:
-      213: -6020420764971605737
-    second: steel_helmet_33
+      213: -5043146247660035285
+    second: black_legion_skirt_33
   - first:
-      213: 5703355630601134212
-    second: steel_helmet_34
+      213: -7901538127103645023
+    second: black_legion_skirt_34
   - first:
-      213: -3029926006429797792
-    second: steel_helmet_35
+      213: -1239268070405324019
+    second: black_legion_skirt_35
   - first:
-      213: -53097635868160739
-    second: steel_helmet_36
+      213: 450742628872044227
+    second: black_legion_skirt_36
   - first:
-      213: -673222048977194238
-    second: steel_helmet_37
+      213: 6333580041933078801
+    second: black_legion_skirt_37
   - first:
-      213: -7496279777166356339
-    second: steel_helmet_38
+      213: -406156545321666404
+    second: black_legion_skirt_38
   - first:
-      213: -3021865570111167463
-    second: steel_helmet_39
+      213: 4832475486224194230
+    second: black_legion_skirt_39
   - first:
-      213: 9061380609784110592
-    second: steel_helmet_40
+      213: 8843875378551240808
+    second: black_legion_skirt_40
   - first:
-      213: -3269708864223853646
-    second: steel_helmet_41
+      213: -7019791593010800035
+    second: black_legion_skirt_41
   - first:
-      213: -1408640524953191784
-    second: steel_helmet_42
+      213: 4727583621145105137
+    second: black_legion_skirt_42
   - first:
-      213: 8570442781222150036
-    second: steel_helmet_43
+      213: 5724071780668990975
+    second: black_legion_skirt_43
   - first:
-      213: -2688813780094995009
-    second: steel_helmet_44
+      213: 5091756216842757553
+    second: black_legion_skirt_44
   - first:
-      213: 8645676110124070078
-    second: steel_helmet_45
+      213: -3034435672071194684
+    second: black_legion_skirt_45
   - first:
-      213: -2337278104543630372
-    second: steel_helmet_46
+      213: 3422911351959707049
+    second: black_legion_skirt_46
   - first:
-      213: -554455110087410358
-    second: steel_helmet_47
+      213: -3749766308116642939
+    second: black_legion_skirt_47
   - first:
-      213: 2102823896779310437
-    second: steel_helmet_48
+      213: -2918012064263501484
+    second: black_legion_skirt_48
   - first:
-      213: 4886785767373659916
-    second: steel_helmet_49
+      213: -6448853687517224265
+    second: black_legion_skirt_49
   - first:
-      213: 2486674740593134430
-    second: steel_helmet_50
+      213: -5540176765930217899
+    second: black_legion_skirt_50
   - first:
-      213: 4501855816464969713
-    second: steel_helmet_51
+      213: -2494285126732170181
+    second: black_legion_skirt_51
   - first:
-      213: 1288944814315847801
-    second: steel_helmet_52
+      213: 7626529315928050394
+    second: black_legion_skirt_52
   - first:
-      213: 5792239042642673814
-    second: steel_helmet_53
+      213: 202777159052403053
+    second: black_legion_skirt_53
   - first:
-      213: -9200427242908765608
-    second: steel_helmet_54
+      213: 6051987569940959769
+    second: black_legion_skirt_54
   - first:
-      213: -7230916463810660293
-    second: steel_helmet_55
+      213: 8395629758915144668
+    second: black_legion_skirt_55
   - first:
-      213: -6077679775214339239
-    second: steel_helmet_56
+      213: 5445133417850049713
+    second: black_legion_skirt_56
   - first:
-      213: -2014232571661212167
-    second: steel_helmet_57
+      213: 6232544970085682619
+    second: black_legion_skirt_57
   - first:
-      213: -4008410288200766598
-    second: steel_helmet_58
+      213: -6349655155350952954
+    second: black_legion_skirt_58
   - first:
-      213: 514415130665000966
-    second: steel_helmet_59
+      213: 1620317388718445440
+    second: black_legion_skirt_59
   - first:
-      213: 8430018887565883415
-    second: steel_helmet_60
+      213: 3147305733423878657
+    second: black_legion_skirt_60
   - first:
-      213: 3324382747386455729
-    second: steel_helmet_61
+      213: -6048959082586027855
+    second: black_legion_skirt_61
   - first:
-      213: 1180296870818938530
-    second: steel_helmet_62
+      213: 1990417038650336050
+    second: black_legion_skirt_62
   - first:
-      213: -2841516579443058458
-    second: steel_helmet_63
+      213: 8039054388624505266
+    second: black_legion_skirt_63
   - first:
-      213: -2210705929708827437
-    second: steel_helmet_64
+      213: -4492876194656205192
+    second: black_legion_skirt_64
   - first:
-      213: 2085819806030340423
-    second: steel_helmet_65
+      213: 71527795979046266
+    second: black_legion_skirt_65
   - first:
-      213: -7460367247566041362
-    second: steel_helmet_66
+      213: 7806984694948135659
+    second: black_legion_skirt_66
   - first:
-      213: -8499979738703707583
-    second: steel_helmet_67
+      213: -3737121620947018164
+    second: black_legion_skirt_67
   - first:
-      213: -8852262402376275218
-    second: steel_helmet_68
+      213: -7782749757074635552
+    second: black_legion_skirt_68
   - first:
-      213: 9124959812758010136
-    second: steel_helmet_69
+      213: -6218864240196544996
+    second: black_legion_skirt_69
   - first:
-      213: -251607274846075724
-    second: steel_helmet_70
+      213: -6586153230428678284
+    second: black_legion_skirt_70
   - first:
-      213: -3325462535381865803
-    second: steel_helmet_71
+      213: -4471367163128298566
+    second: black_legion_skirt_71
   - first:
-      213: 8397568820755220717
-    second: steel_helmet_72
+      213: 1305183284796928793
+    second: black_legion_skirt_72
   - first:
-      213: 4703732761374378263
-    second: steel_helmet_73
+      213: 4689537334926340313
+    second: black_legion_skirt_73
   - first:
-      213: -4071943459035029028
-    second: steel_helmet_74
+      213: -692788917956279129
+    second: black_legion_skirt_74
   - first:
-      213: 7723011734815802537
-    second: steel_helmet_75
+      213: -8341161365991484465
+    second: black_legion_skirt_75
   - first:
-      213: 7521647195445578084
-    second: steel_helmet_76
+      213: -5882554736552422951
+    second: black_legion_skirt_76
   - first:
-      213: 7798953126886843722
-    second: steel_helmet_77
+      213: -8760222329380867967
+    second: black_legion_skirt_77
   - first:
-      213: 8103393022394613735
-    second: steel_helmet_78
+      213: -1829109419142307203
+    second: black_legion_skirt_78
   - first:
-      213: 1001067612486801208
-    second: steel_helmet_79
+      213: -5475365385509550226
+    second: black_legion_skirt_79
   - first:
-      213: -342845787209007105
-    second: steel_helmet_80
+      213: -7897630596418525711
+    second: black_legion_skirt_80
   - first:
-      213: 7407496882320240874
-    second: steel_helmet_81
+      213: -832490522239376745
+    second: black_legion_skirt_81
   - first:
-      213: 1176574924260936011
-    second: steel_helmet_82
+      213: -634681535027345931
+    second: black_legion_skirt_82
   - first:
-      213: -8729810696231732969
-    second: steel_helmet_83
+      213: -1850390796673120353
+    second: black_legion_skirt_83
   - first:
-      213: -4684543575520208719
-    second: steel_helmet_84
+      213: 7197388249432492415
+    second: black_legion_skirt_84
   - first:
-      213: -5556636124233375385
-    second: steel_helmet_85
+      213: 1361512508606453017
+    second: black_legion_skirt_85
   - first:
-      213: 4204050572261347990
-    second: steel_helmet_86
+      213: 3332543238379458814
+    second: black_legion_skirt_86
   - first:
-      213: 1071223655509989327
-    second: steel_helmet_87
+      213: 8995301575792573732
+    second: black_legion_skirt_87
   - first:
-      213: -987298771173507599
-    second: steel_helmet_88
+      213: -1829650574657845529
+    second: black_legion_skirt_88
   - first:
-      213: -941148049827953005
-    second: steel_helmet_89
+      213: 6221157778356785250
+    second: black_legion_skirt_89
   - first:
-      213: -40111364193426509
-    second: steel_helmet_90
+      213: 2727777232050208120
+    second: black_legion_skirt_90
   - first:
-      213: 3653208969029831014
-    second: steel_helmet_91
+      213: 4730544912455319613
+    second: black_legion_skirt_91
   - first:
-      213: 8777758608245864649
-    second: steel_helmet_92
+      213: -231121959179610078
+    second: black_legion_skirt_92
   - first:
-      213: -8863699348197801595
-    second: steel_helmet_93
+      213: -4522783229742440129
+    second: black_legion_skirt_93
   - first:
-      213: -1528422834583850921
-    second: steel_helmet_94
+      213: -3805554925521410461
+    second: black_legion_skirt_94
   - first:
-      213: 6280033951698896790
-    second: steel_helmet_95
+      213: 6741470506477669130
+    second: black_legion_skirt_95
   - first:
-      213: -4751858050826911993
-    second: steel_helmet_96
+      213: 6796002262097547673
+    second: black_legion_skirt_96
   - first:
-      213: -3141439542981642364
-    second: steel_helmet_97
+      213: 3060738324499705910
+    second: black_legion_skirt_97
   - first:
-      213: -6121911227465134723
-    second: steel_helmet_98
+      213: 7649945404453069280
+    second: black_legion_skirt_98
   - first:
-      213: -7998694753117018577
-    second: steel_helmet_99
+      213: -2677644416947532004
+    second: black_legion_skirt_99
   - first:
-      213: -7351198424840555652
-    second: steel_helmet_100
+      213: -6271948867722220153
+    second: black_legion_skirt_100
   - first:
-      213: 7612810089966860576
-    second: steel_helmet_101
+      213: 4992437805171821605
+    second: black_legion_skirt_101
   - first:
-      213: 1876455311465488501
-    second: steel_helmet_102
+      213: 6187605720092906881
+    second: black_legion_skirt_102
   - first:
-      213: -8552234656509997781
-    second: steel_helmet_103
+      213: -5255807567229323159
+    second: black_legion_skirt_103
   - first:
-      213: 372493284527290364
-    second: steel_helmet_104
+      213: -8840024025364046227
+    second: black_legion_skirt_104
   - first:
-      213: -1785514995071107864
-    second: steel_helmet_105
+      213: -7382821015386970303
+    second: black_legion_skirt_105
   - first:
-      213: -5547875155533440087
-    second: steel_helmet_106
+      213: 2856577708757329914
+    second: black_legion_skirt_106
   - first:
-      213: 6302302562564093891
-    second: steel_helmet_107
+      213: 3128677980847567165
+    second: black_legion_skirt_107
   - first:
-      213: -6437388689642309485
-    second: steel_helmet_108
+      213: 7441434536358930113
+    second: black_legion_skirt_108
   - first:
-      213: -3742859842601144340
-    second: steel_helmet_109
+      213: 3642966114526731107
+    second: black_legion_skirt_109
   - first:
-      213: -2188892216917094203
-    second: steel_helmet_110
+      213: -2985743342711166663
+    second: black_legion_skirt_110
   - first:
-      213: 8960342473285734135
-    second: steel_helmet_111
+      213: 8742275244173219622
+    second: black_legion_skirt_111
   - first:
-      213: -5135927531716469155
-    second: steel_helmet_112
+      213: -4033773665452008006
+    second: black_legion_skirt_112
   - first:
-      213: -3795696677588511176
-    second: steel_helmet_113
+      213: -2813604686014083692
+    second: black_legion_skirt_113
   - first:
-      213: -7269287026526555599
-    second: steel_helmet_114
+      213: 7115997416662768383
+    second: black_legion_skirt_114
   - first:
-      213: -200280996575369581
-    second: steel_helmet_115
+      213: 1304366716759970532
+    second: black_legion_skirt_115
   - first:
-      213: 13329640905894783
-    second: steel_helmet_116
+      213: 5268824667896774720
+    second: black_legion_skirt_116
   - first:
-      213: -7343726047885292783
-    second: steel_helmet_117
+      213: 7337577510529829086
+    second: black_legion_skirt_117
   - first:
-      213: -2407927321422852646
-    second: steel_helmet_118
+      213: 6511010411997255767
+    second: black_legion_skirt_118
   - first:
-      213: 2179341348579415231
-    second: steel_helmet_119
+      213: 8359286091049851037
+    second: black_legion_skirt_119
   - first:
-      213: 3108581125857502269
-    second: steel_helmet_120
+      213: -4498882932975782201
+    second: black_legion_skirt_120
   - first:
-      213: 8783564235806967381
-    second: steel_helmet_121
+      213: -5887331297212456472
+    second: black_legion_skirt_121
   - first:
-      213: -454198823789125173
-    second: steel_helmet_122
+      213: 1791867759172704498
+    second: black_legion_skirt_122
   - first:
-      213: 397881566263101192
-    second: steel_helmet_123
+      213: -5355624041884417000
+    second: black_legion_skirt_123
   - first:
-      213: 874327018104137350
-    second: steel_helmet_124
+      213: -4899268939844471251
+    second: black_legion_skirt_124
   - first:
-      213: -6713696751126964014
-    second: steel_helmet_125
+      213: 5893971276569717832
+    second: black_legion_skirt_125
   - first:
-      213: -2321739273729232134
-    second: steel_helmet_126
+      213: -8371492746736489186
+    second: black_legion_skirt_126
   - first:
-      213: -6158422974067419945
-    second: steel_helmet_127
+      213: 8617961968487926901
+    second: black_legion_skirt_127
   - first:
-      213: -2885177728186784369
-    second: steel_helmet_128
+      213: 7027638259695539944
+    second: black_legion_skirt_128
   - first:
-      213: 7676975855596175510
-    second: steel_helmet_129
+      213: 8282857130293904746
+    second: black_legion_skirt_129
   - first:
-      213: 9018328958594954851
-    second: steel_helmet_130
+      213: -3331974508860280041
+    second: black_legion_skirt_130
   - first:
-      213: 32627421838500222
-    second: steel_helmet_131
+      213: -1858540657161596096
+    second: black_legion_skirt_131
   - first:
-      213: -7055271449064097300
-    second: steel_helmet_132
+      213: -7735613322530889930
+    second: black_legion_skirt_132
   - first:
-      213: -8137454989894214761
-    second: steel_helmet_133
+      213: -5813384747585157532
+    second: black_legion_skirt_133
   - first:
-      213: 7814079881433781314
-    second: steel_helmet_134
+      213: -4294413143635199790
+    second: black_legion_skirt_134
   - first:
-      213: -830653047195545880
-    second: steel_helmet_135
+      213: -43298869251024836
+    second: black_legion_skirt_135
   - first:
-      213: 3571089155422953958
-    second: steel_helmet_136
+      213: -8917757633914400728
+    second: black_legion_skirt_136
   - first:
-      213: 8608458343499641676
-    second: steel_helmet_137
+      213: -5334663400908367878
+    second: black_legion_skirt_137
   - first:
-      213: -4521896136606157206
-    second: steel_helmet_138
+      213: -3292705433304921836
+    second: black_legion_skirt_138
   - first:
-      213: -7379808085785645685
-    second: steel_helmet_139
+      213: 6524792492786199519
+    second: black_legion_skirt_139
   - first:
-      213: 6001633866373590326
-    second: steel_helmet_140
+      213: -1430185989825990722
+    second: black_legion_skirt_140
   - first:
-      213: 6783345607673735882
-    second: steel_helmet_141
+      213: -7240672815513447579
+    second: black_legion_skirt_141
   - first:
-      213: 8008768553774835756
-    second: steel_helmet_142
+      213: 7591612269028667547
+    second: black_legion_skirt_142
   - first:
-      213: 6434063186551292103
-    second: steel_helmet_143
+      213: 2845152092158851617
+    second: black_legion_skirt_143
   - first:
-      213: 2159209666717278891
-    second: steel_helmet_144
+      213: -8696178615454619513
+    second: black_legion_skirt_144
   - first:
-      213: 9168518805462876353
-    second: steel_helmet_145
+      213: 1525219344702077538
+    second: black_legion_skirt_145
   - first:
-      213: -4869995486645530157
-    second: steel_helmet_146
+      213: 1821207926843625
+    second: black_legion_skirt_146
   - first:
-      213: 4753510776598584501
-    second: steel_helmet_147
+      213: 4757785347158100807
+    second: black_legion_skirt_147
   - first:
-      213: -2947695224119492942
-    second: steel_helmet_148
+      213: 680190076921148068
+    second: black_legion_skirt_148
   - first:
-      213: -3728641990419382530
-    second: steel_helmet_149
+      213: 8535149837075335995
+    second: black_legion_skirt_149
   - first:
-      213: -6777264154862774659
-    second: steel_helmet_150
+      213: 7798514014240639500
+    second: black_legion_skirt_150
   - first:
-      213: 6933023376168431261
-    second: steel_helmet_151
+      213: -7364253108853197505
+    second: black_legion_skirt_151
   - first:
-      213: 4733317475165143952
-    second: steel_helmet_152
+      213: 5210504549709979810
+    second: black_legion_skirt_152
   - first:
-      213: -3710771358779720537
-    second: steel_helmet_153
+      213: -99241278217475954
+    second: black_legion_skirt_153
   - first:
-      213: 330302259733548480
-    second: steel_helmet_154
+      213: -3850734263493278431
+    second: black_legion_skirt_154
   - first:
-      213: -6939508502263261391
-    second: steel_helmet_155
+      213: 4162977045542846134
+    second: black_legion_skirt_155
   - first:
-      213: 5002702932149469365
-    second: steel_helmet_156
+      213: -5575081068265156234
+    second: black_legion_skirt_156
   - first:
-      213: -7097283890999498678
-    second: steel_helmet_157
+      213: 2211643228516708941
+    second: black_legion_skirt_157
   - first:
-      213: 1514198295637716849
-    second: steel_helmet_158
+      213: -3358244261285167270
+    second: black_legion_skirt_158
   - first:
-      213: 4851667282939454625
-    second: steel_helmet_159
+      213: 961696229507612504
+    second: black_legion_skirt_159
   - first:
-      213: 6321625766912571876
-    second: steel_helmet_160
+      213: -8376997570447168546
+    second: black_legion_skirt_160
   - first:
-      213: 913465685239183940
-    second: steel_helmet_161
+      213: -7988250204047402121
+    second: black_legion_skirt_161
   - first:
-      213: 1767121295051413413
-    second: steel_helmet_162
+      213: 4453396713820040634
+    second: black_legion_skirt_162
   - first:
-      213: -160991686874220841
-    second: steel_helmet_163
+      213: -98170192889284695
+    second: black_legion_skirt_163
   - first:
-      213: -2698789183063486101
-    second: steel_helmet_164
+      213: -1883797041650694257
+    second: black_legion_skirt_164
   - first:
-      213: -2789530076184092515
-    second: steel_helmet_165
+      213: -3476516600589302331
+    second: black_legion_skirt_165
   - first:
-      213: 612811634397536670
-    second: steel_helmet_166
+      213: -987837653198497181
+    second: black_legion_skirt_166
   - first:
-      213: -7041434853999231050
-    second: steel_helmet_167
+      213: 6003500292751916755
+    second: black_legion_skirt_167
   - first:
-      213: 5545952958443293239
-    second: steel_helmet_168
+      213: 7709878779459483112
+    second: black_legion_skirt_168
   - first:
-      213: 2288095627074563934
-    second: steel_helmet_169
+      213: -5942709635780540447
+    second: black_legion_skirt_169
   - first:
-      213: 361337283283145269
-    second: steel_helmet_170
+      213: 4062224324756750297
+    second: black_legion_skirt_170
   - first:
-      213: -7107911798999722941
-    second: steel_helmet_171
+      213: 628950785102024114
+    second: black_legion_skirt_171
   - first:
-      213: -7022891012795779029
-    second: steel_helmet_172
+      213: -8206869030545564005
+    second: black_legion_skirt_172
   - first:
-      213: 5061407138939349685
-    second: steel_helmet_173
+      213: 699105246021522618
+    second: black_legion_skirt_173
   - first:
-      213: 5339238824444509861
-    second: steel_helmet_174
+      213: 1670633874775779973
+    second: black_legion_skirt_174
   - first:
-      213: -8559243311990771042
-    second: steel_helmet_175
+      213: 1675001066598905629
+    second: black_legion_skirt_175
   - first:
-      213: -4096098757073665786
-    second: steel_helmet_176
+      213: -3433863695490419503
+    second: black_legion_skirt_176
   - first:
-      213: -831099577367464737
-    second: steel_helmet_177
+      213: -7181672877828810455
+    second: black_legion_skirt_177
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -696,7 +696,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: steel_helmet_0
+      name: black_legion_skirt_0
       rect:
         serializedVersion: 2
         x: 0
@@ -710,14 +710,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f93415bce576a550800000000000000
-      internalID: 6171749998868576760
+      spriteID: 31a23aa14e9448f20800000000000000
+      internalID: 3423942860756691475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_1
+      name: black_legion_skirt_1
       rect:
         serializedVersion: 2
         x: 64
@@ -731,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86d98fb177d7b2000800000000000000
-      internalID: 12241374522416488
+      spriteID: a4a490fabe3f502e0800000000000000
+      internalID: -2160052252674799030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_2
+      name: black_legion_skirt_2
       rect:
         serializedVersion: 2
         x: 128
@@ -752,14 +752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aa86cce16fa5f060800000000000000
-      internalID: 6986683232054315680
+      spriteID: 02fc2cf38ed7186b0800000000000000
+      internalID: -5295813250355376352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_3
+      name: black_legion_skirt_3
       rect:
         serializedVersion: 2
         x: 192
@@ -773,14 +773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33d79573ff15de180800000000000000
-      internalID: -9084514716749300429
+      spriteID: 8c2f78d9b0dd381f0800000000000000
+      internalID: -1043747646662511928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_4
+      name: black_legion_skirt_4
       rect:
         serializedVersion: 2
         x: 256
@@ -794,14 +794,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6facd81ee9d8dbd0800000000000000
-      internalID: -2605092767791272085
+      spriteID: a0fa57d47ca271410800000000000000
+      internalID: 1447672840709320458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_5
+      name: black_legion_skirt_5
       rect:
         serializedVersion: 2
         x: 320
@@ -815,14 +815,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfb5f1b5cfbd8cdc0800000000000000
-      internalID: -3618400423685170181
+      spriteID: 0b050329dd54e0e60800000000000000
+      internalID: 7930352811788751024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_6
+      name: black_legion_skirt_6
       rect:
         serializedVersion: 2
         x: 384
@@ -836,14 +836,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 396e5b34fd2944480800000000000000
-      internalID: -8915839874675382637
+      spriteID: 8406a7f5855f9f6e0800000000000000
+      internalID: -1803140415877390264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_7
+      name: black_legion_skirt_7
       rect:
         serializedVersion: 2
         x: 448
@@ -857,14 +857,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f39cec11de34185d0800000000000000
-      internalID: -3062091586150151873
+      spriteID: fc232d719f6a95db0800000000000000
+      internalID: -4802623938837204273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_8
+      name: black_legion_skirt_8
       rect:
         serializedVersion: 2
         x: 0
@@ -878,14 +878,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b1a823da6a84ade0800000000000000
-      internalID: -1322780199126261323
+      spriteID: 9c9a1e8e7a060b7d0800000000000000
+      internalID: -2904715485371061815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_9
+      name: black_legion_skirt_9
       rect:
         serializedVersion: 2
         x: 64
@@ -899,14 +899,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ce0da5fa74c14340800000000000000
-      internalID: 4846370706414177993
+      spriteID: a0946a4002126be30800000000000000
+      internalID: 4518835697513548042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_10
+      name: black_legion_skirt_10
       rect:
         serializedVersion: 2
         x: 128
@@ -920,14 +920,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef1f055b89e1cd7f0800000000000000
-      internalID: -586560210239163906
+      spriteID: 058b7018fb41f39a0800000000000000
+      internalID: -6251254945030883248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_11
+      name: black_legion_skirt_11
       rect:
         serializedVersion: 2
         x: 192
@@ -941,14 +941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ea02395cccf94e0800000000000000
-      internalID: -1972632962815971818
+      spriteID: 691400682dd2bf340800000000000000
+      internalID: 4898559401910092182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_12
+      name: black_legion_skirt_12
       rect:
         serializedVersion: 2
         x: 256
@@ -962,14 +962,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb9a8161686c738e0800000000000000
-      internalID: -1713682853992552001
+      spriteID: d001d555edf776aa0800000000000000
+      internalID: -6167820571768975347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_13
+      name: black_legion_skirt_13
       rect:
         serializedVersion: 2
         x: 320
@@ -983,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66b74ef7b69fabf20800000000000000
-      internalID: 3439335505553292134
+      spriteID: 6d71e6d569f9a9b20800000000000000
+      internalID: 3141999158205749206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_14
+      name: black_legion_skirt_14
       rect:
         serializedVersion: 2
         x: 384
@@ -1004,14 +1004,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d2f7af97b2922820800000000000000
-      internalID: 2892035228080534227
+      spriteID: 33218f4aea2a13ea0800000000000000
+      internalID: -5894751566275538381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_15
+      name: black_legion_skirt_15
       rect:
         serializedVersion: 2
         x: 0
@@ -1025,14 +1025,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ed948d6ded9cfd20800000000000000
-      internalID: 3313697068908060132
+      spriteID: 978e189406cca8a50800000000000000
+      internalID: 6524251724121761913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_16
+      name: black_legion_skirt_16
       rect:
         serializedVersion: 2
         x: 64
@@ -1046,14 +1046,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38eb48745ecacb2b0800000000000000
-      internalID: -5567384938589405565
+      spriteID: 1923327b04d03ea90800000000000000
+      internalID: -7285965200553725295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_17
+      name: black_legion_skirt_17
       rect:
         serializedVersion: 2
         x: 128
@@ -1067,14 +1067,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc30278861f771860800000000000000
-      internalID: 7500603439164031947
+      spriteID: 25acc58b6ca146050800000000000000
+      internalID: 5792784461504236114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_18
+      name: black_legion_skirt_18
       rect:
         serializedVersion: 2
         x: 192
@@ -1088,14 +1088,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 229c36b8bb53d6dc0800000000000000
-      internalID: -3644197443859134174
+      spriteID: 4474ee95643ee0f70800000000000000
+      internalID: 9155504983786800964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_19
+      name: black_legion_skirt_19
       rect:
         serializedVersion: 2
         x: 256
@@ -1109,14 +1109,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7484c2a8d2fdfd30800000000000000
-      internalID: 4466993417679045759
+      spriteID: 4092ae879bcb75e90800000000000000
+      internalID: -7036948387959527164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_20
+      name: black_legion_skirt_20
       rect:
         serializedVersion: 2
         x: 320
@@ -1130,14 +1130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6350ceefc516e2810800000000000000
-      internalID: 1742437157880726838
+      spriteID: 0cb4669eb340305c0800000000000000
+      internalID: -4250548967942239296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_21
+      name: black_legion_skirt_21
       rect:
         serializedVersion: 2
         x: 384
@@ -1151,14 +1151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27f13ac109cc77c40800000000000000
-      internalID: 5510097588438900594
+      spriteID: 9651afcd3ebfdf7d0800000000000000
+      internalID: -2882871230363724439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_22
+      name: black_legion_skirt_22
       rect:
         serializedVersion: 2
         x: 0
@@ -1172,14 +1172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29be886349347a2d0800000000000000
-      internalID: -3267568700784841838
+      spriteID: 40af863f7c9304010800000000000000
+      internalID: 1170999434061347332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_23
+      name: black_legion_skirt_23
       rect:
         serializedVersion: 2
         x: 64
@@ -1193,14 +1193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c02e7f94cbb77b210800000000000000
-      internalID: 1348682662045803020
+      spriteID: 97b23d71ae0540c30800000000000000
+      internalID: 4324670508534803321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_24
+      name: black_legion_skirt_24
       rect:
         serializedVersion: 2
         x: 128
@@ -1214,14 +1214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dbab0ffca3c3e170800000000000000
-      internalID: 8206618093779921881
+      spriteID: 1fa5738c4bc9db970800000000000000
+      internalID: 8772339949454711537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_25
+      name: black_legion_skirt_25
       rect:
         serializedVersion: 2
         x: 192
@@ -1235,14 +1235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa8af557379237010800000000000000
-      internalID: 1185336702795753642
+      spriteID: 9abf36474f0388f10800000000000000
+      internalID: 2272119838491278249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_26
+      name: black_legion_skirt_26
       rect:
         serializedVersion: 2
         x: 256
@@ -1256,14 +1256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f613d5dccc8695b70800000000000000
-      internalID: 8888250568420438383
+      spriteID: 15ec6d69ec937ced0800000000000000
+      internalID: -2393881117467423151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_27
+      name: black_legion_skirt_27
       rect:
         serializedVersion: 2
         x: 320
@@ -1277,14 +1277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dd963bb911982d40800000000000000
-      internalID: 5559853279690005970
+      spriteID: 35e98ebedb532e3a0800000000000000
+      internalID: -6637683810967708077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_28
+      name: black_legion_skirt_28
       rect:
         serializedVersion: 2
         x: 384
@@ -1298,14 +1298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00fadb80ea99ee940800000000000000
-      internalID: 5327364381975883520
+      spriteID: 4d5fa18a89fdf8230800000000000000
+      internalID: 3643376470314382804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_29
+      name: black_legion_skirt_29
       rect:
         serializedVersion: 2
         x: 0
@@ -1319,14 +1319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88d9fe8158cb36a30800000000000000
-      internalID: 4207413756729204104
+      spriteID: 5280627b1df149e60800000000000000
+      internalID: 7968028626306598949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_30
+      name: black_legion_skirt_30
       rect:
         serializedVersion: 2
         x: 64
@@ -1340,14 +1340,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e545e6e2343cb92c0800000000000000
-      internalID: -4423727515652172706
+      spriteID: bac71599383055d00800000000000000
+      internalID: 960677959261322411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_31
+      name: black_legion_skirt_31
       rect:
         serializedVersion: 2
         x: 128
@@ -1361,14 +1361,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b812b05e4c93513c0800000000000000
-      internalID: -4389538743983595125
+      spriteID: 2e47dd7b286553f80800000000000000
+      internalID: -8127494833089710878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_32
+      name: black_legion_skirt_32
       rect:
         serializedVersion: 2
         x: 192
@@ -1382,14 +1382,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f340a05aa81efd0800000000000000
-      internalID: -2314416292049436817
+      spriteID: a21f3ae9c48cd9f20800000000000000
+      internalID: 3431118722530799914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_33
+      name: black_legion_skirt_33
       rect:
         serializedVersion: 2
         x: 256
@@ -1403,14 +1403,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7116b79363b237ca0800000000000000
-      internalID: -6020420764971605737
+      spriteID: b2321ed1535230ab0800000000000000
+      internalID: -5043146247660035285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_34
+      name: black_legion_skirt_34
       rect:
         serializedVersion: 2
         x: 320
@@ -1424,14 +1424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48064b57ab3662f40800000000000000
-      internalID: 5703355630601134212
+      spriteID: 1aa28c200f8185290800000000000000
+      internalID: -7901538127103645023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_35
+      name: black_legion_skirt_35
       rect:
         serializedVersion: 2
         x: 384
@@ -1445,14 +1445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062b803b95a83f5d0800000000000000
-      internalID: -3029926006429797792
+      spriteID: d03c102814c3dcee0800000000000000
+      internalID: -1239268070405324019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_36
+      name: black_legion_skirt_36
       rect:
         serializedVersion: 2
         x: 448
@@ -1466,14 +1466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4aa34bfb534ff0800000000000000
-      internalID: -53097635868160739
+      spriteID: 3ce3b07680c514600800000000000000
+      internalID: 450742628872044227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_37
+      name: black_legion_skirt_37
       rect:
         serializedVersion: 2
         x: 0
@@ -1487,14 +1487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 203f0c30d1c38a6f0800000000000000
-      internalID: -673222048977194238
+      spriteID: 111ccebcd7565e750800000000000000
+      internalID: 6333580041933078801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_38
+      name: black_legion_skirt_38
       rect:
         serializedVersion: 2
         x: 64
@@ -1508,14 +1508,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d801e09724dd7f790800000000000000
-      internalID: -7496279777166356339
+      spriteID: c98f6e026ca0d5af0800000000000000
+      internalID: -406156545321666404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_39
+      name: black_legion_skirt_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1529,14 +1529,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9146a86464d2016d0800000000000000
-      internalID: -3021865570111167463
+      spriteID: 6ba1d26e9d6601340800000000000000
+      internalID: 4832475486224194230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_40
+      name: black_legion_skirt_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1550,14 +1550,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00e5bc4c7ad70cd70800000000000000
-      internalID: 9061380609784110592
+      spriteID: 868be58ccc1cbba70800000000000000
+      internalID: 8843875378551240808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_41
+      name: black_legion_skirt_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1571,14 +1571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cdf49c19af92d0800000000000000
-      internalID: -3269708864223853646
+      spriteID: d5a51551db0b49e90800000000000000
+      internalID: -7019791593010800035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_42
+      name: black_legion_skirt_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1592,14 +1592,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89af1f5e7e0837ce0800000000000000
-      internalID: -1408640524953191784
+      spriteID: 1f21f407140cb9140800000000000000
+      internalID: 4727583621145105137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_43
+      name: black_legion_skirt_43
       rect:
         serializedVersion: 2
         x: 384
@@ -1613,14 +1613,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49f9e862d4450f670800000000000000
-      internalID: 8570442781222150036
+      spriteID: ff5ec9305fcff6f40800000000000000
+      internalID: 5724071780668990975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_44
+      name: black_legion_skirt_44
       rect:
         serializedVersion: 2
         x: 448
@@ -1634,14 +1634,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb5334aec1a6faad0800000000000000
-      internalID: -2688813780094995009
+      spriteID: 1b5accb4d4d89a640800000000000000
+      internalID: 5091756216842757553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_45
+      name: black_legion_skirt_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1655,14 +1655,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb4b60b8d9c9bf770800000000000000
-      internalID: 8645676110124070078
+      spriteID: 4c73c6855d483e5d0800000000000000
+      internalID: -3034435672071194684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_46
+      name: black_legion_skirt_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1676,14 +1676,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdbe06582f1509fd0800000000000000
-      internalID: -2337278104543630372
+      spriteID: 9add53f3dbf908f20800000000000000
+      internalID: 3422911351959707049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_47
+      name: black_legion_skirt_47
       rect:
         serializedVersion: 2
         x: 128
@@ -1697,14 +1697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4df657d30e2e48f0800000000000000
-      internalID: -554455110087410358
+      spriteID: 583cafde86726fbc0800000000000000
+      internalID: -3749766308116642939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_48
+      name: black_legion_skirt_48
       rect:
         serializedVersion: 2
         x: 192
@@ -1718,14 +1718,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 565cbb0613bbe2d10800000000000000
-      internalID: 2102823896779310437
+      spriteID: 4590543ec732187d0800000000000000
+      internalID: -2918012064263501484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_49
+      name: black_legion_skirt_49
       rect:
         serializedVersion: 2
         x: 256
@@ -1739,14 +1739,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0fddbd93c951d340800000000000000
-      internalID: 4886785767373659916
+      spriteID: 7b2611b1db11186a0800000000000000
+      internalID: -6448853687517224265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_50
+      name: black_legion_skirt_50
       rect:
         serializedVersion: 2
         x: 320
@@ -1760,14 +1760,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5b8df86081728220800000000000000
-      internalID: 2486674740593134430
+      spriteID: 55e5bd1a5965d13b0800000000000000
+      internalID: -5540176765930217899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_51
+      name: black_legion_skirt_51
       rect:
         serializedVersion: 2
         x: 384
@@ -1781,14 +1781,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ffab62630ec97e30800000000000000
-      internalID: 4501855816464969713
+      spriteID: b3cb69c74e4826dd0800000000000000
+      internalID: -2494285126732170181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_52
+      name: black_legion_skirt_52
       rect:
         serializedVersion: 2
         x: 448
@@ -1802,14 +1802,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 970c060ca7043e110800000000000000
-      internalID: 1288944814315847801
+      spriteID: ada8ef87100e6d960800000000000000
+      internalID: 7626529315928050394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_53
+      name: black_legion_skirt_53
       rect:
         serializedVersion: 2
         x: 0
@@ -1823,14 +1823,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908dde78ba226050800000000000000
-      internalID: 5792239042642673814
+      spriteID: d61a1e570c860d200800000000000000
+      internalID: 202777159052403053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_54
+      name: black_legion_skirt_54
       rect:
         serializedVersion: 2
         x: 64
@@ -1844,14 +1844,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 852b8942b24815080800000000000000
-      internalID: -9200427242908765608
+      spriteID: 912196b41aafcf350800000000000000
+      internalID: 6051987569940959769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_55
+      name: black_legion_skirt_55
       rect:
         serializedVersion: 2
         x: 128
@@ -1865,14 +1865,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38ba0689cf96ab90800000000000000
-      internalID: -7230916463810660293
+      spriteID: cdbe5d5a8c4438470800000000000000
+      internalID: 8395629758915144668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_56
+      name: black_legion_skirt_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1886,14 +1886,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95bf5c3027eb7aba0800000000000000
-      internalID: -6077679775214339239
+      spriteID: 1b49f857efff09b40800000000000000
+      internalID: 5445133417850049713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_57
+      name: black_legion_skirt_57
       rect:
         serializedVersion: 2
         x: 256
@@ -1907,14 +1907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f5ac1fd5220c04e0800000000000000
-      internalID: -2014232571661212167
+      spriteID: bbdca9cf0a27e7650800000000000000
+      internalID: 6232544970085682619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_58
+      name: black_legion_skirt_58
       rect:
         serializedVersion: 2
         x: 320
@@ -1928,14 +1928,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ba5c194144f58c0800000000000000
-      internalID: -4008410288200766598
+      spriteID: 6042413374e71e7a0800000000000000
+      internalID: -6349655155350952954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_59
+      name: black_legion_skirt_59
       rect:
         serializedVersion: 2
         x: 384
@@ -1949,14 +1949,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600af5af5d1932700800000000000000
-      internalID: 514415130665000966
+      spriteID: 08393f984168c7610800000000000000
+      internalID: 1620317388718445440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_60
+      name: black_legion_skirt_60
       rect:
         serializedVersion: 2
         x: 448
@@ -1970,14 +1970,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 718b23b93817df470800000000000000
-      internalID: 8430018887565883415
+      spriteID: 102d740b3e97dab20800000000000000
+      internalID: 3147305733423878657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_61
+      name: black_legion_skirt_61
       rect:
         serializedVersion: 2
         x: 0
@@ -1991,14 +1991,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b62863de74922e20800000000000000
-      internalID: 3324382747386455729
+      spriteID: 1b8469d53c7cd0ca0800000000000000
+      internalID: -6048959082586027855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_62
+      name: black_legion_skirt_62
       rect:
         serializedVersion: 2
         x: 64
@@ -2012,14 +2012,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aefaa220c1416010800000000000000
-      internalID: 1180296870818938530
+      spriteID: 23363af30c16f9b10800000000000000
+      internalID: 1990417038650336050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_63
+      name: black_legion_skirt_63
       rect:
         serializedVersion: 2
         x: 128
@@ -2033,14 +2033,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e8d9ead9b7e098d0800000000000000
-      internalID: -2841516579443058458
+      spriteID: 2b9320caf55709f60800000000000000
+      internalID: 8039054388624505266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_64
+      name: black_legion_skirt_64
       rect:
         serializedVersion: 2
         x: 192
@@ -2054,14 +2054,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dc0bd47baef151e0800000000000000
-      internalID: -2210705929708827437
+      spriteID: 87645bdb7e816a1c0800000000000000
+      internalID: -4492876194656205192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_65
+      name: black_legion_skirt_65
       rect:
         serializedVersion: 2
         x: 256
@@ -2075,14 +2075,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 741a9ebff0252fc10800000000000000
-      internalID: 2085819806030340423
+      spriteID: a7dc5e6c62e1ef000800000000000000
+      internalID: 71527795979046266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_66
+      name: black_legion_skirt_66
       rect:
         serializedVersion: 2
         x: 320
@@ -2096,14 +2096,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eee0edad383777890800000000000000
-      internalID: -7460367247566041362
+      spriteID: be28b45873bf75c60800000000000000
+      internalID: 7806984694948135659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_67
+      name: black_legion_skirt_67
       rect:
         serializedVersion: 2
         x: 384
@@ -2117,14 +2117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1424c8466710a0a80800000000000000
-      internalID: -8499979738703707583
+      spriteID: c4e55059fa3132cc0800000000000000
+      internalID: -3737121620947018164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_68
+      name: black_legion_skirt_68
       rect:
         serializedVersion: 2
         x: 448
@@ -2138,14 +2138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeae0df0f32762580800000000000000
-      internalID: -8852262402376275218
+      spriteID: 0e40fc9a45e1ef390800000000000000
+      internalID: -7782749757074635552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_69
+      name: black_legion_skirt_69
       rect:
         serializedVersion: 2
         x: 512
@@ -2159,14 +2159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 819f7258a9e52ae70800000000000000
-      internalID: 9124959812758010136
+      spriteID: c1694b82ce722b9a0800000000000000
+      internalID: -6218864240196544996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_70
+      name: black_legion_skirt_70
       rect:
         serializedVersion: 2
         x: 0
@@ -2180,14 +2180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b445ef348c128cf0800000000000000
-      internalID: -251607274846075724
+      spriteID: 477d10828884994a0800000000000000
+      internalID: -6586153230428678284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_71
+      name: black_legion_skirt_71
       rect:
         serializedVersion: 2
         x: 64
@@ -2201,14 +2201,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5baa1b0717599d1d0800000000000000
-      internalID: -3325462535381865803
+      spriteID: ab34465614382f1c0800000000000000
+      internalID: -4471367163128298566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_72
+      name: black_legion_skirt_72
       rect:
         serializedVersion: 2
         x: 128
@@ -2222,14 +2222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de8c20aa9582a8470800000000000000
-      internalID: 8397568820755220717
+      spriteID: 91339194841fc1210800000000000000
+      internalID: 1305183284796928793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_73
+      name: black_legion_skirt_73
       rect:
         serializedVersion: 2
         x: 192
@@ -2243,14 +2243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71946186604074140800000000000000
-      internalID: 4703732761374378263
+      spriteID: 9d077312c55941140800000000000000
+      internalID: 4689537334926340313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_74
+      name: black_legion_skirt_74
       rect:
         serializedVersion: 2
         x: 256
@@ -2264,14 +2264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd1edb28ffc8d77c0800000000000000
-      internalID: -4071943459035029028
+      spriteID: 7a483e05628b266f0800000000000000
+      internalID: -692788917956279129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_75
+      name: black_legion_skirt_75
       rect:
         serializedVersion: 2
         x: 320
@@ -2285,14 +2285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a48ed92146ad2b60800000000000000
-      internalID: 7723011734815802537
+      spriteID: fc39dd55eed3e3c80800000000000000
+      internalID: -8341161365991484465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_76
+      name: black_legion_skirt_76
       rect:
         serializedVersion: 2
         x: 384
@@ -2306,14 +2306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 469c85ad542426860800000000000000
-      internalID: 7521647195445578084
+      spriteID: 9d1500c52a7fc5ea0800000000000000
+      internalID: -5882554736552422951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_77
+      name: black_legion_skirt_77
       rect:
         serializedVersion: 2
         x: 448
@@ -2327,14 +2327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45230c5c827b3c60800000000000000
-      internalID: 7798953126886843722
+      spriteID: 180fecf74307d6680800000000000000
+      internalID: -8760222329380867967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_78
+      name: black_legion_skirt_78
       rect:
         serializedVersion: 2
         x: 512
@@ -2348,14 +2348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7efb53f2509057070800000000000000
-      internalID: 8103393022394613735
+      spriteID: d72a3b0aca2bd96e0800000000000000
+      internalID: -1829109419142307203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_79
+      name: black_legion_skirt_79
       rect:
         serializedVersion: 2
         x: 0
@@ -2369,14 +2369,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8379c6e80b184ed00800000000000000
-      internalID: 1001067612486801208
+      spriteID: e67cb3d01389304b0800000000000000
+      internalID: -5475365385509550226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_80
+      name: black_legion_skirt_80
       rect:
         serializedVersion: 2
         x: 64
@@ -2390,14 +2390,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffffaa0b297fd3bf0800000000000000
-      internalID: -342845787209007105
+      spriteID: 1f5a735e0daf56290800000000000000
+      internalID: -7897630596418525711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_81
+      name: black_legion_skirt_81
       rect:
         serializedVersion: 2
         x: 128
@@ -2411,14 +2411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae0f289fa27bcc660800000000000000
-      internalID: 7407496882320240874
+      spriteID: 792ea0fd7466274f0800000000000000
+      internalID: -832490522239376745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_82
+      name: black_legion_skirt_82
       rect:
         serializedVersion: 2
         x: 192
@@ -2432,14 +2432,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b49843ce8a8045010800000000000000
-      internalID: 1176574924260936011
+      spriteID: 5f5023fa1882137f0800000000000000
+      internalID: -634681535027345931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_83
+      name: black_legion_skirt_83
       rect:
         serializedVersion: 2
         x: 256
@@ -2453,14 +2453,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 719b3be9c6b79d680800000000000000
-      internalID: -8729810696231732969
+      spriteID: f9785accf571256e0800000000000000
+      internalID: -1850390796673120353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_84
+      name: black_legion_skirt_84
       rect:
         serializedVersion: 2
         x: 320
@@ -2474,14 +2474,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b8974610782dfeb0800000000000000
-      internalID: -4684543575520208719
+      spriteID: f798efdba7242e360800000000000000
+      internalID: 7197388249432492415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_85
+      name: black_legion_skirt_85
       rect:
         serializedVersion: 2
         x: 384
@@ -2495,14 +2495,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76167f4a2ecd2e2b0800000000000000
-      internalID: -5556636124233375385
+      spriteID: 9151db8b96015e210800000000000000
+      internalID: 1361512508606453017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_86
+      name: black_legion_skirt_86
       rect:
         serializedVersion: 2
         x: 448
@@ -2516,14 +2516,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6925a61b8b9c75a30800000000000000
-      internalID: 4204050572261347990
+      spriteID: ef0dc323b629f3e20800000000000000
+      internalID: 3332543238379458814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_87
+      name: black_legion_skirt_87
       rect:
         serializedVersion: 2
         x: 512
@@ -2537,14 +2537,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc71ba53d30cdde00800000000000000
-      internalID: 1071223655509989327
+      spriteID: 42db0a0cf1bb5dc70800000000000000
+      internalID: 8995301575792573732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_88
+      name: black_legion_skirt_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2558,14 +2558,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fdf501aff86c42f0800000000000000
-      internalID: -987298771173507599
+      spriteID: 7e60e6a0f76cb96e0800000000000000
+      internalID: -1829650574657845529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_89
+      name: black_legion_skirt_89
       rect:
         serializedVersion: 2
         x: 64
@@ -2579,14 +2579,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39604f8c5de50f2f0800000000000000
-      internalID: -941148049827953005
+      spriteID: 2605d9ec90ef55650800000000000000
+      internalID: 6221157778356785250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_90
+      name: black_legion_skirt_90
       rect:
         serializedVersion: 2
         x: 128
@@ -2600,14 +2600,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b36bc14dee717ff0800000000000000
-      internalID: -40111364193426509
+      spriteID: 87d30cea0f20bd520800000000000000
+      internalID: 2727777232050208120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_91
+      name: black_legion_skirt_91
       rect:
         serializedVersion: 2
         x: 192
@@ -2621,14 +2621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6694b49a33ec2b230800000000000000
-      internalID: 3653208969029831014
+      spriteID: d304eecc88546a140800000000000000
+      internalID: 4730544912455319613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_92
+      name: black_legion_skirt_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2642,14 +2642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c83f9892fcd0d970800000000000000
-      internalID: 8777758608245864649
+      spriteID: 2289e4b7dc3eaccf0800000000000000
+      internalID: -231121959179610078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_93
+      name: black_legion_skirt_93
       rect:
         serializedVersion: 2
         x: 320
@@ -2663,14 +2663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5810fca9760ddf480800000000000000
-      internalID: -8863699348197801595
+      spriteID: f31ab138d98db31c0800000000000000
+      internalID: -4522783229742440129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_94
+      name: black_legion_skirt_94
       rect:
         serializedVersion: 2
         x: 384
@@ -2684,14 +2684,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750b806a783f9cae0800000000000000
-      internalID: -1528422834583850921
+      spriteID: 366ee0b35f3ff2bc0800000000000000
+      internalID: -3805554925521410461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_95
+      name: black_legion_skirt_95
       rect:
         serializedVersion: 2
         x: 448
@@ -2705,14 +2705,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 697c7642b99272750800000000000000
-      internalID: 6280033951698896790
+      spriteID: a0bcf5235b38e8d50800000000000000
+      internalID: 6741470506477669130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_96
+      name: black_legion_skirt_96
       rect:
         serializedVersion: 2
         x: 512
@@ -2726,14 +2726,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70fb16977420e0eb0800000000000000
-      internalID: -4751858050826911993
+      spriteID: 9915315fc00405e50800000000000000
+      internalID: 6796002262097547673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_97
+      name: black_legion_skirt_97
       rect:
         serializedVersion: 2
         x: 0
@@ -2747,14 +2747,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487b635316d5764d0800000000000000
-      internalID: -3141439542981642364
+      spriteID: 630ba362a4de97a20800000000000000
+      internalID: 3060738324499705910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_98
+      name: black_legion_skirt_98
       rect:
         serializedVersion: 2
         x: 64
@@ -2768,14 +2768,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7d07748c2a9a0ba0800000000000000
-      internalID: -6121911227465134723
+      spriteID: 0e1ae8f60d01a2a60800000000000000
+      internalID: 7649945404453069280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_99
+      name: black_legion_skirt_99
       rect:
         serializedVersion: 2
         x: 128
@@ -2789,14 +2789,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f26edad308deef090800000000000000
-      internalID: -7998694753117018577
+      spriteID: c1fc80de69817dad0800000000000000
+      internalID: -2677644416947532004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_100
+      name: black_legion_skirt_100
       rect:
         serializedVersion: 2
         x: 192
@@ -2810,14 +2810,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c73b7fd1bfb4bf990800000000000000
-      internalID: -7351198424840555652
+      spriteID: 78de00a2cbf85f8a0800000000000000
+      internalID: -6271948867722220153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_101
+      name: black_legion_skirt_101
       rect:
         serializedVersion: 2
         x: 256
@@ -2831,14 +2831,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 029fbf2417226a960800000000000000
-      internalID: 7612810089966860576
+      spriteID: 52c4f749bb3b84540800000000000000
+      internalID: 4992437805171821605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_102
+      name: black_legion_skirt_102
       rect:
         serializedVersion: 2
         x: 320
@@ -2852,14 +2852,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 570abc4f9228a0a10800000000000000
-      internalID: 1876455311465488501
+      spriteID: 185105c7e9aced550800000000000000
+      internalID: 6187605720092906881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_103
+      name: black_legion_skirt_103
       rect:
         serializedVersion: 2
         x: 0
@@ -2873,14 +2873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2dcfee34eb505980800000000000000
-      internalID: -8552234656509997781
+      spriteID: 9687c733dde9f07b0800000000000000
+      internalID: -5255807567229323159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_104
+      name: black_legion_skirt_104
       rect:
         serializedVersion: 2
         x: 64
@@ -2894,14 +2894,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf7b7713bac5b2500800000000000000
-      internalID: 372493284527290364
+      spriteID: d6ed1424cfce15580800000000000000
+      internalID: -8840024025364046227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_105
+      name: black_legion_skirt_105
       rect:
         serializedVersion: 2
         x: 128
@@ -2915,14 +2915,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ec37a172939837e0800000000000000
-      internalID: -1785514995071107864
+      spriteID: 14722910763fa8990800000000000000
+      internalID: -7382821015386970303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_106
+      name: black_legion_skirt_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2936,14 +2936,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9abd630a0fcf103b0800000000000000
-      internalID: -5547875155533440087
+      spriteID: af7a7c39a4a94a720800000000000000
+      internalID: 2856577708757329914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_107
+      name: black_legion_skirt_107
       rect:
         serializedVersion: 2
         x: 256
@@ -2957,14 +2957,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7baa42ac6467750800000000000000
-      internalID: 6302302562564093891
+      spriteID: d3171011c0c4b6b20800000000000000
+      internalID: 3128677980847567165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_108
+      name: black_legion_skirt_108
       rect:
         serializedVersion: 2
         x: 320
@@ -2978,14 +2978,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 398b0c0f71dc9a6a0800000000000000
-      internalID: -6437388689642309485
+      spriteID: 1c66ffec849454760800000000000000
+      internalID: 7441434536358930113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_109
+      name: black_legion_skirt_109
       rect:
         serializedVersion: 2
         x: 0
@@ -2999,14 +2999,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cef2fadbdc0be0cc0800000000000000
-      internalID: -3742859842601144340
+      spriteID: 36b9621416a6e8230800000000000000
+      internalID: 3642966114526731107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_110
+      name: black_legion_skirt_110
       rect:
         serializedVersion: 2
         x: 64
@@ -3020,14 +3020,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c01a0f302e7f91e0800000000000000
-      internalID: -2188892216917094203
+      spriteID: 939a63bbf328096d0800000000000000
+      internalID: -2985743342711166663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_111
+      name: black_legion_skirt_111
       rect:
         serializedVersion: 2
         x: 128
@@ -3041,14 +3041,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fe8a0a6108895c70800000000000000
-      internalID: 8960342473285734135
+      spriteID: 627d2a9140dc25970800000000000000
+      internalID: 8742275244173219622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_112
+      name: black_legion_skirt_112
       rect:
         serializedVersion: 2
         x: 192
@@ -3062,14 +3062,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5e14e70f1589b8b0800000000000000
-      internalID: -5135927531716469155
+      spriteID: abd586e19382508c0800000000000000
+      internalID: -4033773665452008006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_113
+      name: black_legion_skirt_113
       rect:
         serializedVersion: 2
         x: 256
@@ -3083,14 +3083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836d4317bf9f25bc0800000000000000
-      internalID: -3795696677588511176
+      spriteID: 49d81c7f17114f8d0800000000000000
+      internalID: -2813604686014083692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_114
+      name: black_legion_skirt_114
       rect:
         serializedVersion: 2
         x: 320
@@ -3104,14 +3104,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1327785b6fd4e1b90800000000000000
-      internalID: -7269287026526555599
+      spriteID: ffa18c2c2f911c260800000000000000
+      internalID: 7115997416662768383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_115
+      name: black_legion_skirt_115
       rect:
         serializedVersion: 2
         x: 0
@@ -3125,14 +3125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3962dd7ae75783df0800000000000000
-      internalID: -200280996575369581
+      spriteID: 4e212593e9a0a1210800000000000000
+      internalID: 1304366716759970532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_116
+      name: black_legion_skirt_116
       rect:
         serializedVersion: 2
         x: 64
@@ -3146,14 +3146,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7bed2fdc3b5f2000800000000000000
-      internalID: 13329640905894783
+      spriteID: 0408dc9be10ae1940800000000000000
+      internalID: 5268824667896774720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_117
+      name: black_legion_skirt_117
       rect:
         serializedVersion: 2
         x: 128
@@ -3167,14 +3167,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11b83047118d51a90800000000000000
-      internalID: -7343726047885292783
+      spriteID: ed88603aedf44d560800000000000000
+      internalID: 7337577510529829086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_118
+      name: black_legion_skirt_118
       rect:
         serializedVersion: 2
         x: 192
@@ -3188,14 +3188,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: add02a1ebd2559ed0800000000000000
-      internalID: -2407927321422852646
+      spriteID: 75857ff0971cb5a50800000000000000
+      internalID: 6511010411997255767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_119
+      name: black_legion_skirt_119
       rect:
         serializedVersion: 2
         x: 256
@@ -3209,14 +3209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb4956ee8639e3e10800000000000000
-      internalID: 2179341348579415231
+      spriteID: d98d3e01966220470800000000000000
+      internalID: 8359286091049851037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_120
+      name: black_legion_skirt_120
       rect:
         serializedVersion: 2
         x: 320
@@ -3230,14 +3230,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3468326016e32b20800000000000000
-      internalID: 3108581125857502269
+      spriteID: 7c639edfec1c091c0800000000000000
+      internalID: -4498882932975782201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_121
+      name: black_legion_skirt_121
       rect:
         serializedVersion: 2
         x: 0
@@ -3251,14 +3251,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5568919922d75e970800000000000000
-      internalID: 8783564235806967381
+      spriteID: 8e1ac9aa06ffb4ea0800000000000000
+      internalID: -5887331297212456472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_122
+      name: black_legion_skirt_122
       rect:
         serializedVersion: 2
         x: 64
@@ -3272,14 +3272,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc126a2839c52b9f0800000000000000
-      internalID: -454198823789125173
+      spriteID: 2f8d6f5bb3efdd810800000000000000
+      internalID: 1791867759172704498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_123
+      name: black_legion_skirt_123
       rect:
         serializedVersion: 2
         x: 128
@@ -3293,14 +3293,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 807c9cb2d2f858500800000000000000
-      internalID: 397881566263101192
+      spriteID: 81400f82f400da5b0800000000000000
+      internalID: -5355624041884417000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_124
+      name: black_legion_skirt_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3314,14 +3314,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 686af936acb322c00800000000000000
-      internalID: 874327018104137350
+      spriteID: d26377d4bdc420cb0800000000000000
+      internalID: -4899268939844471251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_125
+      name: black_legion_skirt_125
       rect:
         serializedVersion: 2
         x: 256
@@ -3335,14 +3335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d81263206824d2a0800000000000000
-      internalID: -6713696751126964014
+      spriteID: 84c2b4006a79bc150800000000000000
+      internalID: 5893971276569717832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_126
+      name: black_legion_skirt_126
       rect:
         serializedVersion: 2
         x: 320
@@ -3356,14 +3356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af2bb408e6687cfd0800000000000000
-      internalID: -2321739273729232134
+      spriteID: e1d230f63bb72db80800000000000000
+      internalID: -8371492746736489186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_127
+      name: black_legion_skirt_127
       rect:
         serializedVersion: 2
         x: 384
@@ -3377,14 +3377,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d45b1e0fe2e88aa0800000000000000
-      internalID: -6158422974067419945
+      spriteID: 57c8c8b10c6299770800000000000000
+      internalID: 8617961968487926901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_128
+      name: black_legion_skirt_128
       rect:
         serializedVersion: 2
         x: 448
@@ -3398,14 +3398,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f85ee8d742ac5f7d0800000000000000
-      internalID: -2885177728186784369
+      spriteID: 8e6d81f53cf278160800000000000000
+      internalID: 7027638259695539944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_129
+      name: black_legion_skirt_129
       rect:
         serializedVersion: 2
         x: 512
@@ -3419,14 +3419,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908f06cdd81a8a60800000000000000
-      internalID: 7676975855596175510
+      spriteID: a65ca70fcae92f270800000000000000
+      internalID: 8282857130293904746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_130
+      name: black_legion_skirt_130
       rect:
         serializedVersion: 2
         x: 576
@@ -3440,14 +3440,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 366bbac186a872d70800000000000000
-      internalID: 9018328958594954851
+      spriteID: 713f9b676d272c1d0800000000000000
+      internalID: -3331974508860280041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_131
+      name: black_legion_skirt_131
       rect:
         serializedVersion: 2
         x: 640
@@ -3461,14 +3461,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e71ee90a77ae37000800000000000000
-      internalID: 32627421838500222
+      spriteID: 04313498e132536e0800000000000000
+      internalID: -1858540657161596096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_132
+      name: black_legion_skirt_132
       rect:
         serializedVersion: 2
         x: 704
@@ -3482,14 +3482,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce9349c5ff3a61e90800000000000000
-      internalID: -7055271449064097300
+      spriteID: 63f54ce0ba495a490800000000000000
+      internalID: -7735613322530889930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_133
+      name: black_legion_skirt_133
       rect:
         serializedVersion: 2
         x: 768
@@ -3503,14 +3503,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79b10affcc3f11f80800000000000000
-      internalID: -8137454989894214761
+      spriteID: 46643896f55b25fa0800000000000000
+      internalID: -5813384747585157532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_134
+      name: black_legion_skirt_134
       rect:
         serializedVersion: 2
         x: 0
@@ -3524,14 +3524,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 244136b5040317c60800000000000000
-      internalID: 7814079881433781314
+      spriteID: 2d8fad6affd2764c0800000000000000
+      internalID: -4294413143635199790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_135
+      name: black_legion_skirt_135
       rect:
         serializedVersion: 2
         x: 64
@@ -3545,14 +3545,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ee405e547de874f0800000000000000
-      internalID: -830653047195545880
+      spriteID: c38dd1768eb266ff0800000000000000
+      internalID: -43298869251024836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_136
+      name: black_legion_skirt_136
       rect:
         serializedVersion: 2
         x: 128
@@ -3566,14 +3566,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12c3a9aae0f8130800000000000000
-      internalID: 3571089155422953958
+      spriteID: 82011852ea2cd3480800000000000000
+      internalID: -8917757633914400728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_137
+      name: black_legion_skirt_137
       rect:
         serializedVersion: 2
         x: 192
@@ -3587,14 +3587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c433b0cf043677770800000000000000
-      internalID: 8608458343499641676
+      spriteID: af75490b6e777f5b0800000000000000
+      internalID: -5334663400908367878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_138
+      name: black_legion_skirt_138
       rect:
         serializedVersion: 2
         x: 256
@@ -3608,14 +3608,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a66f06afb6ffe31c0800000000000000
-      internalID: -4521896136606157206
+      spriteID: 4198cd99ad5fd42d0800000000000000
+      internalID: -3292705433304921836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_139
+      name: black_legion_skirt_139
       rect:
         serializedVersion: 2
         x: 320
@@ -3629,14 +3629,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8de03855a7a59990800000000000000
-      internalID: -7379808085785645685
+      spriteID: fdb28adc338bc8a50800000000000000
+      internalID: 6524792492786199519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_140
+      name: black_legion_skirt_140
       rect:
         serializedVersion: 2
         x: 384
@@ -3650,14 +3650,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63de62514361a4350800000000000000
-      internalID: 6001633866373590326
+      spriteID: ebf6ea17b65f62ce0800000000000000
+      internalID: -1430185989825990722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_141
+      name: black_legion_skirt_141
       rect:
         serializedVersion: 2
         x: 448
@@ -3671,14 +3671,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca6916f3e8432e50800000000000000
-      internalID: 6783345607673735882
+      spriteID: 5635e70ef66f38b90800000000000000
+      internalID: -7240672815513447579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_142
+      name: black_legion_skirt_142
       rect:
         serializedVersion: 2
         x: 512
@@ -3692,14 +3692,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c286110419cd42f60800000000000000
-      internalID: 8008768553774835756
+      spriteID: b9073f7f223da5960800000000000000
+      internalID: 7591612269028667547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_143
+      name: black_legion_skirt_143
       rect:
         serializedVersion: 2
         x: 576
@@ -3713,14 +3713,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c0cec801626a4950800000000000000
-      internalID: 6434063186551292103
+      spriteID: 12a7619e0c20c7720800000000000000
+      internalID: 2845152092158851617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_144
+      name: black_legion_skirt_144
       rect:
         serializedVersion: 2
         x: 640
@@ -3734,14 +3734,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba2e54c70cd07fd10800000000000000
-      internalID: 2159209666717278891
+      spriteID: 788aa72af97f05780800000000000000
+      internalID: -8696178615454619513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_145
+      name: black_legion_skirt_145
       rect:
         serializedVersion: 2
         x: 704
@@ -3755,14 +3755,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c08a14d64f1d3f70800000000000000
-      internalID: 9168518805462876353
+      spriteID: 26a758db9eaaa2510800000000000000
+      internalID: 1525219344702077538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_146
+      name: black_legion_skirt_146
       rect:
         serializedVersion: 2
         x: 768
@@ -3776,14 +3776,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d1dcb048ec4a6cb0800000000000000
-      internalID: -4869995486645530157
+      spriteID: 9e8aa830168760000800000000000000
+      internalID: 1821207926843625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_147
+      name: black_legion_skirt_147
       rect:
         serializedVersion: 2
         x: 0
@@ -3797,14 +3797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5bc562bbddcd7f140800000000000000
-      internalID: 4753510776598584501
+      spriteID: 74bcaeeb09c070240800000000000000
+      internalID: 4757785347158100807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_148
+      name: black_legion_skirt_148
       rect:
         serializedVersion: 2
         x: 64
@@ -3818,14 +3818,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2befd3cafcea717d0800000000000000
-      internalID: -2947695224119492942
+      spriteID: 4a271aa6545807900800000000000000
+      internalID: 680190076921148068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_149
+      name: black_legion_skirt_149
       rect:
         serializedVersion: 2
         x: 128
@@ -3839,14 +3839,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efe727a6dd3314cc0800000000000000
-      internalID: -3728641990419382530
+      spriteID: b3bcb9f3e81f27670800000000000000
+      internalID: 8535149837075335995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_150
+      name: black_legion_skirt_150
       rect:
         serializedVersion: 2
         x: 192
@@ -3860,14 +3860,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d769a6c982252f1a0800000000000000
-      internalID: -6777264154862774659
+      spriteID: c0a08ba7d23e93c60800000000000000
+      internalID: 7798514014240639500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_151
+      name: black_legion_skirt_151
       rect:
         serializedVersion: 2
         x: 256
@@ -3881,14 +3881,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9eaff3270c073060800000000000000
-      internalID: 6933023376168431261
+      spriteID: f353db2a0daecc990800000000000000
+      internalID: -7364253108853197505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_152
+      name: black_legion_skirt_152
       rect:
         serializedVersion: 2
         x: 320
@@ -3902,14 +3902,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0930e5c5a2f10b140800000000000000
-      internalID: 4733317475165143952
+      spriteID: 2a02502184e6f4840800000000000000
+      internalID: 5210504549709979810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_153
+      name: black_legion_skirt_153
       rect:
         serializedVersion: 2
         x: 384
@@ -3923,14 +3923,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7acbd351c11b08cc0800000000000000
-      internalID: -3710771358779720537
+      spriteID: e88aac0559c6f9ef0800000000000000
+      internalID: -99241278217475954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_154
+      name: black_legion_skirt_154
       rect:
         serializedVersion: 2
         x: 448
@@ -3944,14 +3944,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd4debb728759400800000000000000
-      internalID: 330302259733548480
+      spriteID: 125ce04e6917f8ac0800000000000000
+      internalID: -3850734263493278431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_155
+      name: black_legion_skirt_155
       rect:
         serializedVersion: 2
         x: 512
@@ -3965,14 +3965,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1379bc6c8c9e1bf90800000000000000
-      internalID: -6939508502263261391
+      spriteID: 6bebfa7019dd5c930800000000000000
+      internalID: 4162977045542846134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_156
+      name: black_legion_skirt_156
       rect:
         serializedVersion: 2
         x: 576
@@ -3986,14 +3986,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b00393bfcb2d6540800000000000000
-      internalID: 5002702932149469365
+      spriteID: 671dc047e4551a2b0800000000000000
+      internalID: -5575081068265156234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_157
+      name: black_legion_skirt_157
       rect:
         serializedVersion: 2
         x: 640
@@ -4007,14 +4007,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a486fd677e1618d90800000000000000
-      internalID: -7097283890999498678
+      spriteID: d42f2ad6cc551be10800000000000000
+      internalID: 2211643228516708941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_158
+      name: black_legion_skirt_158
       rect:
         serializedVersion: 2
         x: 704
@@ -4028,14 +4028,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17fecfac353830510800000000000000
-      internalID: 1514198295637716849
+      spriteID: a5f7a1913ae1561d0800000000000000
+      internalID: -3358244261285167270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_159
+      name: black_legion_skirt_159
       rect:
         serializedVersion: 2
         x: 768
@@ -4049,14 +4049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a4adf740b5945340800000000000000
-      internalID: 4851667282939454625
+      spriteID: 85f32ad10a1a85d00800000000000000
+      internalID: 961696229507612504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_160
+      name: black_legion_skirt_160
       rect:
         serializedVersion: 2
         x: 0
@@ -4070,14 +4070,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e9b7cf342deab750800000000000000
-      internalID: 6321625766912571876
+      spriteID: edbaf29c71deebb80800000000000000
+      internalID: -8376997570447168546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_161
+      name: black_legion_skirt_161
       rect:
         serializedVersion: 2
         x: 64
@@ -4091,14 +4091,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44ab03373384dac00800000000000000
-      internalID: 913465685239183940
+      spriteID: 77b10d253c8042190800000000000000
+      internalID: -7988250204047402121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_162
+      name: black_legion_skirt_162
       rect:
         serializedVersion: 2
         x: 128
@@ -4112,14 +4112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7519a8473168810800000000000000
-      internalID: 1767121295051413413
+      spriteID: abda22357b4adcd30800000000000000
+      internalID: 4453396713820040634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_163
+      name: black_legion_skirt_163
       rect:
         serializedVersion: 2
         x: 192
@@ -4133,14 +4133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6321ce9ea04cdf0800000000000000
-      internalID: -160991686874220841
+      spriteID: 9a77d4dcaba33aef0800000000000000
+      internalID: -98170192889284695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_164
+      name: black_legion_skirt_164
       rect:
         serializedVersion: 2
         x: 256
@@ -4154,14 +4154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6195db6989fb8ad0800000000000000
-      internalID: -2698789183063486101
+      spriteID: f878a7742986bd5e0800000000000000
+      internalID: -1883797041650694257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_165
+      name: black_legion_skirt_165
       rect:
         serializedVersion: 2
         x: 320
@@ -4175,14 +4175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9067cedc299949d0800000000000000
-      internalID: -2789530076184092515
+      spriteID: 5c54026329ee0cfc0800000000000000
+      internalID: -3476516600589302331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_166
+      name: black_legion_skirt_166
       rect:
         serializedVersion: 2
         x: 384
@@ -4196,14 +4196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e91ed764fe4218800800000000000000
-      internalID: 612811634397536670
+      spriteID: 36a195163ee7a42f0800000000000000
+      internalID: -987837653198497181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_167
+      name: black_legion_skirt_167
       rect:
         serializedVersion: 2
         x: 448
@@ -4217,14 +4217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bf3252be4cc74e90800000000000000
-      internalID: -7041434853999231050
+      spriteID: 3de7e6655b7b05350800000000000000
+      internalID: 6003500292751916755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_168
+      name: black_legion_skirt_168
       rect:
         serializedVersion: 2
         x: 512
@@ -4238,14 +4238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73a0a0df4de27fc40800000000000000
-      internalID: 5545952958443293239
+      spriteID: 8e53107b6edfefa60800000000000000
+      internalID: 7709878779459483112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_169
+      name: black_legion_skirt_169
       rect:
         serializedVersion: 2
         x: 576
@@ -4259,14 +4259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5f67e799d2f0cf10800000000000000
-      internalID: 2288095627074563934
+      spriteID: 1e782047211478da0800000000000000
+      internalID: -5942709635780540447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_170
+      name: black_legion_skirt_170
       rect:
         serializedVersion: 2
         x: 640
@@ -4280,14 +4280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 532523e385ab30500800000000000000
-      internalID: 361337283283145269
+      spriteID: 9dfb313308bef5830800000000000000
+      internalID: 4062224324756750297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_171
+      name: black_legion_skirt_171
       rect:
         serializedVersion: 2
         x: 704
@@ -4301,14 +4301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34450ddc0ef9b5d90800000000000000
-      internalID: -7107911798999722941
+      spriteID: 2bd853f186b7ab800800000000000000
+      internalID: 628950785102024114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_172
+      name: black_legion_skirt_172
       rect:
         serializedVersion: 2
         x: 768
@@ -4322,14 +4322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b28360e25dda98e90800000000000000
-      internalID: -7022891012795779029
+      spriteID: b9e5d2c39185b1e80800000000000000
+      internalID: -8206869030545564005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_173
+      name: black_legion_skirt_173
       rect:
         serializedVersion: 2
         x: 0
@@ -4343,14 +4343,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ba2b14f9fabd3640800000000000000
-      internalID: 5061407138939349685
+      spriteID: ab499b96488b3b900800000000000000
+      internalID: 699105246021522618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_174
+      name: black_legion_skirt_174
       rect:
         serializedVersion: 2
         x: 64
@@ -4364,14 +4364,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ae3dfd1c69c81a40800000000000000
-      internalID: 5339238824444509861
+      spriteID: 58aaebf58a84f2710800000000000000
+      internalID: 1670633874775779973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_175
+      name: black_legion_skirt_175
       rect:
         serializedVersion: 2
         x: 128
@@ -4385,14 +4385,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e92f6aa7e85773980800000000000000
-      internalID: -8559243311990771042
+      spriteID: d173705789cce3710800000000000000
+      internalID: 1675001066598905629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_176
+      name: black_legion_skirt_176
       rect:
         serializedVersion: 2
         x: 192
@@ -4406,35 +4406,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60184bbe1ebb727c0800000000000000
-      internalID: -4096098757073665786
+      spriteID: 1d4fe2f89277850d0800000000000000
+      internalID: -3433863695490419503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_177
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd4f80676575774f0800000000000000
-      internalID: -831099577367464737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: steel_helmet_178
+      name: black_legion_skirt_177
       rect:
         serializedVersion: 2
         x: 320
@@ -4446,10 +4425,10 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a7f2ee719847e2d4bb72faa0a47d6a85
-      internalID: 56923198
+      spriteID: 929d4f75192955c90800000000000000
+      internalID: -7181672877828810455
       vertices: []
       indices: 
       edges: []
@@ -4457,7 +4436,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3b1f81d695b1a3f408ed788d6526ea13
+    spriteID: 52aabb546f3817b4a9832605d7d4dd92
     internalID: 0
     vertices: []
     indices: 
@@ -4465,185 +4444,184 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      steel_helmet_0: 6171749998868576760
-      steel_helmet_1: 12241374522416488
-      steel_helmet_10: -586560210239163906
-      steel_helmet_100: -7351198424840555652
-      steel_helmet_101: 7612810089966860576
-      steel_helmet_102: 1876455311465488501
-      steel_helmet_103: -8552234656509997781
-      steel_helmet_104: 372493284527290364
-      steel_helmet_105: -1785514995071107864
-      steel_helmet_106: -5547875155533440087
-      steel_helmet_107: 6302302562564093891
-      steel_helmet_108: -6437388689642309485
-      steel_helmet_109: -3742859842601144340
-      steel_helmet_11: -1972632962815971818
-      steel_helmet_110: -2188892216917094203
-      steel_helmet_111: 8960342473285734135
-      steel_helmet_112: -5135927531716469155
-      steel_helmet_113: -3795696677588511176
-      steel_helmet_114: -7269287026526555599
-      steel_helmet_115: -200280996575369581
-      steel_helmet_116: 13329640905894783
-      steel_helmet_117: -7343726047885292783
-      steel_helmet_118: -2407927321422852646
-      steel_helmet_119: 2179341348579415231
-      steel_helmet_12: -1713682853992552001
-      steel_helmet_120: 3108581125857502269
-      steel_helmet_121: 8783564235806967381
-      steel_helmet_122: -454198823789125173
-      steel_helmet_123: 397881566263101192
-      steel_helmet_124: 874327018104137350
-      steel_helmet_125: -6713696751126964014
-      steel_helmet_126: -2321739273729232134
-      steel_helmet_127: -6158422974067419945
-      steel_helmet_128: -2885177728186784369
-      steel_helmet_129: 7676975855596175510
-      steel_helmet_13: 3439335505553292134
-      steel_helmet_130: 9018328958594954851
-      steel_helmet_131: 32627421838500222
-      steel_helmet_132: -7055271449064097300
-      steel_helmet_133: -8137454989894214761
-      steel_helmet_134: 7814079881433781314
-      steel_helmet_135: -830653047195545880
-      steel_helmet_136: 3571089155422953958
-      steel_helmet_137: 8608458343499641676
-      steel_helmet_138: -4521896136606157206
-      steel_helmet_139: -7379808085785645685
-      steel_helmet_14: 2892035228080534227
-      steel_helmet_140: 6001633866373590326
-      steel_helmet_141: 6783345607673735882
-      steel_helmet_142: 8008768553774835756
-      steel_helmet_143: 6434063186551292103
-      steel_helmet_144: 2159209666717278891
-      steel_helmet_145: 9168518805462876353
-      steel_helmet_146: -4869995486645530157
-      steel_helmet_147: 4753510776598584501
-      steel_helmet_148: -2947695224119492942
-      steel_helmet_149: -3728641990419382530
-      steel_helmet_15: 3313697068908060132
-      steel_helmet_150: -6777264154862774659
-      steel_helmet_151: 6933023376168431261
-      steel_helmet_152: 4733317475165143952
-      steel_helmet_153: -3710771358779720537
-      steel_helmet_154: 330302259733548480
-      steel_helmet_155: -6939508502263261391
-      steel_helmet_156: 5002702932149469365
-      steel_helmet_157: -7097283890999498678
-      steel_helmet_158: 1514198295637716849
-      steel_helmet_159: 4851667282939454625
-      steel_helmet_16: -5567384938589405565
-      steel_helmet_160: 6321625766912571876
-      steel_helmet_161: 913465685239183940
-      steel_helmet_162: 1767121295051413413
-      steel_helmet_163: -160991686874220841
-      steel_helmet_164: -2698789183063486101
-      steel_helmet_165: -2789530076184092515
-      steel_helmet_166: 612811634397536670
-      steel_helmet_167: -7041434853999231050
-      steel_helmet_168: 5545952958443293239
-      steel_helmet_169: 2288095627074563934
-      steel_helmet_17: 7500603439164031947
-      steel_helmet_170: 361337283283145269
-      steel_helmet_171: -7107911798999722941
-      steel_helmet_172: -7022891012795779029
-      steel_helmet_173: 5061407138939349685
-      steel_helmet_174: 5339238824444509861
-      steel_helmet_175: -8559243311990771042
-      steel_helmet_176: -4096098757073665786
-      steel_helmet_177: -831099577367464737
-      steel_helmet_178: 56923198
-      steel_helmet_18: -3644197443859134174
-      steel_helmet_19: 4466993417679045759
-      steel_helmet_2: 6986683232054315680
-      steel_helmet_20: 1742437157880726838
-      steel_helmet_21: 5510097588438900594
-      steel_helmet_22: -3267568700784841838
-      steel_helmet_23: 1348682662045803020
-      steel_helmet_24: 8206618093779921881
-      steel_helmet_25: 1185336702795753642
-      steel_helmet_26: 8888250568420438383
-      steel_helmet_27: 5559853279690005970
-      steel_helmet_28: 5327364381975883520
-      steel_helmet_29: 4207413756729204104
-      steel_helmet_3: -9084514716749300429
-      steel_helmet_30: -4423727515652172706
-      steel_helmet_31: -4389538743983595125
-      steel_helmet_32: -2314416292049436817
-      steel_helmet_33: -6020420764971605737
-      steel_helmet_34: 5703355630601134212
-      steel_helmet_35: -3029926006429797792
-      steel_helmet_36: -53097635868160739
-      steel_helmet_37: -673222048977194238
-      steel_helmet_38: -7496279777166356339
-      steel_helmet_39: -3021865570111167463
-      steel_helmet_4: -2605092767791272085
-      steel_helmet_40: 9061380609784110592
-      steel_helmet_41: -3269708864223853646
-      steel_helmet_42: -1408640524953191784
-      steel_helmet_43: 8570442781222150036
-      steel_helmet_44: -2688813780094995009
-      steel_helmet_45: 8645676110124070078
-      steel_helmet_46: -2337278104543630372
-      steel_helmet_47: -554455110087410358
-      steel_helmet_48: 2102823896779310437
-      steel_helmet_49: 4886785767373659916
-      steel_helmet_5: -3618400423685170181
-      steel_helmet_50: 2486674740593134430
-      steel_helmet_51: 4501855816464969713
-      steel_helmet_52: 1288944814315847801
-      steel_helmet_53: 5792239042642673814
-      steel_helmet_54: -9200427242908765608
-      steel_helmet_55: -7230916463810660293
-      steel_helmet_56: -6077679775214339239
-      steel_helmet_57: -2014232571661212167
-      steel_helmet_58: -4008410288200766598
-      steel_helmet_59: 514415130665000966
-      steel_helmet_6: -8915839874675382637
-      steel_helmet_60: 8430018887565883415
-      steel_helmet_61: 3324382747386455729
-      steel_helmet_62: 1180296870818938530
-      steel_helmet_63: -2841516579443058458
-      steel_helmet_64: -2210705929708827437
-      steel_helmet_65: 2085819806030340423
-      steel_helmet_66: -7460367247566041362
-      steel_helmet_67: -8499979738703707583
-      steel_helmet_68: -8852262402376275218
-      steel_helmet_69: 9124959812758010136
-      steel_helmet_7: -3062091586150151873
-      steel_helmet_70: -251607274846075724
-      steel_helmet_71: -3325462535381865803
-      steel_helmet_72: 8397568820755220717
-      steel_helmet_73: 4703732761374378263
-      steel_helmet_74: -4071943459035029028
-      steel_helmet_75: 7723011734815802537
-      steel_helmet_76: 7521647195445578084
-      steel_helmet_77: 7798953126886843722
-      steel_helmet_78: 8103393022394613735
-      steel_helmet_79: 1001067612486801208
-      steel_helmet_8: -1322780199126261323
-      steel_helmet_80: -342845787209007105
-      steel_helmet_81: 7407496882320240874
-      steel_helmet_82: 1176574924260936011
-      steel_helmet_83: -8729810696231732969
-      steel_helmet_84: -4684543575520208719
-      steel_helmet_85: -5556636124233375385
-      steel_helmet_86: 4204050572261347990
-      steel_helmet_87: 1071223655509989327
-      steel_helmet_88: -987298771173507599
-      steel_helmet_89: -941148049827953005
-      steel_helmet_9: 4846370706414177993
-      steel_helmet_90: -40111364193426509
-      steel_helmet_91: 3653208969029831014
-      steel_helmet_92: 8777758608245864649
-      steel_helmet_93: -8863699348197801595
-      steel_helmet_94: -1528422834583850921
-      steel_helmet_95: 6280033951698896790
-      steel_helmet_96: -4751858050826911993
-      steel_helmet_97: -3141439542981642364
-      steel_helmet_98: -6121911227465134723
-      steel_helmet_99: -7998694753117018577
+      black_legion_skirt_0: 3423942860756691475
+      black_legion_skirt_1: -2160052252674799030
+      black_legion_skirt_10: -6251254945030883248
+      black_legion_skirt_100: -6271948867722220153
+      black_legion_skirt_101: 4992437805171821605
+      black_legion_skirt_102: 6187605720092906881
+      black_legion_skirt_103: -5255807567229323159
+      black_legion_skirt_104: -8840024025364046227
+      black_legion_skirt_105: -7382821015386970303
+      black_legion_skirt_106: 2856577708757329914
+      black_legion_skirt_107: 3128677980847567165
+      black_legion_skirt_108: 7441434536358930113
+      black_legion_skirt_109: 3642966114526731107
+      black_legion_skirt_11: 4898559401910092182
+      black_legion_skirt_110: -2985743342711166663
+      black_legion_skirt_111: 8742275244173219622
+      black_legion_skirt_112: -4033773665452008006
+      black_legion_skirt_113: -2813604686014083692
+      black_legion_skirt_114: 7115997416662768383
+      black_legion_skirt_115: 1304366716759970532
+      black_legion_skirt_116: 5268824667896774720
+      black_legion_skirt_117: 7337577510529829086
+      black_legion_skirt_118: 6511010411997255767
+      black_legion_skirt_119: 8359286091049851037
+      black_legion_skirt_12: -6167820571768975347
+      black_legion_skirt_120: -4498882932975782201
+      black_legion_skirt_121: -5887331297212456472
+      black_legion_skirt_122: 1791867759172704498
+      black_legion_skirt_123: -5355624041884417000
+      black_legion_skirt_124: -4899268939844471251
+      black_legion_skirt_125: 5893971276569717832
+      black_legion_skirt_126: -8371492746736489186
+      black_legion_skirt_127: 8617961968487926901
+      black_legion_skirt_128: 7027638259695539944
+      black_legion_skirt_129: 8282857130293904746
+      black_legion_skirt_13: 3141999158205749206
+      black_legion_skirt_130: -3331974508860280041
+      black_legion_skirt_131: -1858540657161596096
+      black_legion_skirt_132: -7735613322530889930
+      black_legion_skirt_133: -5813384747585157532
+      black_legion_skirt_134: -4294413143635199790
+      black_legion_skirt_135: -43298869251024836
+      black_legion_skirt_136: -8917757633914400728
+      black_legion_skirt_137: -5334663400908367878
+      black_legion_skirt_138: -3292705433304921836
+      black_legion_skirt_139: 6524792492786199519
+      black_legion_skirt_14: -5894751566275538381
+      black_legion_skirt_140: -1430185989825990722
+      black_legion_skirt_141: -7240672815513447579
+      black_legion_skirt_142: 7591612269028667547
+      black_legion_skirt_143: 2845152092158851617
+      black_legion_skirt_144: -8696178615454619513
+      black_legion_skirt_145: 1525219344702077538
+      black_legion_skirt_146: 1821207926843625
+      black_legion_skirt_147: 4757785347158100807
+      black_legion_skirt_148: 680190076921148068
+      black_legion_skirt_149: 8535149837075335995
+      black_legion_skirt_15: 6524251724121761913
+      black_legion_skirt_150: 7798514014240639500
+      black_legion_skirt_151: -7364253108853197505
+      black_legion_skirt_152: 5210504549709979810
+      black_legion_skirt_153: -99241278217475954
+      black_legion_skirt_154: -3850734263493278431
+      black_legion_skirt_155: 4162977045542846134
+      black_legion_skirt_156: -5575081068265156234
+      black_legion_skirt_157: 2211643228516708941
+      black_legion_skirt_158: -3358244261285167270
+      black_legion_skirt_159: 961696229507612504
+      black_legion_skirt_16: -7285965200553725295
+      black_legion_skirt_160: -8376997570447168546
+      black_legion_skirt_161: -7988250204047402121
+      black_legion_skirt_162: 4453396713820040634
+      black_legion_skirt_163: -98170192889284695
+      black_legion_skirt_164: -1883797041650694257
+      black_legion_skirt_165: -3476516600589302331
+      black_legion_skirt_166: -987837653198497181
+      black_legion_skirt_167: 6003500292751916755
+      black_legion_skirt_168: 7709878779459483112
+      black_legion_skirt_169: -5942709635780540447
+      black_legion_skirt_17: 5792784461504236114
+      black_legion_skirt_170: 4062224324756750297
+      black_legion_skirt_171: 628950785102024114
+      black_legion_skirt_172: -8206869030545564005
+      black_legion_skirt_173: 699105246021522618
+      black_legion_skirt_174: 1670633874775779973
+      black_legion_skirt_175: 1675001066598905629
+      black_legion_skirt_176: -3433863695490419503
+      black_legion_skirt_177: -7181672877828810455
+      black_legion_skirt_18: 9155504983786800964
+      black_legion_skirt_19: -7036948387959527164
+      black_legion_skirt_2: -5295813250355376352
+      black_legion_skirt_20: -4250548967942239296
+      black_legion_skirt_21: -2882871230363724439
+      black_legion_skirt_22: 1170999434061347332
+      black_legion_skirt_23: 4324670508534803321
+      black_legion_skirt_24: 8772339949454711537
+      black_legion_skirt_25: 2272119838491278249
+      black_legion_skirt_26: -2393881117467423151
+      black_legion_skirt_27: -6637683810967708077
+      black_legion_skirt_28: 3643376470314382804
+      black_legion_skirt_29: 7968028626306598949
+      black_legion_skirt_3: -1043747646662511928
+      black_legion_skirt_30: 960677959261322411
+      black_legion_skirt_31: -8127494833089710878
+      black_legion_skirt_32: 3431118722530799914
+      black_legion_skirt_33: -5043146247660035285
+      black_legion_skirt_34: -7901538127103645023
+      black_legion_skirt_35: -1239268070405324019
+      black_legion_skirt_36: 450742628872044227
+      black_legion_skirt_37: 6333580041933078801
+      black_legion_skirt_38: -406156545321666404
+      black_legion_skirt_39: 4832475486224194230
+      black_legion_skirt_4: 1447672840709320458
+      black_legion_skirt_40: 8843875378551240808
+      black_legion_skirt_41: -7019791593010800035
+      black_legion_skirt_42: 4727583621145105137
+      black_legion_skirt_43: 5724071780668990975
+      black_legion_skirt_44: 5091756216842757553
+      black_legion_skirt_45: -3034435672071194684
+      black_legion_skirt_46: 3422911351959707049
+      black_legion_skirt_47: -3749766308116642939
+      black_legion_skirt_48: -2918012064263501484
+      black_legion_skirt_49: -6448853687517224265
+      black_legion_skirt_5: 7930352811788751024
+      black_legion_skirt_50: -5540176765930217899
+      black_legion_skirt_51: -2494285126732170181
+      black_legion_skirt_52: 7626529315928050394
+      black_legion_skirt_53: 202777159052403053
+      black_legion_skirt_54: 6051987569940959769
+      black_legion_skirt_55: 8395629758915144668
+      black_legion_skirt_56: 5445133417850049713
+      black_legion_skirt_57: 6232544970085682619
+      black_legion_skirt_58: -6349655155350952954
+      black_legion_skirt_59: 1620317388718445440
+      black_legion_skirt_6: -1803140415877390264
+      black_legion_skirt_60: 3147305733423878657
+      black_legion_skirt_61: -6048959082586027855
+      black_legion_skirt_62: 1990417038650336050
+      black_legion_skirt_63: 8039054388624505266
+      black_legion_skirt_64: -4492876194656205192
+      black_legion_skirt_65: 71527795979046266
+      black_legion_skirt_66: 7806984694948135659
+      black_legion_skirt_67: -3737121620947018164
+      black_legion_skirt_68: -7782749757074635552
+      black_legion_skirt_69: -6218864240196544996
+      black_legion_skirt_7: -4802623938837204273
+      black_legion_skirt_70: -6586153230428678284
+      black_legion_skirt_71: -4471367163128298566
+      black_legion_skirt_72: 1305183284796928793
+      black_legion_skirt_73: 4689537334926340313
+      black_legion_skirt_74: -692788917956279129
+      black_legion_skirt_75: -8341161365991484465
+      black_legion_skirt_76: -5882554736552422951
+      black_legion_skirt_77: -8760222329380867967
+      black_legion_skirt_78: -1829109419142307203
+      black_legion_skirt_79: -5475365385509550226
+      black_legion_skirt_8: -2904715485371061815
+      black_legion_skirt_80: -7897630596418525711
+      black_legion_skirt_81: -832490522239376745
+      black_legion_skirt_82: -634681535027345931
+      black_legion_skirt_83: -1850390796673120353
+      black_legion_skirt_84: 7197388249432492415
+      black_legion_skirt_85: 1361512508606453017
+      black_legion_skirt_86: 3332543238379458814
+      black_legion_skirt_87: 8995301575792573732
+      black_legion_skirt_88: -1829650574657845529
+      black_legion_skirt_89: 6221157778356785250
+      black_legion_skirt_9: 4518835697513548042
+      black_legion_skirt_90: 2727777232050208120
+      black_legion_skirt_91: 4730544912455319613
+      black_legion_skirt_92: -231121959179610078
+      black_legion_skirt_93: -4522783229742440129
+      black_legion_skirt_94: -3805554925521410461
+      black_legion_skirt_95: 6741470506477669130
+      black_legion_skirt_96: 6796002262097547673
+      black_legion_skirt_97: 3060738324499705910
+      black_legion_skirt_98: 7649945404453069280
+      black_legion_skirt_99: -2677644416947532004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

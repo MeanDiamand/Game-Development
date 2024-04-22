@@ -43906,7 +43906,7 @@ PrefabInstance:
     - target: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
       propertyPath: <InventoryItem>k__BackingField
       value: 
-      objectReference: {fileID: 11400000, guid: 8361b6a4ea705e548ae4f24437fd9e8c, type: 2}
+      objectReference: {fileID: 11400000, guid: 9f562318cdc88704899e5f59616357e1, type: 2}
     - target: {fileID: 4577143613110666320, guid: 114b20432312d2c40a816e924d135682, type: 3}
       propertyPath: m_Name
       value: ItemPickable

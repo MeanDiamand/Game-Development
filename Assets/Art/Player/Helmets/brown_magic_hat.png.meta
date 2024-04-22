@@ -1,541 +1,541 @@
 fileFormatVersion: 2
-guid: a7fb385c7bb6eb54db6180c68b022775
+guid: aec298500031d2344bbc5b103ef2c90c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6171749998868576760
-    second: steel_helmet_0
+      213: -6000752067299471591
+    second: brown_magic_hat_0
   - first:
-      213: 12241374522416488
-    second: steel_helmet_1
+      213: 2758032742170900316
+    second: brown_magic_hat_1
   - first:
-      213: 6986683232054315680
-    second: steel_helmet_2
+      213: 3153638222212043541
+    second: brown_magic_hat_2
   - first:
-      213: -9084514716749300429
-    second: steel_helmet_3
+      213: -9049015745149923089
+    second: brown_magic_hat_3
   - first:
-      213: -2605092767791272085
-    second: steel_helmet_4
+      213: 2729873469635081075
+    second: brown_magic_hat_4
   - first:
-      213: -3618400423685170181
-    second: steel_helmet_5
+      213: 5832394138226006383
+    second: brown_magic_hat_5
   - first:
-      213: -8915839874675382637
-    second: steel_helmet_6
+      213: 1556268250819976487
+    second: brown_magic_hat_6
   - first:
-      213: -3062091586150151873
-    second: steel_helmet_7
+      213: 7138016112064095415
+    second: brown_magic_hat_7
   - first:
-      213: -1322780199126261323
-    second: steel_helmet_8
+      213: -3338527844869706086
+    second: brown_magic_hat_8
   - first:
-      213: 4846370706414177993
-    second: steel_helmet_9
+      213: -5649833200570352590
+    second: brown_magic_hat_9
   - first:
-      213: -586560210239163906
-    second: steel_helmet_10
+      213: -4723662843450341229
+    second: brown_magic_hat_10
   - first:
-      213: -1972632962815971818
-    second: steel_helmet_11
+      213: 7365432427856374282
+    second: brown_magic_hat_11
   - first:
-      213: -1713682853992552001
-    second: steel_helmet_12
+      213: 751888885689308213
+    second: brown_magic_hat_12
   - first:
-      213: 3439335505553292134
-    second: steel_helmet_13
+      213: -8684772245080103312
+    second: brown_magic_hat_13
   - first:
-      213: 2892035228080534227
-    second: steel_helmet_14
+      213: 1211842316381459390
+    second: brown_magic_hat_14
   - first:
-      213: 3313697068908060132
-    second: steel_helmet_15
+      213: 4678104317558713175
+    second: brown_magic_hat_15
   - first:
-      213: -5567384938589405565
-    second: steel_helmet_16
+      213: 1069767605848517896
+    second: brown_magic_hat_16
   - first:
-      213: 7500603439164031947
-    second: steel_helmet_17
+      213: 7156323951155043862
+    second: brown_magic_hat_17
   - first:
-      213: -3644197443859134174
-    second: steel_helmet_18
+      213: 1191364980487824108
+    second: brown_magic_hat_18
   - first:
-      213: 4466993417679045759
-    second: steel_helmet_19
+      213: 3805677387149853853
+    second: brown_magic_hat_19
   - first:
-      213: 1742437157880726838
-    second: steel_helmet_20
+      213: -7287434952365429463
+    second: brown_magic_hat_20
   - first:
-      213: 5510097588438900594
-    second: steel_helmet_21
+      213: 1967490979590370651
+    second: brown_magic_hat_21
   - first:
-      213: -3267568700784841838
-    second: steel_helmet_22
+      213: -3637800208924291399
+    second: brown_magic_hat_22
   - first:
-      213: 1348682662045803020
-    second: steel_helmet_23
+      213: 5614684500482870954
+    second: brown_magic_hat_23
   - first:
-      213: 8206618093779921881
-    second: steel_helmet_24
+      213: -3440226687469659463
+    second: brown_magic_hat_24
   - first:
-      213: 1185336702795753642
-    second: steel_helmet_25
+      213: 7623681447964326833
+    second: brown_magic_hat_25
   - first:
-      213: 8888250568420438383
-    second: steel_helmet_26
+      213: 4943210779492048298
+    second: brown_magic_hat_26
   - first:
-      213: 5559853279690005970
-    second: steel_helmet_27
+      213: 757253553295061671
+    second: brown_magic_hat_27
   - first:
-      213: 5327364381975883520
-    second: steel_helmet_28
+      213: 7377163608455317222
+    second: brown_magic_hat_28
   - first:
-      213: 4207413756729204104
-    second: steel_helmet_29
+      213: 5004368953256606662
+    second: brown_magic_hat_29
   - first:
-      213: -4423727515652172706
-    second: steel_helmet_30
+      213: -6778303361601989775
+    second: brown_magic_hat_30
   - first:
-      213: -4389538743983595125
-    second: steel_helmet_31
+      213: 2300640549334211561
+    second: brown_magic_hat_31
   - first:
-      213: -2314416292049436817
-    second: steel_helmet_32
+      213: -4271045943161827529
+    second: brown_magic_hat_32
   - first:
-      213: -6020420764971605737
-    second: steel_helmet_33
+      213: -1703735186792061895
+    second: brown_magic_hat_33
   - first:
-      213: 5703355630601134212
-    second: steel_helmet_34
+      213: 4454118619719994910
+    second: brown_magic_hat_34
   - first:
-      213: -3029926006429797792
-    second: steel_helmet_35
+      213: 4876570219296207009
+    second: brown_magic_hat_35
   - first:
-      213: -53097635868160739
-    second: steel_helmet_36
+      213: -5391973803133387601
+    second: brown_magic_hat_36
   - first:
-      213: -673222048977194238
-    second: steel_helmet_37
+      213: -8072163237172992567
+    second: brown_magic_hat_37
   - first:
-      213: -7496279777166356339
-    second: steel_helmet_38
+      213: 7548402177838653859
+    second: brown_magic_hat_38
   - first:
-      213: -3021865570111167463
-    second: steel_helmet_39
+      213: 335793526857761030
+    second: brown_magic_hat_39
   - first:
-      213: 9061380609784110592
-    second: steel_helmet_40
+      213: -2989582816302305590
+    second: brown_magic_hat_40
   - first:
-      213: -3269708864223853646
-    second: steel_helmet_41
+      213: -8093541353317737444
+    second: brown_magic_hat_41
   - first:
-      213: -1408640524953191784
-    second: steel_helmet_42
+      213: -708474188160455580
+    second: brown_magic_hat_42
   - first:
-      213: 8570442781222150036
-    second: steel_helmet_43
+      213: 8563188923649613824
+    second: brown_magic_hat_43
   - first:
-      213: -2688813780094995009
-    second: steel_helmet_44
+      213: 1749422488019271750
+    second: brown_magic_hat_44
   - first:
-      213: 8645676110124070078
-    second: steel_helmet_45
+      213: -209109888997438812
+    second: brown_magic_hat_45
   - first:
-      213: -2337278104543630372
-    second: steel_helmet_46
+      213: 6639333188373703526
+    second: brown_magic_hat_46
   - first:
-      213: -554455110087410358
-    second: steel_helmet_47
+      213: -6259689591227389037
+    second: brown_magic_hat_47
   - first:
-      213: 2102823896779310437
-    second: steel_helmet_48
+      213: 6616083379009346677
+    second: brown_magic_hat_48
   - first:
-      213: 4886785767373659916
-    second: steel_helmet_49
+      213: 4633846439026413317
+    second: brown_magic_hat_49
   - first:
-      213: 2486674740593134430
-    second: steel_helmet_50
+      213: -1062334809715393584
+    second: brown_magic_hat_50
   - first:
-      213: 4501855816464969713
-    second: steel_helmet_51
+      213: -6760720004207532019
+    second: brown_magic_hat_51
   - first:
-      213: 1288944814315847801
-    second: steel_helmet_52
+      213: 8924681293798734576
+    second: brown_magic_hat_52
   - first:
-      213: 5792239042642673814
-    second: steel_helmet_53
+      213: 6229975486264984076
+    second: brown_magic_hat_53
   - first:
-      213: -9200427242908765608
-    second: steel_helmet_54
+      213: 7182359786790576559
+    second: brown_magic_hat_54
   - first:
-      213: -7230916463810660293
-    second: steel_helmet_55
+      213: -3766946111167037612
+    second: brown_magic_hat_55
   - first:
-      213: -6077679775214339239
-    second: steel_helmet_56
+      213: 5702462673761443837
+    second: brown_magic_hat_56
   - first:
-      213: -2014232571661212167
-    second: steel_helmet_57
+      213: 6484710001013023865
+    second: brown_magic_hat_57
   - first:
-      213: -4008410288200766598
-    second: steel_helmet_58
+      213: 5103652137038801130
+    second: brown_magic_hat_58
   - first:
-      213: 514415130665000966
-    second: steel_helmet_59
+      213: -5187640767526865157
+    second: brown_magic_hat_59
   - first:
-      213: 8430018887565883415
-    second: steel_helmet_60
+      213: 5570748115633225267
+    second: brown_magic_hat_60
   - first:
-      213: 3324382747386455729
-    second: steel_helmet_61
+      213: 5354449513468463671
+    second: brown_magic_hat_61
   - first:
-      213: 1180296870818938530
-    second: steel_helmet_62
+      213: -7414378215448083351
+    second: brown_magic_hat_62
   - first:
-      213: -2841516579443058458
-    second: steel_helmet_63
+      213: -6115521679295603836
+    second: brown_magic_hat_63
   - first:
-      213: -2210705929708827437
-    second: steel_helmet_64
+      213: -3095338126844818273
+    second: brown_magic_hat_64
   - first:
-      213: 2085819806030340423
-    second: steel_helmet_65
+      213: -1379306763498308209
+    second: brown_magic_hat_65
   - first:
-      213: -7460367247566041362
-    second: steel_helmet_66
+      213: -6783304818743488441
+    second: brown_magic_hat_66
   - first:
-      213: -8499979738703707583
-    second: steel_helmet_67
+      213: 3405655401011476237
+    second: brown_magic_hat_67
   - first:
-      213: -8852262402376275218
-    second: steel_helmet_68
+      213: 182789683652387295
+    second: brown_magic_hat_68
   - first:
-      213: 9124959812758010136
-    second: steel_helmet_69
+      213: 3758701902208300410
+    second: brown_magic_hat_69
   - first:
-      213: -251607274846075724
-    second: steel_helmet_70
+      213: 6008349077401644636
+    second: brown_magic_hat_70
   - first:
-      213: -3325462535381865803
-    second: steel_helmet_71
+      213: -4665408291080220868
+    second: brown_magic_hat_71
   - first:
-      213: 8397568820755220717
-    second: steel_helmet_72
+      213: -6146929554345025581
+    second: brown_magic_hat_72
   - first:
-      213: 4703732761374378263
-    second: steel_helmet_73
+      213: -6138488670324905550
+    second: brown_magic_hat_73
   - first:
-      213: -4071943459035029028
-    second: steel_helmet_74
+      213: -5364693909045086347
+    second: brown_magic_hat_74
   - first:
-      213: 7723011734815802537
-    second: steel_helmet_75
+      213: -6003353951405413438
+    second: brown_magic_hat_75
   - first:
-      213: 7521647195445578084
-    second: steel_helmet_76
+      213: 3667240278269535651
+    second: brown_magic_hat_76
   - first:
-      213: 7798953126886843722
-    second: steel_helmet_77
+      213: 3521957445031357377
+    second: brown_magic_hat_77
   - first:
-      213: 8103393022394613735
-    second: steel_helmet_78
+      213: -5415407088222528999
+    second: brown_magic_hat_78
   - first:
-      213: 1001067612486801208
-    second: steel_helmet_79
+      213: 8677488994054142363
+    second: brown_magic_hat_79
   - first:
-      213: -342845787209007105
-    second: steel_helmet_80
+      213: -4970945949984135942
+    second: brown_magic_hat_80
   - first:
-      213: 7407496882320240874
-    second: steel_helmet_81
+      213: 4661263101215461905
+    second: brown_magic_hat_81
   - first:
-      213: 1176574924260936011
-    second: steel_helmet_82
+      213: 2391421440323721138
+    second: brown_magic_hat_82
   - first:
-      213: -8729810696231732969
-    second: steel_helmet_83
+      213: -2565478508735091348
+    second: brown_magic_hat_83
   - first:
-      213: -4684543575520208719
-    second: steel_helmet_84
+      213: 8163341327017992832
+    second: brown_magic_hat_84
   - first:
-      213: -5556636124233375385
-    second: steel_helmet_85
+      213: 3541069380856573009
+    second: brown_magic_hat_85
   - first:
-      213: 4204050572261347990
-    second: steel_helmet_86
+      213: 8077284832342251234
+    second: brown_magic_hat_86
   - first:
-      213: 1071223655509989327
-    second: steel_helmet_87
+      213: -3497451012536655917
+    second: brown_magic_hat_87
   - first:
-      213: -987298771173507599
-    second: steel_helmet_88
+      213: 6688482761813512912
+    second: brown_magic_hat_88
   - first:
-      213: -941148049827953005
-    second: steel_helmet_89
+      213: -7467107688091235048
+    second: brown_magic_hat_89
   - first:
-      213: -40111364193426509
-    second: steel_helmet_90
+      213: -8895953909066865308
+    second: brown_magic_hat_90
   - first:
-      213: 3653208969029831014
-    second: steel_helmet_91
+      213: 2883194021911240221
+    second: brown_magic_hat_91
   - first:
-      213: 8777758608245864649
-    second: steel_helmet_92
+      213: 7973759612468804158
+    second: brown_magic_hat_92
   - first:
-      213: -8863699348197801595
-    second: steel_helmet_93
+      213: 1362457866622320014
+    second: brown_magic_hat_93
   - first:
-      213: -1528422834583850921
-    second: steel_helmet_94
+      213: -867639091540088984
+    second: brown_magic_hat_94
   - first:
-      213: 6280033951698896790
-    second: steel_helmet_95
+      213: -8793098719929684859
+    second: brown_magic_hat_95
   - first:
-      213: -4751858050826911993
-    second: steel_helmet_96
+      213: -1311086658241636740
+    second: brown_magic_hat_96
   - first:
-      213: -3141439542981642364
-    second: steel_helmet_97
+      213: -6408465613237233393
+    second: brown_magic_hat_97
   - first:
-      213: -6121911227465134723
-    second: steel_helmet_98
+      213: 2137350625932058602
+    second: brown_magic_hat_98
   - first:
-      213: -7998694753117018577
-    second: steel_helmet_99
+      213: 4557687486378730554
+    second: brown_magic_hat_99
   - first:
-      213: -7351198424840555652
-    second: steel_helmet_100
+      213: 6317396854353947898
+    second: brown_magic_hat_100
   - first:
-      213: 7612810089966860576
-    second: steel_helmet_101
+      213: 9207240762716885013
+    second: brown_magic_hat_101
   - first:
-      213: 1876455311465488501
-    second: steel_helmet_102
+      213: -6408723569273326763
+    second: brown_magic_hat_102
   - first:
-      213: -8552234656509997781
-    second: steel_helmet_103
+      213: 708761655662720940
+    second: brown_magic_hat_103
   - first:
-      213: 372493284527290364
-    second: steel_helmet_104
+      213: 7786022758460481072
+    second: brown_magic_hat_104
   - first:
-      213: -1785514995071107864
-    second: steel_helmet_105
+      213: -6148380834778305244
+    second: brown_magic_hat_105
   - first:
-      213: -5547875155533440087
-    second: steel_helmet_106
+      213: -3140106350524565409
+    second: brown_magic_hat_106
   - first:
-      213: 6302302562564093891
-    second: steel_helmet_107
+      213: 2031488992870199690
+    second: brown_magic_hat_107
   - first:
-      213: -6437388689642309485
-    second: steel_helmet_108
+      213: -2385000480459525827
+    second: brown_magic_hat_108
   - first:
-      213: -3742859842601144340
-    second: steel_helmet_109
+      213: 3334663949311173546
+    second: brown_magic_hat_109
   - first:
-      213: -2188892216917094203
-    second: steel_helmet_110
+      213: -6474794243614303109
+    second: brown_magic_hat_110
   - first:
-      213: 8960342473285734135
-    second: steel_helmet_111
+      213: 2553451155645675199
+    second: brown_magic_hat_111
   - first:
-      213: -5135927531716469155
-    second: steel_helmet_112
+      213: 6463355323749780647
+    second: brown_magic_hat_112
   - first:
-      213: -3795696677588511176
-    second: steel_helmet_113
+      213: -3442551788952234836
+    second: brown_magic_hat_113
   - first:
-      213: -7269287026526555599
-    second: steel_helmet_114
+      213: 6182040582394494364
+    second: brown_magic_hat_114
   - first:
-      213: -200280996575369581
-    second: steel_helmet_115
+      213: -4221750244502837761
+    second: brown_magic_hat_115
   - first:
-      213: 13329640905894783
-    second: steel_helmet_116
+      213: 7043332114221304555
+    second: brown_magic_hat_116
   - first:
-      213: -7343726047885292783
-    second: steel_helmet_117
+      213: -6604157979514070372
+    second: brown_magic_hat_117
   - first:
-      213: -2407927321422852646
-    second: steel_helmet_118
+      213: 7359421080363030169
+    second: brown_magic_hat_118
   - first:
-      213: 2179341348579415231
-    second: steel_helmet_119
+      213: 4741565166528804059
+    second: brown_magic_hat_119
   - first:
-      213: 3108581125857502269
-    second: steel_helmet_120
+      213: -5174040594146268920
+    second: brown_magic_hat_120
   - first:
-      213: 8783564235806967381
-    second: steel_helmet_121
+      213: 5617995049621629515
+    second: brown_magic_hat_121
   - first:
-      213: -454198823789125173
-    second: steel_helmet_122
+      213: 1358121344413735743
+    second: brown_magic_hat_122
   - first:
-      213: 397881566263101192
-    second: steel_helmet_123
+      213: 4079283075785022388
+    second: brown_magic_hat_123
   - first:
-      213: 874327018104137350
-    second: steel_helmet_124
+      213: -4067256106229158624
+    second: brown_magic_hat_124
   - first:
-      213: -6713696751126964014
-    second: steel_helmet_125
+      213: 8192794830259902157
+    second: brown_magic_hat_125
   - first:
-      213: -2321739273729232134
-    second: steel_helmet_126
+      213: 3764794714134759960
+    second: brown_magic_hat_126
   - first:
-      213: -6158422974067419945
-    second: steel_helmet_127
+      213: 936635728983152743
+    second: brown_magic_hat_127
   - first:
-      213: -2885177728186784369
-    second: steel_helmet_128
+      213: -8097240578444674243
+    second: brown_magic_hat_128
   - first:
-      213: 7676975855596175510
-    second: steel_helmet_129
+      213: 3190248375517140249
+    second: brown_magic_hat_129
   - first:
-      213: 9018328958594954851
-    second: steel_helmet_130
+      213: 8123679822060061407
+    second: brown_magic_hat_130
   - first:
-      213: 32627421838500222
-    second: steel_helmet_131
+      213: 415604300949294222
+    second: brown_magic_hat_131
   - first:
-      213: -7055271449064097300
-    second: steel_helmet_132
+      213: 4698544317111745713
+    second: brown_magic_hat_132
   - first:
-      213: -8137454989894214761
-    second: steel_helmet_133
+      213: -9115941056942235403
+    second: brown_magic_hat_133
   - first:
-      213: 7814079881433781314
-    second: steel_helmet_134
+      213: 2502930768592319333
+    second: brown_magic_hat_134
   - first:
-      213: -830653047195545880
-    second: steel_helmet_135
+      213: -3249656234771400809
+    second: brown_magic_hat_135
   - first:
-      213: 3571089155422953958
-    second: steel_helmet_136
+      213: 5528623491868316410
+    second: brown_magic_hat_136
   - first:
-      213: 8608458343499641676
-    second: steel_helmet_137
+      213: 5421599580661471191
+    second: brown_magic_hat_137
   - first:
-      213: -4521896136606157206
-    second: steel_helmet_138
+      213: -2607096270599116593
+    second: brown_magic_hat_138
   - first:
-      213: -7379808085785645685
-    second: steel_helmet_139
+      213: 969337129025657752
+    second: brown_magic_hat_139
   - first:
-      213: 6001633866373590326
-    second: steel_helmet_140
+      213: 4720175686928471357
+    second: brown_magic_hat_140
   - first:
-      213: 6783345607673735882
-    second: steel_helmet_141
+      213: -6912329271067050828
+    second: brown_magic_hat_141
   - first:
-      213: 8008768553774835756
-    second: steel_helmet_142
+      213: -1045934153366373973
+    second: brown_magic_hat_142
   - first:
-      213: 6434063186551292103
-    second: steel_helmet_143
+      213: 8139884167665694024
+    second: brown_magic_hat_143
   - first:
-      213: 2159209666717278891
-    second: steel_helmet_144
+      213: -8456925924576375809
+    second: brown_magic_hat_144
   - first:
-      213: 9168518805462876353
-    second: steel_helmet_145
+      213: -2852243165024322787
+    second: brown_magic_hat_145
   - first:
-      213: -4869995486645530157
-    second: steel_helmet_146
+      213: 3907697977535850509
+    second: brown_magic_hat_146
   - first:
-      213: 4753510776598584501
-    second: steel_helmet_147
+      213: -7785118289241082772
+    second: brown_magic_hat_147
   - first:
-      213: -2947695224119492942
-    second: steel_helmet_148
+      213: -6399771218825872548
+    second: brown_magic_hat_148
   - first:
-      213: -3728641990419382530
-    second: steel_helmet_149
+      213: 1261808777412199028
+    second: brown_magic_hat_149
   - first:
-      213: -6777264154862774659
-    second: steel_helmet_150
+      213: -588548465655575605
+    second: brown_magic_hat_150
   - first:
-      213: 6933023376168431261
-    second: steel_helmet_151
+      213: -5335325349771746251
+    second: brown_magic_hat_151
   - first:
-      213: 4733317475165143952
-    second: steel_helmet_152
+      213: 6609772397542024754
+    second: brown_magic_hat_152
   - first:
-      213: -3710771358779720537
-    second: steel_helmet_153
+      213: -2321027095106868294
+    second: brown_magic_hat_153
   - first:
-      213: 330302259733548480
-    second: steel_helmet_154
+      213: -2787943503558873023
+    second: brown_magic_hat_154
   - first:
-      213: -6939508502263261391
-    second: steel_helmet_155
+      213: -991163082335851263
+    second: brown_magic_hat_155
   - first:
-      213: 5002702932149469365
-    second: steel_helmet_156
+      213: 8969779195756804770
+    second: brown_magic_hat_156
   - first:
-      213: -7097283890999498678
-    second: steel_helmet_157
+      213: -5723270411456925238
+    second: brown_magic_hat_157
   - first:
-      213: 1514198295637716849
-    second: steel_helmet_158
+      213: -1776471459395816379
+    second: brown_magic_hat_158
   - first:
-      213: 4851667282939454625
-    second: steel_helmet_159
+      213: -7307215784820837858
+    second: brown_magic_hat_159
   - first:
-      213: 6321625766912571876
-    second: steel_helmet_160
+      213: 3761386011638487230
+    second: brown_magic_hat_160
   - first:
-      213: 913465685239183940
-    second: steel_helmet_161
+      213: 3254617237995299057
+    second: brown_magic_hat_161
   - first:
-      213: 1767121295051413413
-    second: steel_helmet_162
+      213: 4351798245292803170
+    second: brown_magic_hat_162
   - first:
-      213: -160991686874220841
-    second: steel_helmet_163
+      213: 8483844852964916449
+    second: brown_magic_hat_163
   - first:
-      213: -2698789183063486101
-    second: steel_helmet_164
+      213: -914136704015644684
+    second: brown_magic_hat_164
   - first:
-      213: -2789530076184092515
-    second: steel_helmet_165
+      213: -8775675491691694228
+    second: brown_magic_hat_165
   - first:
-      213: 612811634397536670
-    second: steel_helmet_166
+      213: 5509057761324104326
+    second: brown_magic_hat_166
   - first:
-      213: -7041434853999231050
-    second: steel_helmet_167
+      213: 3630503685878144479
+    second: brown_magic_hat_167
   - first:
-      213: 5545952958443293239
-    second: steel_helmet_168
+      213: 5434082722265513410
+    second: brown_magic_hat_168
   - first:
-      213: 2288095627074563934
-    second: steel_helmet_169
+      213: -5715985489882683947
+    second: brown_magic_hat_169
   - first:
-      213: 361337283283145269
-    second: steel_helmet_170
+      213: -7176880002197641836
+    second: brown_magic_hat_170
   - first:
-      213: -7107911798999722941
-    second: steel_helmet_171
+      213: -1594302237285128568
+    second: brown_magic_hat_171
   - first:
-      213: -7022891012795779029
-    second: steel_helmet_172
+      213: 1434068144673089463
+    second: brown_magic_hat_172
   - first:
-      213: 5061407138939349685
-    second: steel_helmet_173
+      213: 8598870874087094061
+    second: brown_magic_hat_173
   - first:
-      213: 5339238824444509861
-    second: steel_helmet_174
+      213: -8831575350032707481
+    second: brown_magic_hat_174
   - first:
-      213: -8559243311990771042
-    second: steel_helmet_175
+      213: -8956764028831864883
+    second: brown_magic_hat_175
   - first:
-      213: -4096098757073665786
-    second: steel_helmet_176
+      213: 2555880890361011558
+    second: brown_magic_hat_176
   - first:
-      213: -831099577367464737
-    second: steel_helmet_177
+      213: -1681268096226694644
+    second: brown_magic_hat_177
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -696,7 +696,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: steel_helmet_0
+      name: brown_magic_hat_0
       rect:
         serializedVersion: 2
         x: 0
@@ -710,14 +710,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f93415bce576a550800000000000000
-      internalID: 6171749998868576760
+      spriteID: 91f8c63c9cb09bca0800000000000000
+      internalID: -6000752067299471591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_1
+      name: brown_magic_hat_1
       rect:
         serializedVersion: 2
         x: 64
@@ -731,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86d98fb177d7b2000800000000000000
-      internalID: 12241374522416488
+      spriteID: c573ef39a20864620800000000000000
+      internalID: 2758032742170900316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_2
+      name: brown_magic_hat_2
       rect:
         serializedVersion: 2
         x: 128
@@ -752,14 +752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aa86cce16fa5f060800000000000000
-      internalID: 6986683232054315680
+      spriteID: 5131b012149f3cb20800000000000000
+      internalID: 3153638222212043541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_3
+      name: brown_magic_hat_3
       rect:
         serializedVersion: 2
         x: 192
@@ -773,14 +773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33d79573ff15de180800000000000000
-      internalID: -9084514716749300429
+      spriteID: fe01c6f9f107b6280800000000000000
+      internalID: -9049015745149923089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_4
+      name: brown_magic_hat_4
       rect:
         serializedVersion: 2
         x: 256
@@ -794,14 +794,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6facd81ee9d8dbd0800000000000000
-      internalID: -2605092767791272085
+      spriteID: 373bc57057572e520800000000000000
+      internalID: 2729873469635081075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_5
+      name: brown_magic_hat_5
       rect:
         serializedVersion: 2
         x: 320
@@ -815,14 +815,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfb5f1b5cfbd8cdc0800000000000000
-      internalID: -3618400423685170181
+      spriteID: f69180f3193d0f050800000000000000
+      internalID: 5832394138226006383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_6
+      name: brown_magic_hat_6
       rect:
         serializedVersion: 2
         x: 384
@@ -836,14 +836,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 396e5b34fd2944480800000000000000
-      internalID: -8915839874675382637
+      spriteID: 72dd7598ab9f89510800000000000000
+      internalID: 1556268250819976487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_7
+      name: brown_magic_hat_7
       rect:
         serializedVersion: 2
         x: 448
@@ -857,14 +857,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f39cec11de34185d0800000000000000
-      internalID: -3062091586150151873
+      spriteID: 7b46898c5d35f0360800000000000000
+      internalID: 7138016112064095415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_8
+      name: brown_magic_hat_8
       rect:
         serializedVersion: 2
         x: 0
@@ -878,14 +878,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b1a823da6a84ade0800000000000000
-      internalID: -1322780199126261323
+      spriteID: a9e6ac50d9a2ba1d0800000000000000
+      internalID: -3338527844869706086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_9
+      name: brown_magic_hat_9
       rect:
         serializedVersion: 2
         x: 64
@@ -899,14 +899,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ce0da5fa74c14340800000000000000
-      internalID: 4846370706414177993
+      spriteID: 23cbbcf53a2c791b0800000000000000
+      internalID: -5649833200570352590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_10
+      name: brown_magic_hat_10
       rect:
         serializedVersion: 2
         x: 128
@@ -920,14 +920,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef1f055b89e1cd7f0800000000000000
-      internalID: -586560210239163906
+      spriteID: 3984e61cbad227eb0800000000000000
+      internalID: -4723662843450341229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_11
+      name: brown_magic_hat_11
       rect:
         serializedVersion: 2
         x: 192
@@ -941,14 +941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ea02395cccf94e0800000000000000
-      internalID: -1972632962815971818
+      spriteID: a0aa587f4c5473660800000000000000
+      internalID: 7365432427856374282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_12
+      name: brown_magic_hat_12
       rect:
         serializedVersion: 2
         x: 256
@@ -962,14 +962,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb9a8161686c738e0800000000000000
-      internalID: -1713682853992552001
+      spriteID: 534531635fe3f6a00800000000000000
+      internalID: 751888885689308213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_13
+      name: brown_magic_hat_13
       rect:
         serializedVersion: 2
         x: 320
@@ -983,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66b74ef7b69fabf20800000000000000
-      internalID: 3439335505553292134
+      spriteID: 07624d038ad797780800000000000000
+      internalID: -8684772245080103312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_14
+      name: brown_magic_hat_14
       rect:
         serializedVersion: 2
         x: 384
@@ -1004,14 +1004,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d2f7af97b2922820800000000000000
-      internalID: 2892035228080534227
+      spriteID: eb314b78a2451d010800000000000000
+      internalID: 1211842316381459390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_15
+      name: brown_magic_hat_15
       rect:
         serializedVersion: 2
         x: 0
@@ -1025,14 +1025,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ed948d6ded9cfd20800000000000000
-      internalID: 3313697068908060132
+      spriteID: 75bee465717fbe040800000000000000
+      internalID: 4678104317558713175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_16
+      name: brown_magic_hat_16
       rect:
         serializedVersion: 2
         x: 64
@@ -1046,14 +1046,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38eb48745ecacb2b0800000000000000
-      internalID: -5567384938589405565
+      spriteID: 80d22da38f398de00800000000000000
+      internalID: 1069767605848517896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_17
+      name: brown_magic_hat_17
       rect:
         serializedVersion: 2
         x: 128
@@ -1067,14 +1067,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc30278861f771860800000000000000
-      internalID: 7500603439164031947
+      spriteID: 61e573eb7be505360800000000000000
+      internalID: 7156323951155043862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_18
+      name: brown_magic_hat_18
       rect:
         serializedVersion: 2
         x: 192
@@ -1088,14 +1088,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 229c36b8bb53d6dc0800000000000000
-      internalID: -3644197443859134174
+      spriteID: ce221db3324988010800000000000000
+      internalID: 1191364980487824108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_19
+      name: brown_magic_hat_19
       rect:
         serializedVersion: 2
         x: 256
@@ -1109,14 +1109,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7484c2a8d2fdfd30800000000000000
-      internalID: 4466993417679045759
+      spriteID: d94cdc69b6b70d430800000000000000
+      internalID: 3805677387149853853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_20
+      name: brown_magic_hat_20
       rect:
         serializedVersion: 2
         x: 320
@@ -1130,14 +1130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6350ceefc516e2810800000000000000
-      internalID: 1742437157880726838
+      spriteID: 92d2e747584ddda90800000000000000
+      internalID: -7287434952365429463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_21
+      name: brown_magic_hat_21
       rect:
         serializedVersion: 2
         x: 384
@@ -1151,14 +1151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27f13ac109cc77c40800000000000000
-      internalID: 5510097588438900594
+      spriteID: b55f4492f9eed4b10800000000000000
+      internalID: 1967490979590370651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_22
+      name: brown_magic_hat_22
       rect:
         serializedVersion: 2
         x: 0
@@ -1172,14 +1172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29be886349347a2d0800000000000000
-      internalID: -3267568700784841838
+      spriteID: 9bec93fdbffe38dc0800000000000000
+      internalID: -3637800208924291399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_23
+      name: brown_magic_hat_23
       rect:
         serializedVersion: 2
         x: 64
@@ -1193,14 +1193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c02e7f94cbb77b210800000000000000
-      internalID: 1348682662045803020
+      spriteID: aae4c292ecd5bed40800000000000000
+      internalID: 5614684500482870954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_24
+      name: brown_magic_hat_24
       rect:
         serializedVersion: 2
         x: 128
@@ -1214,14 +1214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dbab0ffca3c3e170800000000000000
-      internalID: 8206618093779921881
+      spriteID: 9ba5d8a0e0cd140d0800000000000000
+      internalID: -3440226687469659463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_25
+      name: brown_magic_hat_25
       rect:
         serializedVersion: 2
         x: 192
@@ -1235,14 +1235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa8af557379237010800000000000000
-      internalID: 1185336702795753642
+      spriteID: 1bb36aa82e1ccc960800000000000000
+      internalID: 7623681447964326833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_26
+      name: brown_magic_hat_26
       rect:
         serializedVersion: 2
         x: 256
@@ -1256,14 +1256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f613d5dccc8695b70800000000000000
-      internalID: 8888250568420438383
+      spriteID: aad51818300d99440800000000000000
+      internalID: 4943210779492048298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_27
+      name: brown_magic_hat_27
       rect:
         serializedVersion: 2
         x: 320
@@ -1277,14 +1277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dd963bb911982d40800000000000000
-      internalID: 5559853279690005970
+      spriteID: 7a2fd09381e428a00800000000000000
+      internalID: 757253553295061671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_28
+      name: brown_magic_hat_28
       rect:
         serializedVersion: 2
         x: 384
@@ -1298,14 +1298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00fadb80ea99ee940800000000000000
-      internalID: 5327364381975883520
+      spriteID: 6e60beb4733f06660800000000000000
+      internalID: 7377163608455317222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_29
+      name: brown_magic_hat_29
       rect:
         serializedVersion: 2
         x: 0
@@ -1319,14 +1319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88d9fe8158cb36a30800000000000000
-      internalID: 4207413756729204104
+      spriteID: 6cb7ad77c07137540800000000000000
+      internalID: 5004368953256606662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_30
+      name: brown_magic_hat_30
       rect:
         serializedVersion: 2
         x: 64
@@ -1340,14 +1340,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e545e6e2343cb92c0800000000000000
-      internalID: -4423727515652172706
+      spriteID: 17390ef6101aee1a0800000000000000
+      internalID: -6778303361601989775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_31
+      name: brown_magic_hat_31
       rect:
         serializedVersion: 2
         x: 128
@@ -1361,14 +1361,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b812b05e4c93513c0800000000000000
-      internalID: -4389538743983595125
+      spriteID: 9ebdceae3648def10800000000000000
+      internalID: 2300640549334211561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_32
+      name: brown_magic_hat_32
       rect:
         serializedVersion: 2
         x: 192
@@ -1382,14 +1382,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f340a05aa81efd0800000000000000
-      internalID: -2314416292049436817
+      spriteID: 73f477af7523ab4c0800000000000000
+      internalID: -4271045943161827529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_33
+      name: brown_magic_hat_33
       rect:
         serializedVersion: 2
         x: 256
@@ -1403,14 +1403,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7116b79363b237ca0800000000000000
-      internalID: -6020420764971605737
+      spriteID: 934ece7dfdd1b58e0800000000000000
+      internalID: -1703735186792061895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_34
+      name: brown_magic_hat_34
       rect:
         serializedVersion: 2
         x: 320
@@ -1424,14 +1424,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48064b57ab3662f40800000000000000
-      internalID: 5703355630601134212
+      spriteID: e1e0dd3294530dd30800000000000000
+      internalID: 4454118619719994910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_35
+      name: brown_magic_hat_35
       rect:
         serializedVersion: 2
         x: 384
@@ -1445,14 +1445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062b803b95a83f5d0800000000000000
-      internalID: -3029926006429797792
+      spriteID: 1a0366bf6ce0da340800000000000000
+      internalID: 4876570219296207009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_36
+      name: brown_magic_hat_36
       rect:
         serializedVersion: 2
         x: 448
@@ -1466,14 +1466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4aa34bfb534ff0800000000000000
-      internalID: -53097635868160739
+      spriteID: facb50ad46cdb25b0800000000000000
+      internalID: -5391973803133387601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_37
+      name: brown_magic_hat_37
       rect:
         serializedVersion: 2
         x: 0
@@ -1487,14 +1487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 203f0c30d1c38a6f0800000000000000
-      internalID: -673222048977194238
+      spriteID: 9c5265fcd4ae9ff80800000000000000
+      internalID: -8072163237172992567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_38
+      name: brown_magic_hat_38
       rect:
         serializedVersion: 2
         x: 64
@@ -1508,14 +1508,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d801e09724dd7f790800000000000000
-      internalID: -7496279777166356339
+      spriteID: 3a1abdf99cf41c860800000000000000
+      internalID: 7548402177838653859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_39
+      name: brown_magic_hat_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1529,14 +1529,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9146a86464d2016d0800000000000000
-      internalID: -3021865570111167463
+      spriteID: 6018b3efe6af8a400800000000000000
+      internalID: 335793526857761030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_40
+      name: brown_magic_hat_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1550,14 +1550,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00e5bc4c7ad70cd70800000000000000
-      internalID: 9061380609784110592
+      spriteID: ace60bf944ed286d0800000000000000
+      internalID: -2989582816302305590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_41
+      name: brown_magic_hat_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1571,14 +1571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cdf49c19af92d0800000000000000
-      internalID: -3269708864223853646
+      spriteID: c1cdf844507fdaf80800000000000000
+      internalID: -8093541353317737444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_42
+      name: brown_magic_hat_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1592,14 +1592,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89af1f5e7e0837ce0800000000000000
-      internalID: -1408640524953191784
+      spriteID: 46ca922ca7efa26f0800000000000000
+      internalID: -708474188160455580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_43
+      name: brown_magic_hat_43
       rect:
         serializedVersion: 2
         x: 384
@@ -1613,14 +1613,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49f9e862d4450f670800000000000000
-      internalID: 8570442781222150036
+      spriteID: 000e1b2d4fe86d670800000000000000
+      internalID: 8563188923649613824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_44
+      name: brown_magic_hat_44
       rect:
         serializedVersion: 2
         x: 448
@@ -1634,14 +1634,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb5334aec1a6faad0800000000000000
-      internalID: -2688813780094995009
+      spriteID: 6400878eb72374810800000000000000
+      internalID: 1749422488019271750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_45
+      name: brown_magic_hat_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1655,14 +1655,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb4b60b8d9c9bf770800000000000000
-      internalID: 8645676110124070078
+      spriteID: 4aa4943f9a7191df0800000000000000
+      internalID: -209109888997438812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_46
+      name: brown_magic_hat_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1676,14 +1676,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdbe06582f1509fd0800000000000000
-      internalID: -2337278104543630372
+      spriteID: 66be97eab56a32c50800000000000000
+      internalID: 6639333188373703526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_47
+      name: brown_magic_hat_47
       rect:
         serializedVersion: 2
         x: 128
@@ -1697,14 +1697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4df657d30e2e48f0800000000000000
-      internalID: -554455110087410358
+      spriteID: 39b6ea66b7d1129a0800000000000000
+      internalID: -6259689591227389037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_48
+      name: brown_magic_hat_48
       rect:
         serializedVersion: 2
         x: 192
@@ -1718,14 +1718,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 565cbb0613bbe2d10800000000000000
-      internalID: 2102823896779310437
+      spriteID: 57cd73a97cc01db50800000000000000
+      internalID: 6616083379009346677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_49
+      name: brown_magic_hat_49
       rect:
         serializedVersion: 2
         x: 256
@@ -1739,14 +1739,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0fddbd93c951d340800000000000000
-      internalID: 4886785767373659916
+      spriteID: 50fc0edf8cabe4040800000000000000
+      internalID: 4633846439026413317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_50
+      name: brown_magic_hat_50
       rect:
         serializedVersion: 2
         x: 320
@@ -1760,14 +1760,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5b8df86081728220800000000000000
-      internalID: 2486674740593134430
+      spriteID: 0dbb16a7e14d141f0800000000000000
+      internalID: -1062334809715393584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_51
+      name: brown_magic_hat_51
       rect:
         serializedVersion: 2
         x: 384
@@ -1781,14 +1781,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ffab62630ec97e30800000000000000
-      internalID: 4501855816464969713
+      spriteID: d08255bd9f81d22a0800000000000000
+      internalID: -6760720004207532019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_52
+      name: brown_magic_hat_52
       rect:
         serializedVersion: 2
         x: 448
@@ -1802,14 +1802,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 970c060ca7043e110800000000000000
-      internalID: 1288944814315847801
+      spriteID: 0fa727a0a56dadb70800000000000000
+      internalID: 8924681293798734576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_53
+      name: brown_magic_hat_53
       rect:
         serializedVersion: 2
         x: 0
@@ -1823,14 +1823,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908dde78ba226050800000000000000
-      internalID: 5792239042642673814
+      spriteID: c02473a62b1557650800000000000000
+      internalID: 6229975486264984076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_54
+      name: brown_magic_hat_54
       rect:
         serializedVersion: 2
         x: 64
@@ -1844,14 +1844,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 852b8942b24815080800000000000000
-      internalID: -9200427242908765608
+      spriteID: fa1e3bc1c2edca360800000000000000
+      internalID: 7182359786790576559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_55
+      name: brown_magic_hat_55
       rect:
         serializedVersion: 2
         x: 128
@@ -1865,14 +1865,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38ba0689cf96ab90800000000000000
-      internalID: -7230916463810660293
+      spriteID: 45f79d3587e19bbc0800000000000000
+      internalID: -3766946111167037612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_56
+      name: brown_magic_hat_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1886,14 +1886,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95bf5c3027eb7aba0800000000000000
-      internalID: -6077679775214339239
+      spriteID: dff997eb697332f40800000000000000
+      internalID: 5702462673761443837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_57
+      name: brown_magic_hat_57
       rect:
         serializedVersion: 2
         x: 256
@@ -1907,14 +1907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f5ac1fd5220c04e0800000000000000
-      internalID: -2014232571661212167
+      spriteID: 974edc173615ef950800000000000000
+      internalID: 6484710001013023865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_58
+      name: brown_magic_hat_58
       rect:
         serializedVersion: 2
         x: 320
@@ -1928,14 +1928,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ba5c194144f58c0800000000000000
-      internalID: -4008410288200766598
+      spriteID: ae86c5d0490d3d640800000000000000
+      internalID: 5103652137038801130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_59
+      name: brown_magic_hat_59
       rect:
         serializedVersion: 2
         x: 384
@@ -1949,14 +1949,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600af5af5d1932700800000000000000
-      internalID: 514415130665000966
+      spriteID: bf6f93d053cc108b0800000000000000
+      internalID: -5187640767526865157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_60
+      name: brown_magic_hat_60
       rect:
         serializedVersion: 2
         x: 448
@@ -1970,14 +1970,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 718b23b93817df470800000000000000
-      internalID: 8430018887565883415
+      spriteID: 33ebe7565e54f4d40800000000000000
+      internalID: 5570748115633225267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_61
+      name: brown_magic_hat_61
       rect:
         serializedVersion: 2
         x: 0
@@ -1991,14 +1991,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b62863de74922e20800000000000000
-      internalID: 3324382747386455729
+      spriteID: 73a0d02a673de4a40800000000000000
+      internalID: 5354449513468463671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_62
+      name: brown_magic_hat_62
       rect:
         serializedVersion: 2
         x: 64
@@ -2012,14 +2012,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aefaa220c1416010800000000000000
-      internalID: 1180296870818938530
+      spriteID: 96482ddcb46da1990800000000000000
+      internalID: -7414378215448083351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_63
+      name: brown_magic_hat_63
       rect:
         serializedVersion: 2
         x: 128
@@ -2033,14 +2033,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e8d9ead9b7e098d0800000000000000
-      internalID: -2841516579443058458
+      spriteID: 48b92612f6d412ba0800000000000000
+      internalID: -6115521679295603836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_64
+      name: brown_magic_hat_64
       rect:
         serializedVersion: 2
         x: 192
@@ -2054,14 +2054,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dc0bd47baef151e0800000000000000
-      internalID: -2210705929708827437
+      spriteID: f9c01b99f562b05d0800000000000000
+      internalID: -3095338126844818273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_65
+      name: brown_magic_hat_65
       rect:
         serializedVersion: 2
         x: 256
@@ -2075,14 +2075,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 741a9ebff0252fc10800000000000000
-      internalID: 2085819806030340423
+      spriteID: f8db3657ec7bbdce0800000000000000
+      internalID: -1379306763498308209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_66
+      name: brown_magic_hat_66
       rect:
         serializedVersion: 2
         x: 320
@@ -2096,14 +2096,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eee0edad383777890800000000000000
-      internalID: -7460367247566041362
+      spriteID: 7405993f43cdcd1a0800000000000000
+      internalID: -6783304818743488441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_67
+      name: brown_magic_hat_67
       rect:
         serializedVersion: 2
         x: 384
@@ -2117,14 +2117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1424c8466710a0a80800000000000000
-      internalID: -8499979738703707583
+      spriteID: d07fda41b81534f20800000000000000
+      internalID: 3405655401011476237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_68
+      name: brown_magic_hat_68
       rect:
         serializedVersion: 2
         x: 448
@@ -2138,14 +2138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeae0df0f32762580800000000000000
-      internalID: -8852262402376275218
+      spriteID: fd1e4b2bf36698200800000000000000
+      internalID: 182789683652387295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_69
+      name: brown_magic_hat_69
       rect:
         serializedVersion: 2
         x: 512
@@ -2159,14 +2159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 819f7258a9e52ae70800000000000000
-      internalID: 9124959812758010136
+      spriteID: a75f5b13777992430800000000000000
+      internalID: 3758701902208300410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_70
+      name: brown_magic_hat_70
       rect:
         serializedVersion: 2
         x: 0
@@ -2180,14 +2180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b445ef348c128cf0800000000000000
-      internalID: -251607274846075724
+      spriteID: c5e221df6a1f16350800000000000000
+      internalID: 6008349077401644636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_71
+      name: brown_magic_hat_71
       rect:
         serializedVersion: 2
         x: 64
@@ -2201,14 +2201,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5baa1b0717599d1d0800000000000000
-      internalID: -3325462535381865803
+      spriteID: c3f400ea0e3214fb0800000000000000
+      internalID: -4665408291080220868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_72
+      name: brown_magic_hat_72
       rect:
         serializedVersion: 2
         x: 128
@@ -2222,14 +2222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de8c20aa9582a8470800000000000000
-      internalID: 8397568820755220717
+      spriteID: 3df1aed5328b1baa0800000000000000
+      internalID: -6146929554345025581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_73
+      name: brown_magic_hat_73
       rect:
         serializedVersion: 2
         x: 192
@@ -2243,14 +2243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71946186604074140800000000000000
-      internalID: 4703732761374378263
+      spriteID: 2b92683d315bfcaa0800000000000000
+      internalID: -6138488670324905550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_74
+      name: brown_magic_hat_74
       rect:
         serializedVersion: 2
         x: 256
@@ -2264,14 +2264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd1edb28ffc8d77c0800000000000000
-      internalID: -4071943459035029028
+      spriteID: 5777aa62057cc85b0800000000000000
+      internalID: -5364693909045086347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_75
+      name: brown_magic_hat_75
       rect:
         serializedVersion: 2
         x: 320
@@ -2285,14 +2285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a48ed92146ad2b60800000000000000
-      internalID: 7723011734815802537
+      spriteID: 2cbea89636dcfaca0800000000000000
+      internalID: -6003353951405413438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_76
+      name: brown_magic_hat_76
       rect:
         serializedVersion: 2
         x: 384
@@ -2306,14 +2306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 469c85ad542426860800000000000000
-      internalID: 7521647195445578084
+      spriteID: 3a5a24c6a97a4e230800000000000000
+      internalID: 3667240278269535651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_77
+      name: brown_magic_hat_77
       rect:
         serializedVersion: 2
         x: 448
@@ -2327,14 +2327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45230c5c827b3c60800000000000000
-      internalID: 7798953126886843722
+      spriteID: 1cbe229d2a180e030800000000000000
+      internalID: 3521957445031357377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_78
+      name: brown_magic_hat_78
       rect:
         serializedVersion: 2
         x: 512
@@ -2348,14 +2348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7efb53f2509057070800000000000000
-      internalID: 8103393022394613735
+      spriteID: 91a1d5002fb98d4b0800000000000000
+      internalID: -5415407088222528999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_79
+      name: brown_magic_hat_79
       rect:
         serializedVersion: 2
         x: 0
@@ -2369,14 +2369,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8379c6e80b184ed00800000000000000
-      internalID: 1001067612486801208
+      spriteID: b9975f8c342ac6870800000000000000
+      internalID: 8677488994054142363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_80
+      name: brown_magic_hat_80
       rect:
         serializedVersion: 2
         x: 64
@@ -2390,14 +2390,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffffaa0b297fd3bf0800000000000000
-      internalID: -342845787209007105
+      spriteID: af46785eef6a30bb0800000000000000
+      internalID: -4970945949984135942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_81
+      name: brown_magic_hat_81
       rect:
         serializedVersion: 2
         x: 128
@@ -2411,14 +2411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae0f289fa27bcc660800000000000000
-      internalID: 7407496882320240874
+      spriteID: 1125598181220b040800000000000000
+      internalID: 4661263101215461905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_82
+      name: brown_magic_hat_82
       rect:
         serializedVersion: 2
         x: 192
@@ -2432,14 +2432,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b49843ce8a8045010800000000000000
-      internalID: 1176574924260936011
+      spriteID: 2b79fb23129003120800000000000000
+      internalID: 2391421440323721138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_83
+      name: brown_magic_hat_83
       rect:
         serializedVersion: 2
         x: 256
@@ -2453,14 +2453,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 719b3be9c6b79d680800000000000000
-      internalID: -8729810696231732969
+      spriteID: c6d22f783e6956cd0800000000000000
+      internalID: -2565478508735091348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_84
+      name: brown_magic_hat_84
       rect:
         serializedVersion: 2
         x: 320
@@ -2474,14 +2474,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b8974610782dfeb0800000000000000
-      internalID: -4684543575520208719
+      spriteID: 0826c298fa30a4170800000000000000
+      internalID: 8163341327017992832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_85
+      name: brown_magic_hat_85
       rect:
         serializedVersion: 2
         x: 384
@@ -2495,14 +2495,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76167f4a2ecd2e2b0800000000000000
-      internalID: -5556636124233375385
+      spriteID: 15ce7fa27d7642130800000000000000
+      internalID: 3541069380856573009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_86
+      name: brown_magic_hat_86
       rect:
         serializedVersion: 2
         x: 448
@@ -2516,14 +2516,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6925a61b8b9c75a30800000000000000
-      internalID: 4204050572261347990
+      spriteID: 2e6196d72c7481070800000000000000
+      internalID: 8077284832342251234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_87
+      name: brown_magic_hat_87
       rect:
         serializedVersion: 2
         x: 512
@@ -2537,14 +2537,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc71ba53d30cdde00800000000000000
-      internalID: 1071223655509989327
+      spriteID: 3df1c6a95de867fc0800000000000000
+      internalID: -3497451012536655917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_88
+      name: brown_magic_hat_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2558,14 +2558,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fdf501aff86c42f0800000000000000
-      internalID: -987298771173507599
+      spriteID: 0d2d73082a342dc50800000000000000
+      internalID: 6688482761813512912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_89
+      name: brown_magic_hat_89
       rect:
         serializedVersion: 2
         x: 64
@@ -2579,14 +2579,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39604f8c5de50f2f0800000000000000
-      internalID: -941148049827953005
+      spriteID: 81dcbbfbe118f5890800000000000000
+      internalID: -7467107688091235048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_90
+      name: brown_magic_hat_90
       rect:
         serializedVersion: 2
         x: 128
@@ -2600,14 +2600,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b36bc14dee717ff0800000000000000
-      internalID: -40111364193426509
+      spriteID: 46562df6d093b8480800000000000000
+      internalID: -8895953909066865308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_91
+      name: brown_magic_hat_91
       rect:
         serializedVersion: 2
         x: 192
@@ -2621,14 +2621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6694b49a33ec2b230800000000000000
-      internalID: 3653208969029831014
+      spriteID: d1e9c86efa9230820800000000000000
+      internalID: 2883194021911240221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_92
+      name: brown_magic_hat_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2642,14 +2642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c83f9892fcd0d970800000000000000
-      internalID: 8777758608245864649
+      spriteID: e3a3f89ee1c78ae60800000000000000
+      internalID: 7973759612468804158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_93
+      name: brown_magic_hat_93
       rect:
         serializedVersion: 2
         x: 320
@@ -2663,14 +2663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5810fca9760ddf480800000000000000
-      internalID: -8863699348197801595
+      spriteID: e8db579063c68e210800000000000000
+      internalID: 1362457866622320014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_94
+      name: brown_magic_hat_94
       rect:
         serializedVersion: 2
         x: 384
@@ -2684,14 +2684,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750b806a783f9cae0800000000000000
-      internalID: -1528422834583850921
+      spriteID: 867a28bd7d685f3f0800000000000000
+      internalID: -867639091540088984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_95
+      name: brown_magic_hat_95
       rect:
         serializedVersion: 2
         x: 448
@@ -2705,14 +2705,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 697c7642b99272750800000000000000
-      internalID: 6280033951698896790
+      spriteID: 58c26a35d43a8f580800000000000000
+      internalID: -8793098719929684859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_96
+      name: brown_magic_hat_96
       rect:
         serializedVersion: 2
         x: 512
@@ -2726,14 +2726,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70fb16977420e0eb0800000000000000
-      internalID: -4751858050826911993
+      spriteID: c76d0c971a51ecde0800000000000000
+      internalID: -1311086658241636740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_97
+      name: brown_magic_hat_97
       rect:
         serializedVersion: 2
         x: 0
@@ -2747,14 +2747,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487b635316d5764d0800000000000000
-      internalID: -3141439542981642364
+      spriteID: f0950bf6a7e8017a0800000000000000
+      internalID: -6408465613237233393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_98
+      name: brown_magic_hat_98
       rect:
         serializedVersion: 2
         x: 64
@@ -2768,14 +2768,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7d07748c2a9a0ba0800000000000000
-      internalID: -6121911227465134723
+      spriteID: aef9323f11569ad10800000000000000
+      internalID: 2137350625932058602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_99
+      name: brown_magic_hat_99
       rect:
         serializedVersion: 2
         x: 128
@@ -2789,14 +2789,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f26edad308deef090800000000000000
-      internalID: -7998694753117018577
+      spriteID: a34e8d60f98204f30800000000000000
+      internalID: 4557687486378730554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_100
+      name: brown_magic_hat_100
       rect:
         serializedVersion: 2
         x: 192
@@ -2810,14 +2810,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c73b7fd1bfb4bf990800000000000000
-      internalID: -7351198424840555652
+      spriteID: afcefe0d7f6eba750800000000000000
+      internalID: 6317396854353947898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_101
+      name: brown_magic_hat_101
       rect:
         serializedVersion: 2
         x: 256
@@ -2831,14 +2831,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 029fbf2417226a960800000000000000
-      internalID: 7612810089966860576
+      spriteID: 5109c3f01b0b6cf70800000000000000
+      internalID: 9207240762716885013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_102
+      name: brown_magic_hat_102
       rect:
         serializedVersion: 2
         x: 320
@@ -2852,14 +2852,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 570abc4f9228a0a10800000000000000
-      internalID: 1876455311465488501
+      spriteID: 5533acd5ed3af07a0800000000000000
+      internalID: -6408723569273326763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_103
+      name: brown_magic_hat_103
       rect:
         serializedVersion: 2
         x: 0
@@ -2873,14 +2873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2dcfee34eb505980800000000000000
-      internalID: -8552234656509997781
+      spriteID: ca7b13c78f606d900800000000000000
+      internalID: 708761655662720940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_104
+      name: brown_magic_hat_104
       rect:
         serializedVersion: 2
         x: 64
@@ -2894,14 +2894,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf7b7713bac5b2500800000000000000
-      internalID: 372493284527290364
+      spriteID: 03ed42b52728d0c60800000000000000
+      internalID: 7786022758460481072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_105
+      name: brown_magic_hat_105
       rect:
         serializedVersion: 2
         x: 128
@@ -2915,14 +2915,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ec37a172939837e0800000000000000
-      internalID: -1785514995071107864
+      spriteID: 42d283fc4309caaa0800000000000000
+      internalID: -6148380834778305244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_106
+      name: brown_magic_hat_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2936,14 +2936,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9abd630a0fcf103b0800000000000000
-      internalID: -5547875155533440087
+      spriteID: f58f80449e91c64d0800000000000000
+      internalID: -3140106350524565409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_107
+      name: brown_magic_hat_107
       rect:
         serializedVersion: 2
         x: 256
@@ -2957,14 +2957,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7baa42ac6467750800000000000000
-      internalID: 6302302562564093891
+      spriteID: a81f429c97c413c10800000000000000
+      internalID: 2031488992870199690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_108
+      name: brown_magic_hat_108
       rect:
         serializedVersion: 2
         x: 320
@@ -2978,14 +2978,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 398b0c0f71dc9a6a0800000000000000
-      internalID: -6437388689642309485
+      spriteID: d31f21503b6c6eed0800000000000000
+      internalID: -2385000480459525827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_109
+      name: brown_magic_hat_109
       rect:
         serializedVersion: 2
         x: 0
@@ -2999,14 +2999,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cef2fadbdc0be0cc0800000000000000
-      internalID: -3742859842601144340
+      spriteID: aa36effa13b174e20800000000000000
+      internalID: 3334663949311173546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_110
+      name: brown_magic_hat_110
       rect:
         serializedVersion: 2
         x: 64
@@ -3020,14 +3020,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c01a0f302e7f91e0800000000000000
-      internalID: -2188892216917094203
+      spriteID: b7c10abb0f8e426a0800000000000000
+      internalID: -6474794243614303109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_111
+      name: brown_magic_hat_111
       rect:
         serializedVersion: 2
         x: 128
@@ -3041,14 +3041,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fe8a0a6108895c70800000000000000
-      internalID: 8960342473285734135
+      spriteID: fb6329b1c4eaf6320800000000000000
+      internalID: 2553451155645675199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_112
+      name: brown_magic_hat_112
       rect:
         serializedVersion: 2
         x: 192
@@ -3062,14 +3062,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5e14e70f1589b8b0800000000000000
-      internalID: -5135927531716469155
+      spriteID: 7ac4c313c6372b950800000000000000
+      internalID: 6463355323749780647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_113
+      name: brown_magic_hat_113
       rect:
         serializedVersion: 2
         x: 256
@@ -3083,14 +3083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 836d4317bf9f25bc0800000000000000
-      internalID: -3795696677588511176
+      spriteID: ca4dd9a23699930d0800000000000000
+      internalID: -3442551788952234836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_114
+      name: brown_magic_hat_114
       rect:
         serializedVersion: 2
         x: 320
@@ -3104,14 +3104,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1327785b6fd4e1b90800000000000000
-      internalID: -7269287026526555599
+      spriteID: c9d3ca4e7250bc550800000000000000
+      internalID: 6182040582394494364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_115
+      name: brown_magic_hat_115
       rect:
         serializedVersion: 2
         x: 0
@@ -3125,14 +3125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3962dd7ae75783df0800000000000000
-      internalID: -200280996575369581
+      spriteID: ff56df935845965c0800000000000000
+      internalID: -4221750244502837761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_116
+      name: brown_magic_hat_116
       rect:
         serializedVersion: 2
         x: 64
@@ -3146,14 +3146,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7bed2fdc3b5f2000800000000000000
-      internalID: 13329640905894783
+      spriteID: bea034f9d31feb160800000000000000
+      internalID: 7043332114221304555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_117
+      name: brown_magic_hat_117
       rect:
         serializedVersion: 2
         x: 128
@@ -3167,14 +3167,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11b83047118d51a90800000000000000
-      internalID: -7343726047885292783
+      spriteID: c9a9086de415954a0800000000000000
+      internalID: -6604157979514070372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_118
+      name: brown_magic_hat_118
       rect:
         serializedVersion: 2
         x: 192
@@ -3188,14 +3188,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: add02a1ebd2559ed0800000000000000
-      internalID: -2407927321422852646
+      spriteID: 9965f8f0b7ae12660800000000000000
+      internalID: 7359421080363030169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_119
+      name: brown_magic_hat_119
       rect:
         serializedVersion: 2
         x: 256
@@ -3209,14 +3209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb4956ee8639e3e10800000000000000
-      internalID: 2179341348579415231
+      spriteID: bd4b056a56c6dc140800000000000000
+      internalID: 4741565166528804059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_120
+      name: brown_magic_hat_120
       rect:
         serializedVersion: 2
         x: 320
@@ -3230,14 +3230,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3468326016e32b20800000000000000
-      internalID: 3108581125857502269
+      spriteID: 809e57c2e7d1238b0800000000000000
+      internalID: -5174040594146268920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_121
+      name: brown_magic_hat_121
       rect:
         serializedVersion: 2
         x: 0
@@ -3251,14 +3251,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5568919922d75e970800000000000000
-      internalID: 8783564235806967381
+      spriteID: b4aa9927bb027fd40800000000000000
+      internalID: 5617995049621629515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_122
+      name: brown_magic_hat_122
       rect:
         serializedVersion: 2
         x: 64
@@ -3272,14 +3272,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc126a2839c52b9f0800000000000000
-      internalID: -454198823789125173
+      spriteID: f3b18a7ca2409d210800000000000000
+      internalID: 1358121344413735743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_123
+      name: brown_magic_hat_123
       rect:
         serializedVersion: 2
         x: 128
@@ -3293,14 +3293,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 807c9cb2d2f858500800000000000000
-      internalID: 397881566263101192
+      spriteID: 4bbdd6e28568c9830800000000000000
+      internalID: 4079283075785022388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_124
+      name: brown_magic_hat_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3314,14 +3314,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 686af936acb322c00800000000000000
-      internalID: 874327018104137350
+      spriteID: 02d2ca1ee143e87c0800000000000000
+      internalID: -4067256106229158624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_125
+      name: brown_magic_hat_125
       rect:
         serializedVersion: 2
         x: 256
@@ -3335,14 +3335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d81263206824d2a0800000000000000
-      internalID: -6713696751126964014
+      spriteID: dc65c47ad77a2b170800000000000000
+      internalID: 8192794830259902157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_126
+      name: brown_magic_hat_126
       rect:
         serializedVersion: 2
         x: 320
@@ -3356,14 +3356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af2bb408e6687cfd0800000000000000
-      internalID: -2321739273729232134
+      spriteID: 81a454488dc3f3430800000000000000
+      internalID: 3764794714134759960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_127
+      name: brown_magic_hat_127
       rect:
         serializedVersion: 2
         x: 384
@@ -3377,14 +3377,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d45b1e0fe2e88aa0800000000000000
-      internalID: -6158422974067419945
+      spriteID: 768daf5ab399ffc00800000000000000
+      internalID: 936635728983152743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_128
+      name: brown_magic_hat_128
       rect:
         serializedVersion: 2
         x: 448
@@ -3398,14 +3398,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f85ee8d742ac5f7d0800000000000000
-      internalID: -2885177728186784369
+      spriteID: d3b3dec4892d0af80800000000000000
+      internalID: -8097240578444674243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_129
+      name: brown_magic_hat_129
       rect:
         serializedVersion: 2
         x: 512
@@ -3419,14 +3419,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6908f06cdd81a8a60800000000000000
-      internalID: 7676975855596175510
+      spriteID: 91557ffaef9064c20800000000000000
+      internalID: 3190248375517140249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_130
+      name: brown_magic_hat_130
       rect:
         serializedVersion: 2
         x: 576
@@ -3440,14 +3440,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 366bbac186a872d70800000000000000
-      internalID: 9018328958594954851
+      spriteID: fd206eec1cb1db070800000000000000
+      internalID: 8123679822060061407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_131
+      name: brown_magic_hat_131
       rect:
         serializedVersion: 2
         x: 640
@@ -3461,14 +3461,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e71ee90a77ae37000800000000000000
-      internalID: 32627421838500222
+      spriteID: e8c0535e8e584c500800000000000000
+      internalID: 415604300949294222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_132
+      name: brown_magic_hat_132
       rect:
         serializedVersion: 2
         x: 704
@@ -3482,14 +3482,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce9349c5ff3a61e90800000000000000
-      internalID: -7055271449064097300
+      spriteID: 1bc30e69925943140800000000000000
+      internalID: 4698544317111745713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_133
+      name: brown_magic_hat_133
       rect:
         serializedVersion: 2
         x: 768
@@ -3503,14 +3503,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79b10affcc3f11f80800000000000000
-      internalID: -8137454989894214761
+      spriteID: 5f02f8338ebad7180800000000000000
+      internalID: -9115941056942235403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_134
+      name: brown_magic_hat_134
       rect:
         serializedVersion: 2
         x: 0
@@ -3524,14 +3524,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 244136b5040317c60800000000000000
-      internalID: 7814079881433781314
+      spriteID: 563375fd5423cb220800000000000000
+      internalID: 2502930768592319333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_135
+      name: brown_magic_hat_135
       rect:
         serializedVersion: 2
         x: 64
@@ -3545,14 +3545,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ee405e547de874f0800000000000000
-      internalID: -830653047195545880
+      spriteID: 79731543fd6e6e2d0800000000000000
+      internalID: -3249656234771400809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_136
+      name: brown_magic_hat_136
       rect:
         serializedVersion: 2
         x: 128
@@ -3566,14 +3566,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12c3a9aae0f8130800000000000000
-      internalID: 3571089155422953958
+      spriteID: af2d0b126cd99bc40800000000000000
+      internalID: 5528623491868316410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_137
+      name: brown_magic_hat_137
       rect:
         serializedVersion: 2
         x: 192
@@ -3587,14 +3587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c433b0cf043677770800000000000000
-      internalID: 8608458343499641676
+      spriteID: 7d7dbbff7146d3b40800000000000000
+      internalID: 5421599580661471191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_138
+      name: brown_magic_hat_138
       rect:
         serializedVersion: 2
         x: 256
@@ -3608,14 +3608,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a66f06afb6ffe31c0800000000000000
-      internalID: -4521896136606157206
+      spriteID: fc8a1bf31cbb1dbd0800000000000000
+      internalID: -2607096270599116593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_139
+      name: brown_magic_hat_139
       rect:
         serializedVersion: 2
         x: 320
@@ -3629,14 +3629,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8de03855a7a59990800000000000000
-      internalID: -7379808085785645685
+      spriteID: 89bdb2babf6c37d00800000000000000
+      internalID: 969337129025657752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_140
+      name: brown_magic_hat_140
       rect:
         serializedVersion: 2
         x: 384
@@ -3650,14 +3650,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63de62514361a4350800000000000000
-      internalID: 6001633866373590326
+      spriteID: d359ec857ce618140800000000000000
+      internalID: 4720175686928471357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_141
+      name: brown_magic_hat_141
       rect:
         serializedVersion: 2
         x: 448
@@ -3671,14 +3671,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca6916f3e8432e50800000000000000
-      internalID: 6783345607673735882
+      spriteID: 4bc738ba6297210a0800000000000000
+      internalID: -6912329271067050828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_142
+      name: brown_magic_hat_142
       rect:
         serializedVersion: 2
         x: 512
@@ -3692,14 +3692,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c286110419cd42f60800000000000000
-      internalID: 8008768553774835756
+      spriteID: ba9f52add681c71f0800000000000000
+      internalID: -1045934153366373973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_143
+      name: brown_magic_hat_143
       rect:
         serializedVersion: 2
         x: 576
@@ -3713,14 +3713,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c0cec801626a4950800000000000000
-      internalID: 6434063186551292103
+      spriteID: 8453a86068da6f070800000000000000
+      internalID: 8139884167665694024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_144
+      name: brown_magic_hat_144
       rect:
         serializedVersion: 2
         x: 640
@@ -3734,14 +3734,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba2e54c70cd07fd10800000000000000
-      internalID: 2159209666717278891
+      spriteID: ffb45d5ada6f2aa80800000000000000
+      internalID: -8456925924576375809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_145
+      name: brown_magic_hat_145
       rect:
         serializedVersion: 2
         x: 704
@@ -3755,14 +3755,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c08a14d64f1d3f70800000000000000
-      internalID: 9168518805462876353
+      spriteID: d1b70b704fbca68d0800000000000000
+      internalID: -2852243165024322787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_146
+      name: brown_magic_hat_146
       rect:
         serializedVersion: 2
         x: 768
@@ -3776,14 +3776,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d1dcb048ec4a6cb0800000000000000
-      internalID: -4869995486645530157
+      spriteID: d0869805b9eea3630800000000000000
+      internalID: 3907697977535850509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_147
+      name: brown_magic_hat_147
       rect:
         serializedVersion: 2
         x: 0
@@ -3797,14 +3797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5bc562bbddcd7f140800000000000000
-      internalID: 4753510776598584501
+      spriteID: c64736bc924b5f390800000000000000
+      internalID: -7785118289241082772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_148
+      name: brown_magic_hat_148
       rect:
         serializedVersion: 2
         x: 64
@@ -3818,14 +3818,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2befd3cafcea717d0800000000000000
-      internalID: -2947695224119492942
+      spriteID: c5b7d12ebf17f27a0800000000000000
+      internalID: -6399771218825872548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_149
+      name: brown_magic_hat_149
       rect:
         serializedVersion: 2
         x: 128
@@ -3839,14 +3839,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efe727a6dd3314cc0800000000000000
-      internalID: -3728641990419382530
+      spriteID: 472cf10d568d28110800000000000000
+      internalID: 1261808777412199028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_150
+      name: brown_magic_hat_150
       rect:
         serializedVersion: 2
         x: 192
@@ -3860,14 +3860,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d769a6c982252f1a0800000000000000
-      internalID: -6777264154862774659
+      spriteID: bcb8f7be94e05d7f0800000000000000
+      internalID: -588548465655575605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_151
+      name: brown_magic_hat_151
       rect:
         serializedVersion: 2
         x: 256
@@ -3881,14 +3881,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9eaff3270c073060800000000000000
-      internalID: 6933023376168431261
+      spriteID: 534e7b5bcdd15f5b0800000000000000
+      internalID: -5335325349771746251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_152
+      name: brown_magic_hat_152
       rect:
         serializedVersion: 2
         x: 320
@@ -3902,14 +3902,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0930e5c5a2f10b140800000000000000
-      internalID: 4733317475165143952
+      spriteID: 236aca9b9f0aabb50800000000000000
+      internalID: 6609772397542024754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_153
+      name: brown_magic_hat_153
       rect:
         serializedVersion: 2
         x: 384
@@ -3923,14 +3923,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7acbd351c11b08cc0800000000000000
-      internalID: -3710771358779720537
+      spriteID: abb2912872e0acfd0800000000000000
+      internalID: -2321027095106868294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_154
+      name: brown_magic_hat_154
       rect:
         serializedVersion: 2
         x: 448
@@ -3944,14 +3944,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd4debb728759400800000000000000
-      internalID: 330302259733548480
+      spriteID: 140f388972c3f49d0800000000000000
+      internalID: -2787943503558873023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_155
+      name: brown_magic_hat_155
       rect:
         serializedVersion: 2
         x: 512
@@ -3965,14 +3965,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1379bc6c8c9e1bf90800000000000000
-      internalID: -6939508502263261391
+      spriteID: 10de3e29d6eae32f0800000000000000
+      internalID: -991163082335851263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_156
+      name: brown_magic_hat_156
       rect:
         serializedVersion: 2
         x: 576
@@ -3986,14 +3986,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b00393bfcb2d6540800000000000000
-      internalID: 5002702932149469365
+      spriteID: 2aaf5c497ae0b7c70800000000000000
+      internalID: 8969779195756804770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_157
+      name: brown_magic_hat_157
       rect:
         serializedVersion: 2
         x: 640
@@ -4007,14 +4007,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a486fd677e1618d90800000000000000
-      internalID: -7097283890999498678
+      spriteID: ac13b9b42ebd290b0800000000000000
+      internalID: -5723270411456925238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_158
+      name: brown_magic_hat_158
       rect:
         serializedVersion: 2
         x: 704
@@ -4028,14 +4028,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17fecfac353830510800000000000000
-      internalID: 1514198295637716849
+      spriteID: 544b71dae94b857e0800000000000000
+      internalID: -1776471459395816379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_159
+      name: brown_magic_hat_159
       rect:
         serializedVersion: 2
         x: 768
@@ -4049,14 +4049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a4adf740b5945340800000000000000
-      internalID: 4851667282939454625
+      spriteID: e1270a085fd879a90800000000000000
+      internalID: -7307215784820837858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_160
+      name: brown_magic_hat_160
       rect:
         serializedVersion: 2
         x: 0
@@ -4070,14 +4070,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e9b7cf342deab750800000000000000
-      internalID: 6321625766912571876
+      spriteID: eb8d5de16a0233430800000000000000
+      internalID: 3761386011638487230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_161
+      name: brown_magic_hat_161
       rect:
         serializedVersion: 2
         x: 64
@@ -4091,14 +4091,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44ab03373384dac00800000000000000
-      internalID: 913465685239183940
+      spriteID: 1f0a29e5229ba2d20800000000000000
+      internalID: 3254617237995299057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_162
+      name: brown_magic_hat_162
       rect:
         serializedVersion: 2
         x: 128
@@ -4112,14 +4112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7519a8473168810800000000000000
-      internalID: 1767121295051413413
+      spriteID: 26488d08271b46c30800000000000000
+      internalID: 4351798245292803170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_163
+      name: brown_magic_hat_163
       rect:
         serializedVersion: 2
         x: 192
@@ -4133,14 +4133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6321ce9ea04cdf0800000000000000
-      internalID: -160991686874220841
+      spriteID: 1ecff76c1fbacb570800000000000000
+      internalID: 8483844852964916449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_164
+      name: brown_magic_hat_164
       rect:
         serializedVersion: 2
         x: 256
@@ -4154,14 +4154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6195db6989fb8ad0800000000000000
-      internalID: -2698789183063486101
+      spriteID: 4f74001d2855053f0800000000000000
+      internalID: -914136704015644684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_165
+      name: brown_magic_hat_165
       rect:
         serializedVersion: 2
         x: 320
@@ -4175,14 +4175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9067cedc299949d0800000000000000
-      internalID: -2789530076184092515
+      spriteID: c677d95c2a9863680800000000000000
+      internalID: -8775675491691694228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_166
+      name: brown_magic_hat_166
       rect:
         serializedVersion: 2
         x: 384
@@ -4196,14 +4196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e91ed764fe4218800800000000000000
-      internalID: 612811634397536670
+      spriteID: 68af4de78da147c40800000000000000
+      internalID: 5509057761324104326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_167
+      name: brown_magic_hat_167
       rect:
         serializedVersion: 2
         x: 448
@@ -4217,14 +4217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bf3252be4cc74e90800000000000000
-      internalID: -7041434853999231050
+      spriteID: fdd5388fdd3226230800000000000000
+      internalID: 3630503685878144479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_168
+      name: brown_magic_hat_168
       rect:
         serializedVersion: 2
         x: 512
@@ -4238,14 +4238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73a0a0df4de27fc40800000000000000
-      internalID: 5545952958443293239
+      spriteID: 2cd39b4e17db96b40800000000000000
+      internalID: 5434082722265513410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_169
+      name: brown_magic_hat_169
       rect:
         serializedVersion: 2
         x: 576
@@ -4259,14 +4259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5f67e799d2f0cf10800000000000000
-      internalID: 2288095627074563934
+      spriteID: 5d561464b7dbca0b0800000000000000
+      internalID: -5715985489882683947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_170
+      name: brown_magic_hat_170
       rect:
         serializedVersion: 2
         x: 640
@@ -4280,14 +4280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 532523e385ab30500800000000000000
-      internalID: 361337283283145269
+      spriteID: 495a769a9a9966c90800000000000000
+      internalID: -7176880002197641836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_171
+      name: brown_magic_hat_171
       rect:
         serializedVersion: 2
         x: 704
@@ -4301,14 +4301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34450ddc0ef9b5d90800000000000000
-      internalID: -7107911798999722941
+      spriteID: 886620aef86efd9e0800000000000000
+      internalID: -1594302237285128568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_172
+      name: brown_magic_hat_172
       rect:
         serializedVersion: 2
         x: 768
@@ -4322,14 +4322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b28360e25dda98e90800000000000000
-      internalID: -7022891012795779029
+      spriteID: 7b761fa2165d6e310800000000000000
+      internalID: 1434068144673089463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_173
+      name: brown_magic_hat_173
       rect:
         serializedVersion: 2
         x: 0
@@ -4343,14 +4343,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ba2b14f9fabd3640800000000000000
-      internalID: 5061407138939349685
+      spriteID: d27f96f4083555770800000000000000
+      internalID: 8598870874087094061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_174
+      name: brown_magic_hat_174
       rect:
         serializedVersion: 2
         x: 64
@@ -4364,14 +4364,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ae3dfd1c69c81a40800000000000000
-      internalID: 5339238824444509861
+      spriteID: 7605436c201ff6580800000000000000
+      internalID: -8831575350032707481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_175
+      name: brown_magic_hat_175
       rect:
         serializedVersion: 2
         x: 128
@@ -4385,14 +4385,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e92f6aa7e85773980800000000000000
-      internalID: -8559243311990771042
+      spriteID: dc7ea7c129e23b380800000000000000
+      internalID: -8956764028831864883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_176
+      name: brown_magic_hat_176
       rect:
         serializedVersion: 2
         x: 192
@@ -4406,14 +4406,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60184bbe1ebb727c0800000000000000
-      internalID: -4096098757073665786
+      spriteID: 66d5d2ec020587320800000000000000
+      internalID: 2555880890361011558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_177
+      name: brown_magic_hat_177
       rect:
         serializedVersion: 2
         x: 256
@@ -4427,14 +4427,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd4f80676575774f0800000000000000
-      internalID: -831099577367464737
+      spriteID: c0ae530039feaa8e0800000000000000
+      internalID: -1681268096226694644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: steel_helmet_178
+      name: brown_magic_hat_178
       rect:
         serializedVersion: 2
         x: 320
@@ -4448,8 +4448,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7f2ee719847e2d4bb72faa0a47d6a85
-      internalID: 56923198
+      spriteID: 78becccbfe7201d47814eb7d3f5cea20
+      internalID: -1712507340
       vertices: []
       indices: 
       edges: []
@@ -4457,7 +4457,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3b1f81d695b1a3f408ed788d6526ea13
+    spriteID: 8fcca95dea3b92244ba5cef1e187c800
     internalID: 0
     vertices: []
     indices: 
@@ -4465,185 +4465,185 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      steel_helmet_0: 6171749998868576760
-      steel_helmet_1: 12241374522416488
-      steel_helmet_10: -586560210239163906
-      steel_helmet_100: -7351198424840555652
-      steel_helmet_101: 7612810089966860576
-      steel_helmet_102: 1876455311465488501
-      steel_helmet_103: -8552234656509997781
-      steel_helmet_104: 372493284527290364
-      steel_helmet_105: -1785514995071107864
-      steel_helmet_106: -5547875155533440087
-      steel_helmet_107: 6302302562564093891
-      steel_helmet_108: -6437388689642309485
-      steel_helmet_109: -3742859842601144340
-      steel_helmet_11: -1972632962815971818
-      steel_helmet_110: -2188892216917094203
-      steel_helmet_111: 8960342473285734135
-      steel_helmet_112: -5135927531716469155
-      steel_helmet_113: -3795696677588511176
-      steel_helmet_114: -7269287026526555599
-      steel_helmet_115: -200280996575369581
-      steel_helmet_116: 13329640905894783
-      steel_helmet_117: -7343726047885292783
-      steel_helmet_118: -2407927321422852646
-      steel_helmet_119: 2179341348579415231
-      steel_helmet_12: -1713682853992552001
-      steel_helmet_120: 3108581125857502269
-      steel_helmet_121: 8783564235806967381
-      steel_helmet_122: -454198823789125173
-      steel_helmet_123: 397881566263101192
-      steel_helmet_124: 874327018104137350
-      steel_helmet_125: -6713696751126964014
-      steel_helmet_126: -2321739273729232134
-      steel_helmet_127: -6158422974067419945
-      steel_helmet_128: -2885177728186784369
-      steel_helmet_129: 7676975855596175510
-      steel_helmet_13: 3439335505553292134
-      steel_helmet_130: 9018328958594954851
-      steel_helmet_131: 32627421838500222
-      steel_helmet_132: -7055271449064097300
-      steel_helmet_133: -8137454989894214761
-      steel_helmet_134: 7814079881433781314
-      steel_helmet_135: -830653047195545880
-      steel_helmet_136: 3571089155422953958
-      steel_helmet_137: 8608458343499641676
-      steel_helmet_138: -4521896136606157206
-      steel_helmet_139: -7379808085785645685
-      steel_helmet_14: 2892035228080534227
-      steel_helmet_140: 6001633866373590326
-      steel_helmet_141: 6783345607673735882
-      steel_helmet_142: 8008768553774835756
-      steel_helmet_143: 6434063186551292103
-      steel_helmet_144: 2159209666717278891
-      steel_helmet_145: 9168518805462876353
-      steel_helmet_146: -4869995486645530157
-      steel_helmet_147: 4753510776598584501
-      steel_helmet_148: -2947695224119492942
-      steel_helmet_149: -3728641990419382530
-      steel_helmet_15: 3313697068908060132
-      steel_helmet_150: -6777264154862774659
-      steel_helmet_151: 6933023376168431261
-      steel_helmet_152: 4733317475165143952
-      steel_helmet_153: -3710771358779720537
-      steel_helmet_154: 330302259733548480
-      steel_helmet_155: -6939508502263261391
-      steel_helmet_156: 5002702932149469365
-      steel_helmet_157: -7097283890999498678
-      steel_helmet_158: 1514198295637716849
-      steel_helmet_159: 4851667282939454625
-      steel_helmet_16: -5567384938589405565
-      steel_helmet_160: 6321625766912571876
-      steel_helmet_161: 913465685239183940
-      steel_helmet_162: 1767121295051413413
-      steel_helmet_163: -160991686874220841
-      steel_helmet_164: -2698789183063486101
-      steel_helmet_165: -2789530076184092515
-      steel_helmet_166: 612811634397536670
-      steel_helmet_167: -7041434853999231050
-      steel_helmet_168: 5545952958443293239
-      steel_helmet_169: 2288095627074563934
-      steel_helmet_17: 7500603439164031947
-      steel_helmet_170: 361337283283145269
-      steel_helmet_171: -7107911798999722941
-      steel_helmet_172: -7022891012795779029
-      steel_helmet_173: 5061407138939349685
-      steel_helmet_174: 5339238824444509861
-      steel_helmet_175: -8559243311990771042
-      steel_helmet_176: -4096098757073665786
-      steel_helmet_177: -831099577367464737
-      steel_helmet_178: 56923198
-      steel_helmet_18: -3644197443859134174
-      steel_helmet_19: 4466993417679045759
-      steel_helmet_2: 6986683232054315680
-      steel_helmet_20: 1742437157880726838
-      steel_helmet_21: 5510097588438900594
-      steel_helmet_22: -3267568700784841838
-      steel_helmet_23: 1348682662045803020
-      steel_helmet_24: 8206618093779921881
-      steel_helmet_25: 1185336702795753642
-      steel_helmet_26: 8888250568420438383
-      steel_helmet_27: 5559853279690005970
-      steel_helmet_28: 5327364381975883520
-      steel_helmet_29: 4207413756729204104
-      steel_helmet_3: -9084514716749300429
-      steel_helmet_30: -4423727515652172706
-      steel_helmet_31: -4389538743983595125
-      steel_helmet_32: -2314416292049436817
-      steel_helmet_33: -6020420764971605737
-      steel_helmet_34: 5703355630601134212
-      steel_helmet_35: -3029926006429797792
-      steel_helmet_36: -53097635868160739
-      steel_helmet_37: -673222048977194238
-      steel_helmet_38: -7496279777166356339
-      steel_helmet_39: -3021865570111167463
-      steel_helmet_4: -2605092767791272085
-      steel_helmet_40: 9061380609784110592
-      steel_helmet_41: -3269708864223853646
-      steel_helmet_42: -1408640524953191784
-      steel_helmet_43: 8570442781222150036
-      steel_helmet_44: -2688813780094995009
-      steel_helmet_45: 8645676110124070078
-      steel_helmet_46: -2337278104543630372
-      steel_helmet_47: -554455110087410358
-      steel_helmet_48: 2102823896779310437
-      steel_helmet_49: 4886785767373659916
-      steel_helmet_5: -3618400423685170181
-      steel_helmet_50: 2486674740593134430
-      steel_helmet_51: 4501855816464969713
-      steel_helmet_52: 1288944814315847801
-      steel_helmet_53: 5792239042642673814
-      steel_helmet_54: -9200427242908765608
-      steel_helmet_55: -7230916463810660293
-      steel_helmet_56: -6077679775214339239
-      steel_helmet_57: -2014232571661212167
-      steel_helmet_58: -4008410288200766598
-      steel_helmet_59: 514415130665000966
-      steel_helmet_6: -8915839874675382637
-      steel_helmet_60: 8430018887565883415
-      steel_helmet_61: 3324382747386455729
-      steel_helmet_62: 1180296870818938530
-      steel_helmet_63: -2841516579443058458
-      steel_helmet_64: -2210705929708827437
-      steel_helmet_65: 2085819806030340423
-      steel_helmet_66: -7460367247566041362
-      steel_helmet_67: -8499979738703707583
-      steel_helmet_68: -8852262402376275218
-      steel_helmet_69: 9124959812758010136
-      steel_helmet_7: -3062091586150151873
-      steel_helmet_70: -251607274846075724
-      steel_helmet_71: -3325462535381865803
-      steel_helmet_72: 8397568820755220717
-      steel_helmet_73: 4703732761374378263
-      steel_helmet_74: -4071943459035029028
-      steel_helmet_75: 7723011734815802537
-      steel_helmet_76: 7521647195445578084
-      steel_helmet_77: 7798953126886843722
-      steel_helmet_78: 8103393022394613735
-      steel_helmet_79: 1001067612486801208
-      steel_helmet_8: -1322780199126261323
-      steel_helmet_80: -342845787209007105
-      steel_helmet_81: 7407496882320240874
-      steel_helmet_82: 1176574924260936011
-      steel_helmet_83: -8729810696231732969
-      steel_helmet_84: -4684543575520208719
-      steel_helmet_85: -5556636124233375385
-      steel_helmet_86: 4204050572261347990
-      steel_helmet_87: 1071223655509989327
-      steel_helmet_88: -987298771173507599
-      steel_helmet_89: -941148049827953005
-      steel_helmet_9: 4846370706414177993
-      steel_helmet_90: -40111364193426509
-      steel_helmet_91: 3653208969029831014
-      steel_helmet_92: 8777758608245864649
-      steel_helmet_93: -8863699348197801595
-      steel_helmet_94: -1528422834583850921
-      steel_helmet_95: 6280033951698896790
-      steel_helmet_96: -4751858050826911993
-      steel_helmet_97: -3141439542981642364
-      steel_helmet_98: -6121911227465134723
-      steel_helmet_99: -7998694753117018577
+      brown_magic_hat_0: -6000752067299471591
+      brown_magic_hat_1: 2758032742170900316
+      brown_magic_hat_10: -4723662843450341229
+      brown_magic_hat_100: 6317396854353947898
+      brown_magic_hat_101: 9207240762716885013
+      brown_magic_hat_102: -6408723569273326763
+      brown_magic_hat_103: 708761655662720940
+      brown_magic_hat_104: 7786022758460481072
+      brown_magic_hat_105: -6148380834778305244
+      brown_magic_hat_106: -3140106350524565409
+      brown_magic_hat_107: 2031488992870199690
+      brown_magic_hat_108: -2385000480459525827
+      brown_magic_hat_109: 3334663949311173546
+      brown_magic_hat_11: 7365432427856374282
+      brown_magic_hat_110: -6474794243614303109
+      brown_magic_hat_111: 2553451155645675199
+      brown_magic_hat_112: 6463355323749780647
+      brown_magic_hat_113: -3442551788952234836
+      brown_magic_hat_114: 6182040582394494364
+      brown_magic_hat_115: -4221750244502837761
+      brown_magic_hat_116: 7043332114221304555
+      brown_magic_hat_117: -6604157979514070372
+      brown_magic_hat_118: 7359421080363030169
+      brown_magic_hat_119: 4741565166528804059
+      brown_magic_hat_12: 751888885689308213
+      brown_magic_hat_120: -5174040594146268920
+      brown_magic_hat_121: 5617995049621629515
+      brown_magic_hat_122: 1358121344413735743
+      brown_magic_hat_123: 4079283075785022388
+      brown_magic_hat_124: -4067256106229158624
+      brown_magic_hat_125: 8192794830259902157
+      brown_magic_hat_126: 3764794714134759960
+      brown_magic_hat_127: 936635728983152743
+      brown_magic_hat_128: -8097240578444674243
+      brown_magic_hat_129: 3190248375517140249
+      brown_magic_hat_13: -8684772245080103312
+      brown_magic_hat_130: 8123679822060061407
+      brown_magic_hat_131: 415604300949294222
+      brown_magic_hat_132: 4698544317111745713
+      brown_magic_hat_133: -9115941056942235403
+      brown_magic_hat_134: 2502930768592319333
+      brown_magic_hat_135: -3249656234771400809
+      brown_magic_hat_136: 5528623491868316410
+      brown_magic_hat_137: 5421599580661471191
+      brown_magic_hat_138: -2607096270599116593
+      brown_magic_hat_139: 969337129025657752
+      brown_magic_hat_14: 1211842316381459390
+      brown_magic_hat_140: 4720175686928471357
+      brown_magic_hat_141: -6912329271067050828
+      brown_magic_hat_142: -1045934153366373973
+      brown_magic_hat_143: 8139884167665694024
+      brown_magic_hat_144: -8456925924576375809
+      brown_magic_hat_145: -2852243165024322787
+      brown_magic_hat_146: 3907697977535850509
+      brown_magic_hat_147: -7785118289241082772
+      brown_magic_hat_148: -6399771218825872548
+      brown_magic_hat_149: 1261808777412199028
+      brown_magic_hat_15: 4678104317558713175
+      brown_magic_hat_150: -588548465655575605
+      brown_magic_hat_151: -5335325349771746251
+      brown_magic_hat_152: 6609772397542024754
+      brown_magic_hat_153: -2321027095106868294
+      brown_magic_hat_154: -2787943503558873023
+      brown_magic_hat_155: -991163082335851263
+      brown_magic_hat_156: 8969779195756804770
+      brown_magic_hat_157: -5723270411456925238
+      brown_magic_hat_158: -1776471459395816379
+      brown_magic_hat_159: -7307215784820837858
+      brown_magic_hat_16: 1069767605848517896
+      brown_magic_hat_160: 3761386011638487230
+      brown_magic_hat_161: 3254617237995299057
+      brown_magic_hat_162: 4351798245292803170
+      brown_magic_hat_163: 8483844852964916449
+      brown_magic_hat_164: -914136704015644684
+      brown_magic_hat_165: -8775675491691694228
+      brown_magic_hat_166: 5509057761324104326
+      brown_magic_hat_167: 3630503685878144479
+      brown_magic_hat_168: 5434082722265513410
+      brown_magic_hat_169: -5715985489882683947
+      brown_magic_hat_17: 7156323951155043862
+      brown_magic_hat_170: -7176880002197641836
+      brown_magic_hat_171: -1594302237285128568
+      brown_magic_hat_172: 1434068144673089463
+      brown_magic_hat_173: 8598870874087094061
+      brown_magic_hat_174: -8831575350032707481
+      brown_magic_hat_175: -8956764028831864883
+      brown_magic_hat_176: 2555880890361011558
+      brown_magic_hat_177: -1681268096226694644
+      brown_magic_hat_178: -1712507340
+      brown_magic_hat_18: 1191364980487824108
+      brown_magic_hat_19: 3805677387149853853
+      brown_magic_hat_2: 3153638222212043541
+      brown_magic_hat_20: -7287434952365429463
+      brown_magic_hat_21: 1967490979590370651
+      brown_magic_hat_22: -3637800208924291399
+      brown_magic_hat_23: 5614684500482870954
+      brown_magic_hat_24: -3440226687469659463
+      brown_magic_hat_25: 7623681447964326833
+      brown_magic_hat_26: 4943210779492048298
+      brown_magic_hat_27: 757253553295061671
+      brown_magic_hat_28: 7377163608455317222
+      brown_magic_hat_29: 5004368953256606662
+      brown_magic_hat_3: -9049015745149923089
+      brown_magic_hat_30: -6778303361601989775
+      brown_magic_hat_31: 2300640549334211561
+      brown_magic_hat_32: -4271045943161827529
+      brown_magic_hat_33: -1703735186792061895
+      brown_magic_hat_34: 4454118619719994910
+      brown_magic_hat_35: 4876570219296207009
+      brown_magic_hat_36: -5391973803133387601
+      brown_magic_hat_37: -8072163237172992567
+      brown_magic_hat_38: 7548402177838653859
+      brown_magic_hat_39: 335793526857761030
+      brown_magic_hat_4: 2729873469635081075
+      brown_magic_hat_40: -2989582816302305590
+      brown_magic_hat_41: -8093541353317737444
+      brown_magic_hat_42: -708474188160455580
+      brown_magic_hat_43: 8563188923649613824
+      brown_magic_hat_44: 1749422488019271750
+      brown_magic_hat_45: -209109888997438812
+      brown_magic_hat_46: 6639333188373703526
+      brown_magic_hat_47: -6259689591227389037
+      brown_magic_hat_48: 6616083379009346677
+      brown_magic_hat_49: 4633846439026413317
+      brown_magic_hat_5: 5832394138226006383
+      brown_magic_hat_50: -1062334809715393584
+      brown_magic_hat_51: -6760720004207532019
+      brown_magic_hat_52: 8924681293798734576
+      brown_magic_hat_53: 6229975486264984076
+      brown_magic_hat_54: 7182359786790576559
+      brown_magic_hat_55: -3766946111167037612
+      brown_magic_hat_56: 5702462673761443837
+      brown_magic_hat_57: 6484710001013023865
+      brown_magic_hat_58: 5103652137038801130
+      brown_magic_hat_59: -5187640767526865157
+      brown_magic_hat_6: 1556268250819976487
+      brown_magic_hat_60: 5570748115633225267
+      brown_magic_hat_61: 5354449513468463671
+      brown_magic_hat_62: -7414378215448083351
+      brown_magic_hat_63: -6115521679295603836
+      brown_magic_hat_64: -3095338126844818273
+      brown_magic_hat_65: -1379306763498308209
+      brown_magic_hat_66: -6783304818743488441
+      brown_magic_hat_67: 3405655401011476237
+      brown_magic_hat_68: 182789683652387295
+      brown_magic_hat_69: 3758701902208300410
+      brown_magic_hat_7: 7138016112064095415
+      brown_magic_hat_70: 6008349077401644636
+      brown_magic_hat_71: -4665408291080220868
+      brown_magic_hat_72: -6146929554345025581
+      brown_magic_hat_73: -6138488670324905550
+      brown_magic_hat_74: -5364693909045086347
+      brown_magic_hat_75: -6003353951405413438
+      brown_magic_hat_76: 3667240278269535651
+      brown_magic_hat_77: 3521957445031357377
+      brown_magic_hat_78: -5415407088222528999
+      brown_magic_hat_79: 8677488994054142363
+      brown_magic_hat_8: -3338527844869706086
+      brown_magic_hat_80: -4970945949984135942
+      brown_magic_hat_81: 4661263101215461905
+      brown_magic_hat_82: 2391421440323721138
+      brown_magic_hat_83: -2565478508735091348
+      brown_magic_hat_84: 8163341327017992832
+      brown_magic_hat_85: 3541069380856573009
+      brown_magic_hat_86: 8077284832342251234
+      brown_magic_hat_87: -3497451012536655917
+      brown_magic_hat_88: 6688482761813512912
+      brown_magic_hat_89: -7467107688091235048
+      brown_magic_hat_9: -5649833200570352590
+      brown_magic_hat_90: -8895953909066865308
+      brown_magic_hat_91: 2883194021911240221
+      brown_magic_hat_92: 7973759612468804158
+      brown_magic_hat_93: 1362457866622320014
+      brown_magic_hat_94: -867639091540088984
+      brown_magic_hat_95: -8793098719929684859
+      brown_magic_hat_96: -1311086658241636740
+      brown_magic_hat_97: -6408465613237233393
+      brown_magic_hat_98: 2137350625932058602
+      brown_magic_hat_99: 4557687486378730554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
