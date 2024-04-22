@@ -1,11 +1,14 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine;
 public class PlayerEvents
 {
     private static PlayerEvents instance;
     public event Action<int> OnExperienceGained, OnHealed;
     public event Action OnGameStart;
+    public event Action<Sprite[], int> OnArmourChanged;
+    public event Action<Sprite[]> OnWeaponChanged;
 
     private PlayerEvents()
     {
@@ -21,6 +24,16 @@ public class PlayerEvents
             instance = new PlayerEvents();
         }
         return instance;
+    }
+
+    public void ArmourChanged(Sprite[] sprite, int index)
+    {
+        OnArmourChanged?.Invoke(sprite, index);
+    }
+
+    public void WeaponChanged(Sprite[] sprite)
+    {
+        OnWeaponChanged?.Invoke(sprite);
     }
 
     public void ExperienceGained(int exp)

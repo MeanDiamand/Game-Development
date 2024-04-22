@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.U2D;
 
 
 [CreateAssetMenu]
@@ -40,5 +41,9 @@ public class Item : ScriptableObject
     public virtual string Type()
     {
         return "Item";
+    }
+    public virtual Sprite[] GetSprite()
+    {
+        throw new Exception("GetSprite() not implemented in item");
     }
 }

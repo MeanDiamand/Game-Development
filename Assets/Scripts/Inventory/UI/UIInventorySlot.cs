@@ -53,7 +53,7 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
         quantityTxt.text = quantity.ToString();
         empty = false;
 
-        Debug.Log("SetData() " + stackable);
+        //Debug.Log("SetData() " + stackable);
         if (stackable)
             quantityTxt.enabled = true;
         else
@@ -62,7 +62,7 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
 
     public void OnPointerClick(PointerEventData pointerData)
     {
-        Debug.Log("OnPointerClick");
+        //Debug.Log("OnPointerClick");
         if (empty)
             return;
         if (pointerData.button == PointerEventData.InputButton.Right)
