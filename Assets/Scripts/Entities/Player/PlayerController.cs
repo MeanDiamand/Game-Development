@@ -1,3 +1,4 @@
+using Assets.Scripts;
 using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
@@ -127,6 +128,8 @@ public class PlayerController : MonoBehaviour
 
         checkHitboxDirection(direction.x, direction.y);
 
+
+        FindAnyObjectByType<DamagableCharacter>();
     }
 
     private void checkHitboxDirection(float x, float y)

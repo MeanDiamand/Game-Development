@@ -1,10 +1,10 @@
 using UnityEngine;
 
 [CreateAssetMenu]
-public class Helmet : Armour
+public class Leggins : Armour
 {
     public override string Type()
     {
-        return "Helmet";
+        return "Leggins";
     }
 }

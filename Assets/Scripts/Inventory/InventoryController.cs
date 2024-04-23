@@ -126,34 +126,35 @@ public class InventoryController : MonoBehaviour, IUIController
         Item item = inventoryModel.GetSlotAt(itemIndex_1).item;
         if (item == null)
             return;
+        string itemType = item.Type();
         switch (itemIndex_2)
         {
             case 0:
-                if (!item.Type().Equals("Helmet"))
+                if (!itemType.Equals("Helmet"))
                     return;
                 break;
             case 1:
-                if (!item.Type().Equals("Chestplate"))
+                if (!itemType.Equals("Chestplate"))
                     return;
                 break;
             case 2:
-                if (!item.Type().Equals("Leggins"))
+                if (!itemType.Equals("Leggins"))
                     return;
                 break;
             case 3:
-                if (!item.Type().Equals("Boots"))
+                if (!itemType.Equals("Boots"))
                     return;
                 break;
             case 4:
-                if (!item.Type().Equals("Weapon"))
+                if (!itemType.Equals("Weapon"))
                     return;
                 break;
             case 5:
-                if (!item.Type().Equals("Potion"))
+                if (!itemType.Equals("Potion") && !itemType.Equals("Shield"))
                     return;
                 break;
             case 6:
-                if (!item.Type().Equals("Potion"))
+                if (!itemType.Equals("Potion") && !itemType.Equals("Shield"))
                     return;
                 break;
             default:

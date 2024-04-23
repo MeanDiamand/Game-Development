@@ -9,20 +9,10 @@ public class SkinChanger : MonoBehaviour
     [SerializeField]
     private Sprite[] body;
 
-    [SerializeField]
-    private Sprite[] helmet;
-    [SerializeField]
-    private Sprite[] chestplate;
-    [SerializeField]
-    private Sprite[] leggins = null;
-    [SerializeField]
-    private Sprite[] boots = null;
+    private List<SpritesContainer> upgrades = new List<SpritesContainer>();
 
     [SerializeField]
     private Sprite[] sword = null;
-
-    //[SerializeField]
-    //private Inventory inventory;
 
     [SerializeField]
     private SpriteRenderer spriteRenderer;
@@ -36,26 +26,17 @@ public class SkinChanger : MonoBehaviour
     {
         PlayerEvents.GetInstance().OnArmourChanged += ArmourChanged;
         PlayerEvents.GetInstance().OnWeaponChanged += WeaponChanged;
+
+        for (int i = 0; i < 7; i++)
+        {
+            upgrades.Add(new SpritesContainer(null));
+        }
     }
 
     private void ArmourChanged(Sprite[] sprites, int index)
     {
         Debug.Log("ArmourChanged: " + index);
-        switch (index)
-        {
-            case 0:
-                helmet = sprites;
-                break;
-            case 1: 
-                chestplate = sprites;
-                break;
-            case 2: 
-                leggins = sprites;
-                break;
-            case 3: 
-                boots = sprites; 
-                break;
-        }
+        upgrades[index] = new SpritesContainer(sprites);
     }
 
     private void WeaponChanged(Sprite[] sprites)
@@ -75,29 +56,27 @@ public class SkinChanger : MonoBehaviour
             spriteName = match.Value;
             int n = int.Parse(spriteName);
             int lut_n = LUT(n);
-            //spriteRenderer.sprite = body[n];
-            Sprite sprite1 = body[lut_n];
+            Sprite bodySprite = body[lut_n];
 
-            Sprite[] armour = new Sprite[4];
-            if (helmet != null && helmet.Length > 0)
-                armour[0] = helmet[lut_n];
-            if (chestplate != null && chestplate.Length > 0)
-                armour[1] = chestplate[lut_n];
-            if (leggins != null && leggins.Length > 0)
-                armour[2] = leggins[lut_n];
-            if (boots != null && boots.Length > 0)
-                armour[3] = boots[lut_n];
+            List<Sprite> overlaySprites = new List<Sprite>();
+            for (int i = 0; i < upgrades.Count; i++)
+            {
+                if (upgrades[i] != null) { 
+                    Sprite upgrade = upgrades[i].GetByID(lut_n);
+                    if (upgrade != null)
+                        overlaySprites.Add(upgrade);
+                }
+            }
 
             Sprite spriteSword = FindSpriteWithNumberEnding(sword, n);
 
-            //spriteRenderer.sprite = CombineSprites(sprite1, sprite2);
             if (spriteSword != null)
                 if (n < THRESHHOLD)
-                    spriteRenderer.sprite = CombineSprites(spriteSword, CombineSprites(sprite1, armour));
+                    spriteRenderer.sprite = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites));
                 else
-                    spriteRenderer.sprite = CombineSprites(spriteSword, CombineSprites(sprite1, armour), BIG_SPRITE_SIZE);
+                    spriteRenderer.sprite = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites), BIG_SPRITE_SIZE);
             else
-                spriteRenderer.sprite = CombineSprites(sprite1, armour);
+                spriteRenderer.sprite = CombineSprites(bodySprite, overlaySprites);
         }
     }
 
@@ -113,7 +92,6 @@ public class SkinChanger : MonoBehaviour
     public Sprite FindSpriteWithNumberEnding(Sprite[] sprites, int number)
     {
         if (sprites == null) return null;
-        Debug.Log(sprites);
         foreach (Sprite sprite in sprites) {
             if (EndsWithNumber(sprite.name, number))
                 return sprite;
@@ -147,8 +125,6 @@ public class SkinChanger : MonoBehaviour
         Texture2D combinedTexture = new Texture2D(baseSize, baseSize);
         combinedTexture.filterMode = FilterMode.Point;
 
-        //int baseSize = (int)baseSprite.rect.width;
-
         // Get pixels from base sprite
         Color[] basePixels = baseSprite.texture.GetPixels((int)baseSprite.rect.x, (int)baseSprite.rect.y, baseSize, baseSize);
 
@@ -181,6 +157,11 @@ public class SkinChanger : MonoBehaviour
         combinedTexture.Apply();
 
         return Sprite.Create(combinedTexture, new Rect(0, 0, combinedTexture.width, combinedTexture.height), new Vector2(0.5f, 0.5f), PPU);
+    }
+
+    private Sprite CombineSprites(Sprite baseSprite, List<Sprite> overlaySprites)
+    {
+        return CombineSprites(baseSprite, overlaySprites.ToArray());
     }
 
 
@@ -231,73 +212,4 @@ public class SkinChanger : MonoBehaviour
 
         return Sprite.Create(combinedTexture, new Rect(0, 0, combinedTexture.width, combinedTexture.height), new Vector2(0.5f, 0.5f), PPU);
     }
-
-
-
-    //private Sprite CombineSprites(Sprite bodySprite, Sprite helmetSprite)
-    //{
-    //    // Create a new texture with the size of the body sprite
-    //    Texture2D combinedTexture = new Texture2D((int)bodySprite.rect.width, (int)bodySprite.rect.height);
-
-    //    combinedTexture.filterMode = FilterMode.Point;
-
-    //    // Get pixels from body sprite
-    //    Color[] bodyPixels = bodySprite.texture.GetPixels((int)bodySprite.rect.x, (int)bodySprite.rect.y, (int)bodySprite.rect.width, (int)bodySprite.rect.height);
-
-    //    // Get pixels from helmet sprite
-    //    Color[] helmetPixels = helmetSprite.texture.GetPixels((int)helmetSprite.rect.x, (int)helmetSprite.rect.y, (int)helmetSprite.rect.width, (int)helmetSprite.rect.height);
-
-    //    // Iterate through each pixel and overlay helmet pixels onto body pixels
-    //    for (int i = 0; i < bodyPixels.Length; i++)
-    //    {
-    //        if (helmetPixels[i].a > 0)
-    //        {
-    //            bodyPixels[i] = helmetPixels[i];
-    //        }
-    //    }
-
-    //    // Set the combined pixels to the new texture
-    //    combinedTexture.SetPixels(bodyPixels);
-
-    //    // Apply changes and create a new sprite
-    //    combinedTexture.Apply();
-
-    //    return Sprite.Create(combinedTexture, new Rect(0, 0, combinedTexture.width, combinedTexture.height), new Vector2(0.5f, 0.5f), PPU);
-    //}
-
-    //private Sprite CombineSprites(Sprite bodySprite, Sprite[] additionalSprites)
-    //{
-    //    // Create a new texture with the size of the body sprite
-    //    Texture2D combinedTexture = new Texture2D((int)bodySprite.rect.width, (int)bodySprite.rect.height);
-
-    //    combinedTexture.filterMode = FilterMode.Point;
-
-    //    // Get pixels from body sprite
-    //    Color[] bodyPixels = bodySprite.texture.GetPixels((int)bodySprite.rect.x, (int)bodySprite.rect.y, SMALL_SPRITE_SIZE, SMALL_SPRITE_SIZE);
-
-    //    // Iterate through each additional sprite
-    //    foreach (Sprite additionalSprite in additionalSprites)
-    //    {
-    //        // Get pixels from the additional sprite
-    //        Color[] additionalPixels = additionalSprite.texture.GetPixels((int)additionalSprite.rect.x, (int)additionalSprite.rect.y, SMALL_SPRITE_SIZE, SMALL_SPRITE_SIZE);
-
-    //        // Iterate through each pixel and overlay additional pixels onto body pixels
-    //        for (int i = 0; i < bodyPixels.Length && i < additionalPixels.Length; i++)
-    //        {
-    //            if (additionalPixels[i].a > 0)
-    //            {
-    //                bodyPixels[i] = additionalPixels[i];
-    //            }
-    //        }
-    //    }
-
-    //    // Set the combined pixels to the new texture
-    //    combinedTexture.SetPixels(bodyPixels);
-
-    //    // Apply changes and create a new sprite
-    //    combinedTexture.Apply();
-
-    //    return Sprite.Create(combinedTexture, new Rect(0, 0, combinedTexture.width, combinedTexture.height), new Vector2(0.5f, 0.5f), PPU);
-    //}
-
 }

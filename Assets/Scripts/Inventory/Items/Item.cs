@@ -33,7 +33,7 @@ public class Item : ScriptableObject
     {
         return null;
     }
-    public virtual void Use()
+    public virtual int Use()
     {
         Debug.LogError("Use() not implemented in item");
         throw new Exception("Use() not implemented in item");
@@ -45,5 +45,10 @@ public class Item : ScriptableObject
     public virtual Sprite[] GetSprite()
     {
         return null;
+    }
+
+    public virtual float GetDefenceAmount()
+    {
+        throw new Exception("GetDefenceAmount() not implemented in item");
     }
 }

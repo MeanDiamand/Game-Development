@@ -15,13 +15,15 @@ namespace Assets.Scripts
         [SerializeField]
         private ItemPUS itemPUSPrefab;
 
+        [SerializeField]
+        private int EXP_FOR_KILL = 10;
+
         private Animator animator;
         private Rigidbody2D rb;
         private Collider2D physicsCollider;
         private FloatingStatusBar statusBar;
         private bool isAlive = true;
         private float counter = 0;
-        private int EXP_FOR_KILL = 10;
         AudioManager audioManager;
 
         private float maxHealth = 5;

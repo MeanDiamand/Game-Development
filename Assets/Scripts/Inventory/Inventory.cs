@@ -24,7 +24,7 @@ public class Inventory : ScriptableObject
             slots.Add(InventorySlot.GetEmpty(i));
         }
 
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i < 7; i++)
             PlayerEvents.GetInstance().ArmourChanged(null, i);
         PlayerEvents.GetInstance().WeaponChanged(null);
     }
@@ -82,10 +82,12 @@ public class Inventory : ScriptableObject
         Sprite[] sprites = null;
         if (!slot.IsEmpty)
             sprites = slot.item.GetSprite();
-        if (index >= 0 && index < 4)
+        if (index >= 0 && index <= 3)
             PlayerEvents.GetInstance().ArmourChanged(sprites, index);
         if (index == 4)
             PlayerEvents.GetInstance().WeaponChanged(sprites);
+        if (index >= 5 && index <= 6)
+            PlayerEvents.GetInstance().ArmourChanged(sprites, index);
     }
     public InventorySlot GetSlotAt(int itemIndex)
     {
@@ -135,8 +137,7 @@ public class Inventory : ScriptableObject
         if (slot.IsEmpty) return;
         if (slot.quantity <= 0) return;
 
-        slots[5 + id] = slots[5 + id].ChangeQuantity(slot.quantity - 1);
-        item.Use();
+        slots[5 + id] = slots[5 + id].ChangeQuantity(slot.quantity + item.Use()); // Use Item. Decrease quantity of it if needed
         if (slots[5 + id].quantity <= 0)
             slots[5 + id] = InventorySlot.GetEmpty(slots[5 + id].index);
         OnInventoryUpdated?.Invoke(GetCurrentInventoryState());
