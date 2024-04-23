@@ -636,17 +636,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 165721933}
   m_CullTransparentMesh: 1
---- !u!114 &197202453 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
-  m_PrefabInstance: {fileID: 1624210725}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 03e074b82a31efc488df3addcc4615f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &293679076
 GameObject:
   m_ObjectHideFlags: 0
@@ -27319,13 +27308,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1124187622996254850, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
+      propertyPath: deathItemPrefabs.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124187622996254850, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
       propertyPath: 'deathItemPrefabs.Array.data[0]'
       value: 
-      objectReference: {fileID: 345683506}
+      objectReference: {fileID: 11400000, guid: 8361b6a4ea705e548ae4f24437fd9e8c, type: 2}
     - target: {fileID: 1124187622996254850, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
       propertyPath: 'deathItemPrefabs.Array.data[1]'
       value: 
-      objectReference: {fileID: 197202453}
+      objectReference: {fileID: 11400000, guid: 9f562318cdc88704899e5f59616357e1, type: 2}
     - target: {fileID: 1306571874391526211, guid: 8e29ef8515e355844940aa7c947a8442, type: 3}
       propertyPath: m_Name
       value: Skeleton
@@ -34470,17 +34463,21 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1124187622996254850, guid: 66f39043dc65f474c8c2448e5642309f, type: 3}
+      propertyPath: itemPUSPrefab
+      value: 
+      objectReference: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
+    - target: {fileID: 1124187622996254850, guid: 66f39043dc65f474c8c2448e5642309f, type: 3}
       propertyPath: deathImagePrefab
       value: 
       objectReference: {fileID: 345683506}
     - target: {fileID: 1124187622996254850, guid: 66f39043dc65f474c8c2448e5642309f, type: 3}
       propertyPath: 'deathItemPrefabs.Array.data[0]'
       value: 
-      objectReference: {fileID: 345683506}
+      objectReference: {fileID: 11400000, guid: 8361b6a4ea705e548ae4f24437fd9e8c, type: 2}
     - target: {fileID: 1124187622996254850, guid: 66f39043dc65f474c8c2448e5642309f, type: 3}
       propertyPath: 'deathItemPrefabs.Array.data[1]'
       value: 
-      objectReference: {fileID: 197202453}
+      objectReference: {fileID: 11400000, guid: d6e99d013ca651642b88ce164f5f3bd8, type: 2}
     - target: {fileID: 1306571874391526211, guid: 66f39043dc65f474c8c2448e5642309f, type: 3}
       propertyPath: m_Name
       value: Goblin
@@ -43572,13 +43569,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1124187622996254850, guid: 8a6d76c53fa48f54cb15391f965e9072, type: 3}
+      propertyPath: deathItemPrefabs.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124187622996254850, guid: 8a6d76c53fa48f54cb15391f965e9072, type: 3}
       propertyPath: 'deathItemPrefabs.Array.data[0]'
       value: 
-      objectReference: {fileID: 345683506}
+      objectReference: {fileID: 11400000, guid: 8361b6a4ea705e548ae4f24437fd9e8c, type: 2}
     - target: {fileID: 1124187622996254850, guid: 8a6d76c53fa48f54cb15391f965e9072, type: 3}
       propertyPath: 'deathItemPrefabs.Array.data[1]'
       value: 
-      objectReference: {fileID: 197202453}
+      objectReference: {fileID: 11400000, guid: 9f562318cdc88704899e5f59616357e1, type: 2}
     - target: {fileID: 1306571874391526211, guid: 8a6d76c53fa48f54cb15391f965e9072, type: 3}
       propertyPath: m_Name
       value: Orc

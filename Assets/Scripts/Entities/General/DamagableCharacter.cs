@@ -11,7 +11,9 @@ namespace Assets.Scripts
     public class DamagableCharacter: MonoBehaviour, IDamagable
     {
         [SerializeField]
-        public List<ItemPUS> deathItemPrefabs;
+        private List<Item> deathItemPrefabs;
+        [SerializeField]
+        private ItemPUS itemPUSPrefab;
 
         private Animator animator;
         private Rigidbody2D rb;
@@ -144,17 +146,25 @@ namespace Assets.Scripts
 
         public void KillObject()
         {
-            Instantiate(PickDeathPrefab(), transform.position, Quaternion.identity);
+            //Instantiate(PickDeathPrefab(), transform.position, Quaternion.identity);
+            DropItem();
             PlayerEvents.GetInstance().ExperienceGained(EXP_FOR_KILL);
             Destroy(gameObject);
         }
 
-        private ItemPUS PickDeathPrefab()
+        private Item PickItem()
         {
             if (deathItemPrefabs.Count == 0)
                 return null;
             System.Random random = new System.Random();
             return deathItemPrefabs[random.Next(deathItemPrefabs.Count)];
+        }
+
+        private void DropItem()
+        {
+            if (deathItemPrefabs.Count == 0) return;
+            ItemPUS newItemPUS = Instantiate(itemPUSPrefab, transform.position, Quaternion.identity);
+            newItemPUS.InventoryItem = PickItem();
         }
 
     }

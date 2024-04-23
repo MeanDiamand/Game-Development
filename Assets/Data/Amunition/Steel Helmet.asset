@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Steel Helmet
   <Weight>k__BackingField: 10
-  <IsStackable>k__BackingField: 1
+  <IsStackable>k__BackingField: 0
   <MaxStackSize>k__BackingField: 1
   <Description>k__BackingField: 
   <ItemIcon>k__BackingField: {fileID: -1322780199126261323, guid: a7fb385c7bb6eb54db6180c68b022775, type: 3}
