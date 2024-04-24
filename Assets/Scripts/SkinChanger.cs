@@ -1,8 +1,6 @@
 using System.Collections.Generic;
-using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
-using UnityEngine.Windows;
 
 public class SkinChanger : MonoBehaviour
 {
@@ -12,7 +10,7 @@ public class SkinChanger : MonoBehaviour
     private List<SpritesContainer> upgrades = new List<SpritesContainer>();
 
     [SerializeField]
-    private Sprite[] sword = null;
+    private SpritesContainer sword;
 
     [SerializeField]
     private SpriteRenderer spriteRenderer;
@@ -31,6 +29,7 @@ public class SkinChanger : MonoBehaviour
         {
             upgrades.Add(new SpritesContainer(null));
         }
+        sword = new SpritesContainer(null);
     }
 
     private void ArmourChanged(Sprite[] sprites, int index)
@@ -42,7 +41,7 @@ public class SkinChanger : MonoBehaviour
     private void WeaponChanged(Sprite[] sprites)
     {
         Debug.Log("WeaponChanged");
-        sword = sprites;
+        sword = new SpritesContainer(sprites);
     }
 
     public void SkinChoice()
@@ -68,7 +67,7 @@ public class SkinChanger : MonoBehaviour
                 }
             }
 
-            Sprite spriteSword = FindSpriteWithNumberEnding(sword, n);
+            Sprite spriteSword = sword.GetByID(n);
 
             if (spriteSword != null)
                 if (n < THRESHHOLD)

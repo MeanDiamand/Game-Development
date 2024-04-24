@@ -1,9 +1,5 @@
 ﻿using Assets.Interfaces;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -148,7 +144,6 @@ namespace Assets.Scripts
 
         public void KillObject()
         {
-            //Instantiate(PickDeathPrefab(), transform.position, Quaternion.identity);
             DropItem();
             PlayerEvents.GetInstance().ExperienceGained(EXP_FOR_KILL);
             Destroy(gameObject);

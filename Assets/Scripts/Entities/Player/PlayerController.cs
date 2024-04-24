@@ -1,13 +1,7 @@
 using Assets.Scripts;
-using System.Collections;
 using System.Collections.Generic;
-using System.Security.Cryptography;
-using System.Text.RegularExpressions;
-using Unity.VisualScripting;
-using UnityEditor.Experimental;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.U2D;
 
 // NOTE: The movement for this script uses the new InputSystem. The player needs to have a PlayerInput
 // component added and the Behaviour should be set to Send Messages so that the OnMove and OnFire methods
