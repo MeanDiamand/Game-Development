@@ -1,9 +1,5 @@
 ﻿using Assets.Interfaces;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -11,7 +7,12 @@ namespace Assets.Scripts
     public class DamagableCharacter: MonoBehaviour, IDamagable
     {
         [SerializeField]
-        public List<ItemPUS> deathItemPrefabs;
+        private List<Item> deathItemPrefabs;
+        [SerializeField]
+        private ItemPUS itemPUSPrefab;
+
+        [SerializeField]
+        private int EXP_FOR_KILL = 10;
 
         private Animator animator;
         private Rigidbody2D rb;
@@ -19,7 +20,7 @@ namespace Assets.Scripts
         private FloatingStatusBar statusBar;
         private bool isAlive = true;
         private float counter = 0;
-        private int EXP_FOR_KILL = 10;
+        AudioManager audioManager;
 
         private float maxHealth = 5;
 
@@ -48,6 +49,8 @@ namespace Assets.Scripts
                     if (counter >= 4.0)
                     {
                         GameOverEvents.isGameOver = true;
+                        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+                        audioManager.PlayEffect(audioManager.GameOver);
                     }
                 }
             }
@@ -141,17 +144,24 @@ namespace Assets.Scripts
 
         public void KillObject()
         {
-            Instantiate(PickDeathPrefab(), transform.position, Quaternion.identity);
+            DropItem();
             PlayerEvents.GetInstance().ExperienceGained(EXP_FOR_KILL);
             Destroy(gameObject);
         }
 
-        private ItemPUS PickDeathPrefab()
+        private Item PickItem()
         {
             if (deathItemPrefabs.Count == 0)
                 return null;
             System.Random random = new System.Random();
             return deathItemPrefabs[random.Next(deathItemPrefabs.Count)];
+        }
+
+        private void DropItem()
+        {
+            if (deathItemPrefabs.Count == 0) return;
+            ItemPUS newItemPUS = Instantiate(itemPUSPrefab, transform.position, Quaternion.identity);
+            newItemPUS.InventoryItem = PickItem();
         }
 
     }

@@ -27,7 +27,7 @@ public class QuickAccessBar : MonoBehaviour
             if (slot.IsEmpty)
                 slots[i].ResetData();
             else
-                slots[i].SetData(slot.item.ItemIcon, slot.quantity, true);
+                slots[i].SetData(slot.item.ItemIcon, slot.quantity, slot.item.IsStackable);
         }
     }
 

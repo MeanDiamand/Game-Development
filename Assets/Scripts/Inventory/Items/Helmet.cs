@@ -1,9 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class Helmet : WearableItem
+public class Helmet : Armour
 {
     public override string Type()
     {

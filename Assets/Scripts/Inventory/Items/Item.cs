@@ -1,8 +1,5 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.U2D;
 
 
 [CreateAssetMenu]
@@ -33,7 +30,7 @@ public class Item : ScriptableObject
     {
         return null;
     }
-    public virtual void Use()
+    public virtual int Use()
     {
         Debug.LogError("Use() not implemented in item");
         throw new Exception("Use() not implemented in item");
@@ -44,6 +41,11 @@ public class Item : ScriptableObject
     }
     public virtual Sprite[] GetSprite()
     {
-        throw new Exception("GetSprite() not implemented in item");
+        return null;
+    }
+
+    public virtual float GetDefenceAmount()
+    {
+        throw new Exception("GetDefenceAmount() not implemented in item");
     }
 }

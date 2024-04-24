@@ -1,0 +1,3079 @@
+fileFormatVersion: 2
+guid: 3caed8db0c2b58748b153ea41b90fc58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3352421684248494100
+    second: normal_bow_0
+  - first:
+      213: 4027676620676553884
+    second: normal_bow_1
+  - first:
+      213: -3198079937038918723
+    second: normal_bow_2
+  - first:
+      213: 8928920371314465406
+    second: normal_bow_3
+  - first:
+      213: 6271362522473462353
+    second: normal_bow_4
+  - first:
+      213: 5483240068658366083
+    second: normal_bow_5
+  - first:
+      213: 8982245083279418938
+    second: normal_bow_6
+  - first:
+      213: -8056709674270891405
+    second: normal_bow_7
+  - first:
+      213: 8280321304215021913
+    second: normal_bow_8
+  - first:
+      213: -6739381867789950659
+    second: normal_bow_9
+  - first:
+      213: -2468888234792066236
+    second: normal_bow_10
+  - first:
+      213: -5714545958696993357
+    second: normal_bow_11
+  - first:
+      213: -3459524812143818731
+    second: normal_bow_12
+  - first:
+      213: -6892359072240319596
+    second: normal_bow_13
+  - first:
+      213: 5807726607000731786
+    second: normal_bow_14
+  - first:
+      213: 7072970902804943219
+    second: normal_bow_15
+  - first:
+      213: -8196862662599638612
+    second: normal_bow_16
+  - first:
+      213: 540313620813664171
+    second: normal_bow_17
+  - first:
+      213: -7986714143501619173
+    second: normal_bow_18
+  - first:
+      213: 3757744767664582326
+    second: normal_bow_19
+  - first:
+      213: -7066005297161714453
+    second: normal_bow_20
+  - first:
+      213: 765790571729961962
+    second: normal_bow_21
+  - first:
+      213: 8235797234297901117
+    second: normal_bow_22
+  - first:
+      213: 4911329972575187061
+    second: normal_bow_23
+  - first:
+      213: 5228237990293644802
+    second: normal_bow_24
+  - first:
+      213: 2566530274598886845
+    second: normal_bow_25
+  - first:
+      213: -3994877385037101682
+    second: normal_bow_26
+  - first:
+      213: -8364063556007594339
+    second: normal_bow_27
+  - first:
+      213: 6171832341351178958
+    second: normal_bow_28
+  - first:
+      213: 5310764340215835365
+    second: normal_bow_29
+  - first:
+      213: -2934287568048057257
+    second: normal_bow_30
+  - first:
+      213: -4723355512067234261
+    second: normal_bow_31
+  - first:
+      213: 151963664320234618
+    second: normal_bow_32
+  - first:
+      213: 5060902985416041596
+    second: normal_bow_33
+  - first:
+      213: -895251952270001855
+    second: normal_bow_34
+  - first:
+      213: 7046406506375649339
+    second: normal_bow_35
+  - first:
+      213: -4197744554728386572
+    second: normal_bow_36
+  - first:
+      213: 6520158900274082734
+    second: normal_bow_37
+  - first:
+      213: -6973940762634701272
+    second: normal_bow_38
+  - first:
+      213: -2362413354783198437
+    second: normal_bow_39
+  - first:
+      213: -8501094216378191995
+    second: normal_bow_40
+  - first:
+      213: 6553046438839861040
+    second: normal_bow_41
+  - first:
+      213: -8889450224168639314
+    second: normal_bow_42
+  - first:
+      213: -6405465914575788349
+    second: normal_bow_43
+  - first:
+      213: -5773870719684093698
+    second: normal_bow_44
+  - first:
+      213: 4859744543221587642
+    second: normal_bow_45
+  - first:
+      213: 5177201323148692740
+    second: normal_bow_46
+  - first:
+      213: -8656530655319774235
+    second: normal_bow_47
+  - first:
+      213: 2425532861136971894
+    second: normal_bow_48
+  - first:
+      213: -6564363453383801698
+    second: normal_bow_49
+  - first:
+      213: -5756772409926520959
+    second: normal_bow_50
+  - first:
+      213: -7869019847514982038
+    second: normal_bow_51
+  - first:
+      213: 1399815342652529767
+    second: normal_bow_52
+  - first:
+      213: 1313337592704393308
+    second: normal_bow_53
+  - first:
+      213: 9084638053969053522
+    second: normal_bow_54
+  - first:
+      213: 6836754479159229617
+    second: normal_bow_55
+  - first:
+      213: -1359555662072618045
+    second: normal_bow_56
+  - first:
+      213: 8144515746239945633
+    second: normal_bow_57
+  - first:
+      213: -458626799802684512
+    second: normal_bow_58
+  - first:
+      213: -6465084705130416788
+    second: normal_bow_59
+  - first:
+      213: -7420397693750889120
+    second: normal_bow_60
+  - first:
+      213: -5005657089496289356
+    second: normal_bow_61
+  - first:
+      213: 2360030036207451517
+    second: normal_bow_62
+  - first:
+      213: -5301405525130405375
+    second: normal_bow_63
+  - first:
+      213: -6293402942662020658
+    second: normal_bow_64
+  - first:
+      213: -3686505758806346872
+    second: normal_bow_65
+  - first:
+      213: -4456018242432887062
+    second: normal_bow_66
+  - first:
+      213: 5193966332030260399
+    second: normal_bow_67
+  - first:
+      213: 372163167923112466
+    second: normal_bow_68
+  - first:
+      213: 4135334412430160463
+    second: normal_bow_69
+  - first:
+      213: 7318784020045874214
+    second: normal_bow_70
+  - first:
+      213: 7510048338103544530
+    second: normal_bow_71
+  - first:
+      213: -6409746251353522984
+    second: normal_bow_72
+  - first:
+      213: 339777537410208934
+    second: normal_bow_73
+  - first:
+      213: 3868042849899565432
+    second: normal_bow_74
+  - first:
+      213: 5197056675809178566
+    second: normal_bow_75
+  - first:
+      213: 4792984807132852986
+    second: normal_bow_76
+  - first:
+      213: -3714797141164649721
+    second: normal_bow_77
+  - first:
+      213: 1858460162977883170
+    second: normal_bow_78
+  - first:
+      213: -3123053494068875245
+    second: normal_bow_79
+  - first:
+      213: 4899819120094860033
+    second: normal_bow_80
+  - first:
+      213: 1935869495623394503
+    second: normal_bow_81
+  - first:
+      213: -4503642003470517470
+    second: normal_bow_82
+  - first:
+      213: -7152310739170068464
+    second: normal_bow_83
+  - first:
+      213: -4593556490056244238
+    second: normal_bow_84
+  - first:
+      213: -5138938711754012234
+    second: normal_bow_85
+  - first:
+      213: 5502605702621481556
+    second: normal_bow_86
+  - first:
+      213: -2852142462744747412
+    second: normal_bow_87
+  - first:
+      213: -3097904383471851764
+    second: normal_bow_88
+  - first:
+      213: 9083969149679528664
+    second: normal_bow_89
+  - first:
+      213: -6707010507255075310
+    second: normal_bow_90
+  - first:
+      213: -1121021094949706475
+    second: normal_bow_91
+  - first:
+      213: 7532286062845176206
+    second: normal_bow_92
+  - first:
+      213: -8713219332829983073
+    second: normal_bow_93
+  - first:
+      213: -4366888101181079733
+    second: normal_bow_94
+  - first:
+      213: -2390327216744336756
+    second: normal_bow_95
+  - first:
+      213: -9140628432857605596
+    second: normal_bow_96
+  - first:
+      213: -4226619822457119123
+    second: normal_bow_97
+  - first:
+      213: 4852648103743274556
+    second: normal_bow_98
+  - first:
+      213: -5027389285977942194
+    second: normal_bow_99
+  - first:
+      213: -4347425215504550995
+    second: normal_bow_100
+  - first:
+      213: -3136441941187025407
+    second: normal_bow_101
+  - first:
+      213: 2046912406330419477
+    second: normal_bow_102
+  - first:
+      213: -1259251325989089422
+    second: normal_bow_103
+  - first:
+      213: 4860776689690172752
+    second: normal_bow_104
+  - first:
+      213: 7434710240222199943
+    second: normal_bow_105
+  - first:
+      213: -1132292427292473981
+    second: normal_bow_106
+  - first:
+      213: 5556738307638595975
+    second: normal_bow_107
+  - first:
+      213: 4520100402964426151
+    second: normal_bow_108
+  - first:
+      213: -1298120702563085586
+    second: normal_bow_109
+  - first:
+      213: 5845141801845974224
+    second: normal_bow_110
+  - first:
+      213: -1421657037360997876
+    second: normal_bow_111
+  - first:
+      213: 7784871959150669700
+    second: normal_bow_112
+  - first:
+      213: -2359348853284574534
+    second: normal_bow_113
+  - first:
+      213: 1146178219551606772
+    second: normal_bow_114
+  - first:
+      213: -8431429912622721133
+    second: normal_bow_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal_bow_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 779
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c2fa82c1368e20800000000000000
+      internalID: 3352421684248494100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 815
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c52950c8e25e730800000000000000
+      internalID: 4027676620676553884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 814
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbdd7dcd332e93d0800000000000000
+      internalID: -3198079937038918723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 814
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a92ff25c5e9eb70800000000000000
+      internalID: 8928920371314465406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 814
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a7ab1bcfa580750800000000000000
+      internalID: 6271362522473462353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 814
+        width: 33
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386029e7ac1681c40800000000000000
+      internalID: 5483240068658366083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 815
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a366e52305857ac70800000000000000
+      internalID: 8982245083279418938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 814
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37261aecc31d03090800000000000000
+      internalID: -8056709674270891405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 814
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959e5dbea5c99e270800000000000000
+      internalID: 8280321304215021913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 814
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31eba4e5e7e872a0800000000000000
+      internalID: -6739381867789950659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 814
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e31f2b3fbcbdd0800000000000000
+      internalID: -2468888234792066236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 781
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb83f3abad1b0b0800000000000000
+      internalID: -5714545958696993357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 777
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188480438c4dffc0800000000000000
+      internalID: -3459524812143818731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 719
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ccaae0fb6950a0800000000000000
+      internalID: -6892359072240319596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 724
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a800dd21490399050800000000000000
+      internalID: 5807726607000731786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 722
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371dc58df8d382260800000000000000
+      internalID: 7072970902804943219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 714
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1061356d4ee3e80800000000000000
+      internalID: -8196862662599638612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 706
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf47eb10649f7700800000000000000
+      internalID: 540313620813664171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 711
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b107ff94dcd792190800000000000000
+      internalID: -7986714143501619173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 735
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beea31f4f0362430800000000000000
+      internalID: 3757744767664582326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 736
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c5a99e9180fd90800000000000000
+      internalID: -7066005297161714453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 716
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ce48b772a0aa00800000000000000
+      internalID: 765790571729961962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 736
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30987013fd6b4270800000000000000
+      internalID: 8235797234297901117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 716
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b216b69c882440800000000000000
+      internalID: 4911329972575187061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 734
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206a7a470ce6e8840800000000000000
+      internalID: 5228237990293644802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 712
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd90cacfa52e9320800000000000000
+      internalID: 2566530274598886845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_26
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 712
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854f9f1f285f88c0800000000000000
+      internalID: -3994877385037101682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_27
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 712
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d967061b280eceb80800000000000000
+      internalID: -8364063556007594339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_28
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 712
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2218f80d0c6a550800000000000000
+      internalID: 6171832341351178958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 709
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea6060a700a3b940800000000000000
+      internalID: 5310764340215835365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 714
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75496add0015747d0800000000000000
+      internalID: -2934287568048057257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 712
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26695bef25437eb0800000000000000
+      internalID: -4723355512067234261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 653
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740396c522eb1200800000000000000
+      internalID: 151963664320234618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 650
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ef609370fb3640800000000000000
+      internalID: 5060902985416041596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 647
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b878b71d6393f0800000000000000
+      internalID: -895251952270001855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 658
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389583526dd9c160800000000000000
+      internalID: 7046406506375649339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 661
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff859d619d9eb5c0800000000000000
+      internalID: -4197744554728386572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 663
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea330f979f14c7a50800000000000000
+      internalID: 6520158900274082734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 664
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ba8e63d5973f90800000000000000
+      internalID: -6973940762634701272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_39
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 642
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1332870295073fd0800000000000000
+      internalID: -2362413354783198437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_40
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 665
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f66a6d9db060a80800000000000000
+      internalID: -8501094216378191995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_41
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 662
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f30bf340911fa50800000000000000
+      internalID: 6553046438839861040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_42
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 642
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea469e39e1452a480800000000000000
+      internalID: -8889450224168639314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_43
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 661
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c666d430b63b17a0800000000000000
+      internalID: -6405465914575788349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_44
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 661
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef85336fb271fdfa0800000000000000
+      internalID: -5773870719684093698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 661
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9dddf9e7417340800000000000000
+      internalID: 4859744543221587642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_46
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 661
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc5f46c2d19d740800000000000000
+      internalID: 5177201323148692740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 639
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eba266bb33ddd780800000000000000
+      internalID: -8656530655319774235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_48
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 639
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6782b13494939a120800000000000000
+      internalID: 2425532861136971894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 641
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948088f732b6e4a0800000000000000
+      internalID: -6564363453383801698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 642
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f6f8d6ef5db10b0800000000000000
+      internalID: -5756772409926520959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 639
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69fe5af320abc290800000000000000
+      internalID: -7869019847514982038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_52
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 639
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c12f933a42d6310800000000000000
+      internalID: 1399815342652529767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 639
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50ef4b0599e93210800000000000000
+      internalID: 1313337592704393308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_54
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 639
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25742d77d2e131e70800000000000000
+      internalID: 9084638053969053522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 596
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb8d2e9f701ee50800000000000000
+      internalID: 6836754479159229617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 591
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36acd1453e12de0800000000000000
+      internalID: -1359555662072618045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 594
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab15327be1270170800000000000000
+      internalID: 8144515746239945633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 586
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab69410b51a2a9f0800000000000000
+      internalID: -458626799802684512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 578
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f3e3d6b76746a0800000000000000
+      internalID: -6465084705130416788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 583
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065b9dbcc93750990800000000000000
+      internalID: -7420397693750889120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 607
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf6821f565588ab0800000000000000
+      internalID: -5005657089496289356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_62
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 608
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db56f50d280c020800000000000000
+      internalID: 2360030036207451517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_63
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 588
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a1f4053cf9d66b0800000000000000
+      internalID: -5301405525130405375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 608
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17b361e5759a8a0800000000000000
+      internalID: -6293402942662020658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_65
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 588
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8837ae75b86e6dcc0800000000000000
+      internalID: -3686505758806346872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_66
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 606
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6902b740b0922c0800000000000000
+      internalID: -4456018242432887062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_67
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 584
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa490043cdca41840800000000000000
+      internalID: 5193966332030260399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_68
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 584
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a8a8eed603a2500800000000000000
+      internalID: 372163167923112466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_69
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 584
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423958fcb8a36930800000000000000
+      internalID: 4135334412430160463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_70
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 584
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624c3a62a4b819560800000000000000
+      internalID: 7318784020045874214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daacae6c2d093860800000000000000
+      internalID: 7510048338103544530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 586
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7ea3aeb10c07a0800000000000000
+      internalID: -6409746251353522984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_73
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 584
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a41efbbed127b400800000000000000
+      internalID: 339777537410208934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 525
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d04c6a7c0ea530800000000000000
+      internalID: 3868042849899565432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 524
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3bd2fe287af1840800000000000000
+      internalID: 5197056675809178566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 517
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af27ffaa94a148240800000000000000
+      internalID: 4792984807132852986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 511
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7039e349ea3627cc0800000000000000
+      internalID: -3714797141164649721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 512
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e283fba39ac910800000000000000
+      internalID: 1858460162977883170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 512
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3107b7fc46fa8a4d0800000000000000
+      internalID: -3123053494068875245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 426
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103dbe48787aff340800000000000000
+      internalID: 4899819120094860033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_81
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 426
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a522bc079dda10800000000000000
+      internalID: 1935869495623394503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_82
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 428
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b7c9b8579df71c0800000000000000
+      internalID: -4503642003470517470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 429
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0187e8cf643edbc90800000000000000
+      internalID: -7152310739170068464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_84
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 428
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e182c5b86040c0800000000000000
+      internalID: -4593556490056244238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 426
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9066b0872dea8b0800000000000000
+      internalID: -5138938711754012234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_86
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 425
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45acac38bbe2d5c40800000000000000
+      internalID: 5502605702621481556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_87
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 424
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62aa4b9a872b68d0800000000000000
+      internalID: -2852142462744747412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_88
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 425
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e80b60680205d0800000000000000
+      internalID: -3097904383471851764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da614d00ddb01e70800000000000000
+      internalID: 9083969149679528664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_90
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 300
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eaf3a9a79ebe2a0800000000000000
+      internalID: -6707010507255075310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 301
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515adc9e0455170f0800000000000000
+      internalID: -1121021094949706475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_92
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 299
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892382344e088860800000000000000
+      internalID: 7532286062845176206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_93
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 297
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e4a907e2d641780800000000000000
+      internalID: -8713219332829983073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_94
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 297
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fb833a862b563c0800000000000000
+      internalID: -4366888101181079733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_95
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 299
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8271059f0ad3ded0800000000000000
+      internalID: -2390327216744336756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_96
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 301
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42adfa39ed6f52180800000000000000
+      internalID: -9140628432857605596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_97
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 300
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e91d14aa70855c0800000000000000
+      internalID: -4226619822457119123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_98
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e379b6db1185340800000000000000
+      internalID: 4852648103743274556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_99
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 170
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471ea5a4102b3ab0800000000000000
+      internalID: -5027389285977942194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 172
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da37646dcc7daa3c0800000000000000
+      internalID: -4347425215504550995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_101
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 172
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10629ec0cae1974d0800000000000000
+      internalID: -3136441941187025407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_102
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 172
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192aa11df7186c10800000000000000
+      internalID: 2046912406330419477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_103
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 170
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0b7f379d368ee0800000000000000
+      internalID: -1259251325989089422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_104
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 169
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5b7155a2f47340800000000000000
+      internalID: 4860776689690172752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_105
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 169
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780476c92956d2760800000000000000
+      internalID: 7434710240222199943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_106
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 169
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850e59590a4940f0800000000000000
+      internalID: -1132292427292473981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_107
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7819a98cc008d1d40800000000000000
+      internalID: 5556738307638595975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_108
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 44
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad6bc33e5f9abe30800000000000000
+      internalID: 4520100402964426151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_109
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 45
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2952849162cfde0800000000000000
+      internalID: -1298120702563085586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_110
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 43
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e0d8ff7d1e1150800000000000000
+      internalID: 5845141801845974224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_111
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 41
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad9afe472454ce0800000000000000
+      internalID: -1421657037360997876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_112
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 41
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f23130dcb690c60800000000000000
+      internalID: 7784871959150669700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_113
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 43
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6fb2e7b8e14fd0800000000000000
+      internalID: -2359348853284574534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_114
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 45
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7c9a9940b08ef00800000000000000
+      internalID: 1146178219551606772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_bow_115
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 44
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39715858a2b8dfa80800000000000000
+      internalID: -8431429912622721133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      normal_bow_0: 3352421684248494100
+      normal_bow_1: 4027676620676553884
+      normal_bow_10: -2468888234792066236
+      normal_bow_100: -4347425215504550995
+      normal_bow_101: -3136441941187025407
+      normal_bow_102: 2046912406330419477
+      normal_bow_103: -1259251325989089422
+      normal_bow_104: 4860776689690172752
+      normal_bow_105: 7434710240222199943
+      normal_bow_106: -1132292427292473981
+      normal_bow_107: 5556738307638595975
+      normal_bow_108: 4520100402964426151
+      normal_bow_109: -1298120702563085586
+      normal_bow_11: -5714545958696993357
+      normal_bow_110: 5845141801845974224
+      normal_bow_111: -1421657037360997876
+      normal_bow_112: 7784871959150669700
+      normal_bow_113: -2359348853284574534
+      normal_bow_114: 1146178219551606772
+      normal_bow_115: -8431429912622721133
+      normal_bow_12: -3459524812143818731
+      normal_bow_13: -6892359072240319596
+      normal_bow_14: 5807726607000731786
+      normal_bow_15: 7072970902804943219
+      normal_bow_16: -8196862662599638612
+      normal_bow_17: 540313620813664171
+      normal_bow_18: -7986714143501619173
+      normal_bow_19: 3757744767664582326
+      normal_bow_2: -3198079937038918723
+      normal_bow_20: -7066005297161714453
+      normal_bow_21: 765790571729961962
+      normal_bow_22: 8235797234297901117
+      normal_bow_23: 4911329972575187061
+      normal_bow_24: 5228237990293644802
+      normal_bow_25: 2566530274598886845
+      normal_bow_26: -3994877385037101682
+      normal_bow_27: -8364063556007594339
+      normal_bow_28: 6171832341351178958
+      normal_bow_29: 5310764340215835365
+      normal_bow_3: 8928920371314465406
+      normal_bow_30: -2934287568048057257
+      normal_bow_31: -4723355512067234261
+      normal_bow_32: 151963664320234618
+      normal_bow_33: 5060902985416041596
+      normal_bow_34: -895251952270001855
+      normal_bow_35: 7046406506375649339
+      normal_bow_36: -4197744554728386572
+      normal_bow_37: 6520158900274082734
+      normal_bow_38: -6973940762634701272
+      normal_bow_39: -2362413354783198437
+      normal_bow_4: 6271362522473462353
+      normal_bow_40: -8501094216378191995
+      normal_bow_41: 6553046438839861040
+      normal_bow_42: -8889450224168639314
+      normal_bow_43: -6405465914575788349
+      normal_bow_44: -5773870719684093698
+      normal_bow_45: 4859744543221587642
+      normal_bow_46: 5177201323148692740
+      normal_bow_47: -8656530655319774235
+      normal_bow_48: 2425532861136971894
+      normal_bow_49: -6564363453383801698
+      normal_bow_5: 5483240068658366083
+      normal_bow_50: -5756772409926520959
+      normal_bow_51: -7869019847514982038
+      normal_bow_52: 1399815342652529767
+      normal_bow_53: 1313337592704393308
+      normal_bow_54: 9084638053969053522
+      normal_bow_55: 6836754479159229617
+      normal_bow_56: -1359555662072618045
+      normal_bow_57: 8144515746239945633
+      normal_bow_58: -458626799802684512
+      normal_bow_59: -6465084705130416788
+      normal_bow_6: 8982245083279418938
+      normal_bow_60: -7420397693750889120
+      normal_bow_61: -5005657089496289356
+      normal_bow_62: 2360030036207451517
+      normal_bow_63: -5301405525130405375
+      normal_bow_64: -6293402942662020658
+      normal_bow_65: -3686505758806346872
+      normal_bow_66: -4456018242432887062
+      normal_bow_67: 5193966332030260399
+      normal_bow_68: 372163167923112466
+      normal_bow_69: 4135334412430160463
+      normal_bow_7: -8056709674270891405
+      normal_bow_70: 7318784020045874214
+      normal_bow_71: 7510048338103544530
+      normal_bow_72: -6409746251353522984
+      normal_bow_73: 339777537410208934
+      normal_bow_74: 3868042849899565432
+      normal_bow_75: 5197056675809178566
+      normal_bow_76: 4792984807132852986
+      normal_bow_77: -3714797141164649721
+      normal_bow_78: 1858460162977883170
+      normal_bow_79: -3123053494068875245
+      normal_bow_8: 8280321304215021913
+      normal_bow_80: 4899819120094860033
+      normal_bow_81: 1935869495623394503
+      normal_bow_82: -4503642003470517470
+      normal_bow_83: -7152310739170068464
+      normal_bow_84: -4593556490056244238
+      normal_bow_85: -5138938711754012234
+      normal_bow_86: 5502605702621481556
+      normal_bow_87: -2852142462744747412
+      normal_bow_88: -3097904383471851764
+      normal_bow_89: 9083969149679528664
+      normal_bow_9: -6739381867789950659
+      normal_bow_90: -6707010507255075310
+      normal_bow_91: -1121021094949706475
+      normal_bow_92: 7532286062845176206
+      normal_bow_93: -8713219332829983073
+      normal_bow_94: -4366888101181079733
+      normal_bow_95: -2390327216744336756
+      normal_bow_96: -9140628432857605596
+      normal_bow_97: -4226619822457119123
+      normal_bow_98: 4852648103743274556
+      normal_bow_99: -5027389285977942194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

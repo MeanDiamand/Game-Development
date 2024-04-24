@@ -7,7 +7,7 @@ using static UnityEngine.RuleTile.TilingRuleOutput;
 public class ItemPUS : MonoBehaviour
 {
     [field: SerializeField]
-    public Item InventoryItem { get; private set; }
+    public Item InventoryItem { get; set; }
 
     [field: SerializeField]
     public int Quantity { get; set; } = 1;
@@ -18,11 +18,20 @@ public class ItemPUS : MonoBehaviour
 
     private void Start()
     {
-        GetComponent<SpriteRenderer>().sprite = InventoryItem.ItemIcon;
+        if (InventoryItem != null)
+            GetComponent<SpriteRenderer>().sprite = InventoryItem.ItemIcon;
 
         // Set the sorting layer name
         Renderer renderer = GetComponent<Renderer>();
         renderer.sortingLayerName = "Player";
+    }
+
+    public void SetIcon(Item item)
+    {
+        if (item == null)
+            return;
+        InventoryItem = item;
+        GetComponent<SpriteRenderer>().sprite = InventoryItem.ItemIcon;
     }
 
     public void DestroyItem()

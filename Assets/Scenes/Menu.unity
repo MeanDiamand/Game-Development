@@ -554,7 +554,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicSource: {fileID: 1763953482}
+  effectSource: {fileID: 0}
   background: {fileID: 8300000, guid: 60fa8ac3e1653f746b74db70a7e72d12, type: 3}
+  GameOver: {fileID: 0}
+  hitting: {fileID: 0}
+  BowShot: {fileID: 0}
+  Walking: {fileID: 0}
 --- !u!4 &1104182776
 Transform:
   m_ObjectHideFlags: 0
@@ -742,7 +747,7 @@ AudioSource:
   m_GameObject: {fileID: 1763953481}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 9190235181440088026, guid: e11e33ca5395f4c4c8b6d5d424fabfe2, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1

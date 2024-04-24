@@ -9,9 +9,10 @@ public class Potion : Item
     {
         return "Potion";
     }
-    public override void Use()
+    public override int Use()
     {
         Debug.Log("Healing");
         PlayerEvents.GetInstance().Heal(healing);
+        return -1;
     }
 }
