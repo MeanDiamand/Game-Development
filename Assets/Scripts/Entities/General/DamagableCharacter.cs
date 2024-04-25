@@ -14,13 +14,13 @@ namespace Assets.Scripts
         [SerializeField]
         private int EXP_FOR_KILL = 10;
 
-        private Animator animator;
-        private Rigidbody2D rb;
+        protected Animator animator;
+        protected Rigidbody2D rb;
         private Collider2D physicsCollider;
         private FloatingStatusBar statusBar;
         private bool isAlive = true;
         private float counter = 0;
-        AudioManager audioManager;
+        protected AudioManager audioManager;
 
         private float maxHealth = 5;
 
@@ -75,6 +75,11 @@ namespace Assets.Scripts
 
         public void Start()
         {
+            Initialize();
+        }
+
+        protected void Initialize()
+        {
             statusBar = GetComponentInChildren<FloatingStatusBar>();
             animator = GetComponent<Animator>();
             rb = GetComponent<Rigidbody2D>();
@@ -126,8 +131,10 @@ namespace Assets.Scripts
 
         public void OnHit(float damage, Vector2 knockDirection)
         {
-            Health -= damage;
-            counter += damage;
+            float totalDamage = CalculateReceivedDamage(damage);
+            Health -= totalDamage;
+            counter += totalDamage;
+            Debug.Log("OnHit: " + rb  + " | " + knockDirection);
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
@@ -162,6 +169,11 @@ namespace Assets.Scripts
             if (deathItemPrefabs.Count == 0) return;
             ItemPUS newItemPUS = Instantiate(itemPUSPrefab, transform.position, Quaternion.identity);
             newItemPUS.InventoryItem = PickItem();
+        }
+
+        public virtual float CalculateReceivedDamage(float damage)
+        {
+            return damage;
         }
 
     }

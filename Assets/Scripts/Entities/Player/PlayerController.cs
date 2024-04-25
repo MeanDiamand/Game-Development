@@ -1,4 +1,5 @@
 using Assets.Scripts;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -7,7 +8,7 @@ using UnityEngine.InputSystem;
 // component added and the Behaviour should be set to Send Messages so that the OnMove and OnFire methods
 // actually trigger
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : DamagableCharacter
 {
     public float moveSpeed = 600f;
     public float maxSpeed = 10f;
@@ -19,12 +20,9 @@ public class PlayerController : MonoBehaviour
     public GameObject attackPoint;
 
     private Vector2 input;
-    private Animator animator;
     private List<RaycastHit2D> collisions = new List<RaycastHit2D>();
-    private Rigidbody2D rb;
     private Collider2D swordCollider;
     private float lastHit;
-    AudioManager audioManager;
 
     private bool isMoving = false;
     private bool IsMoving
@@ -39,11 +37,17 @@ public class PlayerController : MonoBehaviour
     private PlayerCharacteristics characteristics;
 
     [SerializeField]
-    SkinChanger skinChanger;
+    private Inventory inventory;
+
+    [SerializeField]
+    private SkinChanger skinChanger;
+
+    [SerializeField]
+    private UIController uiController;
 
     public void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+        Initialize();
         swordCollider = attackPoint.GetComponent<Collider2D>();
     }
 
@@ -77,7 +81,7 @@ public class PlayerController : MonoBehaviour
     public void Move(Vector2 direction)
     {
         //rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
-        rb.AddForce(input * moveSpeed * (1 + 0.1f * characteristics.Agility) * Time.deltaTime);
+        rb.AddForce(input * GetPlayerSpeed() * Time.deltaTime);
         if(rb.velocity.magnitude > maxSpeed)
         {
             float limitedSpeed = Mathf.Lerp(rb.velocity.magnitude, maxSpeed, idleFriction);
@@ -94,12 +98,14 @@ public class PlayerController : MonoBehaviour
 
     public void OnMove(InputValue value)
     {
-        input = value.Get<Vector2>();
+        if (!uiController.IsInputBlocked())
+            input = value.Get<Vector2>();
     }
 
     private void OnFire()
     {
-        SwordAttack();
+        if (!uiController.IsInputBlocked())
+            SwordAttack();
     }
 
     private void SwordAttack()
@@ -150,4 +156,52 @@ public class PlayerController : MonoBehaviour
             gameObject.BroadcastMessage("TurnDown", down);
         }
     }
+
+    // Functions integrating Inventory and PlayerCharacteristics
+
+    public SpritesContainer GetSpriteOnPlayer(int index)
+    {
+        if (index < 0 || index > 6) throw new Exception("Index Out of range [0, 6]");
+        Inventory.InventorySlot slot = inventory.GetSlotAt(index);
+        if (!slot.IsEmpty)
+            return new SpritesContainer(slot.item.GetSprite());
+        else
+            return null;
+    }
+
+    public float GetDefence()
+    {
+        float defence = 0f;
+
+        for (int i = 0; i < 4; i++)
+        {
+            Inventory.InventorySlot slot = inventory.GetSlotAt(i);
+            if (!slot.IsEmpty)
+                defence += slot.item.GetDefenceAmount();
+        }
+
+        defence += characteristics.Endurance;
+
+        Debug.Log("Total defence amount of a player: " + defence);
+        return defence;
+    }
+
+    public override float CalculateReceivedDamage(float damage) 
+    { 
+        float totalDamage = damage;
+        totalDamage -= GetDefence();
+        if (totalDamage < 0) { totalDamage = 0f; }
+
+        Debug.Log("Total damage received by a player: " + totalDamage);
+        return totalDamage; 
+    }
+
+    public Weapon.Damage GetDamage() {
+        return inventory.GetDamage().NewMultiplied(1 + 0.1f * characteristics.Strength, DamageTypes.Physical).NewAdded(1 + 0.1f * characteristics.Intelligence, DamageTypes.Magical);
+    }
+
+    public float GetPlayerSpeed() 
+    { 
+        return moveSpeed * (1 + 0.1f * characteristics.Agility); 
+    } 
 }

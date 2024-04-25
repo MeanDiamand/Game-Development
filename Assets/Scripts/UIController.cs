@@ -44,9 +44,15 @@ public class UIController : MonoBehaviour
     private void ProcessQAB(bool var)
     {
         if (var)
+        {
             quickAccessBar.Hide();
+            Time.timeScale = 0;
+        }
         else
+        {
             quickAccessBar.Show();
+            Time.timeScale = 1;
+        }
     }
 
     private void Start()
@@ -68,5 +74,9 @@ public class UIController : MonoBehaviour
     {
         isActive = true;
         quickAccessBar.Show();
+    }
+    public bool IsInputBlocked()
+    {
+        return inventoryOpened || characteristicsOpened;
     }
 }

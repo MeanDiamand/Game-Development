@@ -1,6 +1,7 @@
 public enum DamageTypes
 {
     Physical = 0,
+    Magical,
     Pyro,
     Hydro,
     Cryo,

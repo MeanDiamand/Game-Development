@@ -39,5 +39,20 @@ public class Weapon : WearableItem
                 Knock = 15,
                 DamageType = DamageTypes.Physical
             };
+        public Damage NewAdded(float factor, DamageTypes newDamageType)
+        {
+            Damage newDamage = new Damage { Amount = this.Amount, Knock = this.Knock, DamageType = this.DamageType };
+            if (newDamageType == DamageType)
+                newDamage.Amount += factor;
+            return newDamage;
+        }
+
+        public Damage NewMultiplied(float factor, DamageTypes newDamageType)
+        {
+            Damage newDamage = new Damage { Amount = this.Amount, Knock = this.Knock, DamageType = this.DamageType };
+            if (newDamageType == DamageType)
+                newDamage.Amount *= factor;
+            return newDamage;
+        }
     }
 }
