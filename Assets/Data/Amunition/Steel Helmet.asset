@@ -198,3 +198,4 @@ MonoBehaviour:
   - {fileID: -4096098757073665786, guid: a7fb385c7bb6eb54db6180c68b022775, type: 3}
   - {fileID: -831099577367464737, guid: a7fb385c7bb6eb54db6180c68b022775, type: 3}
   - {fileID: 56923198, guid: a7fb385c7bb6eb54db6180c68b022775, type: 3}
+  defenceAmount: 1
