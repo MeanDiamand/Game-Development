@@ -37,7 +37,7 @@ public class UIController : MonoBehaviour
             Debug.Log("E Pressed");
             quickAccessBar.UseE();
         }
-        if (Input.GetKeyDown(KeyCode.Q) && !inventoryOpened && !characteristicsOpened)
+        if (Input.GetKey(KeyCode.Q) && !inventoryOpened && !characteristicsOpened)
             quickAccessBar.UseQ();
     }
 

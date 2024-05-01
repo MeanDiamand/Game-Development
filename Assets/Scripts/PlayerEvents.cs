@@ -7,6 +7,7 @@ public class PlayerEvents
     public event Action OnGameStart;
     public event Action<Sprite[], int> OnArmourChanged;
     public event Action<Sprite[]> OnWeaponChanged;
+    public event Action<bool> OnShieldUse;
 
     private PlayerEvents()
     {
@@ -32,6 +33,11 @@ public class PlayerEvents
     public void WeaponChanged(Sprite[] sprite)
     {
         OnWeaponChanged?.Invoke(sprite);
+    }
+
+    public void ShieldUse(bool trigger)
+    {
+        OnShieldUse?.Invoke(trigger);
     }
 
     public void ExperienceGained(int exp)

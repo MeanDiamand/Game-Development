@@ -19,9 +19,8 @@ public class PlayerController : DamagableCharacter
     public float idleFriction = 0.9f;
     public GameObject attackPoint;
 
+    private bool isShielding;
     private Vector2 input;
-    private List<RaycastHit2D> collisions = new List<RaycastHit2D>();
-    private Collider2D swordCollider;
     private float lastHit;
 
     private bool isMoving = false;
@@ -48,11 +47,13 @@ public class PlayerController : DamagableCharacter
     public void Start()
     {
         Initialize();
-        swordCollider = attackPoint.GetComponent<Collider2D>();
+        PlayerEvents.GetInstance().OnShieldUse += UseShield;
+
     }
 
     public void LateUpdate()
     {
+        animator.SetBool("IsShielding", false);
         skinChanger.SkinChoice();
     }
 
@@ -117,6 +118,11 @@ public class PlayerController : DamagableCharacter
         lastHit = Time.time;
         animator.SetTrigger("SwordAttack");
         audioManager.PlayEffect(audioManager.hitting);
+    }
+
+    private void UseShield(bool trigger)
+    {
+        animator.SetBool("IsShielding", trigger);
     }
 
     private void MouseLook()
@@ -186,6 +192,7 @@ public class PlayerController : DamagableCharacter
         return defence;
     }
 
+    // TODO: Nerf Endurance Perk
     public override float CalculateReceivedDamage(float damage) 
     { 
         float totalDamage = damage;
@@ -203,5 +210,11 @@ public class PlayerController : DamagableCharacter
     public float GetPlayerSpeed() 
     { 
         return moveSpeed * (1 + 0.1f * characteristics.Agility); 
-    } 
+    }
+
+    // TODO: Somehow implement to save a state of a player
+    public void SavePlayer()
+    {
+        GlobalControl.Instance.Health = Health;
+    }
 }
