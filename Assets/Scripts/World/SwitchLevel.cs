@@ -9,8 +9,6 @@ public class SwitchLevel : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        print("Trigger enetered");
-
         if (collision.tag == "Player")
         {
             print("Switching scene to: " + sceneIndex);

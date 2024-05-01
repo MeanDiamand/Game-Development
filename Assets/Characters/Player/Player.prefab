@@ -204,6 +204,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26ae695bb8461384c83459e5c730969d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathItemPrefabs: []
+  itemPUSPrefab: {fileID: 0}
+  EXP_FOR_KILL: 10
+  isSimulated: 1
   moveSpeed: 600
   maxSpeed: 8
   collisionOffset: 0.05
@@ -226,6 +230,9 @@ MonoBehaviour:
   idleFriction: 0.9
   attackPoint: {fileID: 9049807826575470842}
   characteristics: {fileID: 0}
+  inventory: {fileID: 0}
+  skinChanger: {fileID: 0}
+  uiController: {fileID: 0}
 --- !u!114 &1535035437901162612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -309,6 +316,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathItemPrefabs: []
+  itemPUSPrefab: {fileID: 0}
+  EXP_FOR_KILL: 10
   isSimulated: 0
 --- !u!114 &6810071562921996167
 MonoBehaviour:
@@ -433,5 +442,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weaponDamage: 1
   swordCollider: {fileID: 6557869855264477232}
-  inventory: {fileID: 11400000, guid: bb4b01774d0f5bd458c21146d6fe1e19, type: 2}
-  characteristics: {fileID: 0}
+  playerController: {fileID: 0}
