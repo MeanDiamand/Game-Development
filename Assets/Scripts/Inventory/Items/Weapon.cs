@@ -1,19 +1,16 @@
+using Newtonsoft.Json;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using static Inventory;
 
 [CreateAssetMenu]
+[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 public class Weapon : WearableItem
 {
     [field: SerializeField]
-    public Damage damage { get; set; }
-    public Weapon() 
-    {}
-    public Weapon(Damage damage) 
-    {
-        this.damage = damage;
-    }
+    [JsonProperty]
+    public Damage damage { get; private set; }
     
     public override Damage dealDamage()
     {
@@ -27,11 +24,18 @@ public class Weapon : WearableItem
     }
 
     [System.Serializable]
+    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
     public class Damage
     {
+        [JsonProperty]
         public float Amount { get; set; }
+
+        [JsonProperty]
         public float Knock { get; set; }
+
+        [JsonProperty]
         public DamageTypes DamageType { get; set; }
+
         public static Damage HandDamage()
             => new Damage
             {

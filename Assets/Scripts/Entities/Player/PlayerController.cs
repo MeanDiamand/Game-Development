@@ -23,6 +23,8 @@ public class PlayerController : DamagableCharacter
     private float lastHit;
 
     private bool isMoving = false;
+
+    private IDataService dataService = new JsonDataService();
     private bool IsMoving
     {
         set
@@ -228,6 +230,11 @@ public class PlayerController : DamagableCharacter
     // TODO: Somehow implement to save a state of a player
     public void SavePlayer()
     {
-        GlobalControl.Instance.Health = Health;
+        dataService.SaveData("/player-inventory", inventory);
+    }
+
+    public void LoadPlayer()
+    {
+        inventory.Clone(dataService.LoadData<Inventory>("/player-inventory"));
     }
 }

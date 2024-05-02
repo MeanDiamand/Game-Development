@@ -1,16 +1,35 @@
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
+[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 public class Inventory : ScriptableObject
 {
     [SerializeField]
+    [JsonProperty]
     private List<InventorySlot> slots;
+
+    [JsonProperty]
     private Weapon weapon;
+    
     [field: SerializeField]
+    [JsonProperty]
     public int Size { get; private set; } = 10;
     public event Action<List<InventorySlot>> OnInventoryUpdated;
+
+    public void Clone(Inventory inventoryToClone)
+    {
+        if (inventoryToClone == null)
+        {
+            Debug.LogError("Trying to copy null inventory");
+            return;
+        }
+        slots = inventoryToClone.slots;
+        weapon = inventoryToClone.weapon;
+        Size = inventoryToClone.Size;
+    }
 
     public void Initialize()
     {
@@ -141,10 +160,14 @@ public class Inventory : ScriptableObject
 
 
     [Serializable]
+    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
     public struct InventorySlot
     {
+        [JsonProperty]
         public int index;
+        [JsonProperty]
         public int quantity;
+        [JsonProperty]
         public Item item;
         public bool IsEmpty => item == null;
 

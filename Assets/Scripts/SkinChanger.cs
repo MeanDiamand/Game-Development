@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
@@ -106,17 +107,48 @@ public class SkinChanger : MonoBehaviour
         return n - THRESHHOLD + 97;
     }
 
-    public Sprite FindSpriteWithNumberEnding(Sprite[] sprites, int number)
+    public static Sprite[] FindSpriteSheetByFullName(string name)
+    {
+        string[] parts = name.Split('_');
+
+        if (parts.Length < 2)
+        {
+            Debug.LogError("NameToSprite: Invalid input format");
+            return null;
+        }
+        string itemName = string.Join("_", parts.Take(parts.Length - 1)); // Join all parts except the last one
+
+        return Resources.LoadAll<Sprite>(itemName);
+    }
+
+    public static Sprite FullNameToSprite(string name)
+    {
+        string[] parts = name.Split('_');
+
+        if (parts.Length < 2)
+        {
+            Debug.LogError("NameToSprite: Invalid input format");
+            return null;
+        }
+        string itemName = string.Join("_", parts.Take(parts.Length - 1)); // Join all parts except the last one
+        int itemNumber = int.Parse(parts[parts.Length - 1]); // Get the last part
+
+        return FindSpriteWithNumberEnding(Resources.LoadAll<Sprite>(itemName), itemNumber);
+    }
+
+    public static Sprite FindSpriteWithNumberEnding(Sprite[] sprites, int number)
     {
         if (sprites == null) return null;
-        foreach (Sprite sprite in sprites) {
+        foreach (Sprite sprite in sprites)
+        {
             if (EndsWithNumber(sprite.name, number))
                 return sprite;
         }
 
-        // Return the found sprite (or null if not found)
+        // Return null if not found
         return null;
     }
+
     static bool EndsWithNumber(string input, int targetNumber)
     {
         // Extracting the last part of the string after '_'

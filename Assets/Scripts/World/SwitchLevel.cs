@@ -28,6 +28,8 @@ public class SwitchLevel : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
+            PlayerController playerController = collision.gameObject.GetComponent<PlayerController>();
+            playerController.SavePlayer();
             newScene.LoadScene();
         }
     }
