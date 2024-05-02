@@ -926,6 +926,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneIndex: 3
+  newCoordinates: {x: 0, y: 0}
 --- !u!61 &457297430
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1149,7 +1150,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 106.93838, y: 3.272665, z: -10}
+  m_LocalPosition: {x: 106.81477, y: 3.272665, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -58230,7 +58231,7 @@ Transform:
   m_GameObject: {fileID: 1098827699}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 106.93838, y: 3.272665, z: -10}
+  m_LocalPosition: {x: 106.81477, y: 3.272665, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -70245,7 +70246,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -700.0001, y: -395}
+  m_AnchoredPosition: {x: -700.0002, y: -395}
   m_SizeDelta: {x: -1600, y: -910}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1809527490

@@ -17,6 +17,8 @@ public class AudioManager : MonoBehaviour
     {
         musicSource.clip = background;
         musicSource.Play();
+
+        DontDestroyOnLoad(gameObject);
     }
 
     public void PlayEffect(AudioClip clip)

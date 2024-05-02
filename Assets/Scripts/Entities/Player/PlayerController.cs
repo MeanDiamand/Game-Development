@@ -1,6 +1,5 @@
 using Assets.Scripts;
 using System;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -44,11 +43,17 @@ public class PlayerController : DamagableCharacter
     [SerializeField]
     private UIController uiController;
 
+    public static Transform transform;
+
     public void Start()
     {
         Initialize();
         PlayerEvents.GetInstance().OnShieldUse += UseShield;
+        PlayerEvents.GetInstance().OnTeleported += Teleport;
 
+        transform = GetComponent<Transform>();
+
+        DontDestroyOnLoad(gameObject);
     }
 
     public void LateUpdate()
@@ -74,6 +79,11 @@ public class PlayerController : DamagableCharacter
         {
             Stop();
         }
+    }
+
+    private void Teleport(Vector2 coordinates)
+    {
+        rb.position = coordinates;
     }
 
     // Tries to move the player in a direction by casting in that direction by the amount

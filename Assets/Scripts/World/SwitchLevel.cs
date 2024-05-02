@@ -5,7 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class SwitchLevel : MonoBehaviour
 {
-    public int sceneIndex;
+    [SerializeField]
+    private int sceneIndex;
+    [SerializeField]
+    private Vector2 newCoordinates;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -13,6 +16,8 @@ public class SwitchLevel : MonoBehaviour
         {
             print("Switching scene to: " + sceneIndex);
             SceneManager.LoadScene(sceneIndex, LoadSceneMode.Single);
+            print("Teleporting: " + newCoordinates);
+            PlayerEvents.GetInstance().Teleport(newCoordinates);
         }
     }
 }

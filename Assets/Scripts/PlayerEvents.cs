@@ -8,11 +8,11 @@ public class PlayerEvents
     public event Action<Sprite[], int> OnArmourChanged;
     public event Action<Sprite[]> OnWeaponChanged;
     public event Action<bool> OnShieldUse;
+    public event Action<Vector2> OnTeleported;
 
-    private PlayerEvents()
-    {
-        // Constructor implementation
-    }
+    // OnEnterCutScene ?
+
+    private PlayerEvents(){}
 
     // Public static method to access the single instance
     public static PlayerEvents GetInstance()
@@ -52,5 +52,10 @@ public class PlayerEvents
     public void GameStarted()
     {
         OnGameStart?.Invoke();
+    }
+
+    public void Teleport(Vector2 coordinates)
+    {
+        OnTeleported?.Invoke(coordinates);
     }
 }
