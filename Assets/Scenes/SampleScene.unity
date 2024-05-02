@@ -925,8 +925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efa0dfab189a7774a8321643254ca315, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneIndex: 3
-  newCoordinates: {x: 0, y: 0}
+  newScene: {fileID: 11400000, guid: d299412ea39294e40bfd8e66d4abb269, type: 2}
 --- !u!61 &457297430
 BoxCollider2D:
   m_ObjectHideFlags: 0
