@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b7cac8783046244e85a8a448501800a, type: 3}
-  m_Name: SampleScene
+  m_Name: InitializationScene
   m_EditorClassIdentifier: 
-  sceneIndex: 2
+  sceneIndex: 4
   enemies: []
   enemiesCoordinates: []
-  spawnCoordinates: {x: 106, y: 4}
+  spawnCoordinates: {x: 0, y: 0}
+  isCutScene: 1

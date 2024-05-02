@@ -45,6 +45,9 @@ public class PlayerController : DamagableCharacter
 
     public static Transform transform;
 
+    [field: SerializeField]
+    public static bool IsCutScene { get; set; }
+
     public void Start()
     {
         Initialize();

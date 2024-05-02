@@ -12,6 +12,9 @@ public class SwitchLevel : MonoBehaviour
     [SerializeField]
     private float switchDelay;
 
+    [SerializeField]
+    private Transform canvas;
+
     private void Start()
     {
         if (autoSwitch)
@@ -36,5 +39,7 @@ public class SwitchLevel : MonoBehaviour
 
         // Load the new scene
         newScene.LoadScene();
+
+        canvas.gameObject.SetActive(true);
     }
 }

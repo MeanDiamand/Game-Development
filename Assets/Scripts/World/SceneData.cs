@@ -14,12 +14,14 @@ public class SceneData : ScriptableObject
     private List<Vector2> enemiesCoordinates;
     [SerializeField]
     private Vector2 spawnCoordinates;
+    [SerializeField]
+    private bool isCutScene;
 
     public void LoadScene()
     {
         SceneManager.LoadScene(sceneIndex, LoadSceneMode.Single);
         PlayerEvents.GetInstance().Teleport(spawnCoordinates);
-
+        PlayerController.IsCutScene = isCutScene;
         // TO-DO: Spawn enemies on defined coordinates
     }
 }
