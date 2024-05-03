@@ -8583,6 +8583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1596080315}
+  switchLevel: {fileID: 1259639937}
 --- !u!1 &1786860248
 GameObject:
   m_ObjectHideFlags: 0
