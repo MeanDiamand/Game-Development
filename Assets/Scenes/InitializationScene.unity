@@ -2011,7 +2011,7 @@ GameObject:
   - component: {fileID: 976902487}
   - component: {fileID: 976902486}
   m_Layer: 0
-  m_Name: Audio Manager
+  m_Name: PlayerAudioManager
   m_TagString: Audio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2029,6 +2029,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 113bdc3d5fa69fe4397f9408e1ff1dcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPersistent: 1
   musicSource: {fileID: 831663686}
   effectSource: {fileID: 956310109}
   background: {fileID: 8300000, guid: 0b7090179cdee3e499cfdb36bd55bcd5, type: 3}
@@ -2589,7 +2590,7 @@ GameObject:
   - component: {fileID: 1254083232}
   - component: {fileID: 1254083231}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: MainCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2759,7 +2760,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efa0dfab189a7774a8321643254ca315, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newScene: {fileID: 11400000, guid: fea2736697ccae3488044c77bc1d0266, type: 2}
+  newSceneId: 2
+  isNewCutScene: 0
   autoSwitch: 1
   switchDelay: 2
   canvas: {fileID: 1254083237}
@@ -8577,7 +8579,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1771055505}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24b9f5fddfb5b6b46aefee53ead8a73e, type: 3}
+  m_Script: {fileID: 11500000, guid: ae6b957743afd3e4fb541907af7773d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1596080315}
@@ -9457,10 +9459,10 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 501434365}
+  - {fileID: 1259639938}
   - {fileID: 1596080312}
   - {fileID: 976902487}
   - {fileID: 1254083237}
   - {fileID: 19111449}
-  - {fileID: 1259639938}
   - {fileID: 1771055506}
   - {fileID: 2085970510}

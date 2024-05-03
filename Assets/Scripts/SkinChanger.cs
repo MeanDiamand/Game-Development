@@ -23,6 +23,8 @@ public class SkinChanger : MonoBehaviour
     private const int MAX_SPRITE_ID = 202;
     private const int THRESHHOLD = 179;
     private const int PPU = 16;
+    private static readonly string[] subfolders = { "Sprites/", "Sprites/Boots/", "Sprites/Chestplates/",
+            "Sprites/Helmets/", "Sprites/Leggins/", "Sprites/Weapons/" };
 
     private void Start()
     {
@@ -40,14 +42,12 @@ public class SkinChanger : MonoBehaviour
 
     private void ArmourChanged(Sprite[] sprites, int index)
     {
-        Debug.Log("ArmourChanged: " + index);
         upgrades[index] = new SpritesContainer(sprites);
         GenerateSpriteSheet();
     }
 
     private void WeaponChanged(Sprite[] sprites)
     {
-        Debug.Log("WeaponChanged");
         sword = new SpritesContainer(sprites);
         GenerateSpriteSheet();
     }
@@ -107,8 +107,24 @@ public class SkinChanger : MonoBehaviour
         return n - THRESHHOLD + 97;
     }
 
+    private static Sprite[] SpritesLoadAll(string itemName)
+    {
+        foreach (string folder in subfolders)
+        {
+            Sprite[] sprites = Resources.LoadAll<Sprite>(folder + itemName);
+
+            if (sprites != null && sprites.Length > 0)
+            {
+                return sprites;
+            }
+        }
+        return null;
+    }
+
     public static Sprite[] FindSpriteSheetByFullName(string name)
     {
+        if (name == null)
+            return null;
         string[] parts = name.Split('_');
 
         if (parts.Length < 2)
@@ -118,7 +134,7 @@ public class SkinChanger : MonoBehaviour
         }
         string itemName = string.Join("_", parts.Take(parts.Length - 1)); // Join all parts except the last one
 
-        return Resources.LoadAll<Sprite>(itemName);
+        return SpritesLoadAll(itemName);
     }
 
     public static Sprite FullNameToSprite(string name)
@@ -133,7 +149,7 @@ public class SkinChanger : MonoBehaviour
         string itemName = string.Join("_", parts.Take(parts.Length - 1)); // Join all parts except the last one
         int itemNumber = int.Parse(parts[parts.Length - 1]); // Get the last part
 
-        return FindSpriteWithNumberEnding(Resources.LoadAll<Sprite>(itemName), itemNumber);
+        return FindSpriteWithNumberEnding(SpritesLoadAll(itemName), itemNumber);
     }
 
     public static Sprite FindSpriteWithNumberEnding(Sprite[] sprites, int number)

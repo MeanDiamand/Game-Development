@@ -4,13 +4,14 @@ public class PlayerEvents
 {
     private static PlayerEvents instance;
     public event Action<int> OnExperienceGained, OnHealed;
-    public event Action OnGameStart;
+    public event Action OnGameStart, OnSave;
     public event Action<Sprite[], int> OnArmourChanged;
     public event Action<Sprite[]> OnWeaponChanged;
     public event Action<bool> OnShieldUse;
     public event Action<Vector2> OnTeleported;
 
-    // OnEnterCutScene ?
+    public static IDataService dataService = new JsonDataService("/test_save");
+    //public static int currentScene;
 
     private PlayerEvents(){}
 
@@ -57,5 +58,10 @@ public class PlayerEvents
     public void Teleport(Vector2 coordinates)
     {
         OnTeleported?.Invoke(coordinates);
+    }
+
+    public void Save() 
+    { 
+        OnSave?.Invoke();
     }
 }

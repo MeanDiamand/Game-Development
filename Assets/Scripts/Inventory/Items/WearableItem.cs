@@ -15,13 +15,22 @@ public class WearableItem : Item
     [OnSerializing]
     internal void OnSerializingWearableItem(StreamingContext context)
     {
-        spriteName = sprite[0].name;
+        if (sprite != null && sprite.Length > 0)
+        {
+            spriteName = sprite[0].name; // Accessing the first element of 'sprite' array
+        }
+        else
+        {
+            // Handle the case where 'sprite' array is null or empty
+            Debug.LogWarning("Sprite array is null or empty in OnSerializingWearableItem");
+        }
     }
 
     [OnDeserialized]
     internal void OnDeserializedWearableItem(StreamingContext context)
     {
         sprite = SkinChanger.FindSpriteSheetByFullName(spriteName);
+        if (sprite == null || sprite.Length < 1) { Debug.Log("WearableItem Sprite {spriteName} Not Found"); }
     }
 
     public override Sprite[] GetSprite()

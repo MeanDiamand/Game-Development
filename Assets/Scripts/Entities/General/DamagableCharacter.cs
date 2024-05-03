@@ -1,4 +1,5 @@
 ﻿using Assets.Interfaces;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,6 +7,8 @@ namespace Assets.Scripts
 {
     public class DamagableCharacter: MonoBehaviour, IDamagable
     {
+        public event Action<DamagableCharacter> OnDestroyed;
+
         [SerializeField]
         private List<Item> deathItemPrefabs;
         [SerializeField]
@@ -72,6 +75,8 @@ namespace Assets.Scripts
         }
 
         public bool isSimulated = true;
+
+        public Vector2 GetCoordinates() { return transform.position; }
 
         public void Start()
         {
@@ -153,7 +158,10 @@ namespace Assets.Scripts
         {
             DropItem();
             PlayerEvents.GetInstance().ExperienceGained(EXP_FOR_KILL);
-            Destroy(gameObject);
+
+            OnDestroyed?.Invoke(this);
+            if(isSimulated)
+                Destroy(gameObject);
         }
 
         private Item PickItem()

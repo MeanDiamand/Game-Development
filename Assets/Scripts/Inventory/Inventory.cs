@@ -26,8 +26,23 @@ public class Inventory : ScriptableObject
             Debug.LogError("Trying to copy null inventory");
             return;
         }
-        slots = inventoryToClone.slots;
-        weapon = inventoryToClone.weapon;
+        slots = new List<InventorySlot>();
+        foreach (var slot in inventoryToClone.slots)
+        {
+            slots.Add(new InventorySlot
+            {
+                index = slot.index,
+                quantity = slot.quantity,
+                item = slot.item != null ? Instantiate(slot.item) : null // Deep clone items if not null
+            });
+        }
+
+        for (int i = 0; i < 7; i++)
+            PlayerEvents.GetInstance().ArmourChanged((slots[i].item != null) ? slots[i].item.GetSprite() : null, i);
+
+        PlayerEvents.GetInstance().WeaponChanged((slots[4].item != null) ? slots[4].item.GetSprite() : null);
+
+        weapon = inventoryToClone.weapon != null ? Instantiate(inventoryToClone.weapon) : null;
         Size = inventoryToClone.Size;
     }
 

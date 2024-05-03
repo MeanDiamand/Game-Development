@@ -1,13 +1,42 @@
 using Newtonsoft.Json;
 using System;
 using System.IO;
+using System.Text;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class JsonDataService : IDataService
 {
+    private string path_offset;
+
+    private JsonSerializerSettings jsonSerializerSettings = new JsonSerializerSettings()
+    {
+        TypeNameHandling = TypeNameHandling.Auto, // Automatically handle type information for polymorphic deserialization
+        //PreserveReferencesHandling = PreserveReferencesHandling.Objects // Preserve object references during deserialization
+    };
+
+    public JsonDataService(string path_offset = null)
+    {
+        this.path_offset = path_offset;
+    }
+
+    private void CheckFolder()
+    {
+        string directoryPath = Application.persistentDataPath + path_offset;
+        if (!Directory.Exists(directoryPath))
+        {
+            Directory.CreateDirectory(directoryPath);
+            Debug.Log("Created directory: " + directoryPath);
+        }
+        else
+        {
+            Debug.Log("Directory already exists: " + directoryPath);
+        }
+    }
+
     public T LoadData<T>(string relativePath)
     {
-        string path = Application.persistentDataPath + relativePath;
+        string path = Application.persistentDataPath + path_offset + relativePath;
 
         if (!File.Exists(path))
         {
@@ -16,8 +45,7 @@ public class JsonDataService : IDataService
 
         try
         {
-            Debug.Log(File.ReadAllText(path));
-            T data = JsonConvert.DeserializeObject<T>(File.ReadAllText(path));
+            T data = JsonConvert.DeserializeObject<T>(File.ReadAllText(path), jsonSerializerSettings);
             return data;
         }
         catch (Exception e)
@@ -29,7 +57,9 @@ public class JsonDataService : IDataService
 
     public bool SaveData<T>(string relativePath, T data)
     {
-        string path = Application.persistentDataPath + relativePath;
+        CheckFolder();
+
+        string path = Application.persistentDataPath + path_offset + relativePath;
 
         try
         {
@@ -42,15 +72,49 @@ public class JsonDataService : IDataService
             {
                 Debug.Log("Writing file for the first time!");
             }
-            using FileStream stream = File.Create(path);
-            stream.Close();
-            File.WriteAllText(path, JsonConvert.SerializeObject(data));
+            using (FileStream stream = File.Create(path))
+            {
+                // Serialize the data object to JSON and write it to the file
+                string jsonData = JsonConvert.SerializeObject(data, Formatting.Indented, jsonSerializerSettings);
+                byte[] bytes = Encoding.UTF8.GetBytes(jsonData);
+                stream.Write(bytes, 0, bytes.Length);
+            }
+
+            Debug.Log("Data saved successfully to: " + path);
             return true;
+        }
+        catch (UnauthorizedAccessException e)
+        {
+            Debug.LogError("Unauthorized access error: " + e.Message);
+            return false;
+        }
+        catch (DirectoryNotFoundException e)
+        {
+            Debug.LogError("Directory not found error: " + e.Message);
+            return false;
+        }
+        catch (PathTooLongException e)
+        {
+            Debug.LogError("Path too long error: " + e.Message);
+            return false;
+        }
+        catch (IOException e)
+        {
+            Debug.LogError("IO error occurred: " + e.Message);
+            return false;
         }
         catch (Exception e)
         {
-           Debug.LogError(e.Message);
-           return false;
+            Debug.LogError("An unexpected error occurred: " + e.Message);
+            Debug.LogError("Stack Trace: " + e.StackTrace);
+
+            // Check inner exception
+            if (e.InnerException != null)
+            {
+                Debug.LogError("Inner Exception: " + e.InnerException.Message);
+                Debug.LogError("Inner Exception Stack Trace: " + e.InnerException.StackTrace);
+            }
+            return false;
         }
     }
 }

@@ -47,7 +47,6 @@ public class Item : ScriptableObject
     internal void OnDeserializedItem(StreamingContext context)
     {
         ItemIcon = SkinChanger.FullNameToSprite(itemIconName);
-        Debug.Log(itemIconName);
     }
     public override string ToString()
     {

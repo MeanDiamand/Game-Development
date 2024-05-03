@@ -64,6 +64,8 @@ public class UIController : MonoBehaviour
         if (quickAccessBar == null)
             Debug.LogError("quickAccessBar is null in Controller");
         inventoryController.OnInventoryUpdated += quickAccessBar.Upd;
+
+        quickAccessBar.Upd();
     }
     public void Hide()
     {

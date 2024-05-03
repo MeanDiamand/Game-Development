@@ -1,10 +1,13 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SwitchLevel : MonoBehaviour
 {
     [SerializeField]
-    private SceneData newScene;
+    public int newSceneId;
+    [SerializeField]
+    private bool isNewCutScene;
 
     [SerializeField]
     private bool autoSwitch;
@@ -28,10 +31,18 @@ public class SwitchLevel : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            PlayerController playerController = collision.gameObject.GetComponent<PlayerController>();
-            playerController.SavePlayer();
-            newScene.LoadScene();
+            //PlayerController playerController = collision.gameObject.GetComponent<PlayerController>();
+            //playerController.SavePlayer();
+            LoadScene();
+
+            PlayerEvents.GetInstance().Save();
         }
+    }
+
+    private void LoadScene()
+    {
+        //PlayerEvents.currentScene = newSceneId;
+        SceneManager.LoadScene(newSceneId, LoadSceneMode.Single);
     }
 
     private IEnumerator DelayedSceneLoad()
@@ -39,9 +50,8 @@ public class SwitchLevel : MonoBehaviour
         // Wait for the specified delay before loading the scene
         yield return new WaitForSeconds(switchDelay);
 
-        // Load the new scene
-        newScene.LoadScene();
+        LoadScene();
 
-        canvas.gameObject.SetActive(true);
+        canvas.gameObject.SetActive(!isNewCutScene);
     }
 }

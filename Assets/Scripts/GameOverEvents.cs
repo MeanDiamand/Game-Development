@@ -26,12 +26,14 @@ public class GameOverEvents : MonoBehaviour
         Time.timeScale = 1;
         //HealthController.health = 5;
         PlayerEvents.GetInstance().GameStarted();
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(2, LoadSceneMode.Single);
     }
 
     // Method for going back to Menu
     public void Home()
     {
+        gameOverScreen.SetActive(false);
+
         SceneManager.LoadScene("Menu");
     }
 }
