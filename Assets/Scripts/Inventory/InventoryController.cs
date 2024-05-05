@@ -86,11 +86,11 @@ public class InventoryController : MonoBehaviour, IUIController
                     return;
                 break;
             case 5:
-                if (!itemType.Equals("Potion") && !itemType.Equals("Shield"))
+                if (!itemType.Equals("Shield"))
                     return;
                 break;
             case 6:
-                if (!itemType.Equals("Potion") && !itemType.Equals("Shield"))
+                if (!itemType.Equals("Potion"))
                     return;
                 break;
             default:

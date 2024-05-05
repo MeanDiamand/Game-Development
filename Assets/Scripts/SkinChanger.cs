@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
@@ -15,10 +16,15 @@ public class SkinChanger : MonoBehaviour
     [SerializeField]
     private SpriteRenderer spriteRenderer;
 
+    private Sprite[] spriteSheet;
+
     private const int SMALL_SPRITE_SIZE = 64;
     private const int BIG_SPRITE_SIZE = 192;
+    private const int MAX_SPRITE_ID = 202;
     private const int THRESHHOLD = 179;
     private const int PPU = 16;
+    private static readonly string[] subfolders = { "Sprites/", "Sprites/Boots/", "Sprites/Chestplates/",
+            "Sprites/Helmets/", "Sprites/Leggins/", "Sprites/Weapons/" };
 
     private void Start()
     {
@@ -30,18 +36,52 @@ public class SkinChanger : MonoBehaviour
             upgrades.Add(new SpritesContainer(null));
         }
         sword = new SpritesContainer(null);
+
+        GenerateSpriteSheet();
     }
 
     private void ArmourChanged(Sprite[] sprites, int index)
     {
-        Debug.Log("ArmourChanged: " + index);
         upgrades[index] = new SpritesContainer(sprites);
+        GenerateSpriteSheet();
     }
 
     private void WeaponChanged(Sprite[] sprites)
     {
-        Debug.Log("WeaponChanged");
         sword = new SpritesContainer(sprites);
+        GenerateSpriteSheet();
+    }
+
+    private void GenerateSpriteSheet()
+    {
+        spriteSheet = new Sprite[MAX_SPRITE_ID + 1];
+
+        for (int n = 0; n <= MAX_SPRITE_ID; n++)
+        {
+            int lut_n = LUT(n);
+            Sprite bodySprite = body[lut_n];
+
+            List<Sprite> overlaySprites = new List<Sprite>();
+            for (int i = 0; i < upgrades.Count; i++)
+            {
+                if (upgrades[i] != null)
+                {
+                    Sprite upgrade = upgrades[i].GetByID(lut_n);
+                    if (upgrade != null)
+                        overlaySprites.Add(upgrade);
+                }
+            }
+
+            Sprite spriteSword = sword.GetByID(n);
+
+            if (spriteSword != null)
+                if (n < THRESHHOLD)
+                    spriteSheet[n] = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites));
+                else
+                    spriteSheet[n] = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites), BIG_SPRITE_SIZE);
+            else
+                spriteSheet[n] = CombineSprites(bodySprite, overlaySprites);
+        }
     }
 
     public void SkinChoice()
@@ -54,28 +94,7 @@ public class SkinChanger : MonoBehaviour
         {
             spriteName = match.Value;
             int n = int.Parse(spriteName);
-            int lut_n = LUT(n);
-            Sprite bodySprite = body[lut_n];
-
-            List<Sprite> overlaySprites = new List<Sprite>();
-            for (int i = 0; i < upgrades.Count; i++)
-            {
-                if (upgrades[i] != null) { 
-                    Sprite upgrade = upgrades[i].GetByID(lut_n);
-                    if (upgrade != null)
-                        overlaySprites.Add(upgrade);
-                }
-            }
-
-            Sprite spriteSword = sword.GetByID(n);
-
-            if (spriteSword != null)
-                if (n < THRESHHOLD)
-                    spriteRenderer.sprite = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites));
-                else
-                    spriteRenderer.sprite = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites), BIG_SPRITE_SIZE);
-            else
-                spriteRenderer.sprite = CombineSprites(bodySprite, overlaySprites);
+            spriteRenderer.sprite = spriteSheet[n];
         }
     }
 
@@ -84,21 +103,68 @@ public class SkinChanger : MonoBehaviour
         if (n < THRESHHOLD)
             return n;
         if (n > 2 * THRESHHOLD)
-            return THRESHHOLD;
+            return THRESHHOLD - 1;
         return n - THRESHHOLD + 97;
     }
 
-    public Sprite FindSpriteWithNumberEnding(Sprite[] sprites, int number)
+    private static Sprite[] SpritesLoadAll(string itemName)
+    {
+        foreach (string folder in subfolders)
+        {
+            Sprite[] sprites = Resources.LoadAll<Sprite>(folder + itemName);
+
+            if (sprites != null && sprites.Length > 0)
+            {
+                return sprites;
+            }
+        }
+        return null;
+    }
+
+    public static Sprite[] FindSpriteSheetByFullName(string name)
+    {
+        if (name == null)
+            return null;
+        string[] parts = name.Split('_');
+
+        if (parts.Length < 2)
+        {
+            Debug.LogError("NameToSprite: Invalid input format");
+            return null;
+        }
+        string itemName = string.Join("_", parts.Take(parts.Length - 1)); // Join all parts except the last one
+
+        return SpritesLoadAll(itemName);
+    }
+
+    public static Sprite FullNameToSprite(string name)
+    {
+        string[] parts = name.Split('_');
+
+        if (parts.Length < 2)
+        {
+            Debug.LogError("NameToSprite: Invalid input format");
+            return null;
+        }
+        string itemName = string.Join("_", parts.Take(parts.Length - 1)); // Join all parts except the last one
+        int itemNumber = int.Parse(parts[parts.Length - 1]); // Get the last part
+
+        return FindSpriteWithNumberEnding(SpritesLoadAll(itemName), itemNumber);
+    }
+
+    public static Sprite FindSpriteWithNumberEnding(Sprite[] sprites, int number)
     {
         if (sprites == null) return null;
-        foreach (Sprite sprite in sprites) {
+        foreach (Sprite sprite in sprites)
+        {
             if (EndsWithNumber(sprite.name, number))
                 return sprite;
         }
 
-        // Return the found sprite (or null if not found)
+        // Return null if not found
         return null;
     }
+
     static bool EndsWithNumber(string input, int targetNumber)
     {
         // Extracting the last part of the string after '_'

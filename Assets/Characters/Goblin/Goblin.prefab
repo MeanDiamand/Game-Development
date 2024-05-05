@@ -512,6 +512,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9f562318cdc88704899e5f59616357e1, type: 2}
   - {fileID: 11400000, guid: 8361b6a4ea705e548ae4f24437fd9e8c, type: 2}
   itemPUSPrefab: {fileID: 4250250775177647029, guid: 114b20432312d2c40a816e924d135682, type: 3}
+  EXP_FOR_KILL: 10
   isSimulated: 1
 --- !u!1 &2739011353568830256
 GameObject:

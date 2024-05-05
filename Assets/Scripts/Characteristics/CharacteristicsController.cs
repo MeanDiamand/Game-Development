@@ -27,7 +27,7 @@ public class CharacteristicsController : MonoBehaviour, IUIController
         return false;
     }
 
-    private void Start()
+    private void Awake()
     {
         characteristicsUI.Initialize(5);
 
@@ -36,6 +36,11 @@ public class CharacteristicsController : MonoBehaviour, IUIController
         characteristicsUI.OnCharacteristicChanged += ChangeValue;
         characteristicsUI.OnChangesApplied += ChagesApplied;
         characteristicsModel.OnUpdated += UpdateUI;
+    }
+
+    private void Start()
+    {
+        
     }
 
     private void UpdateUI(PlayerCharacteristics characteristics)

@@ -1,7 +1,9 @@
+using Newtonsoft.Json;
 using System;
 using UnityEngine;
 
 [CreateAssetMenu]
+[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 public class Shield : WearableItem
 {
     public override string Type()

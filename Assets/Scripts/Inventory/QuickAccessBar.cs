@@ -8,6 +8,7 @@ public class QuickAccessBar : MonoBehaviour
     private List<UIInventorySlot> slots;
     [SerializeField]
     private Inventory inventory;
+
     public void Hide()
     {
         gameObject.SetActive(false);

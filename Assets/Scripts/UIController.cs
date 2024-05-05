@@ -64,6 +64,8 @@ public class UIController : MonoBehaviour
         if (quickAccessBar == null)
             Debug.LogError("quickAccessBar is null in Controller");
         inventoryController.OnInventoryUpdated += quickAccessBar.Upd;
+
+        quickAccessBar.Upd();
     }
     public void Hide()
     {
@@ -77,6 +79,6 @@ public class UIController : MonoBehaviour
     }
     public bool IsInputBlocked()
     {
-        return inventoryOpened || characteristicsOpened;
+        return inventoryOpened || characteristicsOpened || PlayerController.IsCutScene;
     }
 }

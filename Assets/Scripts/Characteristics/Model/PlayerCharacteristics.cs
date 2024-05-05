@@ -1,7 +1,9 @@
+using Newtonsoft.Json;
 using System;
 using UnityEngine;
 using static CharacteristicsUI;
 
+[JsonObject(MemberSerialization = MemberSerialization.OptIn)]
 [CreateAssetMenu]
 public class PlayerCharacteristics : ScriptableObject
 {
@@ -15,6 +17,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _level;
     public int Level
     {
@@ -23,6 +26,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _experience;
     public int Experience
     {
@@ -31,6 +35,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _availablePoints;
     public int AvailablePoints
     {
@@ -39,6 +44,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _strength;
     public int Strength
     {
@@ -47,6 +53,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _endurance;
     public int Endurance
     {
@@ -55,6 +62,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _intelligence;
     public int Intelligence
     {
@@ -63,6 +71,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _agility;
     public int Agility
     {
@@ -71,6 +80,7 @@ public class PlayerCharacteristics : ScriptableObject
     }
 
     [SerializeField]
+    [JsonProperty]
     private int _luck;
     public int Luck
     {
@@ -89,17 +99,28 @@ public class PlayerCharacteristics : ScriptableObject
     {
         PlayerCharacteristics copy = ScriptableObject.CreateInstance<PlayerCharacteristics>();
 
-        copy._level = original.Level;
-        copy._experience = original.Experience;
-        copy._availablePoints = original.AvailablePoints;
-
-        copy._strength = original.Strength;
-        copy._endurance = original.Endurance;
-        copy._intelligence = original.Intelligence;
-        copy._agility = original.Agility;
-        copy._luck = original.Luck;
+        copy.Clone(original);
 
         return copy;
+    }
+
+    public void Clone(PlayerCharacteristics original)
+    {
+        if (original == null)
+        {
+            Debug.LogError("Trying to copy null PlayerCharachteristics");
+            return;
+        }
+
+        _level = original.Level;
+        _experience = original.Experience;
+        _availablePoints = original.AvailablePoints;
+
+        _strength = original.Strength;
+        _endurance = original.Endurance;
+        _intelligence = original.Intelligence;
+        _agility = original.Agility;
+        _luck = original.Luck;
     }
 
     public void SetData(PlayerCharacteristics source)

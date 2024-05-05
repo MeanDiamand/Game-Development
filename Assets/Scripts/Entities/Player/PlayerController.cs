@@ -1,6 +1,7 @@
 using Assets.Scripts;
+using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -44,11 +45,24 @@ public class PlayerController : DamagableCharacter
     [SerializeField]
     private UIController uiController;
 
+    public static Transform transform;
+
+    [field: SerializeField]
+    public static bool IsCutScene { get; set; }
+
+    private delegate void CleanupDelegate();
+    private CleanupDelegate cleanupDelegate;
+
     public void Start()
     {
         Initialize();
         PlayerEvents.GetInstance().OnShieldUse += UseShield;
+        PlayerEvents.GetInstance().OnTeleported += Teleport;
+        PlayerEvents.GetInstance().OnSave += SavePlayer;
 
+        transform = GetComponent<Transform>();
+
+        DontDestroyOnLoad(gameObject);
     }
 
     public void LateUpdate()
@@ -74,6 +88,11 @@ public class PlayerController : DamagableCharacter
         {
             Stop();
         }
+    }
+
+    private void Teleport(Vector2 coordinates)
+    {
+        rb.position = coordinates;
     }
 
     // Tries to move the player in a direction by casting in that direction by the amount
@@ -215,6 +234,53 @@ public class PlayerController : DamagableCharacter
     // TODO: Somehow implement to save a state of a player
     public void SavePlayer()
     {
-        GlobalControl.Instance.Health = Health;
+        //dataService.SaveData("/player-inventory", inventory);
+        //dataService.SaveData("/player-characteristics", characteristics);
+
+        Vector2 playerPosition = transform.position;
+        PlayerSave playerSave = new PlayerSave()
+        {
+            inventory = inventory,
+            characteristics = characteristics,
+            posX = playerPosition.x,
+            posY = playerPosition.y,
+            health = Health
+        };
+        PlayerEvents.dataService.SaveData("/playerSave", playerSave);
+    }
+
+    public void LoadPlayer()
+    {
+        //inventory.Clone(dataService.LoadData<Inventory>("/player-inventory"));
+        //characteristics.Clone(dataService.LoadData<PlayerCharacteristics>("/player-characteristics"));
+
+        try
+        {
+            PlayerSave playerSave = PlayerEvents.dataService.LoadData<PlayerSave>("/playerSave");
+            inventory.Clone(playerSave.inventory);
+            characteristics.Clone(playerSave.characteristics);
+            Health = playerSave.health;
+        } 
+        catch 
+        {
+            Debug.Log("LoadDefault()");
+            Health = 5;
+        }
+  
+    }
+
+    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
+    public class PlayerSave
+    {
+        [JsonProperty]
+        public Inventory inventory;
+        [JsonProperty]
+        public PlayerCharacteristics characteristics;
+        [JsonProperty]
+        public float posX; 
+        [JsonProperty]
+        public float posY;
+        [JsonProperty]
+        public float health;
     }
 }

@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
+    public bool isPersistent;
+    
     [Header("----------- Audio Source -----------")]
     [SerializeField] AudioSource musicSource;
     [SerializeField] AudioSource effectSource;
@@ -17,6 +19,9 @@ public class AudioManager : MonoBehaviour
     {
         musicSource.clip = background;
         musicSource.Play();
+
+        if (isPersistent)
+            DontDestroyOnLoad(gameObject);
     }
 
     public void PlayEffect(AudioClip clip)

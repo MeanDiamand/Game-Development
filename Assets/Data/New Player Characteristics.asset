@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66a8340c2e9c9f94399bc132b34dde2d, type: 3}
   m_Name: New Player Characteristics
   m_EditorClassIdentifier: 
-  _level: 4
-  _experience: 5
-  _availablePoints: 18
-  _strength: 10
+  _level: 0
+  _experience: 0
+  _availablePoints: 0
+  _strength: 0
   _endurance: 0
-  _intelligence: 2
-  _agility: 10
-  _luck: 2
+  _intelligence: 0
+  _agility: 0
+  _luck: 0

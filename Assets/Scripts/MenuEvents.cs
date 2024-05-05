@@ -9,6 +9,6 @@ public class MenuEvents : MonoBehaviour
         Time.timeScale = 1;
         //HealthController.health = 5;
         PlayerEvents.GetInstance().GameStarted();
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(2, LoadSceneMode.Single);
     }
 }
