@@ -31,17 +31,13 @@ public class SwitchLevel : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            //PlayerController playerController = collision.gameObject.GetComponent<PlayerController>();
-            //playerController.SavePlayer();
             LoadScene();
-
             PlayerEvents.GetInstance().Save();
         }
     }
 
     private void LoadScene()
     {
-        //PlayerEvents.currentScene = newSceneId;
         SceneManager.LoadScene(newSceneId, LoadSceneMode.Single);
     }
 

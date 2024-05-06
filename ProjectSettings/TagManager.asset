@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ArrowPosition
   - Audio
+  - Shield
   layers:
   - Default
   - TransparentFX

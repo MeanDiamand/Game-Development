@@ -23,11 +23,6 @@ public class WeaponHitbox : MonoBehaviour
 
     private int directionHit = 0;
 
-    //[SerializeField]
-    //private Inventory inventory;
-    //[SerializeField]
-    //private PlayerCharacteristics characteristics;
-
     [SerializeField]
     private PlayerController playerController;
 

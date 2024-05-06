@@ -606,7 +606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_37
+      name: brown_round_shield_60
       rect:
         serializedVersion: 2
         x: 0
@@ -627,7 +627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_38
+      name: brown_round_shield_59
       rect:
         serializedVersion: 2
         x: 64
@@ -648,7 +648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_39
+      name: brown_round_shield_58
       rect:
         serializedVersion: 2
         x: 128
@@ -669,7 +669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_40
+      name: brown_round_shield_57
       rect:
         serializedVersion: 2
         x: 192
@@ -690,7 +690,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_41
+      name: brown_round_shield_56
       rect:
         serializedVersion: 2
         x: 256
@@ -711,7 +711,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_42
+      name: brown_round_shield_55
       rect:
         serializedVersion: 2
         x: 320
@@ -732,7 +732,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_43
+      name: brown_round_shield_54
       rect:
         serializedVersion: 2
         x: 384
@@ -753,7 +753,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_44
+      name: brown_round_shield_53
       rect:
         serializedVersion: 2
         x: 448
@@ -942,7 +942,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_53
+      name: brown_round_shield_37
       rect:
         serializedVersion: 2
         x: 0
@@ -963,7 +963,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_54
+      name: brown_round_shield_38
       rect:
         serializedVersion: 2
         x: 64
@@ -984,7 +984,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_55
+      name: brown_round_shield_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1005,7 +1005,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_56
+      name: brown_round_shield_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1026,7 +1026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_57
+      name: brown_round_shield_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1047,7 +1047,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_58
+      name: brown_round_shield_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1068,7 +1068,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_59
+      name: brown_round_shield_43
       rect:
         serializedVersion: 2
         x: 384
@@ -1089,7 +1089,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown_round_shield_60
+      name: brown_round_shield_44
       rect:
         serializedVersion: 2
         x: 448
@@ -2409,14 +2409,14 @@ TextureImporter:
       brown_round_shield_34: 2144186475059573090
       brown_round_shield_35: 2758741233873123668
       brown_round_shield_36: 3292759447912253848
-      brown_round_shield_37: 449884492319591707
-      brown_round_shield_38: 8215245915776280058
-      brown_round_shield_39: 9071664893250198565
-      brown_round_shield_40: 2012011679776325266
-      brown_round_shield_41: 7725375156215721958
-      brown_round_shield_42: 2016923161658682808
-      brown_round_shield_43: -6051661308796403919
-      brown_round_shield_44: 2706450094881207239
+      brown_round_shield_37: -4347589403972019854
+      brown_round_shield_38: -1797193884119340035
+      brown_round_shield_39: -4929433125172774652
+      brown_round_shield_40: 4812596987702742069
+      brown_round_shield_41: 5362956492037216752
+      brown_round_shield_42: -515036655224100776
+      brown_round_shield_43: -8628454396543254435
+      brown_round_shield_44: 8843908937183528235
       brown_round_shield_45: 7362022048788626262
       brown_round_shield_46: 2441759994971816173
       brown_round_shield_47: 9022522129493026256
@@ -2425,14 +2425,14 @@ TextureImporter:
       brown_round_shield_50: -2204775191840298786
       brown_round_shield_51: 7448845387305581506
       brown_round_shield_52: 1122445303415048761
-      brown_round_shield_53: -4347589403972019854
-      brown_round_shield_54: -1797193884119340035
-      brown_round_shield_55: -4929433125172774652
-      brown_round_shield_56: 4812596987702742069
-      brown_round_shield_57: 5362956492037216752
-      brown_round_shield_58: -515036655224100776
-      brown_round_shield_59: -8628454396543254435
-      brown_round_shield_60: 8843908937183528235
+      brown_round_shield_53: 2706450094881207239
+      brown_round_shield_54: -6051661308796403919
+      brown_round_shield_55: 2016923161658682808
+      brown_round_shield_56: 7725375156215721958
+      brown_round_shield_57: 2012011679776325266
+      brown_round_shield_58: 9071664893250198565
+      brown_round_shield_59: 8215245915776280058
+      brown_round_shield_60: 449884492319591707
       brown_round_shield_61: -2688283075195169428
       brown_round_shield_62: 2020329252718765622
       brown_round_shield_63: -4941900187790880768
