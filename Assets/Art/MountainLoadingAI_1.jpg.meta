@@ -195,7 +195,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MountainLoadingAI_1_0: 6613859162264246846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

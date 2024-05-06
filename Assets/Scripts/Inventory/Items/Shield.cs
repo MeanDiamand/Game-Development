@@ -11,7 +11,7 @@ public class Shield : WearableItem
         return "Shield";
     }
 
-    // IF Q/E is pressed and shield is in QA slots, than this method is called
+    // IF Q is pressed and shield is in Q slot, than this method is called
     public override int Use()
     {
         Debug.Log("Shield used");
