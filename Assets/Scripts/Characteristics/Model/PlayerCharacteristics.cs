@@ -1,5 +1,6 @@
 using Newtonsoft.Json;
 using System;
+using Unity.VisualScripting;
 using UnityEngine;
 using static CharacteristicsUI;
 
@@ -90,10 +91,15 @@ public class PlayerCharacteristics : ScriptableObject
 
     public event Action<PlayerCharacteristics> OnUpdated;
 
-    public PlayerCharacteristics()
+    public void Start()
     {
         PlayerEvents.GetInstance().OnExperienceGained += GainExperience;
     }
+
+    //public PlayerCharacteristics()
+    //{
+    //    PlayerEvents.GetInstance().OnExperienceGained += GainExperience;
+    //}
 
     public static PlayerCharacteristics CreateFrom(PlayerCharacteristics original)
     {

@@ -30,7 +30,6 @@ public class SceneInitializer : MonoBehaviour
     {
         PlayerController.IsCutScene = isCutScene;
         PlayerEvents.GetInstance().OnSave += Save;
-        PlayerEvents.GetInstance().Teleport(playerSpawn);
 
         GameObject canvas = GameObject.Find("MainCanvas");
         if (canvas != null)

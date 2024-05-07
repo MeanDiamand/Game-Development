@@ -16,7 +16,8 @@ public class GameOverEvents : MonoBehaviour
     {
         if(isGameOver) 
         {
-            gameOverScreen.SetActive(true);    
+            gameOverScreen.SetActive(true);
+            isGameOver = false;
         }
     }
 
@@ -25,8 +26,9 @@ public class GameOverEvents : MonoBehaviour
     {
         Time.timeScale = 1;
         //HealthController.health = 5;
+        gameOverScreen.SetActive(false);
         PlayerEvents.GetInstance().GameStarted();
-        SceneManager.LoadScene(2, LoadSceneMode.Single);
+        SceneManager.LoadScene("InitializationScene", LoadSceneMode.Single);
     }
 
     // Method for going back to Menu

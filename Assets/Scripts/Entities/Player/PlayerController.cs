@@ -62,7 +62,7 @@ public class PlayerController : DamagableCharacter
 
         transform = GetComponent<Transform>();
 
-        DontDestroyOnLoad(gameObject);
+        Debug.Log("Player info Loaded");
     }
 
     public void LateUpdate()
@@ -75,6 +75,10 @@ public class PlayerController : DamagableCharacter
     {
         //start the animation by get the component animator from the player
         animator = GetComponent<Animator>();
+
+        LoadPlayer();
+
+        // TO-DO: it' could be broken
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 

@@ -24,7 +24,7 @@ public class Item : ScriptableObject
 
     [field: SerializeField]
     [JsonProperty]
-    public int MaxStackSize { get; set; } = 1;
+    public int MaxStackSize { get; set; }
 
     [field: SerializeField]
     [field: TextArea]
@@ -46,6 +46,7 @@ public class Item : ScriptableObject
     [OnDeserialized]
     internal void OnDeserializedItem(StreamingContext context)
     {
+        Debug.Log($"OnDeserializedItem {Name}");
         ItemIcon = SkinChanger.FullNameToSprite(itemIconName);
     }
     public override string ToString()

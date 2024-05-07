@@ -9,6 +9,19 @@ public class MenuEvents : MonoBehaviour
         Time.timeScale = 1;
         //HealthController.health = 5;
         PlayerEvents.GetInstance().GameStarted();
-        SceneManager.LoadScene(2, LoadSceneMode.Single);
+        SceneManager.LoadScene("InitializationScene", LoadSceneMode.Single);
+    }
+
+    // Methoda for loading
+    public void LoadGame()
+    {
+        try
+        {
+            PlayerEvents.dataService.LoadData<int>("/scene_id");
+        }
+        catch
+        {
+            //No save, block resume button
+        }
     }
 }

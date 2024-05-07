@@ -20,6 +20,12 @@ public class PauseEvents : MonoBehaviour
         pauseMenu.SetActive(false);
     }
 
+    // Method for saving the game
+    public void SaveGame()
+    {
+
+    }
+
     // Method for going back to Menu
     public void Home()
     {

@@ -16,7 +16,7 @@ public class Inventory : ScriptableObject
     
     [field: SerializeField]
     [JsonProperty]
-    public int Size { get; private set; } = 10;
+    public int Size { get; private set; }
     public event Action<List<InventorySlot>> OnInventoryUpdated;
 
     public void Clone(Inventory inventoryToClone)
@@ -54,9 +54,11 @@ public class Inventory : ScriptableObject
             slots.Add(InventorySlot.GetEmpty(i));
         }
 
-        for (int i = 0; i < 7; i++)
-            PlayerEvents.GetInstance().ArmourChanged(null, i);
-        PlayerEvents.GetInstance().WeaponChanged(null);
+        Size = 10;
+
+        //for (int i = 0; i < 7; i++)
+        //    PlayerEvents.GetInstance().ArmourChanged(null, i);
+        //PlayerEvents.GetInstance().WeaponChanged(null);
     }
 
     public Weapon.Damage GetDamage()

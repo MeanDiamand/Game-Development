@@ -20,8 +20,6 @@ public class VolumeSetting : MonoBehaviour
             SetMusicVolume();
             SetEffectVolume();
         }
-
-        DontDestroyOnLoad(gameObject);
     }
 
     public void SetMusicVolume()
