@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using TMPro;
 using System;
 using UnityEngine.EventSystems;
+using UnityEngine.U2D;
 
 public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
         IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler
@@ -18,13 +19,14 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
             OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag,
             OnItemAlternativeClicked;
 
-    private bool empty = true;
+    private bool empty;
     public bool IsEmpty { get { return empty; } }
 
     public static UIInventorySlot InstantiateEmpty(RectTransform contentPanel, UIInventorySlot itemPrefab)
     {
         UIInventorySlot slot = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
-        slot.transform.SetParent(contentPanel);
+        slot.transform.SetParent(contentPanel, false);
+        slot.empty = true;
         return slot;
     }
 
@@ -33,6 +35,7 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
         ResetData();
         Deselect();
     }
+
     public void ResetData()
     {
         itemImage.gameObject.SetActive(false);
@@ -48,6 +51,7 @@ public class UIInventorySlot : MonoBehaviour, IPointerClickHandler,
     }
     public void SetData(Sprite sprite, int quantity, bool stackable = false)
     {
+        
         itemImage.gameObject.SetActive(true);
         itemImage.sprite = sprite;
         quantityTxt.text = quantity.ToString();

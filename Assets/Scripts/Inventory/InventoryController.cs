@@ -11,11 +11,22 @@ public class InventoryController : MonoBehaviour, IUIController
     [SerializeField]
     private Inventory inventoryModel;
     public event Action OnInventoryUpdated;
-    private void Start()
+
+    private void Awake()
     {
-        InitializeUI();
         InitializeInventoryModel();
     }
+
+    private void Start()
+    {
+        InitializeUI();     
+    }
+
+    private void OnDestroy()
+    {
+        inventoryModel.OnInventoryUpdated -= UpdateInventoryUI;
+    }
+
     public bool Trigger()
     {
         if (!inventoryUI.isActiveAndEnabled)

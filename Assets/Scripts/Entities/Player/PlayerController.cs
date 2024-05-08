@@ -62,7 +62,7 @@ public class PlayerController : DamagableCharacter
 
         transform = GetComponent<Transform>();
 
-        DontDestroyOnLoad(gameObject);
+        Debug.Log("Player info Loaded");
     }
 
     public void LateUpdate()
@@ -75,6 +75,10 @@ public class PlayerController : DamagableCharacter
     {
         //start the animation by get the component animator from the player
         animator = GetComponent<Animator>();
+
+        LoadPlayer();
+
+        // TO-DO: it' could be broken
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
@@ -88,6 +92,11 @@ public class PlayerController : DamagableCharacter
         {
             Stop();
         }
+    }
+
+    private void OnDestroy()
+    {
+        PlayerEvents.GetInstance().OnSave -= SavePlayer;
     }
 
     private void Teleport(Vector2 coordinates)
@@ -231,12 +240,20 @@ public class PlayerController : DamagableCharacter
         return moveSpeed * (1 + 0.1f * characteristics.Agility); 
     }
 
-    // TODO: Somehow implement to save a state of a player
+    public SpritesContainer[] GetWearableSprites()
+    {
+        SpritesContainer[] containers = new SpritesContainer[7];
+
+        for (int i = 0; i < 7; i++)
+        {
+            containers[i] = new SpritesContainer(inventory.GetSlotAt(i).item?.GetSprite());
+        }
+
+        return containers;
+    }
+
     public void SavePlayer()
     {
-        //dataService.SaveData("/player-inventory", inventory);
-        //dataService.SaveData("/player-characteristics", characteristics);
-
         Vector2 playerPosition = transform.position;
         PlayerSave playerSave = new PlayerSave()
         {
@@ -251,9 +268,6 @@ public class PlayerController : DamagableCharacter
 
     public void LoadPlayer()
     {
-        //inventory.Clone(dataService.LoadData<Inventory>("/player-inventory"));
-        //characteristics.Clone(dataService.LoadData<PlayerCharacteristics>("/player-characteristics"));
-
         try
         {
             PlayerSave playerSave = PlayerEvents.dataService.LoadData<PlayerSave>("/playerSave");

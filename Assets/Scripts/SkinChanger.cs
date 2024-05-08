@@ -16,6 +16,9 @@ public class SkinChanger : MonoBehaviour
     [SerializeField]
     private SpriteRenderer spriteRenderer;
 
+    [SerializeField]
+    private PlayerController playerController;
+
     private Sprite[] spriteSheet;
 
     private const int SMALL_SPRITE_SIZE = 64;
@@ -31,13 +34,21 @@ public class SkinChanger : MonoBehaviour
         PlayerEvents.GetInstance().OnArmourChanged += ArmourChanged;
         PlayerEvents.GetInstance().OnWeaponChanged += WeaponChanged;
 
+        SpritesContainer[] containers = playerController.GetWearableSprites();
+
         for (int i = 0; i < 7; i++)
         {
-            upgrades.Add(new SpritesContainer(null));
+            upgrades.Add(containers[i]);
         }
-        sword = new SpritesContainer(null);
+        sword = containers[4];
 
         GenerateSpriteSheet();
+    }
+
+    private void OnDestroy()
+    {
+        PlayerEvents.GetInstance().OnArmourChanged -= ArmourChanged;
+        PlayerEvents.GetInstance().OnWeaponChanged -= WeaponChanged;
     }
 
     private void ArmourChanged(Sprite[] sprites, int index)

@@ -36,6 +36,7 @@ namespace Assets.Scripts
                 if (value < _health)
                 {
                     animator.SetTrigger("Hit");
+                    statusBar.UpdateStatusBar(value, maxHealth);
                 }
 
                 _health = value;
@@ -59,6 +60,11 @@ namespace Assets.Scripts
             }
         }
 
+        public void SetHealth(float healt)
+        {
+            _health = healt;
+        }
+
         private bool _isHitable = true;
         public bool IsHitable
         {
@@ -78,7 +84,7 @@ namespace Assets.Scripts
 
         public Vector2 GetCoordinates() { return transform.position; }
 
-        public void Start()
+        public void Awake()
         {
             Initialize();
         }
