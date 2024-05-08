@@ -117,4 +117,31 @@ public class JsonDataService : IDataService
             return false;
         }
     }
+
+    public void DeleteFiles()
+    {
+        string path = Application.persistentDataPath + path_offset;
+
+        DirectoryInfo directory = new DirectoryInfo(path);
+        FileInfo[] files = directory.GetFiles();
+
+        foreach (FileInfo file in files)
+        {
+            string fileName = file.Name;
+            string filePath = Path.Combine(path, fileName);
+            
+            Debug.Log("File path to delete: " + filePath);
+            // Check if the file exists
+            if (File.Exists(filePath))
+            {
+                // Delete the file
+                File.Delete(filePath);
+                Debug.Log("Deleted file: " + fileName);
+            }
+            else
+            {
+                Debug.Log("File not found: " + fileName);
+            }
+        }
+    }
 }

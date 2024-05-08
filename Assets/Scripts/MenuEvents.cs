@@ -1,27 +1,47 @@
 using UnityEngine.SceneManagement;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MenuEvents : MonoBehaviour
 {
-    // Method for starting the game
-    public void StartGame()
-    {
-        Time.timeScale = 1;
-        //HealthController.health = 5;
-        PlayerEvents.GetInstance().GameStarted();
-        SceneManager.LoadScene("InitializationScene", LoadSceneMode.Single);
-    }
+    [SerializeField]
+    private Button btnLoadGame;
 
-    // Methoda for loading
-    public void LoadGame()
+    private int savedLevel = 2;
+
+    private void Start()
     {
         try
         {
-            PlayerEvents.dataService.LoadData<int>("/scene_id");
+            savedLevel = PlayerEvents.dataService.LoadData<int>("/scene_id");
         }
         catch
         {
-            //No save, block resume button
+            btnLoadGame.interactable = false;
         }
+    }
+
+    /// <summary>                        
+    /// Method for starting new game
+    /// /// </summary>
+    public void StartGame()
+    {
+        PlayerEvents.dataService.DeleteFiles();
+        StartLevel(2);
+    }
+
+    /// <summary>                        
+    /// Method for loading existing game
+    /// /// </summary>
+    public void LoadGame()
+    {
+        StartLevel(savedLevel);
+    }
+
+    public void StartLevel(int id)
+    {
+        Time.timeScale = 1;
+        PlayerEvents.GetInstance().GameStarted();
+        SceneManager.LoadScene(id, LoadSceneMode.Single);
     }
 }

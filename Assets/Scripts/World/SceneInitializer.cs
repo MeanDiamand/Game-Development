@@ -55,17 +55,21 @@ public class SceneInitializer : MonoBehaviour
         destroyedEnemy.OnDestroyed -= HandleEnemyDestroyed;
     }
 
-    private void CreateEnemy(DamagableCharacter prefab, Vector2 coordinates)
+    private void CreateEnemy(DamagableCharacter prefab, Vector2 coordinates, float health = -1)
     {
         try
         {
             DamagableCharacter enemy = Instantiate(prefab, coordinates, Quaternion.identity);
             enemy.OnDestroyed += HandleEnemyDestroyed;
+            if (health > 0)
+                //enemy.SetHealth(health);
+                enemy.Health = health;
             enemies.Add(enemy);
         }
         catch (Exception ex)
         {
             // Catch and log the exception details for debugging
+            Debug.LogError($"Exception occurred while instantiating enemy with health: {health}");
             Debug.LogError($"Exception occurred while instantiating enemy: {ex.Message}");
         }
     }
@@ -110,7 +114,7 @@ public class SceneInitializer : MonoBehaviour
         for (int i = 0; i < save.alive.Length; i++)
         {
             if (save.alive[i])
-                CreateEnemy(enemiesPrefabs[i], new Vector2(save.xCords[i], save.yCords[i]));
+                CreateEnemy(enemiesPrefabs[i], new Vector2(save.xCords[i], save.yCords[i]), save.heath[i]);
         }
         alive = save.alive;
     }
@@ -121,10 +125,13 @@ public class SceneInitializer : MonoBehaviour
         save.alive = alive;
         
         int n = enemies.Count;
+        save.heath = new float[n];
         save.xCords = new float[n];
         save.yCords = new float[n];
         for (int i = 0; i < n;i++)
         {
+            save.heath[i] = enemies[i].Health;
+
             Vector2 coordinate = enemies[i].GetCoordinates();
             save.xCords[i] = coordinate.x;
             save.yCords[i] = coordinate.y;   
@@ -142,6 +149,9 @@ public class SceneInitializer : MonoBehaviour
     {
         [JsonProperty]
         public bool[] alive;
+
+        [JsonProperty]
+        public float[] heath;
 
         [JsonProperty]
         public float[] xCords;
