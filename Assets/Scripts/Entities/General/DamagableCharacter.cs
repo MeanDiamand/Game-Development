@@ -35,8 +35,11 @@ namespace Assets.Scripts
             {
                 if (value < _health)
                 {
-                    animator.SetTrigger("Hit");
-                    statusBar.UpdateStatusBar(value, maxHealth);
+                    if (isSimulated)
+                    {
+                        animator.SetTrigger("Hit");
+                        statusBar.UpdateStatusBar(value, maxHealth);
+                    }
                 }
 
                 _health = value;
