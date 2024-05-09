@@ -10,9 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8684402386614163666}
   - component: {fileID: 2414563868521509038}
+  - component: {fileID: 2695667225463078014}
   m_Layer: 0
   m_Name: Shield
-  m_TagString: Shield
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -78,6 +79,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.45331192, y: 2.637062}
   m_EdgeRadius: 0
+--- !u!114 &2695667225463078014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1123660244103868958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 350b3d6a655318742bfe85608564b5aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1382890471579353318
 GameObject:
   m_ObjectHideFlags: 0
@@ -730,5 +743,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponDamage: 1
-  swordCollider: {fileID: 6557869855264477232}
+  objectCollider: {fileID: 0}
   playerController: {fileID: 1007802238217858497}
