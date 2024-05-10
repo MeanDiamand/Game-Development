@@ -1,12 +1,8 @@
 using System;
 using System.Collections.Generic;
-using System.Reflection;
 using TMPro;
 using UnityEngine;
-using UnityEngine.U2D;
-using UnityEngine.UIElements;
 using static Inventory;
-using static UnityEditor.Progress;
 
 public class UIInventory : MonoBehaviour
 {

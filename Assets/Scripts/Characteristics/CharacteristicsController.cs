@@ -1,6 +1,5 @@
 using UnityEngine;
 using static CharacteristicsUI;
-using static Inventory;
 
 public class CharacteristicsController : MonoBehaviour, IUIController
 {

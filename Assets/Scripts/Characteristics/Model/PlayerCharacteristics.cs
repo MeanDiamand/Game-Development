@@ -1,6 +1,5 @@
 using Newtonsoft.Json;
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
 using static CharacteristicsUI;
 
