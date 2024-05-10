@@ -22,7 +22,6 @@ public class Weapon : WearableItem
 
     [System.Serializable]
     [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
-    [CreateAssetMenu]
     public class Damage
     {
         [JsonProperty]
