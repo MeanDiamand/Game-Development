@@ -27,8 +27,17 @@ public class GameOverEvents : MonoBehaviour
         Time.timeScale = 1;
         //HealthController.health = 5;
         gameOverScreen.SetActive(false);
-        PlayerEvents.GetInstance().GameStarted();
-        SceneManager.LoadScene("InitializationScene", LoadSceneMode.Single);
+
+        int savedLevel = 1;
+        try
+        {
+            savedLevel = PlayerEvents.dataService.LoadData<int>("/scene_id");
+        }
+        catch
+        {
+        }
+
+        SceneManager.LoadScene(savedLevel, LoadSceneMode.Single);
     }
 
     // Method for going back to Menu
