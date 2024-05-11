@@ -2029,7 +2029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 113bdc3d5fa69fe4397f9408e1ff1dcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPersistent: 1
   musicSource: {fileID: 831663686}
   effectSource: {fileID: 956310109}
   background: {fileID: 8300000, guid: 0b7090179cdee3e499cfdb36bd55bcd5, type: 3}
@@ -7982,6 +7981,7 @@ MonoBehaviour:
   - {fileID: -8547001602510979987, guid: 710e8c280a6714f41927fb222d1e144d, type: 3}
   - {fileID: -1208701148, guid: 710e8c280a6714f41927fb222d1e144d, type: 3}
   spriteRenderer: {fileID: 1596080316}
+  playerController: {fileID: 0}
 --- !u!4 &1625642278
 Transform:
   m_ObjectHideFlags: 0

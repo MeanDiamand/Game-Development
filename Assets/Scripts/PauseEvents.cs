@@ -23,7 +23,7 @@ public class PauseEvents : MonoBehaviour
     // Method for saving the game
     public void SaveGame()
     {
-        PlayerEvents.GetInstance().Save();
+        PlayerEvents.GetInstance().Save(true);
     }
 
     // Method for going back to Menu
