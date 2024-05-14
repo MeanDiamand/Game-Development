@@ -156,16 +156,26 @@ public class PlayerController : DamagableCharacter
 
     private void MouseLook()
     {
-        Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        Vector2 direction = mousePosition - (Vector2)transform.position;
-        animator.SetFloat("moveX", direction.x);
-        animator.SetFloat("moveY", direction.y);
+        if (Camera.main != null)
+        {
+            Vector2 mousePosition = Input.mousePosition;
 
-        checkHitboxDirection(direction.x, direction.y);
+            if (mousePosition.x >= 0 && mousePosition.x <= Screen.width &&
+                mousePosition.y >= 0 && mousePosition.y <= Screen.height)
+            {
+                Vector2 worldMousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
 
+                Vector2 direction = worldMousePosition - (Vector2)transform.position;
 
+                animator.SetFloat("moveX", direction.x);
+                animator.SetFloat("moveY", direction.y);
+
+                checkHitboxDirection(direction.x, direction.y);
+            }
+        }
         FindAnyObjectByType<DamagableCharacter>();
     }
+
 
     private void checkHitboxDirection(float x, float y)
     {

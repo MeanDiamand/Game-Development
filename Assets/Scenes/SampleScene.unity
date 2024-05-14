@@ -45978,6 +45978,10 @@ PrefabInstance:
       propertyPath: m_Follow
       value: 
       objectReference: {fileID: 572966758}
+    - target: {fileID: 2096722267192210272, guid: 98ed409ed47b78643bc52c1e2364e9f2, type: 3}
+      propertyPath: m_BoundingShape2D
+      value: 
+      objectReference: {fileID: 2124616015}
     - target: {fileID: 4810018361153633277, guid: 98ed409ed47b78643bc52c1e2364e9f2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -59333,7 +59337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4954817210985133683, guid: 4e7b5550248cf694e84a16806df00725, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -8
+      value: -8.0000305
       objectReference: {fileID: 0}
     - target: {fileID: 6771065199201501416, guid: 4e7b5550248cf694e84a16806df00725, type: 3}
       propertyPath: m_AnchoredPosition.x
