@@ -32,7 +32,7 @@ public class SwitchLevel : MonoBehaviour
         if (collision.tag == "Player")
         {
             LoadScene();
-            PlayerEvents.GetInstance().Save();
+            PlayerEvents.GetInstance().Save(false);
         }
     }
 

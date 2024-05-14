@@ -1,8 +1,5 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditor.Progress;
-using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class ItemPUS : MonoBehaviour
 {

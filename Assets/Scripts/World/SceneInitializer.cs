@@ -1,11 +1,8 @@
 using Assets.Scripts;
 using Newtonsoft.Json;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using UnityEditorInternal;
 using UnityEngine;
-using static PlayerController;
 
 public class SceneInitializer : MonoBehaviour
 {
@@ -15,11 +12,13 @@ public class SceneInitializer : MonoBehaviour
     private List<DamagableCharacter> enemiesPrefabs;
     [SerializeField]
     private List<Vector2> enemiesSpawnCoordinates;
+    [SerializeField]
+    private Rigidbody2D player;
 
     private List<DamagableCharacter> enemies = new List<DamagableCharacter>();
 
-    [SerializeField]
-    private Vector2 playerSpawn;
+    //[SerializeField]
+    //private Vector2 playerSpawn;
 
     [SerializeField]
     private bool isCutScene;
@@ -117,9 +116,12 @@ public class SceneInitializer : MonoBehaviour
                 CreateEnemy(enemiesPrefabs[i], new Vector2(save.xCords[i], save.yCords[i]), save.heath[i]);
         }
         alive = save.alive;
+
+        if (player != null & save.savePlayerPos)
+            player.position = new Vector2(save.playerX, save.playerY);
     }
 
-    private void Save()
+    private void Save(bool savePlayerPos)
     {
         SceneSave save = new SceneSave();
         save.alive = alive;
@@ -128,14 +130,22 @@ public class SceneInitializer : MonoBehaviour
         save.heath = new float[n];
         save.xCords = new float[n];
         save.yCords = new float[n];
+
         for (int i = 0; i < n;i++)
         {
             save.heath[i] = enemies[i].Health;
 
             Vector2 coordinate = enemies[i].GetCoordinates();
             save.xCords[i] = coordinate.x;
-            save.yCords[i] = coordinate.y;   
+            save.yCords[i] = coordinate.y;
         }
+
+        if (player != null)
+        {
+            save.playerX = player.position.x;
+            save.playerY = player.position.y;
+        }
+        save.savePlayerPos = savePlayerPos;
 
         PlayerEvents.dataService.SaveData($"/scene_{sceneIndex}", save);
 
@@ -158,5 +168,12 @@ public class SceneInitializer : MonoBehaviour
 
         [JsonProperty]
         public float[] yCords;
+
+        [JsonProperty]
+        public bool savePlayerPos;
+        [JsonProperty]
+        public float playerX;
+        [JsonProperty]
+        public float playerY;
     }
 }

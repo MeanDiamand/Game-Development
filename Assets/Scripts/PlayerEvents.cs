@@ -4,10 +4,10 @@ public class PlayerEvents
 {
     private static PlayerEvents instance;
     public event Action<int> OnExperienceGained, OnHealed;
-    public event Action OnGameStart, OnSave;
+    public event Action OnGameStart;
     public event Action<Sprite[], int> OnArmourChanged;
     public event Action<Sprite[]> OnWeaponChanged;
-    public event Action<bool> OnShieldUse;
+    public event Action<bool> OnShieldUse, OnSave;
     public event Action<Vector2> OnTeleported;
 
     public static IDataService dataService = new JsonDataService("/test_save");
@@ -60,8 +60,8 @@ public class PlayerEvents
         OnTeleported?.Invoke(coordinates);
     }
 
-    public void Save() 
+    public void Save(bool savePlayerPos) 
     { 
-        OnSave?.Invoke();
+        OnSave?.Invoke(savePlayerPos);
     }
 }

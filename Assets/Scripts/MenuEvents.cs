@@ -22,6 +22,15 @@ public class MenuEvents : MonoBehaviour
     }
 
     /// <summary>                        
+    /// Method to exit the game
+    /// /// </summary>
+    public void ExitGame()
+    {
+        Debug.Log("Exiting game...");
+        Application.Quit();
+    }
+
+    /// <summary>                        
     /// Method for starting new game
     /// /// </summary>
     public void StartGame()

@@ -1,9 +1,9 @@
 using Assets.Scripts;
 using Newtonsoft.Json;
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using static PlayerController;
 
 // NOTE: The movement for this script uses the new InputSystem. The player needs to have a PlayerInput
 // component added and the Behaviour should be set to Send Messages so that the OnMove and OnFire methods
@@ -46,6 +46,7 @@ public class PlayerController : DamagableCharacter
     private UIController uiController;
 
     public static Transform transform;
+    private Vector2 newPos;
 
     [field: SerializeField]
     public static bool IsCutScene { get; set; }
@@ -252,7 +253,7 @@ public class PlayerController : DamagableCharacter
         return containers;
     }
 
-    public void SavePlayer()
+    public void SavePlayer(bool savePlayerPos)
     {
         Vector2 playerPosition = transform.position;
         PlayerSave playerSave = new PlayerSave()

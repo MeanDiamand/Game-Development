@@ -4819,6 +4819,11 @@ PrefabInstance:
       insertIndex: 6
       addedObject: {fileID: 572966752}
   m_SourcePrefab: {fileID: 100100000, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+--- !u!50 &319962388 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: -3208840804054114609, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
+  m_PrefabInstance: {fileID: 319962387}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &337704226 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 987872819266975130, guid: 4e7b5550248cf694e84a16806df00725, type: 3}
@@ -72857,6 +72862,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 319962388}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: isCutScene
       value: 0
