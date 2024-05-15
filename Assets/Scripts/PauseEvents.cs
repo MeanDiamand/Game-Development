@@ -6,8 +6,15 @@ using UnityEngine.SceneManagement;
 public class PauseEvents : MonoBehaviour
 {
     public GameObject pauseMenu;
-    // Method for pausing the game
-    public void PauseGame()
+    public void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            pauseMenu.SetActive(!pauseMenu.activeSelf);
+        }
+    }
+        // Method for pausing the game
+        public void PauseGame()
     {
         Time.timeScale = 0;
         pauseMenu.SetActive(true);
