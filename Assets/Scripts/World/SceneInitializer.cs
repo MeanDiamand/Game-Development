@@ -2,6 +2,7 @@ using Assets.Scripts;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class SceneInitializer : MonoBehaviour
@@ -22,6 +23,9 @@ public class SceneInitializer : MonoBehaviour
 
     [SerializeField]
     private bool isCutScene;
+
+    [SerializeField]
+    private SwitchLevel teleport;
 
     private bool[] alive;
 
@@ -47,22 +51,43 @@ public class SceneInitializer : MonoBehaviour
 
     private void HandleEnemyDestroyed(DamagableCharacter destroyedEnemy)
     {
-        int index = enemies.IndexOf(destroyedEnemy);
-        if (index < 0) Debug.LogError("DamagableCharacter is not in enemy list!");
-        enemies.RemoveAt(index);
-        alive[index] = false;
+        enemies.RemoveAt(enemies.IndexOf(destroyedEnemy));
+        alive[destroyedEnemy.Index] = false;
         destroyedEnemy.OnDestroyed -= HandleEnemyDestroyed;
+
+        string str = "";
+        foreach (bool b in alive)
+        {
+            if (b) str += "1";
+            else str += "0";
+        }
+        Debug.Log($"Alive: {alive.Count(b => b)} / {str} / {destroyedEnemy.Index}");
+        if (!isCutScene & alive.Count(b => b) == 0)
+            ShowTeleport();
     }
 
-    private void CreateEnemy(DamagableCharacter prefab, Vector2 coordinates, float health = -1)
+    private void ShowTeleport() 
+    {
+        if (teleport == null)
+        {
+            Debug.LogError("No teleport object!");
+            return;
+        }
+        teleport.Show();
+        Debug.Log("Teleport Appeared!");
+    }
+
+    private void CreateEnemy(DamagableCharacter prefab, Vector2 coordinates, int index = -1, float health = -1)
     {
         try
         {
             DamagableCharacter enemy = Instantiate(prefab, coordinates, Quaternion.identity);
             enemy.OnDestroyed += HandleEnemyDestroyed;
             if (health > 0)
-                //enemy.SetHealth(health);
                 enemy.Health = health;
+            if (index > 0)
+                enemy.Index = index;
+
             enemies.Add(enemy);
         }
         catch (Exception ex)
@@ -95,7 +120,7 @@ public class SceneInitializer : MonoBehaviour
         }
         for (int i = 0; i < enemiesPrefabs.Count; i++)
         {
-            CreateEnemy(enemiesPrefabs[i], enemiesSpawnCoordinates[i]);
+            CreateEnemy(enemiesPrefabs[i], enemiesSpawnCoordinates[i], i);
         }
 
         alive = new bool[enemiesPrefabs.Count];
@@ -113,7 +138,7 @@ public class SceneInitializer : MonoBehaviour
         for (int i = 0; i < save.alive.Length; i++)
         {
             if (save.alive[i])
-                CreateEnemy(enemiesPrefabs[i], new Vector2(save.xCords[i], save.yCords[i]), save.heath[i]);
+                CreateEnemy(enemiesPrefabs[i], new Vector2(save.xCords[i], save.yCords[i]), save.indixes[i], save.heath[i]);
         }
         alive = save.alive;
 
@@ -128,12 +153,16 @@ public class SceneInitializer : MonoBehaviour
         
         int n = enemies.Count;
         save.heath = new float[n];
+        save.indixes = new int[n];
         save.xCords = new float[n];
         save.yCords = new float[n];
 
         for (int i = 0; i < n;i++)
         {
+            //if (!alive[i]) continue;
+
             save.heath[i] = enemies[i].Health;
+            save.indixes[i] = enemies[i].Index;
 
             Vector2 coordinate = enemies[i].GetCoordinates();
             save.xCords[i] = coordinate.x;
@@ -162,6 +191,9 @@ public class SceneInitializer : MonoBehaviour
 
         [JsonProperty]
         public float[] heath;
+
+        [JsonProperty]
+        public int[] indixes;
 
         [JsonProperty]
         public float[] xCords;

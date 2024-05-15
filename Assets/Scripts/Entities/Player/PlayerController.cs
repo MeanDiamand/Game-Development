@@ -227,7 +227,7 @@ public class PlayerController : DamagableCharacter
 
         defence += characteristics.Endurance;
 
-        Debug.Log("Total defence amount of a player: " + defence);
+        //Debug.Log("Total defence amount of a player: " + defence);
         return defence;
     }
 
@@ -238,7 +238,7 @@ public class PlayerController : DamagableCharacter
         totalDamage -= GetDefence();
         if (totalDamage < 0) { totalDamage = 0f; }
 
-        Debug.Log("Total damage received by a player: " + totalDamage);
+        //Debug.Log("Total damage received by a player: " + totalDamage);
         return totalDamage; 
     }
 

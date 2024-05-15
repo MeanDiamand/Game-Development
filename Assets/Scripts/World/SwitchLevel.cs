@@ -6,17 +6,12 @@ public class SwitchLevel : MonoBehaviour
 {
     [SerializeField]
     public int newSceneId;
-    [SerializeField]
-    private bool isNewCutScene;
 
     [SerializeField]
     private bool autoSwitch;
 
     [SerializeField]
     private float switchDelay;
-
-    [SerializeField]
-    private Transform canvas;
 
     private void Start()
     {
@@ -25,6 +20,11 @@ public class SwitchLevel : MonoBehaviour
             Debug.Log($"Scene started. Waiting {switchDelay} seconds until new scene starts.");
             StartCoroutine(DelayedSceneLoad());
         }
+    }
+
+    public void Show()
+    {
+        gameObject.SetActive(true);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -47,7 +47,5 @@ public class SwitchLevel : MonoBehaviour
         yield return new WaitForSeconds(switchDelay);
 
         LoadScene();
-
-        canvas.gameObject.SetActive(!isNewCutScene);
     }
 }
