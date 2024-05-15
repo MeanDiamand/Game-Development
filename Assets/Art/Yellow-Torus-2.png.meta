@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 34589263da11b3648a4fbba3675da302
+guid: 3e6c3a79206591349a6e8467b4381726
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1710954937490193379
-    second: SeongMindControl3_0
+      213: 2020145121181725242
+    second: Yellow-Torus-2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +84,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Standalone
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SeongMindControl3_0
+      name: Yellow-Torus-2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 739
-        height: 484
+        x: 25
+        y: 21
+        width: 654
+        height: 655
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,8 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ebbdcb53788eb710800000000000000
-      internalID: 1710954937490193379
+      spriteID: a3276c6d84ff80c10800000000000000
+      internalID: 2020145121181725242
       vertices: []
       indices: 
       edges: []
@@ -196,7 +196,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SeongMindControl3_0: 1710954937490193379
+      Yellow-Torus-2_0: 2020145121181725242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

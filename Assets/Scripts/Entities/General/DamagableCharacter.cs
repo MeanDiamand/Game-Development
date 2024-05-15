@@ -27,6 +27,8 @@ namespace Assets.Scripts
 
         private float maxHealth = 5;
 
+        public int Index { get; set; }
+
         private float _health = 5;
         public float Health
         {
@@ -148,7 +150,7 @@ namespace Assets.Scripts
             float totalDamage = CalculateReceivedDamage(damage);
             Health -= totalDamage;
             counter += totalDamage;
-            Debug.Log("OnHit: " + rb  + " | " + knockDirection);
+            //Debug.Log("OnHit: " + rb  + " | " + knockDirection);
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
