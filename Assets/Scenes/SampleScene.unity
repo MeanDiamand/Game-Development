@@ -73075,7 +73075,7 @@ PrefabInstance:
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: teleport
       value: 
-      objectReference: {fileID: 457297429}
+      objectReference: {fileID: 1690495629}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: isCutScene
       value: 0
