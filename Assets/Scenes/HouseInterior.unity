@@ -8637,13 +8637,13 @@ MonoBehaviour:
   dialogueText: {fileID: 827677688}
   dialogues:
   - 'Lisa: Hello!!!'
-  - 'Black Knight: Hi!!!'
+  - 'Night Avenger: Hi!!!'
   - 'Lisa: Are you the Black Knight?'
-  - 'Black Knight: Yes, I am.'
+  - 'Night Avenger: Yes, I am.'
   - 'Lisa: Please save this Kingdom from those evil monsters.'
-  - 'Black Knight: Don''t worry! I will give everything I got.'
+  - 'Night Avenger: Don''t worry! I will give everything I got.'
   - 'Lisa: Be careful!!!'
-  - 'Black Knight: Yes, I will.'
+  - 'Night Avenger: Yes, I will.'
   writingSpeed: 0.01
   started: 0
 --- !u!1 &850728945
