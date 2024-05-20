@@ -744,17 +744,33 @@ MonoBehaviour:
   cutsceneid: 1
   dialogueText: {fileID: 202772684}
   dialogues:
-  - 'Maid: Lisa! Did you noticed something about Seong?'
-  - 'Lisa: Nope! What about him?'
-  - 'Maid: He was actually the Night Avenger.'
-  - 'Lisa: Oh my god! Really?'
+  - 'Maid: Lisa! Have you heard the tales swirling around the Knight Avenger?'
+  - "Lisa: Yes, just bits and pieces though. They say he appears only at night, seeking
+    justice where it\u2019s due."
+  - "Lisa: Do you think he\u2019s here to protect us? With all the unrest in the
+    lands beyond, maybe he\u2019s a good omen."
+  - "Maid: Well, as long as he\u2019s on our side. I hope if he is roaming our halls,
+    it\u2019s for a good reason. But let's keep this between us; we wouldn\u2019t
+    want to stir up more rumors."
   - 'Maid: Yeah But I don''t think he knew about that since every night he just sleep
     walking.'
-  - Seong just overheard everything.
-  - 'Seong: Am I really the Night Avenger? So that explained all of those bruises
-    that I had everytime I woke up.'
-  - Then, Seong just buries himself in the library trying to figure out what is wrong
-    with him?
+  - 'Lisa: Agreed. Best we stick to our tasks and let the shadows keep their secrets.'
+  - "I can\u2019t believe what I\u2019ve just heard\u2026 The Knight Avenger. But
+    those descriptions\u2026 the cloak, the sword. It matches the fleeting visions
+    I\u2019ve had in my dreams."
+  - "Could it be\u2026 that it\u2019s me? That I am this Knight Avenger while I sleep?
+    How can I not remember? How can I have such power and yet be completely unaware?"
+  - What kind of force controls me, compels me to act without my will? Is it a curse
+    or a destiny? What could it possibly want from me?
+  - "I need to go through the books in this library right now. The answers might
+    be here, hidden in those old texts. I must know the truth before it\u2019s too
+    late."
+  - Driven by a desperate need for answers, Seong buries himself in the depths of
+    the castle library, poring over forgotten texts and ancient manuscripts.
+  - For days, he forgets sleep, keeping his exhaustion and the growing darkness under
+    his eyes hidden from all.
+  - "An exorcist... There\u2019s a mention of an exorcist in the city who deals with
+    spirits and possessions. This might be my only chance."
   dialogueImages:
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
@@ -763,6 +779,11 @@ MonoBehaviour:
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
+  - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
+  - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
+  - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
+  - {fileID: -1636669226407873051, guid: 8a4d32d1d8aa3d24aa24cadc533f6e70, type: 3}
+  - {fileID: -1636669226407873051, guid: 8a4d32d1d8aa3d24aa24cadc533f6e70, type: 3}
   - {fileID: -1636669226407873051, guid: 8a4d32d1d8aa3d24aa24cadc533f6e70, type: 3}
   dialogueImage: {fileID: 703352632}
   writingSpeed: 0.01

@@ -26237,23 +26237,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: enemiesSpawnCoordinates.Array.data[0].x
-      value: -70
+      value: -100
       objectReference: {fileID: 0}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: enemiesSpawnCoordinates.Array.data[0].y
-      value: -8
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: enemiesSpawnCoordinates.Array.data[1].x
-      value: -70
+      value: -110
       objectReference: {fileID: 0}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: enemiesSpawnCoordinates.Array.data[1].y
-      value: -8
+      value: -15
       objectReference: {fileID: 0}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: enemiesSpawnCoordinates.Array.data[2].x
-      value: -70
+      value: -100
       objectReference: {fileID: 0}
     - target: {fileID: 6393916407454639869, guid: 15ad21d1ea514a041beab6ea136ee176, type: 3}
       propertyPath: enemiesSpawnCoordinates.Array.data[2].y
