@@ -752,8 +752,6 @@ MonoBehaviour:
   - "Maid: Well, as long as he\u2019s on our side. I hope if he is roaming our halls,
     it\u2019s for a good reason. But let's keep this between us; we wouldn\u2019t
     want to stir up more rumors."
-  - 'Maid: Yeah But I don''t think he knew about that since every night he just sleep
-    walking.'
   - 'Lisa: Agreed. Best we stick to our tasks and let the shadows keep their secrets.'
   - "I can\u2019t believe what I\u2019ve just heard\u2026 The Knight Avenger. But
     those descriptions\u2026 the cloak, the sword. It matches the fleeting visions
@@ -771,13 +769,54 @@ MonoBehaviour:
     his eyes hidden from all.
   - "An exorcist... There\u2019s a mention of an exorcist in the city who deals with
     spirits and possessions. This might be my only chance."
+  - I will find this exorcist and uncover the truth, no matter what it takes.
+  - So this is where my answers lie... I must find the exorcist quickly.
+  - "Seong: \u201CHere he is.\u201D"
+  - 'Exorcist: "Welcome, young noble. I sense a heavy burden upon you."'
+  - "Seong: \"I need your help. I\u2019ve discovered that a spirit controls me while
+    I sleep, turning me into the Knight Avenger. I need to stop this\u2014before
+    it\u2019s too late.\""
+  - 'Exorcist: "I have heard of such cases, though they are extremely rare. The bond
+    between you and this spirit is strong. But there is a way to block its influence."'
+  - 'Seong: "Please, tell me how."'
+  - "Exorcist: \"I can prepare a potion that will block the spirit\u2019s power,
+    preventing it from taking control of you while you sleep. However, you must understand\u2014if
+    you use your powers even once after taking the potion, the bond will be irrevocably
+    strengthened. There will be no turning back.\""
+  - 'Seong: "So if I use my powers again, the bond with the spirit will become even
+    stronger?"'
+  - "Exorcist: \"Yes. The spirit\u2019s hold on you will grow stronger, making it
+    much harder to break free. The choice is yours to make, young noble.\""
+  - 'Seong: "I understand. Prepare the potion. I will do everything in my power to
+    resist using those abilities."'
+  - 'Exorcist: "Very well. Stay strong, Seong. The path ahead will not be easy, but
+    you are not alone in this struggle."'
+  - Perhaps now, I can find some peace and clarity... at least for a moment.
+  - "Seong: \"No... this can\u2019t be happening. How is this even possible? These
+    people\u2026 they\u2019re being slaughtered.\""
+  - "Seong: \"I have the power to stop this. I could save them. But if I use my abilities...
+    the bond with the spirit will only grow stronger. I\u2019ll be even closer to
+    losing myself.\""
+  - "Seong: \"Can I really stand by and do nothing? Watch them all die because I\u2019m
+    afraid of what I might become? What kind of person would that make me?\""
+  - 'Seong: "Every fiber of my being wants to fight, to save them. But if I do...
+    there might be no turning back. The spirit''s hold on me will tighten, and I
+    may never be free.'
+  - 'Seong: "Do I sacrifice my future, my freedom, for the lives of these people?
+    Or do I stand by, paralyzed by fear, and let them perish?"'
+  - "Seong: \"No... not her. She\u2019s innocent, and so are the others. How can
+    I let them suffer when I have the power to make a difference?\u201D"
+  - "Seong: \"I can\u2019t let fear dictate my actions. These people need me now.
+    If I have the power to save them, how can I live with myself if I don\u2019t?\u201D"
+  - "Seong: \"I will not let them die. I will sacrifice myself to save their lives.
+    This is the path I choose.\u201D"
+  - "Seong: \" Forgive me, father. Forgive me, spirit. I cannot let them die.\u201D"
   dialogueImages:
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
-  - {fileID: -1698239724173011627, guid: 094df46a8a3ed9f478488cfadd9da59e, type: 3}
   - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
   - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
   - {fileID: 1609315661055259661, guid: 21e6b72589fc9eb43b63e0b9df2536b5, type: 3}
@@ -785,6 +824,28 @@ MonoBehaviour:
   - {fileID: -1636669226407873051, guid: 8a4d32d1d8aa3d24aa24cadc533f6e70, type: 3}
   - {fileID: -1636669226407873051, guid: 8a4d32d1d8aa3d24aa24cadc533f6e70, type: 3}
   - {fileID: -1636669226407873051, guid: 8a4d32d1d8aa3d24aa24cadc533f6e70, type: 3}
+  - {fileID: 7017146044002996071, guid: c24b8b74bc546d5409a31497c60948c0, type: 3}
+  - {fileID: 7678210692421145572, guid: 8f14f7eec9b8771489cfb3b8d8ad6f1b, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: -8224809462967600528, guid: 4c2e4f4d322b11f46a2fc586161b0528, type: 3}
+  - {fileID: 1306518317647583403, guid: 5bef9709f50997b4ba8c561915a30ef5, type: 3}
+  - {fileID: 5125236672778933543, guid: 19da2feff7b0b094f8832e963ee1ad3a, type: 3}
+  - {fileID: 5125236672778933543, guid: 19da2feff7b0b094f8832e963ee1ad3a, type: 3}
+  - {fileID: 5125236672778933543, guid: 19da2feff7b0b094f8832e963ee1ad3a, type: 3}
+  - {fileID: 5125236672778933543, guid: 19da2feff7b0b094f8832e963ee1ad3a, type: 3}
+  - {fileID: 5125236672778933543, guid: 19da2feff7b0b094f8832e963ee1ad3a, type: 3}
+  - {fileID: -1640611065613504653, guid: 69ce570614604494fa47d33b0501f9d5, type: 3}
+  - {fileID: -1640611065613504653, guid: 69ce570614604494fa47d33b0501f9d5, type: 3}
+  - {fileID: -1640611065613504653, guid: 69ce570614604494fa47d33b0501f9d5, type: 3}
+  - {fileID: -1640611065613504653, guid: 69ce570614604494fa47d33b0501f9d5, type: 3}
   dialogueImage: {fileID: 703352632}
   writingSpeed: 0.01
   started: 0

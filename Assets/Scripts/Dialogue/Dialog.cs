@@ -27,15 +27,10 @@ public class Dialog : MonoBehaviour
     private int charIndex;
 
     //started boolean
-    public Boolean started;
+    private Boolean started;
 
     //wait for next boolean
     private bool waitForNext;
-
-    public void ToggleWindow(bool show)
-    {
-        window.SetActive(show);
-    }
 
     //Start dialog
     public void StartDialog()
@@ -45,7 +40,7 @@ public class Dialog : MonoBehaviour
         //boolean to indicate that we have started
         started = true;
         //show the dialogbox
-        ToggleWindow(true);
+        window.SetActive(true);
         //start with first dialogue
         GetDialog(0);
     }
@@ -72,7 +67,7 @@ public class Dialog : MonoBehaviour
         //stop all Ienumerator
         StopAllCoroutines();
         //hide the dialogbox
-        ToggleWindow(false);
+        window.SetActive(false);
     }
 
     //writing
