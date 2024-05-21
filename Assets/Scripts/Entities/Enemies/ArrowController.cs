@@ -10,8 +10,6 @@ public class ArrowController : MonoBehaviour
     GameObject target;
     Rigidbody2D rb;
 
-
-
     // Start is called before the first frame update
     void Start()
     {

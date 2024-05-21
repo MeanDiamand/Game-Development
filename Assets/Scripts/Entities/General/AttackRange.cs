@@ -28,11 +28,4 @@ public class AttackRange : MonoBehaviour
             detectedObjects.Remove(collision);
         }
     }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

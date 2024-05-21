@@ -77,7 +77,6 @@ public class PlayerController : DamagableCharacter
 
         LoadPlayer();
 
-        // TO-DO: it' could be broken
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
@@ -108,7 +107,6 @@ public class PlayerController : DamagableCharacter
     // Returns true or false depending on if a move was executed
     public void Move(Vector2 direction)
     {
-        //rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
         rb.AddForce(input * GetPlayerSpeed() * Time.deltaTime);
         if(rb.velocity.magnitude > maxSpeed)
         {
@@ -177,8 +175,8 @@ public class PlayerController : DamagableCharacter
 
     private void checkHitboxDirection(float x, float y)
     {
-        bool right = x > 0 && (y < 1.5 && y > -1.5);
-        bool left = x < 0 && (y < 1.5 && y > -1.5);
+        bool right = x > 0 && (y < 4.5 && y > -4.5);
+        bool left = x < 0 && (y < 4.5 && y > -4.5);
         bool up = y > 0.5;
         bool down = y < -0.5;
 
@@ -200,18 +198,6 @@ public class PlayerController : DamagableCharacter
         }
     }
 
-    // Functions integrating Inventory and PlayerCharacteristics
-
-    public SpritesContainer GetSpriteOnPlayer(int index)
-    {
-        if (index < 0 || index > 6) throw new Exception("Index Out of range [0, 6]");
-        Inventory.InventorySlot slot = inventory.GetSlotAt(index);
-        if (!slot.IsEmpty)
-            return slot.item.GetSprite();
-        else
-            return null;
-    }
-
     public float GetDefence()
     {
         float defence = 0f;
@@ -229,7 +215,6 @@ public class PlayerController : DamagableCharacter
         return defence;
     }
 
-    // TODO: Nerf Endurance Perk
     public override float CalculateReceivedDamage(float damage) 
     { 
         float totalDamage = damage;
