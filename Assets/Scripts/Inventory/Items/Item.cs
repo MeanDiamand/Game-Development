@@ -52,7 +52,7 @@ public class Item : ScriptableObject
     {
         return Name;
     }
-    public virtual Weapon.Damage dealDamage()
+    public virtual Damage dealDamage()
     {
         return null;
     }

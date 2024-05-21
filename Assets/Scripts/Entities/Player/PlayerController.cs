@@ -1,5 +1,4 @@
 using Assets.Scripts;
-using Newtonsoft.Json;
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -202,13 +201,14 @@ public class PlayerController : DamagableCharacter
         }
     }
 
+
     public float GetDefence()
     {
         float defence = 0f;
 
         for (int i = 0; i < 4; i++)
         {
-            Inventory.InventorySlot slot = inventory.GetSlotAt(i);
+            InventorySlot slot = inventory.GetSlotAt(i);
             if (!slot.IsEmpty)
                 defence += slot.item.GetDefenceAmount();
         }
@@ -229,7 +229,7 @@ public class PlayerController : DamagableCharacter
         return totalDamage; 
     }
 
-    public Weapon.Damage GetDamage() {
+    public Damage GetDamage() {
         return inventory.GetDamage().NewMultiplied(1 + 0.1f * characteristics.Strength, DamageTypes.Physical).NewAdded(1 + 0.1f * characteristics.Intelligence, DamageTypes.Magical);
     }
 
@@ -279,20 +279,5 @@ public class PlayerController : DamagableCharacter
             Health = 5;
         }
   
-    }
-
-    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
-    public class PlayerSave
-    {
-        [JsonProperty]
-        public Inventory inventory;
-        [JsonProperty]
-        public PlayerCharacteristics characteristics;
-        [JsonProperty]
-        public float posX; 
-        [JsonProperty]
-        public float posY;
-        [JsonProperty]
-        public float health;
     }
 }
