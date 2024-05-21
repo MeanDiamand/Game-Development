@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Armour">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Armour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boots">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Boots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chestplate">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Chestplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helmet">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Helmet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAQAAgkAAEAAUAAAQAACAEAAAQBUAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leggins">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Leggins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Potion">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Potion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shield">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Shield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Weapon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="damage" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WearableItem">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAAEAAAAAAAAAAAABCAAAAAAIAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\WearableItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIBAAAAAgKgQIQAAAAAAAAigAAAgQAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Inventory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="weapon" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="slots" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="InventoryController" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQCAAAJAAAAAAAAAAEgIAAAAEAECAAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventoryController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="inventoryUI" />
+      <Field Name="inventoryModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QuickAccessBar">
+    <Position X="20.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQEAAAAAAAAAAEAAACAAAAIAAAAgI=</HashCode>
+      <FileName>Assets\Scripts\Inventory\QuickAccessBar.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="slots" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SpritesContainer">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAABAAEAAAAAIAAAgACAIAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\SpritesContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemPUS">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAEIAACAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\PickUpSystem\ItemPUS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="InventoryItem" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PickUpSystem">
+    <Position X="12.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\PickUpSystem\PickUpSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="inventoryData" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MouseFollower">
+    <Position X="20.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAAAAAAAAAAQAAAACAAAAABAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\UI\MouseFollower.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="item" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UIInventory">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAWAAAAEHABioRAQECABAAAAAAAEAwABQAAAADABEMA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\UI\UIInventory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="helmetSlot" />
+      <Field Name="chestplateSlot" />
+      <Field Name="legginsSlot" />
+      <Field Name="bootsSlot" />
+      <Field Name="weaponSlot" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="slots" />
+      <Field Name="quickAccessSlots" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UIInventorySlot">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABADABhAqAIACAAAABBEIACAAAgACAAAAAQQAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\UI\UIInventorySlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Damage">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAQIAAAAAAAAAACgAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\Damage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="InventorySlot">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAAAAAAAAAgAEAAQAAAAAAAAAAACAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventorySlot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="item" />
+    </ShowAsAssociation>
+  </Struct>
+  <Enum Name="DamageTypes">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAQAAABAAAAAAAgAAJAAAAIAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Items\DamageTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
