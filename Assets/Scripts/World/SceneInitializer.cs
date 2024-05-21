@@ -42,11 +42,18 @@ public class SceneInitializer : MonoBehaviour
         }
 
         Load();
+        TryShowTeleport();
     }
 
     private void OnDestroy()
     {
         PlayerEvents.GetInstance().OnSave -= Save;
+    }
+
+    private void TryShowTeleport()
+    {
+        if (!isCutScene & alive.Count(b => b) == 0)
+            ShowTeleport();
     }
 
     private void HandleEnemyDestroyed(DamagableCharacter destroyedEnemy)
@@ -62,8 +69,7 @@ public class SceneInitializer : MonoBehaviour
             else str += "0";
         }
         Debug.Log($"Alive: {alive.Count(b => b)} / {str} / {destroyedEnemy.Index}");
-        if (!isCutScene & alive.Count(b => b) == 0)
-            ShowTeleport();
+        TryShowTeleport();
     }
 
     private void ShowTeleport() 
