@@ -92,8 +92,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponDamage: 1
+  objectCollider: {fileID: 0}
   knockForce: 600
-  saberCollider: {fileID: 172697479298327958}
 --- !u!1 &439121864002494889
 GameObject:
   m_ObjectHideFlags: 0

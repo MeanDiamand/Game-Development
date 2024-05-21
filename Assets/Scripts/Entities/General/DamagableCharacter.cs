@@ -119,29 +119,6 @@ namespace Assets.Scripts
         {
             Health -= damage;
             statusBar.UpdateStatusBar(Health, maxHealth);
-            //switch (direction)
-            //{
-            //    //Hit from right
-            //    case 0:
-            //        animator.SetFloat("moveX", -1);
-            //        animator.SetFloat("moveY", 0);
-            //        break;
-            //    //Hit from left
-            //    case 1:
-            //        animator.SetFloat("moveX", 1);
-            //        animator.SetFloat("moveY", 0);
-            //        break;
-            //    //Hit from above
-            //    case 2:
-            //        animator.SetFloat("moveX", 0);
-            //        animator.SetFloat("moveY", -1);
-            //        break;
-            //    //Hit from below
-            //    case 3:
-            //        animator.SetFloat("moveX", 0);
-            //        animator.SetFloat("moveY", 1);
-            //        break; 
-            //}
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
@@ -150,7 +127,6 @@ namespace Assets.Scripts
             float totalDamage = CalculateReceivedDamage(damage);
             Health -= totalDamage;
             counter += totalDamage;
-            //Debug.Log("OnHit: " + rb  + " | " + knockDirection);
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 

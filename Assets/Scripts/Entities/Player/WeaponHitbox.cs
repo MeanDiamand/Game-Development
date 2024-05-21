@@ -13,7 +13,6 @@ public class WeaponHitbox : ObjectHitbox
         if (damagable != null)
         {
             Damage damage = playerController.GetDamage();
-            //Debug.Log("Damage: " + damage.Amount);
 
             Vector3 parentPos = gameObject.GetComponentInParent<Transform>().position;
             Vector2 direction = (Vector2)(collision.gameObject.transform.position - parentPos).normalized;
