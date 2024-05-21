@@ -10,25 +10,29 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : DamagableCharacter
 {
-    public float moveSpeed = 600f;
-    public float maxSpeed = 10f;
-    public float collisionOffset = 0.05f;
-    public float cooldown = 1;
-    public ContactFilter2D contactFilter;
-    public float attackRange = 0.5f;
-    public float idleFriction = 0.9f;
     public GameObject attackPoint;
 
-    private bool isShielding;
+    [SerializeField]
+    private float moveSpeed = 600f;
+    [SerializeField]
+    private float maxSpeed = 10f;
+    [SerializeField] 
+    private float collisionOffset = 0.05f;
+    [SerializeField] 
+    private float cooldown = 1;
+    public ContactFilter2D contactFilter;
+    [SerializeField] 
+    private float attackRange = 0.5f;
+    [SerializeField] 
+    private float idleFriction = 0.9f;
+
     private Vector2 input;
     private float lastHit;
 
-    private bool isMoving = false;
     private bool IsMoving
     {
         set
         {
-            isMoving = value;
             animator.SetBool("isMoving", value);
         }
     }
