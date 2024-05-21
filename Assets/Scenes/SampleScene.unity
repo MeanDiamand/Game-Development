@@ -59056,7 +59056,6 @@ MonoBehaviour:
   - 'Lisa: Be careful!!!'
   - 'Black Knight: Yes, I will.'
   writingSpeed: 0.01
-  started: 0
 --- !u!224 &1174273993 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6554036614810997424, guid: 5bbcaafce08be3e4da4c3a0569530f13, type: 3}
@@ -60720,7 +60719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efa0dfab189a7774a8321643254ca315, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newSceneId: 5
+  newSceneId: 4
   autoSwitch: 0
   switchDelay: 0
 --- !u!61 &1690495630

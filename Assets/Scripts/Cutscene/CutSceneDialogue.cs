@@ -13,7 +13,6 @@ public class CutSceneDialogue : MonoBehaviour
     public GameObject nextButton;
     public GameObject skipButton;
     public GameObject  next2Button;
-    public int cutsceneid;
 
     public TMP_Text dialogueText;
     public List<string> dialogues;
@@ -24,11 +23,6 @@ public class CutSceneDialogue : MonoBehaviour
     private int charIndex;
     public Boolean started;
     private bool waitForNext;
-
-    public void Start()
-    {
-        CutSceneEvent.retrieveSceneId(cutsceneid);
-    }
 
     public void StartDialogue()
     {
