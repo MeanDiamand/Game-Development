@@ -41843,7 +41843,6 @@ MonoBehaviour:
   - 'Lisa: Be careful!!!'
   - 'Black Knight: Yes, I will.'
   writingSpeed: 0.01
-  started: 0
 --- !u!1 &453289702
 GameObject:
   m_ObjectHideFlags: 0
@@ -48245,23 +48244,23 @@ PrefabInstance:
     - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: 'hearts.Array.data[0]'
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 472225822}
     - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: 'hearts.Array.data[1]'
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1870888035}
     - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: 'hearts.Array.data[2]'
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 659236357}
     - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: 'hearts.Array.data[3]'
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 407839553}
     - target: {fileID: 1535035437901162612, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: 'hearts.Array.data[4]'
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1987097779}
     - target: {fileID: 2926412571741634034, guid: d0f3050bdc18ae64e8f2b2adfbd1c4b5, type: 3}
       propertyPath: m_Radius
       value: 1.0242271
