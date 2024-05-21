@@ -8637,15 +8637,14 @@ MonoBehaviour:
   dialogueText: {fileID: 827677688}
   dialogues:
   - 'Lisa: Hello!!!'
-  - 'Black Knight: Hi!!!'
-  - 'Lisa: Are you the Black Knight?'
-  - 'Black Knight: Yes, I am.'
+  - 'Seong: Hi!!!'
+  - 'Lisa: After all the rumors were really truth about you being the Knight Avenger?'
+  - 'Seong: Yes, I guess I really am.'
   - 'Lisa: Please save this Kingdom from those evil monsters.'
-  - 'Black Knight: Don''t worry! I will give everything I got.'
+  - 'Seong: Don''t worry! I will give everything I got.'
   - 'Lisa: Be careful!!!'
-  - 'Black Knight: Yes, I will.'
+  - 'Seong: Yes, I will.'
   writingSpeed: 0.01
-  started: 0
 --- !u!1 &850728945
 GameObject:
   m_ObjectHideFlags: 0
@@ -28455,10 +28454,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newSceneId: 2
-  isNewCutScene: 0
   autoSwitch: 0
   switchDelay: 0
-  canvas: {fileID: 0}
 --- !u!61 &1802265503
 BoxCollider2D:
   m_ObjectHideFlags: 0

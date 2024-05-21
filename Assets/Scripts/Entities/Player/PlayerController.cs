@@ -3,7 +3,6 @@ using Newtonsoft.Json;
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using static PlayerController;
 
 // NOTE: The movement for this script uses the new InputSystem. The player needs to have a PlayerInput
 // component added and the Behaviour should be set to Send Messages so that the OnMove and OnFire methods
@@ -46,7 +45,6 @@ public class PlayerController : DamagableCharacter
     private UIController uiController;
 
     public static Transform transform;
-    private Vector2 newPos;
 
     [field: SerializeField]
     public static bool IsCutScene { get; set; }
@@ -156,16 +154,26 @@ public class PlayerController : DamagableCharacter
 
     private void MouseLook()
     {
-        Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        Vector2 direction = mousePosition - (Vector2)transform.position;
-        animator.SetFloat("moveX", direction.x);
-        animator.SetFloat("moveY", direction.y);
+        if (Camera.main != null)
+        {
+            Vector2 mousePosition = Input.mousePosition;
 
-        checkHitboxDirection(direction.x, direction.y);
+            if (mousePosition.x >= 0 && mousePosition.x <= Screen.width &&
+                mousePosition.y >= 0 && mousePosition.y <= Screen.height)
+            {
+                Vector2 worldMousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
 
+                Vector2 direction = worldMousePosition - (Vector2)transform.position;
 
+                animator.SetFloat("moveX", direction.x);
+                animator.SetFloat("moveY", direction.y);
+
+                checkHitboxDirection(direction.x, direction.y);
+            }
+        }
         FindAnyObjectByType<DamagableCharacter>();
     }
+
 
     private void checkHitboxDirection(float x, float y)
     {
@@ -199,7 +207,7 @@ public class PlayerController : DamagableCharacter
         if (index < 0 || index > 6) throw new Exception("Index Out of range [0, 6]");
         Inventory.InventorySlot slot = inventory.GetSlotAt(index);
         if (!slot.IsEmpty)
-            return new SpritesContainer(slot.item.GetSprite());
+            return slot.item.GetSprite();
         else
             return null;
     }
@@ -217,7 +225,7 @@ public class PlayerController : DamagableCharacter
 
         defence += characteristics.Endurance;
 
-        Debug.Log("Total defence amount of a player: " + defence);
+        //Debug.Log("Total defence amount of a player: " + defence);
         return defence;
     }
 
@@ -228,7 +236,7 @@ public class PlayerController : DamagableCharacter
         totalDamage -= GetDefence();
         if (totalDamage < 0) { totalDamage = 0f; }
 
-        Debug.Log("Total damage received by a player: " + totalDamage);
+        //Debug.Log("Total damage received by a player: " + totalDamage);
         return totalDamage; 
     }
 
@@ -247,7 +255,7 @@ public class PlayerController : DamagableCharacter
 
         for (int i = 0; i < 7; i++)
         {
-            containers[i] = new SpritesContainer(inventory.GetSlotAt(i).item?.GetSprite());
+            containers[i] = inventory.GetSlotAt(i).item?.GetSprite();
         }
 
         return containers;

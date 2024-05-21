@@ -51,15 +51,15 @@ public class SkinChanger : MonoBehaviour
         PlayerEvents.GetInstance().OnWeaponChanged -= WeaponChanged;
     }
 
-    private void ArmourChanged(Sprite[] sprites, int index)
+    private void ArmourChanged(SpritesContainer sprites, int index)
     {
-        upgrades[index] = new SpritesContainer(sprites);
+        upgrades[index] = sprites;
         GenerateSpriteSheet();
     }
 
-    private void WeaponChanged(Sprite[] sprites)
+    private void WeaponChanged(SpritesContainer sprites)
     {
-        sword = new SpritesContainer(sprites);
+        sword = sprites;
         GenerateSpriteSheet();
     }
 
@@ -83,13 +83,16 @@ public class SkinChanger : MonoBehaviour
                 }
             }
 
-            Sprite spriteSword = sword.GetByID(n);
+            Sprite spriteSword = sword?.GetByID(n);
+            bool isOverlayed = false;
+            if (sword != null)
+                isOverlayed = sword.isOverlayed(n);
 
             if (spriteSword != null)
                 if (n < THRESHHOLD)
-                    spriteSheet[n] = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites));
+                    spriteSheet[n] = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites), isOverlayed);
                 else
-                    spriteSheet[n] = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites), BIG_SPRITE_SIZE);
+                    spriteSheet[n] = CombineSprites(spriteSword, CombineSprites(bodySprite, overlaySprites), isOverlayed, BIG_SPRITE_SIZE);
             else
                 spriteSheet[n] = CombineSprites(bodySprite, overlaySprites);
         }
@@ -195,7 +198,7 @@ public class SkinChanger : MonoBehaviour
         return false;
     }
 
-    private Sprite CombineSprites(Sprite baseSprite, Sprite overlaySprite, int baseSize = SMALL_SPRITE_SIZE)
+    private Sprite CombineSprites(Sprite baseSprite, Sprite overlaySprite, bool order = true, int baseSize = SMALL_SPRITE_SIZE)
     {
         // Create a new texture with the size of the base sprite
         Texture2D combinedTexture = new Texture2D(baseSize, baseSize);
@@ -219,9 +222,15 @@ public class SkinChanger : MonoBehaviour
                 int baseIndex = (y + yOffset) * baseSize + (x + xOffset);
                 int overlayIndex = y * SMALL_SPRITE_SIZE + x;
 
-                if (overlayPixels[overlayIndex].a > 0)
+                if (!order)
                 {
-                    basePixels[baseIndex] = overlayPixels[overlayIndex];
+                    if (overlayPixels[overlayIndex].a > 0)
+                        basePixels[baseIndex] = overlayPixels[overlayIndex];
+                }
+                else
+                {
+                    if (basePixels[baseIndex].a <= 0)
+                        basePixels[baseIndex] = overlayPixels[overlayIndex];
                 }
             }
         }

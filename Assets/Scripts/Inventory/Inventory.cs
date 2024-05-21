@@ -111,7 +111,7 @@ public class Inventory : ScriptableObject
         slot.index = index;
         slots[index] = slot;
 
-        Sprite[] sprites = null;
+        SpritesContainer sprites = null;
         if (!slot.IsEmpty)
             sprites = slot.item.GetSprite();
         if (index >= 0 && index <= 3)
