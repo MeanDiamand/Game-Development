@@ -61,10 +61,10 @@ public class Inventory : ScriptableObject
         //PlayerEvents.GetInstance().WeaponChanged(null);
     }
 
-    public Weapon.Damage GetDamage()
+    public Damage GetDamage()
     {
         if (slots[4].IsEmpty)
-            return Weapon.Damage.HandDamage();
+            return Damage.HandDamage();
         Debug.Log(slots[4].item.Name);
         return slots[4].item.dealDamage();
     }
@@ -173,46 +173,5 @@ public class Inventory : ScriptableObject
         if (slots[5 + id].quantity <= 0)
             slots[5 + id] = InventorySlot.GetEmpty(slots[5 + id].index);
         OnInventoryUpdated?.Invoke(GetCurrentInventoryState());
-    }
-
-
-    [Serializable]
-    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
-    public struct InventorySlot
-    {
-        [JsonProperty]
-        public int index;
-        [JsonProperty]
-        public int quantity;
-        [JsonProperty]
-        public Item item;
-        public bool IsEmpty => item == null;
-
-        public InventorySlot ChangeQuantity(int newQuantity)
-        {
-            return new InventorySlot
-            {
-                index = this.index,
-                quantity = newQuantity,
-                item = this.item
-            };
-        }
-        /// <summary>
-        /// Shorthand for writing InventorySlot(null, 0)
-        /// </summary>
-        public static InventorySlot GetEmpty(int i)
-            => new InventorySlot
-            {
-                item = null,
-                quantity = 0,
-                index = i
-            };
-
-        public override string ToString()
-        {
-            if (item == null)
-                return "none";
-            return item.ToString() + " " + index;
-        }
     }
 }

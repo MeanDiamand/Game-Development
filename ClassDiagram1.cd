@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerController">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="PlayerController.CleanupDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Entities\Player\PlayerController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="PlayerController.PlayerSave" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Entities\Player\PlayerController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAwRAAAgEqgJAAQAB0AAIQgAQyAMAhECIVIBBCAAAEg=</HashCode>
+      <FileName>Assets\Scripts\Entities\Player\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

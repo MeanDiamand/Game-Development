@@ -1,5 +1,4 @@
 using Assets.Scripts;
-using Newtonsoft.Json;
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -205,7 +204,7 @@ public class PlayerController : DamagableCharacter
     public SpritesContainer GetSpriteOnPlayer(int index)
     {
         if (index < 0 || index > 6) throw new Exception("Index Out of range [0, 6]");
-        Inventory.InventorySlot slot = inventory.GetSlotAt(index);
+        InventorySlot slot = inventory.GetSlotAt(index);
         if (!slot.IsEmpty)
             return slot.item.GetSprite();
         else
@@ -218,7 +217,7 @@ public class PlayerController : DamagableCharacter
 
         for (int i = 0; i < 4; i++)
         {
-            Inventory.InventorySlot slot = inventory.GetSlotAt(i);
+            InventorySlot slot = inventory.GetSlotAt(i);
             if (!slot.IsEmpty)
                 defence += slot.item.GetDefenceAmount();
         }
@@ -240,7 +239,7 @@ public class PlayerController : DamagableCharacter
         return totalDamage; 
     }
 
-    public Weapon.Damage GetDamage() {
+    public Damage GetDamage() {
         return inventory.GetDamage().NewMultiplied(1 + 0.1f * characteristics.Strength, DamageTypes.Physical).NewAdded(1 + 0.1f * characteristics.Intelligence, DamageTypes.Magical);
     }
 
@@ -290,20 +289,5 @@ public class PlayerController : DamagableCharacter
             Health = 5;
         }
   
-    }
-
-    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
-    public class PlayerSave
-    {
-        [JsonProperty]
-        public Inventory inventory;
-        [JsonProperty]
-        public PlayerCharacteristics characteristics;
-        [JsonProperty]
-        public float posX; 
-        [JsonProperty]
-        public float posY;
-        [JsonProperty]
-        public float health;
     }
 }
