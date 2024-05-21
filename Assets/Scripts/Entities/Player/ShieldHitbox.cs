@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ShieldHitbox : MonoBehaviour
+public class ShieldHitbox : ObjectHitbox
 {
     protected Vector3 shieldFaceUp = new Vector3(-5.82f, 1f, 0);
     protected Vector3 shieldUpSize = new Vector3(5f, 0.12f, 0);
@@ -13,7 +13,7 @@ public class ShieldHitbox : MonoBehaviour
 
     protected Vector3 shieldFaceRight = new Vector3(0.1f, 0, 0);
     protected Vector3 shieldRightSize = new Vector3(1f, 1f, 0);
-    public void TurnLeft(bool left)
+    public override void TurnLeft(bool left)
     {
 
         if (left)
@@ -22,7 +22,7 @@ public class ShieldHitbox : MonoBehaviour
             gameObject.transform.localScale = shieldLeftSize;
         }
     }
-    public void TurnRight(bool right)
+    public override void TurnRight(bool right)
     {
         if (right)
         {
@@ -30,7 +30,7 @@ public class ShieldHitbox : MonoBehaviour
             gameObject.transform.localScale = shieldRightSize;
         }
     }
-    public void TurnUp(bool up)
+    public override void TurnUp(bool up)
     {
         if (up)
         {
@@ -38,7 +38,7 @@ public class ShieldHitbox : MonoBehaviour
             gameObject.transform.localScale = shieldUpSize;
         }
     }
-    public void TurnDown(bool down)
+    public override void TurnDown(bool down)
     {
         if (down)
         {

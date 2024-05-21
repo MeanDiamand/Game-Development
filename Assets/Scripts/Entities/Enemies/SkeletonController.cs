@@ -7,8 +7,11 @@ public class SkeletonController : MonoBehaviour
     public DetectionRange retreatRange;
     public GameObject arrow;
     public GameObject arrowParent;
-    public float moveSpeed = 500f;
-    public float startShootCooldown;
+
+    [SerializeField]
+    private float moveSpeed = 500f;
+    [SerializeField]
+    private float startShootCooldown;
 
     private float shootCooldown;
     private Rigidbody2D rb;

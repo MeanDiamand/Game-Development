@@ -1,16 +1,20 @@
+using Assets.Scripts;
 using UnityEngine;
 
 public class GoblinController : MonoBehaviour
 {
     public DetectionRange detectionRrange;
     public DetectionRange attackRrange;
-    public float moveSpeed = 500f;
-    public float cooldown = 1;
+
+    [SerializeField]
+    private float moveSpeed = 500f;
+    [SerializeField]
+    private float cooldown = 1;
 
     private Rigidbody2D rb;
     private Animator animator;
     private float lastHit;
-    AudioManager audioManager;
+    private AudioManager audioManager;
 
     private void Awake()
     {
