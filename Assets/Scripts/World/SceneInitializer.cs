@@ -18,9 +18,6 @@ public class SceneInitializer : MonoBehaviour
 
     private List<DamagableCharacter> enemies = new List<DamagableCharacter>();
 
-    //[SerializeField]
-    //private Vector2 playerSpawn;
-
     [SerializeField]
     private bool isCutScene;
 

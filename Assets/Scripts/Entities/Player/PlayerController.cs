@@ -3,7 +3,6 @@ using Newtonsoft.Json;
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using static PlayerController;
 
 // NOTE: The movement for this script uses the new InputSystem. The player needs to have a PlayerInput
 // component added and the Behaviour should be set to Send Messages so that the OnMove and OnFire methods
@@ -46,7 +45,6 @@ public class PlayerController : DamagableCharacter
     private UIController uiController;
 
     public static Transform transform;
-    private Vector2 newPos;
 
     [field: SerializeField]
     public static bool IsCutScene { get; set; }
@@ -209,7 +207,7 @@ public class PlayerController : DamagableCharacter
         if (index < 0 || index > 6) throw new Exception("Index Out of range [0, 6]");
         Inventory.InventorySlot slot = inventory.GetSlotAt(index);
         if (!slot.IsEmpty)
-            return new SpritesContainer(slot.item.GetSprite());
+            return slot.item.GetSprite();
         else
             return null;
     }
@@ -257,7 +255,7 @@ public class PlayerController : DamagableCharacter
 
         for (int i = 0; i < 7; i++)
         {
-            containers[i] = new SpritesContainer(inventory.GetSlotAt(i).item?.GetSprite());
+            containers[i] = inventory.GetSlotAt(i).item?.GetSprite();
         }
 
         return containers;

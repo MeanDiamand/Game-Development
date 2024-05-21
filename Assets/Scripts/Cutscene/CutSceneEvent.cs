@@ -6,7 +6,8 @@ public class CutSceneEvent : MonoBehaviour
 {
     public CutSceneDialogue DialogueScript;
     public static Boolean nextcs = false;
-    private static string scene = "";
+    [SerializeField]
+    private string scene;
 
     private void Awake()
     {
@@ -21,17 +22,5 @@ public class CutSceneEvent : MonoBehaviour
     public void nextDialogue()
     {
         nextcs = true;
-    }
-
-    public static void retrieveSceneId(int id)
-    {
-        if(id == 1)
-        {
-            scene = "SampleScene";
-        }
-        else if (id == 2)
-        {
-            scene = "";
-        }
     }
 }

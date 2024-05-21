@@ -5,8 +5,8 @@ public class PlayerEvents
     private static PlayerEvents instance;
     public event Action<int> OnExperienceGained, OnHealed;
     public event Action OnGameStart;
-    public event Action<Sprite[], int> OnArmourChanged;
-    public event Action<Sprite[]> OnWeaponChanged;
+    public event Action<SpritesContainer, int> OnArmourChanged;
+    public event Action<SpritesContainer> OnWeaponChanged;
     public event Action<bool> OnShieldUse, OnSave;
     public event Action<Vector2> OnTeleported;
 
@@ -26,12 +26,12 @@ public class PlayerEvents
         return instance;
     }
 
-    public void ArmourChanged(Sprite[] sprite, int index)
+    public void ArmourChanged(SpritesContainer sprite, int index)
     {
         OnArmourChanged?.Invoke(sprite, index);
     }
 
-    public void WeaponChanged(Sprite[] sprite)
+    public void WeaponChanged(SpritesContainer sprite)
     {
         OnWeaponChanged?.Invoke(sprite);
     }

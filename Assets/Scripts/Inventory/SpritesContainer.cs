@@ -18,9 +18,25 @@ public class SpritesContainer
         }
     }
 
+    private HashSet<int> overlayedSpritesIds;
+
+    public bool isOverlayed(int id)
+    {
+        Debug.Log($"isOverlayed: {overlayedSpritesIds}");
+        if (overlayedSpritesIds == null) return false;
+        return overlayedSpritesIds.Contains(id);
+    }
+
     public SpritesContainer(Sprite[] sprites)
     {
         Sprites = sprites;
+    }
+
+    public SpritesContainer(Sprite[] sprites, HashSet<int> overlayedSpritesIds)
+    {
+        Sprites = sprites;
+        Debug.Log($"SpritesContainer Constructor: {overlayedSpritesIds}");
+        this.overlayedSpritesIds = overlayedSpritesIds;
     }
 
     private void GenerateIdMap()

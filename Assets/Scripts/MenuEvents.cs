@@ -36,7 +36,7 @@ public class MenuEvents : MonoBehaviour
     public void StartGame()
     {
         PlayerEvents.dataService.DeleteFiles();
-        StartLevel(4);
+        StartLevel(3);
     }
 
     /// <summary>                        
