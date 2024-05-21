@@ -1,7 +1,7 @@
 using Assets.Scripts;
 using UnityEngine;
 
-public class GoblinController : DamagableCharacter
+public class GoblinController : MonoBehaviour
 {
     public DetectionRange detectionRrange;
     public DetectionRange attackRrange;
