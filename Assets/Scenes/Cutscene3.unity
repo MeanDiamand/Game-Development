@@ -500,7 +500,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueScript: {fileID: 640567958}
-  scene: 
+  nextScene: Corridor
 --- !u!1 &421156008
 GameObject:
   m_ObjectHideFlags: 0

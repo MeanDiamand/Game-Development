@@ -195,7 +195,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DreamersConquestLogo_0: -1766775701902210010
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
