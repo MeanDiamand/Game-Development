@@ -3,9 +3,10 @@ using UnityEngine;
 
 public class AttackRange : MonoBehaviour
 {
-    public string tagTarget = "Player";
     public List<Collider2D> detectedObjects = new List<Collider2D>();
     public Collider2D collider;
+
+    private string tagTarget = "Player";
 
     // Start is called before the first frame update
     void Start()
@@ -27,12 +28,5 @@ public class AttackRange : MonoBehaviour
         {
             detectedObjects.Remove(collision);
         }
-    }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

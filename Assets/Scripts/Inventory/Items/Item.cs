@@ -52,7 +52,7 @@ public class Item : ScriptableObject
     {
         return Name;
     }
-    public virtual Weapon.Damage dealDamage()
+    public virtual Damage dealDamage()
     {
         return null;
     }
@@ -65,7 +65,7 @@ public class Item : ScriptableObject
     {
         return "Item";
     }
-    public virtual Sprite[] GetSprite()
+    public virtual SpritesContainer GetSprite()
     {
         return null;
     }

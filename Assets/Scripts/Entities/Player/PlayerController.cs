@@ -1,9 +1,7 @@
 using Assets.Scripts;
-using Newtonsoft.Json;
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using static PlayerController;
 
 // NOTE: The movement for this script uses the new InputSystem. The player needs to have a PlayerInput
 // component added and the Behaviour should be set to Send Messages so that the OnMove and OnFire methods
@@ -11,25 +9,29 @@ using static PlayerController;
 
 public class PlayerController : DamagableCharacter
 {
-    public float moveSpeed = 600f;
-    public float maxSpeed = 10f;
-    public float collisionOffset = 0.05f;
-    public float cooldown = 1;
-    public ContactFilter2D contactFilter;
-    public float attackRange = 0.5f;
-    public float idleFriction = 0.9f;
     public GameObject attackPoint;
 
-    private bool isShielding;
+    [SerializeField]
+    private float moveSpeed = 600f;
+    [SerializeField]
+    private float maxSpeed = 10f;
+    [SerializeField] 
+    private float collisionOffset = 0.05f;
+    [SerializeField] 
+    private float cooldown = 1;
+    public ContactFilter2D contactFilter;
+    [SerializeField] 
+    private float attackRange = 0.5f;
+    [SerializeField] 
+    private float idleFriction = 0.9f;
+
     private Vector2 input;
     private float lastHit;
 
-    private bool isMoving = false;
     private bool IsMoving
     {
         set
         {
-            isMoving = value;
             animator.SetBool("isMoving", value);
         }
     }
@@ -46,7 +48,6 @@ public class PlayerController : DamagableCharacter
     private UIController uiController;
 
     public static Transform transform;
-    private Vector2 newPos;
 
     [field: SerializeField]
     public static bool IsCutScene { get; set; }
@@ -79,7 +80,6 @@ public class PlayerController : DamagableCharacter
 
         LoadPlayer();
 
-        // TO-DO: it' could be broken
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
@@ -110,7 +110,6 @@ public class PlayerController : DamagableCharacter
     // Returns true or false depending on if a move was executed
     public void Move(Vector2 direction)
     {
-        //rb.velocity = Vector2.ClampMagnitude(rb.velocity + (direction * moveSpeed * Time.deltaTime), maxSpeed);
         rb.AddForce(input * GetPlayerSpeed() * Time.deltaTime);
         if(rb.velocity.magnitude > maxSpeed)
         {
@@ -179,8 +178,8 @@ public class PlayerController : DamagableCharacter
 
     private void checkHitboxDirection(float x, float y)
     {
-        bool right = x > 0 && (y < 1.5 && y > -1.5);
-        bool left = x < 0 && (y < 1.5 && y > -1.5);
+        bool right = x > 0 && (y < 4.5 && y > -4.5);
+        bool left = x < 0 && (y < 4.5 && y > -4.5);
         bool up = y > 0.5;
         bool down = y < -0.5;
 
@@ -202,17 +201,6 @@ public class PlayerController : DamagableCharacter
         }
     }
 
-    // Functions integrating Inventory and PlayerCharacteristics
-
-    public SpritesContainer GetSpriteOnPlayer(int index)
-    {
-        if (index < 0 || index > 6) throw new Exception("Index Out of range [0, 6]");
-        Inventory.InventorySlot slot = inventory.GetSlotAt(index);
-        if (!slot.IsEmpty)
-            return new SpritesContainer(slot.item.GetSprite());
-        else
-            return null;
-    }
 
     public float GetDefence()
     {
@@ -220,29 +208,28 @@ public class PlayerController : DamagableCharacter
 
         for (int i = 0; i < 4; i++)
         {
-            Inventory.InventorySlot slot = inventory.GetSlotAt(i);
+            InventorySlot slot = inventory.GetSlotAt(i);
             if (!slot.IsEmpty)
                 defence += slot.item.GetDefenceAmount();
         }
 
         defence += characteristics.Endurance;
 
-        Debug.Log("Total defence amount of a player: " + defence);
+        //Debug.Log("Total defence amount of a player: " + defence);
         return defence;
     }
 
-    // TODO: Nerf Endurance Perk
     public override float CalculateReceivedDamage(float damage) 
     { 
         float totalDamage = damage;
         totalDamage -= GetDefence();
         if (totalDamage < 0) { totalDamage = 0f; }
 
-        Debug.Log("Total damage received by a player: " + totalDamage);
+        //Debug.Log("Total damage received by a player: " + totalDamage);
         return totalDamage; 
     }
 
-    public Weapon.Damage GetDamage() {
+    public Damage GetDamage() {
         return inventory.GetDamage().NewMultiplied(1 + 0.1f * characteristics.Strength, DamageTypes.Physical).NewAdded(1 + 0.1f * characteristics.Intelligence, DamageTypes.Magical);
     }
 
@@ -257,7 +244,7 @@ public class PlayerController : DamagableCharacter
 
         for (int i = 0; i < 7; i++)
         {
-            containers[i] = new SpritesContainer(inventory.GetSlotAt(i).item?.GetSprite());
+            containers[i] = inventory.GetSlotAt(i).item?.GetSprite();
         }
 
         return containers;
@@ -292,20 +279,5 @@ public class PlayerController : DamagableCharacter
             Health = 5;
         }
   
-    }
-
-    [JsonObject(MemberSerialization = MemberSerialization.OptIn)]
-    public class PlayerSave
-    {
-        [JsonProperty]
-        public Inventory inventory;
-        [JsonProperty]
-        public PlayerCharacteristics characteristics;
-        [JsonProperty]
-        public float posX; 
-        [JsonProperty]
-        public float posY;
-        [JsonProperty]
-        public float health;
     }
 }

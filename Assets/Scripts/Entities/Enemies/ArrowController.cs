@@ -7,16 +7,15 @@ public class ArrowController : MonoBehaviour
     public float arrowDamage = 1f;
     public float knockForce = 200f;
 
-    GameObject target;
-    Rigidbody2D rb;
-
-
+    private string tagTarget = "Player";
+    private GameObject target;
+    private Rigidbody2D rb;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        target = GameObject.FindGameObjectWithTag("Player");
+        target = GameObject.FindGameObjectWithTag(tagTarget);
 
         Vector2 direction = (target.transform.position - transform.position).normalized * speed;
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;

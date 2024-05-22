@@ -122,6 +122,8 @@ public class JsonDataService : IDataService
     {
         string path = Application.persistentDataPath + path_offset;
 
+        if (!Directory.Exists(path)) return;
+
         DirectoryInfo directory = new DirectoryInfo(path);
         FileInfo[] files = directory.GetFiles();
 

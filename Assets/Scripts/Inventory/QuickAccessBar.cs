@@ -24,7 +24,7 @@ public class QuickAccessBar : MonoBehaviour
     {
         for (int i = 0; i < 2; i++)
         {
-            Inventory.InventorySlot slot = inventory.GetSlotAt(5 + i);
+            InventorySlot slot = inventory.GetSlotAt(5 + i);
             if (slot.IsEmpty)
                 slots[i].ResetData();
             else

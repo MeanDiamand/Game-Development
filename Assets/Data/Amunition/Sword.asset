@@ -140,3 +140,4 @@ MonoBehaviour:
   - {fileID: -1331742176, guid: 1a4dbab64edcc374fb7684724552f124, type: 3}
   - {fileID: -1928184041, guid: 1a4dbab64edcc374fb7684724552f124, type: 3}
   - {fileID: 960225841, guid: 1a4dbab64edcc374fb7684724552f124, type: 3}
+  overlayedSpritesString: 79-87;185-190;191-196;197-202

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerCharacteristics">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAABACAAAEArCkAAAYJAAAFAAEBRAAAAAAEAQDA=</HashCode>
+      <FileName>Assets\Scripts\Characteristics\Model\PlayerCharacteristics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacteristicsBar">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAABgAAAAAAAAAAAAQIACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Characteristics\UI\CharacteristicsBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacteristicsUI">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="CharacteristicsUI.ValueAndID" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Characteristics\UI\CharacteristicsUI.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEDAAAQAEEAABAAAAAAAUAACAAAADAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Characteristics\UI\CharacteristicsUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="characteristicsBarList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CharacteristicsController" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASACgAACIAABAAAAAAAAAAAAAAAAAAAAAAAAAAQEA=</HashCode>
+      <FileName>Assets\Scripts\Characteristics\CharacteristicsController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="characteristicsUI" />
+      <Field Name="characteristicsModel" />
+      <Field Name="currentCharacteristics" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
