@@ -500,6 +500,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueScript: {fileID: 640567958}
+  nextScene: SampleScene
 --- !u!1 &421156008
 GameObject:
   m_ObjectHideFlags: 0
@@ -741,7 +742,6 @@ MonoBehaviour:
   nextButton: {fileID: 1827475168}
   skipButton: {fileID: 421156008}
   next2Button: {fileID: 1479124511}
-  cutsceneid: 1
   dialogueText: {fileID: 202772684}
   dialogues:
   - Seong wake up in his bedroom.

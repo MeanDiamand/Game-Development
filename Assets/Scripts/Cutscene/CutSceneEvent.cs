@@ -7,7 +7,7 @@ public class CutSceneEvent : MonoBehaviour
     public CutSceneDialogue DialogueScript;
     public static Boolean nextcs = false;
     [SerializeField]
-    private string scene;
+    private string nextScene;
 
     private void Awake()
     {
@@ -16,7 +16,7 @@ public class CutSceneEvent : MonoBehaviour
 
     public void skipDialogue()
     {
-        SceneManager.LoadScene(scene);
+        SceneManager.LoadScene(nextScene);
     }
 
     public void nextDialogue()
