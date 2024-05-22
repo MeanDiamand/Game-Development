@@ -30,12 +30,12 @@ public class SceneInitializer : MonoBehaviour
         PlayerController.IsCutScene = isCutScene;
         PlayerEvents.GetInstance().OnSave += Save;
 
-        GameObject canvas = GameObject.Find("MainCanvas");
-        if (canvas != null)
-        {
-            canvas.SetActive(!isCutScene);
-            Debug.Log($"MainCanvas visibility set to {!isCutScene}");
-        }
+        //GameObject canvas = GameObject.Find("MainCanvas");
+        //if (canvas != null)
+        //{
+        //    canvas.SetActive(!isCutScene);
+        //    Debug.Log($"MainCanvas visibility set to {!isCutScene}");
+        //}
 
         Load();
         TryShowTeleport();
@@ -111,6 +111,8 @@ public class SceneInitializer : MonoBehaviour
         {
             LoadDefault();
         }
+
+        PlayerEvents.dataService.SaveData("/scene_id", sceneIndex);
     }
 
     private void LoadDefault()
