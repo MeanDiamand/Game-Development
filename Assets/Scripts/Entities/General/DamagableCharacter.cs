@@ -55,7 +55,7 @@ namespace Assets.Scripts
                     rb.velocity = Vector2.zero;
                     rb.isKinematic = true;
                     IsHitable = false;
-                    if (counter >= 4.0)
+                    if (counter >= 4.0 && !isSimulated)
                     {
                         GameOverEvents.isGameOver = true;
                         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
