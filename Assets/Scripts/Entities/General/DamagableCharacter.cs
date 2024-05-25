@@ -22,7 +22,6 @@ namespace Assets.Scripts
         private Collider2D physicsCollider;
         private FloatingStatusBar statusBar;
         private bool isAlive = true;
-        private float counter = 0;
         protected AudioManager audioManager;
 
         private float maxHealth = 5;
@@ -55,7 +54,7 @@ namespace Assets.Scripts
                     rb.velocity = Vector2.zero;
                     rb.isKinematic = true;
                     IsHitable = false;
-                    if (counter >= 4.0 && !isSimulated)
+                    if (!isSimulated)
                     {
                         GameOverEvents.isGameOver = true;
                         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
@@ -126,14 +125,12 @@ namespace Assets.Scripts
         {
             float totalDamage = CalculateReceivedDamage(damage);
             Health -= totalDamage;
-            counter += totalDamage;
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
         public void OnHit(float damage)
         {
             Health -= damage;
-            counter += damage;
         }
 
         private void GameStarted()

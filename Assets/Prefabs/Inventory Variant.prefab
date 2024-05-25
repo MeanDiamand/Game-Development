@@ -237,6 +237,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2842023004236545241}
     - target: {fileID: 4416806884216534423, guid: 3a030c4e32b20dc45b35c91b2a80a6e7, type: 3}
+      propertyPath: CharacterIcon
+      value: 
+      objectReference: {fileID: 2122890673252187939}
+    - target: {fileID: 4416806884216534423, guid: 3a030c4e32b20dc45b35c91b2a80a6e7, type: 3}
       propertyPath: chestplateSlot
       value: 
       objectReference: {fileID: 85753403615241143}
@@ -618,6 +622,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 887d3eefc17710d4c806960eed1fe607, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2122890673252187939 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2015772518398914724, guid: 3a030c4e32b20dc45b35c91b2a80a6e7, type: 3}
+  m_PrefabInstance: {fileID: 472723742406397831}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &2842023004236545241 stripped
