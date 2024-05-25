@@ -90,15 +90,15 @@ public class PlayerCharacteristics : ScriptableObject
 
     public event Action<PlayerCharacteristics> OnUpdated;
 
-    public void Start()
+    private void OnEnable()
     {
         PlayerEvents.GetInstance().OnExperienceGained += GainExperience;
     }
 
-    //public PlayerCharacteristics()
-    //{
-    //    PlayerEvents.GetInstance().OnExperienceGained += GainExperience;
-    //}
+    private void OnDisable()
+    {
+        PlayerEvents.GetInstance().OnExperienceGained -= GainExperience;
+    }
 
     public static PlayerCharacteristics CreateFrom(PlayerCharacteristics original)
     {
