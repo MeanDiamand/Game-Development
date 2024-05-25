@@ -26,6 +26,7 @@ public class SkinChanger : MonoBehaviour
     private const int MAX_SPRITE_ID = 202;
     private const int THRESHHOLD = 179;
     private const int PPU = 16;
+    private const int IDLE_STATE_ID = 79;
     private static readonly string[] subfolders = { "Sprites/", "Sprites/Boots/", "Sprites/Chestplates/",
             "Sprites/Helmets/", "Sprites/Leggins/", "Sprites/Weapons/" };
 
@@ -96,6 +97,8 @@ public class SkinChanger : MonoBehaviour
             else
                 spriteSheet[n] = CombineSprites(bodySprite, overlaySprites);
         }
+
+        PlayerEvents.GetInstance().SkinChanged(spriteSheet[IDLE_STATE_ID]);
     }
 
     public void SkinChoice()

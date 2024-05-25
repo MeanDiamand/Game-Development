@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 using static Inventory;
 
 public class UIInventory : MonoBehaviour
@@ -33,6 +34,9 @@ public class UIInventory : MonoBehaviour
 
     [SerializeField]
     private TMP_Text descriptionText;
+
+    [SerializeField]
+    private Image CharacterIcon;
 
     public event Action<int> OnDescriptionRequested,
                 OnItemActionRequested,
@@ -73,7 +77,15 @@ public class UIInventory : MonoBehaviour
         }
 
         Hide();
+
+        PlayerEvents.GetInstance().OnSkinChanged += UpdateCharacterIcon;
     }
+
+    private void OnDestroy()
+    {
+        PlayerEvents.GetInstance().OnSkinChanged -= UpdateCharacterIcon;
+    }
+
     private void SlotAddListeners(UIInventorySlot slot)
     {
         slot.OnItemClicked += HandleItemSelection;
@@ -87,6 +99,8 @@ public class UIInventory : MonoBehaviour
         Hide();
         mouseFollower.Toggle(false);
     }
+    
+
 
     public void UpdateData(InventorySlot slot)
     {
@@ -99,6 +113,11 @@ public class UIInventory : MonoBehaviour
     public void UpdateDescription(string desc)
     {
         descriptionText.text = desc;
+    }
+
+    public void UpdateCharacterIcon(Sprite sprite)
+    {
+        CharacterIcon.sprite = sprite;
     }
 
     public void Show()

@@ -5,6 +5,7 @@ public class PlayerEvents
     private static PlayerEvents instance;
     public event Action<int> OnExperienceGained, OnHealed;
     public event Action OnGameStart;
+    public event Action<Sprite> OnSkinChanged;
     public event Action<SpritesContainer, int> OnArmourChanged;
     public event Action<SpritesContainer> OnWeaponChanged;
     public event Action<bool> OnShieldUse, OnSave;
@@ -24,6 +25,11 @@ public class PlayerEvents
             instance = new PlayerEvents();
         }
         return instance;
+    }
+
+    public void SkinChanged(Sprite sprite)
+    {
+        OnSkinChanged?.Invoke(sprite);
     }
 
     public void ArmourChanged(SpritesContainer sprite, int index)
