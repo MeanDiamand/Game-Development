@@ -125,6 +125,7 @@ namespace Assets.Scripts
         {
             float totalDamage = CalculateReceivedDamage(damage);
             Health -= totalDamage;
+            animator.SetTrigger("Hit");
             rb.AddForce(knockDirection, ForceMode2D.Impulse);
         }
 
