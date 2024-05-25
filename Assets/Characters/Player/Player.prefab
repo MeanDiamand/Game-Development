@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2695667225463078014}
   m_Layer: 0
   m_Name: Shield
-  m_TagString: Player
+  m_TagString: Shield
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -91,6 +91,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 350b3d6a655318742bfe85608564b5aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  weaponDamage: 1
+  objectCollider: {fileID: 0}
 --- !u!1 &1382890471579353318
 GameObject:
   m_ObjectHideFlags: 0
@@ -300,6 +302,7 @@ MonoBehaviour:
   itemPUSPrefab: {fileID: 0}
   EXP_FOR_KILL: 10
   isSimulated: 1
+  attackPoint: {fileID: 9049807826575470842}
   moveSpeed: 600
   maxSpeed: 8
   collisionOffset: 0.05
@@ -320,7 +323,6 @@ MonoBehaviour:
     maxNormalAngle: 0
   attackRange: 0.5
   idleFriction: 0.9
-  attackPoint: {fileID: 9049807826575470842}
   characteristics: {fileID: 0}
   inventory: {fileID: 0}
   skinChanger: {fileID: 8974573164587789772}
